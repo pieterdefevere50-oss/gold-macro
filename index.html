@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>XAU/USD Macro Driver Overview — live gold macro bias</title>
+<meta name="description" content="Data-driven macro bias for gold (XAU/USD): real yields, dollar, Fed path and classified news, updated automatically every 4 hours.">
+<meta property="og:title" content="XAU/USD Macro Driver Overview">
+<meta property="og:description" content="Data-driven macro bias for gold: real yields, dollar, Fed path and live news, auto-updated.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🪙</text></svg>">
+<style>
+  :root{
+    --bg:#0f1115; --card:#171a21; --card-border:#262b36; --text:#e8eaed; --text-dim:#9aa1ac;
+    --bull:#22c55e; --bull-bg:rgba(34,197,94,0.12);
+    --bear:#ef4444; --bear-bg:rgba(239,68,68,0.12);
+    --neutral:#eab308; --neutral-bg:rgba(234,179,8,0.12);
+    --accent:#d4af37; --radius:14px;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Inter",system-ui,Segoe UI,Roboto,sans-serif;
+    background:radial-gradient(circle at top, #171a21 0%, var(--bg) 60%);color:var(--text);padding:32px 16px 60px;}
+  .wrap{max-width:920px;margin:0 auto;}
+  header{margin-bottom:24px;}
+  .title-row{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap;}
+  h1{font-size:26px;margin:0 0 4px;letter-spacing:-0.01em;}
+  h1 span{color:var(--accent);}
+  .subtitle{color:var(--text-dim);font-size:13.5px;margin:0;}
+  .meta{font-size:12.5px;color:var(--text-dim);margin-top:6px;}
+  #refreshBtn{background:var(--accent);color:#1a1a1a;border:none;padding:10px 18px;border-radius:10px;
+    font-weight:600;font-size:13.5px;cursor:pointer;display:flex;align-items:center;gap:8px;
+    transition:transform .15s ease, box-shadow .15s ease;white-space:nowrap;}
+  #refreshBtn:hover{transform:translateY(-1px);box-shadow:0 6px 18px rgba(212,175,55,0.35);}
+  #refreshBtn.spinning svg{animation:spin 0.8s linear infinite;}
+  @keyframes spin{from{transform:rotate(0deg);}to{transform:rotate(360deg);}}
+  .price-strip{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin:18px 0 6px;}
+  .price-box{background:var(--card);border:1px solid var(--card-border);border-radius:12px;padding:12px 14px;}
+  .price-box .label{font-size:11px;color:var(--text-dim);text-transform:uppercase;letter-spacing:.04em;}
+  .price-box .value{font-size:18px;font-weight:700;margin-top:2px;}
+  .price-box .value.small{font-size:14px;font-weight:600;}
+  .summary{background:linear-gradient(135deg, rgba(212,175,55,0.08), rgba(212,175,55,0.02));
+    border:1px solid rgba(212,175,55,0.3);border-radius:var(--radius);padding:18px 20px;margin:20px 0 26px;}
+  .summary h2{margin:0 0 8px;font-size:15px;color:var(--accent);}
+  .bias-line{display:flex;align-items:center;gap:10px;font-size:15px;font-weight:700;margin-bottom:8px;flex-wrap:wrap;}
+  .bias-pill{padding:4px 12px;border-radius:20px;font-size:13px;font-weight:700;}
+  .bias-pill.bull{background:var(--bull-bg);color:var(--bull);}
+  .bias-pill.bear{background:var(--bear-bg);color:var(--bear);}
+  .bias-pill.neutral{background:var(--neutral-bg);color:var(--neutral);}
+  .summary p{margin:0;color:var(--text-dim);font-size:13.5px;line-height:1.5;}
+  .filters{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap;}
+  .filter-btn{background:var(--card);border:1px solid var(--card-border);color:var(--text-dim);padding:7px 14px;
+    border-radius:20px;font-size:12.5px;cursor:pointer;font-weight:600;transition:all .15s ease;}
+  .filter-btn.active{border-color:var(--accent);color:var(--accent);background:rgba(212,175,55,0.08);}
+  .legend{display:flex;gap:18px;flex-wrap:wrap;font-size:12px;color:var(--text-dim);margin-bottom:20px;
+    padding:10px 14px;background:var(--card);border:1px solid var(--card-border);border-radius:10px;}
+  .legend-item{display:flex;align-items:center;gap:6px;}
+  .dot{width:9px;height:9px;border-radius:50%;display:inline-block;}
+  .dot.bull{background:var(--bull);} .dot.bear{background:var(--bear);} .dot.neutral{background:var(--neutral);}
+  .stars{color:var(--accent);}
+  .card{background:var(--card);border:1px solid var(--card-border);border-radius:var(--radius);padding:18px 20px;
+    margin-bottom:14px;transition:transform .15s ease, border-color .15s ease, box-shadow .15s ease;
+    position:relative;overflow:hidden;}
+  .card:hover{transform:translateY(-2px);border-color:#3a3f4d;box-shadow:0 10px 30px rgba(0,0,0,0.35);}
+  .card::before{content:'';position:absolute;left:0;top:0;bottom:0;width:4px;}
+  .card.bull::before{background:var(--bull);} .card.bear::before{background:var(--bear);} .card.neutral::before{background:var(--neutral);}
+  .card-top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:8px;}
+  .card-title-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
+  .rank{font-size:11px;color:var(--text-dim);font-weight:700;background:#20242e;padding:2px 8px;border-radius:6px;}
+  .card h3{margin:0;font-size:16px;}
+  .tag{font-size:11.5px;font-weight:700;padding:4px 11px;border-radius:20px;white-space:nowrap;letter-spacing:.02em;}
+  .tag.bull{background:var(--bull-bg);color:var(--bull);} .tag.bear{background:var(--bear-bg);color:var(--bear);} .tag.neutral{background:var(--neutral-bg);color:var(--neutral);}
+  .card p{margin:6px 0 10px;color:var(--text-dim);font-size:13.5px;line-height:1.55;}
+  .card-footer{display:flex;justify-content:space-between;align-items:center;font-size:11.5px;color:var(--text-dim);flex-wrap:wrap;gap:6px;}
+  .impact{display:flex;align-items:center;gap:6px;}
+  .live-badge{display:inline-flex;align-items:center;gap:5px;font-size:10.5px;font-weight:700;color:#ff5b5b;text-transform:uppercase;letter-spacing:.04em;}
+  .live-badge .pulse{width:6px;height:6px;border-radius:50%;background:#ff5b5b;animation:pulse 1.4s infinite;}
+  @keyframes pulse{0%{opacity:1;}50%{opacity:.3;}100%{opacity:1;}}
+  .card-footer a{color:var(--text-dim);text-decoration:none;border-bottom:1px dotted var(--card-border);}
+  .card-footer a:hover{color:var(--accent);}
+  footer{margin-top:32px;text-align:center;color:var(--text-dim);font-size:11.5px;line-height:1.6;
+    border-top:1px solid var(--card-border);padding-top:18px;}
+
+  .price-box .delta{font-size:11.5px;margin-top:3px;font-weight:600;}
+  .price-box .delta.up{color:var(--bear);} .price-box .delta.down{color:var(--bull);} .price-box .delta.flat{color:var(--text-dim);}
+  .price-box .asof{font-size:10.5px;color:var(--text-dim);margin-top:2px;}
+  .banner{display:none;margin:14px 0 0;padding:10px 14px;border-radius:10px;font-size:12.5px;border:1px solid rgba(234,179,8,.4);background:var(--neutral-bg);color:var(--neutral);}
+  .banner.show{display:block;}
+  .gauge{position:relative;height:10px;border-radius:6px;margin:12px 0 4px;background:linear-gradient(90deg,var(--bear),#3a3f4d 50%,var(--bull));}
+  .gauge .needle{position:absolute;top:-4px;width:4px;height:18px;border-radius:2px;background:#fff;transform:translateX(-2px);box-shadow:0 0 6px rgba(0,0,0,.6);}
+  .gauge-labels{display:flex;justify-content:space-between;font-size:10.5px;color:var(--text-dim);}
+  .badge{display:inline-flex;align-items:center;gap:4px;font-size:10.5px;font-weight:700;padding:2px 8px;border-radius:6px;background:#20242e;color:var(--text-dim);letter-spacing:.03em;}
+  .badge.data{color:var(--accent);} .badge.stale{color:var(--neutral);} .badge.price{color:#8ab4f8;}
+  .charts{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;margin:0 0 26px;}
+  .chart-box{background:var(--card);border:1px solid var(--card-border);border-radius:var(--radius);padding:14px 16px;}
+  .chart-box h4{margin:0 0 8px;font-size:12px;color:var(--text-dim);text-transform:uppercase;letter-spacing:.04em;font-weight:600;}
+  .chart-box svg{width:100%;height:110px;display:block;}
+  .chart-empty{font-size:12.5px;color:var(--text-dim);padding:28px 4px;text-align:center;line-height:1.5;}
+  details.method{background:var(--card);border:1px solid var(--card-border);border-radius:var(--radius);padding:14px 18px;margin-top:26px;font-size:13px;color:var(--text-dim);line-height:1.6;}
+  details.method summary{cursor:pointer;font-weight:700;color:var(--text);}
+  details.method ul{margin:8px 0 0;padding-left:18px;} details.method li{margin-bottom:5px;}
+  .empty{padding:30px;text-align:center;color:var(--text-dim);font-size:13.5px;}
+  :focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
+  @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;}}
+  @media(max-width:600px){h1{font-size:22px;} .card-top{flex-direction:column;}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="title-row">
+      <div>
+        <h1><span>XAU</span>/USD Macro Driver Overview</h1>
+        <p class="subtitle">Ranked macroeconomic factors currently influencing gold, tagged bullish or bearish</p>
+        <p class="meta">Content generated: <span id="generatedAt">—</span> · Page checked: <span id="lastUpdated">—</span></p>
+      </div>
+      <button id="refreshBtn" onclick="refreshData()">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+          <path d="M23 4v6h-6M1 20v-6h6"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
+        </svg>
+        Refresh
+      </button>
+    </div>
+    <p class="meta" id="autoStatus">Backend refreshes this content automatically every 4 hours, even with no one viewing the page.</p>
+    <div class="banner" id="staleBanner" role="status"></div>
+
+    <div class="price-strip" id="priceStrip">
+      <div class="price-box"><div class="label">Gold Spot</div><div class="value" id="goldPrice">—</div><div class="asof" id="goldAsOf"></div></div>
+      <div class="price-box"><div class="label">10Y Real Yield</div><div class="value small" id="realYield">—</div><div class="delta" id="realYieldD"></div><div class="asof" id="realYieldA"></div></div>
+      <div class="price-box"><div class="label">10Y Treasury Yield</div><div class="value small" id="y10">—</div><div class="delta" id="y10D"></div><div class="asof" id="y10A"></div></div>
+      <div class="price-box"><div class="label">Broad Dollar Index</div><div class="value small" id="dollar">—</div><div class="delta" id="dollarD"></div><div class="asof" id="dollarA"></div></div>
+      <div class="price-box"><div class="label">Fed Funds Target</div><div class="value small" id="fedTarget">—</div><div class="asof" id="fedA"></div></div>
+    </div>
+  </header>
+
+  <div class="summary">
+    <h2>Net Macro Bias</h2>
+    <div class="bias-line" id="biasLine">—</div>
+    <div class="gauge" aria-hidden="true"><div class="needle" id="needle" style="left:50%"></div></div>
+    <div class="gauge-labels" aria-hidden="true"><span>Bearish −100</span><span>0</span><span>+100 Bullish</span></div>
+    <p style="margin-top:10px">Score = (bullish weight − bearish weight) ÷ total weight, over macro <em>drivers</em> only. Price-action headlines are shown but excluded, because price is the outcome, not the cause. See methodology below.</p>
+  </div>
+
+  <div class="charts" id="charts">
+    <div class="chart-box"><h4>Gold spot (per update)</h4><div id="chartGold"></div></div>
+    <div class="chart-box"><h4>Net macro bias score</h4><div id="chartBias"></div></div>
+  </div>
+
+  <div class="filters">
+    <button class="filter-btn active" data-filter="all" onclick="setFilter('all')">All Factors</button>
+    <button class="filter-btn" data-filter="bull" onclick="setFilter('bull')">Bullish Only</button>
+    <button class="filter-btn" data-filter="bear" onclick="setFilter('bear')">Bearish Only</button>
+    <button class="filter-btn" data-filter="neutral" onclick="setFilter('neutral')">Neutral / Mixed</button>
+  </div>
+
+  <div class="legend">
+    <span class="legend-item"><span class="dot bull"></span> Bullish for XAU/USD</span>
+    <span class="legend-item"><span class="dot bear"></span> Bearish for XAU/USD</span>
+    <span class="legend-item"><span class="dot neutral"></span> Neutral / Mixed</span>
+    <span class="legend-item"><span class="stars">★★★★★</span> = Impact weight</span>
+    <span class="legend-item"><span class="live-badge"><span class="pulse"></span>Live</span> = auto-detected news, not hand-written</span>
+  </div>
+
+  <div id="cardList"></div>
+
+  <details class="method">
+    <summary>Methodology, data sources &amp; limits</summary>
+    <ul>
+      <li><b>Data-driven factors</b> (real yields, dollar, Fed path) are computed each run from FRED series: DFII10 (10Y TIPS yield), DTWEXBGS (Fed broad dollar index — not the ICE DXY), DGS2, DFF, DFEDTARL/U.</li>
+      <li><b>Thresholds:</b> real yield ±10bp over 4 weeks; dollar ±1% over 4 weeks; Fed path = 2Y yield vs fed funds ±25bp (above ⇒ market pricing hikes, below ⇒ pricing cuts).</li>
+      <li><b>Impact weights (1–5):</b> real yields 5, Fed path 5, dollar 4, central-bank buying 4, fiscal 3, geopolitics 3, live news 2 (3 if ≥3 outlets carry the story).</li>
+      <li><b>Manual factors</b> (central banks, fiscal, geopolitics) have no free keyless data feed; they are hand-written and show a review date. ETF flows and futures positioning are not included.</li>
+      <li><b>Live news</b> comes from Google News RSS, classified by direction-aware rules (e.g. "yields rise" ≠ "yields fall"), with duplicate stories merged. It can still mis-tag; always check the source.</li>
+      <li><b>Track record:</b> every update appends the gold price and bias score to history, so you can see whether the bias has led price. It is a summary of drivers, not a forecast.</li>
+    </ul>
+  </details>
+
+  <footer>
+    Informational overview only — not financial advice. Structural factors are evergreen commentary; "Live" items are
+    auto-classified from recent headlines by direction-aware rules and can still mis-tag — verify against the linked
+    source before treating anything here as a firm signal.<br>
+    Content regenerated automatically on a schedule by a GitHub Actions job — no manual editing required.
+  </footer>
+</div>
+
+<script>
+let currentFilter = "all";
+let dataset = { evergreen: [], live: [], generatedAt: null, bias: null, market: {} };
+let history = [];
+
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safeUrl = (u) => (/^https?:\/\//i.test(u || "") ? u : null);
+const starString = (n) => "★★★★★".slice(0, n) + "☆☆☆☆☆".slice(0, 5 - n);
+const tagLabel = (s) => (s === "bull" ? "Bullish" : s === "bear" ? "Bearish" : "Neutral");
+
+function ago(iso) {
+  const t = new Date(iso).getTime(); if (!Number.isFinite(t)) return "";
+  const m = Math.max(0, Math.round((Date.now() - t) / 60000));
+  if (m < 60) return m + "m ago"; const h = Math.round(m / 60); return h < 48 ? h + "h ago" : Math.round(h / 24) + "d ago";
+}
+
+function setDelta(id, change, unit, digits) {
+  const el = $(id); if (!el) return;
+  if (change == null || !Number.isFinite(change)) { el.textContent = ""; return; }
+  const cls = Math.abs(change) < (unit === "%" ? 0.05 : 0.005) ? "flat" : change > 0 ? "up" : "down";
+  el.className = "delta " + cls;
+  el.textContent = (change > 0 ? "▲ +" : change < 0 ? "▼ " : "• ") + change.toFixed(digits) + unit + " · 4 wk";
+}
+
+function renderMarket() {
+  const m = dataset.market || {};
+  if (m.gold && !$("goldPrice").dataset.live) $("goldPrice").textContent = "$" + Number(m.gold.price).toLocaleString(undefined, { maximumFractionDigits: 0 });
+  if (m.gold) $("goldAsOf").textContent = $("goldPrice").dataset.live ? "live" : "at last update";
+  if (m.realYield10) { $("realYield").textContent = m.realYield10.value.toFixed(2) + "%"; setDelta("realYieldD", m.realYield10.change, "pp", 2); $("realYieldA").textContent = "as of " + m.realYield10.asOf; }
+  if (m.y10) { $("y10").textContent = m.y10.value.toFixed(2) + "%"; setDelta("y10D", m.y10.change, "pp", 2); $("y10A").textContent = "as of " + m.y10.asOf; }
+  if (m.dollar) { $("dollar").textContent = m.dollar.value.toFixed(1); setDelta("dollarD", m.dollar.changePct, "%", 1); $("dollarA").textContent = "as of " + m.dollar.asOf; }
+  if (m.fedTarget) { $("fedTarget").textContent = m.fedTarget.low.toFixed(2) + "%–" + m.fedTarget.high.toFixed(2) + "%"; $("fedA").textContent = "as of " + m.fedTarget.asOf; }
+}
+
+function renderBias() {
+  const b = dataset.bias;
+  if (!b) { $("biasLine").textContent = "—"; return; }
+  const cls = b.label === "Bullish" ? "bull" : b.label === "Bearish" ? "bear" : "neutral";
+  $("biasLine").innerHTML = `<span class="bias-pill ${cls}">${esc(b.label)}</span>
+    <span style="color:var(--text-dim);font-weight:400;font-size:13px;">score ${b.score > 0 ? "+" : ""}${b.score} · bullish weight ${b.bullWeight} vs bearish ${b.bearWeight} · ${b.driversCounted} drivers counted</span>`;
+  $("needle").style.left = (50 + b.score / 2) + "%";
+}
+
+function cardHTML(f, i) {
+  const badges = [];
+  if (f.kind === "price") badges.push('<span class="badge price">PRICE ACTION · not in bias</span>');
+  if (f.dataDriven) badges.push('<span class="badge data">DATA-DRIVEN</span>');
+  if (f.manual) badges.push(`<span class="badge">STRUCTURAL · reviewed ${esc(f.reviewed)}</span>`);
+  if (f.stale) badges.push('<span class="badge stale">STALE · source unavailable, showing last reading</span>');
+  const link = safeUrl(f.link);
+  const liveBit = f.isLive
+    ? `<span class="live-badge"><span class="pulse"></span>Live</span>${f.source ? " · " + esc(f.source) : ""}${f.coverage > 1 ? " · +" + (f.coverage - 1) + " more outlet" + (f.coverage > 2 ? "s" : "") : ""}${f.pubDate ? " · " + esc(ago(f.pubDate)) : ""}${link ? ` · <a href="${esc(link)}" target="_blank" rel="noopener noreferrer">source</a>` : ""}`
+    : (f.asOf ? `<span>data as of ${esc(f.asOf)}</span>` : "");
+  return `<div class="card ${esc(f.sentiment)}">
+    <div class="card-top">
+      <div class="card-title-row"><span class="rank">#${i + 1}</span><h3>${esc(f.title)}</h3></div>
+      <span class="tag ${esc(f.sentiment)}">${tagLabel(f.sentiment)}</span>
+    </div>
+    ${badges.length ? `<div style="margin:2px 0 6px;display:flex;gap:6px;flex-wrap:wrap">${badges.join("")}</div>` : ""}
+    <p>${esc(f.text)}</p>
+    <div class="card-footer"><span class="impact"><span class="stars">${starString(f.impact)}</span> Impact</span><span>${liveBit}</span></div>
+  </div>`;
+}
+
+function render() {
+  renderMarket(); renderBias();
+  const combined = [...dataset.evergreen, ...dataset.live].sort((a, b) => (a.kind === "price") - (b.kind === "price") || b.impact - a.impact);
+  const filtered = currentFilter === "all" ? combined : combined.filter((f) => f.sentiment === currentFilter);
+  $("cardList").innerHTML = filtered.length ? filtered.map(cardHTML).join("") : '<div class="empty">No factors in this category right now.</div>';
+  renderStale(); renderCharts();
+}
+
+function renderStale() {
+  const b = $("staleBanner"); const t = new Date(dataset.generatedAt).getTime();
+  if (Number.isFinite(t) && Date.now() - t > 9 * 3600e3) {
+    b.textContent = `⚠ Data may be out of date — last successful update was ${ago(dataset.generatedAt)}. The scheduled job normally runs every 4 hours.`; b.classList.add("show");
+  } else if ((dataset.errors || []).length) {
+    b.textContent = `Some data sources were unavailable on the last update (${dataset.errors.length}); affected items are marked STALE.`; b.classList.add("show");
+  } else b.classList.remove("show");
+}
+
+function lineChart(points, opts) {
+  const pts = points.filter((p) => p.y != null);
+  if (pts.length < 2) return `<div class="chart-empty">History builds automatically with every update (${pts.length} of 2 points so far).<br>Check back after the next few runs.</div>`;
+  const W = 400, H = 110, pad = 6;
+  const xs = pts.map((p) => p.x), ys = pts.map((p) => p.y);
+  const x0 = Math.min(...xs), x1 = Math.max(...xs);
+  let y0 = opts.fixed ? opts.fixed[0] : Math.min(...ys), y1 = opts.fixed ? opts.fixed[1] : Math.max(...ys);
+  if (y0 === y1) { y0 -= 1; y1 += 1; }
+  const X = (x) => pad + ((x - x0) / (x1 - x0 || 1)) * (W - 2 * pad), Y = (y) => H - pad - ((y - y0) / (y1 - y0)) * (H - 2 * pad);
+  const d = pts.map((p, i) => (i ? "L" : "M") + X(p.x).toFixed(1) + " " + Y(p.y).toFixed(1)).join(" ");
+  const zero = opts.zero && y0 < 0 && y1 > 0 ? `<line x1="0" x2="${W}" y1="${Y(0)}" y2="${Y(0)}" stroke="#3a3f4d" stroke-dasharray="3 3"/>` : "";
+  const last = pts[pts.length - 1];
+  return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="${esc(opts.label)}">${zero}
+    <path d="${d}" fill="none" stroke="${opts.color}" stroke-width="2" vector-effect="non-scaling-stroke"/>
+    <circle cx="${X(last.x)}" cy="${Y(last.y)}" r="3" fill="${opts.color}"/></svg>
+    <div style="display:flex;justify-content:space-between;font-size:10.5px;color:var(--text-dim);margin-top:4px">
+      <span>${opts.fmt(Math.min(...ys))} – ${opts.fmt(Math.max(...ys))}</span><span>latest ${opts.fmt(last.y)} · ${pts.length} pts</span></div>`;
+}
+function renderCharts() {
+  const h = history.map((r) => ({ x: new Date(r.t).getTime(), gold: r.gold, score: r.score }));
+  $("chartGold").innerHTML = lineChart(h.map((r) => ({ x: r.x, y: r.gold })), { color: "#d4af37", label: "Gold spot history", fmt: (v) => "$" + Math.round(v).toLocaleString() });
+  $("chartBias").innerHTML = lineChart(h.map((r) => ({ x: r.x, y: r.score })), { color: "#22c55e", label: "Net macro bias score history", fixed: [-100, 100], zero: true, fmt: (v) => (v > 0 ? "+" : "") + Math.round(v) });
+}
+
+function setFilter(f) {
+  currentFilter = f;
+  document.querySelectorAll(".filter-btn").forEach((b) => b.classList.toggle("active", b.dataset.filter === f));
+  render();
+}
+function stampChecked() { $("lastUpdated").textContent = new Date().toLocaleString(undefined, { hour: "2-digit", minute: "2-digit" }); }
+
+async function loadFactors() {
+  try {
+    const res = await fetch(`./factors.json?t=${Date.now()}`, { cache: "no-store" });
+    if (!res.ok) throw new Error("bad response");
+    dataset = await res.json();
+    $("generatedAt").textContent = dataset.generatedAt
+      ? new Date(dataset.generatedAt).toLocaleString(undefined, { weekday: "short", month: "short", day: "numeric", hour: "2-digit", minute: "2-digit" }) + " (" + ago(dataset.generatedAt) + ")"
+      : "not yet generated";
+  } catch (e) {
+    $("autoStatus").textContent = "Could not load factors.json — check that it's deployed alongside index.html.";
+  }
+}
+async function loadHistory() {
+  try { const r = await fetch(`./history.json?t=${Date.now()}`, { cache: "no-store" }); if (r.ok) history = await r.json(); } catch (e) { /* chart shows empty state */ }
+}
+async function tryLivePrice() {
+  try {
+    const res = await fetch("https://api.gold-api.com/price/XAU", { cache: "no-store" });
+    if (!res.ok) throw new Error("bad response");
+    const data = await res.json();
+    if (data && data.price) {
+      $("goldPrice").textContent = "$" + Number(data.price).toLocaleString(undefined, { maximumFractionDigits: 0 });
+      $("goldPrice").dataset.live = "1";
+    }
+  } catch (e) { /* falls back to the price stored at last update */ }
+}
+async function refreshData() {
+  const btn = $("refreshBtn"); btn.classList.add("spinning");
+  await Promise.all([loadFactors(), loadHistory(), tryLivePrice()]);
+  stampChecked(); render();
+  setTimeout(() => btn.classList.remove("spinning"), 600);
+}
+refreshData();
+setInterval(refreshData, 10 * 60 * 1000);
+</script>
+</body>
+</html>
