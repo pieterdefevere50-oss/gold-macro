@@ -1,25 +1,25 @@
 {
   "schema": 2,
-  "generatedAt": "2026-09-29T16:17:16.096Z",
+  "generatedAt": "2026-09-29T20:16:37.811Z",
   "bias": {
-    "score": -62,
+    "score": -58,
     "label": "Bearish",
     "bullWeight": 7,
-    "bearWeight": 30,
-    "driversCounted": 13
+    "bearWeight": 26,
+    "driversCounted": 11
   },
   "market": {
     "gold": {
-      "price": 4152.600098,
-      "asOf": "2026-09-29T16:17:15.509Z"
+      "price": 4173,
+      "asOf": "2026-09-29T20:16:37.246Z"
     },
     "realYield10": {
-      "value": 2.83,
-      "asOf": "2026-09-25",
-      "prior": 2.42,
-      "priorDate": "2026-08-28",
-      "change": 0.41000000000000014,
-      "changePct": 16.942148760330586
+      "value": 2.9,
+      "asOf": "2026-09-28",
+      "prior": 2.44,
+      "priorDate": "2026-08-31",
+      "change": 0.45999999999999996,
+      "changePct": 18.852459016393443
     },
     "y10": {
       "value": 5.17,
@@ -67,8 +67,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-09-25",
-      "text": "10Y real yield is 2.83%, up 41bp over 4 weeks (as of 2026-09-25): rising real yields raise the opportunity cost of holding non-yielding gold — bearish. Real yields are the most direct macro driver of gold."
+      "asOf": "2026-09-28",
+      "text": "10Y real yield is 2.90%, up 46bp over 4 weeks (as of 2026-09-28): rising real yields raise the opportunity cost of holding non-yielding gold — bearish. Real yields are the most direct macro driver of gold."
     },
     {
       "key": "dollar",
@@ -127,10 +127,22 @@
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkJEQ1paQ1RWNGhOV1hmMEMxZFA4R0tfT3phbTZXcWpSY2FreW5CaXY2QWx6UTdqNkthRVVEcXNtRFRDWHVDV01OWHhUTkI4eGFBV25sVktEQ2dRNkxoLWlwN21XLXhpZk8wSjdQaHFFVXh2SHBMLWZFWEZueTFYczIwYnMxdXF3VzVYLVdWM1J3dEszdWhid2ZTYXptWG9ENWhSY2tGUnZScDZW?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 11:32:00 GMT",
-      "source": "WSJ",
+      "pubDate": "Mon, 28 Sep 2026 11:34:30 GMT",
+      "source": "wsj.com",
       "isLive": true,
       "coverage": 2
+    },
+    {
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound Despite Strong Dollar",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWWxwdjJVTDdyVmljbmhGTnpwc0tkMTd5dW9zVDZIUUZST1FqYXVPQ2M1bS1IMng0WDdoMmJ1bWJ6LURhaDF1aXRpQ1FkYlNvdmUwdHhLazU2eU1xOWh2ZUhwa2F3cWpzVGc1ZTRqT1BTMGJ0ZGk5ZWRHVHR0X3p5VjFmS1FVZnoyemZubTBjbFV6Rk9famdvMUUzbEMtdmtNbDR3NWRoN0dfc1BMeWd3OWlxUWRFQVFTSi1VOUFrTGg0NGNZeVlJbjBxZlpMSDdX?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 18:32:08 GMT",
+      "source": "FXEmpire",
+      "isLive": true,
+      "coverage": 1
     },
     {
       "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates",
@@ -157,30 +169,6 @@
       "coverage": 1
     },
     {
-      "title": "Gold Prices Fall to $4,111/oz as Treasury Yields and Fed Rate Hike Bets Pressure Metal - News and Statistics",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHp0Zmoya21CRmVCSDNkNmJ1SXFvbmJYa1BRY1V3N1hGMTFZN1gzUkhzbUZLWXNHajJydWd0ck5lN1hPTl9lemdjTXFXQWVMSEdPU3ZjbEpaQ3Y4bXloYV96YTFMUE16TmtKWDFPOHNXR3BxcTdkZko0TzJaSldPWmxSaHZkXzFqUjQtVTFqZDVXLTI1cEZpTk5vSDg2WHY0bE1POFNxQlVOc0dybDJpeFVPRC1Ka05qbUtqN2JR?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 12:20:36 GMT",
-      "source": "IndexBox",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold falls amid rising oil prices and higher US dollar",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQkpoTURPY0szdVRscW13NDhSd0F1X1JtMktXQTZWdmR0Yl9ieFEtdElSeWZLTU40M0FacnNwZU8zMDFfdG54OUs1Y1lNWHhULU5QRGhrTnVYRUtVeEFZUExjNTA3NUtueTQ3UGJINzdJdEh2VFdPTVNpSW9WTHhEbmNReENybkl6aTI4YjlEOWtkc3NEcmJNUFJHQURmSlHSAaQBQVVfeXFMT0paUkdHeUxDUVp6T3B6SWlKcEhlMWpqeE9qSmdJZ1ZrTHNvbEJET1I2Q2RKb3E0aXZJODEyOGpzYlBRd1N1MUtyYjdpWk1ZdEc2Y25zMmdIRjJKR1lRaGl5TGR5ZGNKd21FcGJmT2k5VFNwVExoZUo4Y2NVZWtzX1JrYjN2XzBNcmhHTURtUnQwWlNNcXRzVmNUN1pKbXpBbzVaVW4?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 21:37:56 GMT",
-      "source": "Al Jazeera",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold drops more than 1% on U.S. rate-hike bets",
       "sentiment": "bear",
       "kind": "driver",
@@ -189,18 +177,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbXZaTXk3cWpLckVDd3dtQXo0VG9qcHNJYjNSVE5GN2hJczd0VC1vU21MSkF6aURKRjFSbnNhdk9YZnRUbDJ3cG9CTjdVOGxkR2NYX3YtTHNzZGtiZFI2WGRubl9Pd01yVUdYODdvLTJTaUdUdXVUUGRoVXEtQ2U1d0dKbzVtR1lhSV9uQVVPaFPSAZYBQVVfeXFMTk54Y3JwQVl2QkJDTndVeDd6WHVSTGhJNnJLZFFoQmo2ZTRGN1h2UVRIU0s3STE4RmQ5WE51ZjhlUlBIZW90eVR3dmZOZFVTMzAwMldSSDZpSERiSVlkZXZqeFloQjh3cFV5UjdhOWQ4ak9xSWc4cDlkbDdkV2RWZ2xJclplTnJiTVRnSGFlRG1QRFpHRDRB?oc=5",
       "pubDate": "Mon, 28 Sep 2026 02:05:00 GMT",
       "source": "CNBC",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold (XAU/USD) & Silver Price Forecast: Oil and Yields Pressure Metals as Fed Turns Hawkish",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY2ZDdzc2THI4MzlNaUVvT0JiY1k2ZGZPbXQwUHlOTVplY0kteGlQOVFvNm5sTkVQaVgzak5Eb0ZtNzRNSUw0cTVEdnl4UlA5N0wwc3F3OGhPTEZmczU5TXR4UWVtc3V3VmdmN0xOZVdYYzhIMW0wVFhIZzFhNHNISmNRZnVXcVZtTGY2bmdyTFpMdWFHNlZjQXJudkF2WEswUG9JQm5lUUR5RmZrcjJpN3ZReTF6eFd5WWdxdVI3UWRuZnFXNlQ4dkVYWUxsekFZX3k4?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 06:53:55 GMT",
-      "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     },
@@ -217,14 +193,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold price today, Tuesday, September 29, 2026: Gold opens near 2-month low, but Brent crude also moving lower",
+      "title": "Gold Fell Again. Five Wall Street Desks Can’t Agree on Why.",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold is at a fresh low. This describes the price outcome, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOaHpRSFAxS2pfWHNoaFNaMGYydWlvYzlMbWpieEtiYm0xMmRoNlVoRWJxTFBiSnljWFhScTVsSDBzWGVUNVhJdGxaLUh4WkVvbU9fd3lGUlFhZkVGOG5mQUptVEN1Qk5tZFM3b29odG95dTUxeUtxZmFWeVMxLU90V2tFZnRJS0RXVWJvMlg4VV9WcldHeHdxNFZqeDh6MndIRThkTFJGeU1xdHQ5amhFQVdjNlprV3RzUllSeEVleEluQXNLVXgyRUNUQ29CdDdRcWcxSHNwVTkwaHJzbnQ2UVoyVkdFSFhQUkw3aXpOamozLWRCUGIwUHAxSFFhajR4OHotUGxvcUxWV3RX?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 10:44:39 GMT",
-      "source": "Yahoo Finance",
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVjF1UC15MklmLS1KWk5tc0pkcUc1SnNuZ18tbW5HZ2VCNkU4ZzNIbWRtQnk5d0ZFWmdCZWZSTUthUW1IZjhBZ2tDNm9ZS1JyNE50OUhMU2RTYVppRi1yaC10dF9jRGd6aFI5bm5mUERkand4RTZuLU9hMlJVSk40SVVfT1JKbXh5VndlcGtOZG15MWpzY015RlVJNERRWHJKV1lWbl9ndw?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 17:41:16 GMT",
+      "source": "GoldSilver",
       "isLive": true,
       "coverage": 1
     }
