@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-09-29T04:15:29.289Z",
+  "generatedAt": "2026-09-29T08:17:35.734Z",
   "bias": {
     "score": -62,
     "label": "Bearish",
@@ -10,8 +10,8 @@
   },
   "market": {
     "gold": {
-      "price": 4132.299805,
-      "asOf": "2026-09-29T04:15:28.843Z"
+      "price": 4143.299805,
+      "asOf": "2026-09-29T08:17:35.254Z"
     },
     "realYield10": {
       "value": 2.83,
@@ -109,6 +109,18 @@
   ],
   "live": [
     {
+      "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlVEOVNvOG5SeC1zaU9PX2U0SDJReDlrdHRQVld5X3BEVHFYX1pPOVNtelBSeFhjNGF5bkxZaHVSS1pLOVduZTBFVnR6a3E5bGZmWktsdnhZZUo4Q2tNNThBSFlnTnBDbWZCd3hYOFJrVkYtbkd2REhaQ0JfV290YWxaTnBuYlNiaG9Cc25KMlppTzZyVnd1alF4dFppSjdiZExOZkdpaGJJYWZFcE00VzNDQ3NEYjA?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 17:44:41 GMT",
+      "source": "reuters.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Falls to Seven-Week Low as Rate-Hike Bets Rise",
       "sentiment": "bear",
       "kind": "driver",
@@ -119,18 +131,6 @@
       "source": "WSJ",
       "isLive": true,
       "coverage": 2
-    },
-    {
-      "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlVEOVNvOG5SeC1zaU9PX2U0SDJReDlrdHRQVld5X3BEVHFYX1pPOVNtelBSeFhjNGF5bkxZaHVSS1pLOVduZTBFVnR6a3E5bGZmWktsdnhZZUo4Q2tNNThBSFlnTnBDbWZCd3hYOFJrVkYtbkd2REhaQ0JfV290YWxaTnBuYlNiaG9Cc25KMlppTzZyVnd1alF4dFppSjdiZExOZkdpaGJJYWZFcE00VzNDQ3NEYjA?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 17:44:41 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 1
     },
     {
       "title": "Gold falls amid rising oil prices and higher US dollar",
@@ -145,14 +145,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold and Silver Sink as Real US Bond Yields Hit Near-Record Highs",
+      "title": "Gold (XAU/USD) & Silver Price Forecast: Oil and Yields Pressure Metals as Fed Turns Hawkish",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising real yields are the single most direct headwind for gold: they raise the opportunity cost of holding it.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOV9jd1V3dW9NQ004Ql9mMDhKTVVDREdKMzQyMklmZUt0eVZPM2prYjZCRUZvejdSc1ZuWVlVcDFWMVB4ZlJUSjRpbmE0bm9SNm95SUxtVGVYdTBROXhwcGZQVHFfX0lJUjU3SFBFeUJuN2VBTG41T0pVOGFkblJHOE8wMDBaTlo3MF9YVktzNl9qMnFqN2Z1N1BB?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 14:50:27 GMT",
-      "source": "BullionVault",
+      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY2ZDdzc2THI4MzlNaUVvT0JiY1k2ZGZPbXQwUHlOTVplY0kteGlQOVFvNm5sTkVQaVgzak5Eb0ZtNzRNSUw0cTVEdnl4UlA5N0wwc3F3OGhPTEZmczU5TXR4UWVtc3V3VmdmN0xOZVdYYzhIMW0wVFhIZzFhNHNISmNRZnVXcVZtTGY2bmdyTFpMdWFHNlZjQXJudkF2WEswUG9JQm5lUUR5RmZrcjJpN3ZReTF6eFd5WWdxdVI3UWRuZnFXNlQ4dkVYWUxsekFZX3k4?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 06:53:55 GMT",
+      "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     },
@@ -169,6 +169,30 @@
       "coverage": 1
     },
     {
+      "title": "Gold sticks to gains as Fed hike bets, elevated bond yields and bullish USD cap recovery",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDUxNjVMeE1DLTVBSjY2cVk2aVlzS0doRUNxc1lkeDNSLWRIT0NwNjhtdlU4OXBvR0dCOU5sWG5GLTFSRTdPNGVUdXJQUVhHa0t4VXJQUW5VcVp6TVRKR2JZM3l5OGVDVnp3ZjF4Vlc0eUpFWFplTG5jWmQxcG16VGQtM2o3aWJva1pfTDY2OC1CNWJyQ19VdURyMTE1VTY4Mm1LY1pGVVpFYkJrdzVZaVhBblRCUnpJbGdqdXNR?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 06:58:50 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold and Silver Sink as Real US Bond Yields Hit Near-Record Highs",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising real yields are the single most direct headwind for gold: they raise the opportunity cost of holding it.",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOV9jd1V3dW9NQ004Ql9mMDhKTVVDREdKMzQyMklmZUt0eVZPM2prYjZCRUZvejdSc1ZuWVlVcDFWMVB4ZlJUSjRpbmE0bm9SNm95SUxtVGVYdTBROXhwcGZQVHFfX0lJUjU3SFBFeUJuN2VBTG41T0pVOGFkblJHOE8wMDBaTlo3MF9YVktzNl9qMnFqN2Z1N1BB?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 14:50:27 GMT",
+      "source": "BullionVault",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Why gold and silver prices are on the decline as bond yields rise",
       "sentiment": "bear",
       "kind": "driver",
@@ -176,31 +200,19 @@
       "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fZ0V0ZkhEZmY3bXVESUJLUGNPOGFnbnBfb0Q5Mm92QVZieGFXc2JPdk5fbWNreGxlUWlIQ0lhVnV4Z0ZQai1iZDRXZXlmeWJLSWI4bFFReGtoZXVMVFJfZVJHdkE3NU1Qam9ockkwZDA4ZEV5eXc?oc=5",
       "pubDate": "Mon, 28 Sep 2026 19:57:55 GMT",
-      "source": "globalnews.ca",
+      "source": "Global News",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Japan Bond Yields Just Hit a 31-Year High. Gold Should Care.",
+      "title": "Gold price slide below 200-DMA brings critical support level into focus – SocGen",
       "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZkoxN2lneFJRbEdfYk1ZdlhZTi1kSDJZUTE3SkFWUzNTZmo1bjk3U0F1NHMtWktob3Y0NWtXN0JQZmE3aU5JSjhYdGNjV0NBc05wSUM3UXljeUFQTEZoX1AxNlpNdHJCNTdINC1TNjFhUGR1b0lCbm03YTAxb18xTGFYR1cza2VLQXdfeVBOd25zZ2FjWmtrWmhHNA?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 19:54:19 GMT",
-      "source": "goldsilver.com",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Trading Alert: Soaring Oil Prices Ignite Rate Hike Storm",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObmkyZzR1aGtVUWNRNXdLYzlkcldPVThKUTJRU25lendsMlVtQ3ZCWllBaGpJRG9sS3ZiaWZVVmVWUlpOR1Q5ZGlPczBreTZnbmd3R3ZfRGFKeFYyc0Rzc1FsVVRlMEI0UFdjcC1YZmhlNjJ5blY2amI2MEhnV3ZsRk9WUDdWWTQ0MlJvaml3MjRxUTNYX3YxRno3bjBzUW04N1lYZTZFOA?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 23:15:20 GMT",
-      "source": "Moomoo",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdWI4MHRhU1NZMHNUMVpmOFNHSkFyUmxPMkNoMnFoNzBVNHlod2lfWHFOUUdoaEt0cW55Mi1MbllHNl9GTmY3eENvN2p5RGQ0VmhqWVJLeVZhTDlGZ21tOGZFNjYzXzNRaXNLQWRYTXhpNTNaRHFCelhybGh3RkpWdFQ2X1ExWFdFMVpRR0RzNTkwZEZ6eF9RS24yWi1QTnJSa1d3XzFkalM1bXZRTVNkbEVFOWdiaGJXSEww?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 20:13:15 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
@@ -213,18 +225,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZnV4QXY0dGxlcGVhME00ckZBZnYxZWt2LXNIZW1scE5wdW9xY2dmaVVwWGlUSEdfLVp6VTJkcU11ODQ3RlJRaW5iaV9zMlhGcFp0VmJYYjZKaEVrMUtBdkpUZDgxZ0xMdnNSS2UxUzRfZWlqQXFpMjhiZm9RYi1CLU9VZTcxbnY0NS1PNFR2M3B5T09PX0lnWTYyRnhDQUpDQmFCc053UEsxc09iclNlTU5uMUx3MjNmT1A0OHZSZGdaMnRiQlNkZ2h2cnFrQzhIRHFNcDRrS0lVc3I3RVpneGVTVFdjZEdwMkxSOTNsX003V1hsWkVkdnM0Z3lLN1pUZkRZ?oc=5",
       "pubDate": "Mon, 28 Sep 2026 11:07:30 GMT",
       "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold and silver prices fall sharply as higher bond yields weigh on metals",
-      "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1TnVRU2tNa3kxanRwcFgxNXRZaDNKalZweGQyZ3lQeVlITmlPQ0xkak1XWDhqN0xwZmtyMXRaSURmYk5QMFk3V0N6dmdETW5Ld2RRYmxqQ0daMktTR2l5YVhROU4tc3p4aF9OUnJJOHhjWGxvNVHSAXtBVV95cUxPZUx2ZHFWNWRaQzk0eFdEcW0yazB5U1BKcTI2Z3NrVW14b1BpUkVPUk5lRno1cGNMZjdQRUFKdmRJa2FEWmFrMGttRVI0aFYtM0RkM1ZLNGpCSmotUTQ2NlFxaWRUR2QwSDhvemZnUFFlQzVFZVZON0xJVlE?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 09:56:44 GMT",
-      "source": "CNBC",
       "isLive": true,
       "coverage": 1
     }
