@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-09-29T12:19:48.492Z",
+  "generatedAt": "2026-09-29T16:17:16.096Z",
   "bias": {
-    "score": -58,
+    "score": -62,
     "label": "Bearish",
     "bullWeight": 7,
-    "bearWeight": 26,
-    "driversCounted": 11
+    "bearWeight": 30,
+    "driversCounted": 13
   },
   "market": {
     "gold": {
-      "price": 4154.899902,
-      "asOf": "2026-09-29T12:19:47.935Z"
+      "price": 4152.600098,
+      "asOf": "2026-09-29T16:17:15.509Z"
     },
     "realYield10": {
       "value": 2.83,
@@ -109,13 +109,13 @@
   ],
   "live": [
     {
-      "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates",
+      "title": "Gold rises but strong Fed hike bets keep it near seven week-low",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlVEOVNvOG5SeC1zaU9PX2U0SDJReDlrdHRQVld5X3BEVHFYX1pPOVNtelBSeFhjNGF5bkxZaHVSS1pLOVduZTBFVnR6a3E5bGZmWktsdnhZZUo4Q2tNNThBSFlnTnBDbWZCd3hYOFJrVkYtbkd2REhaQ0JfV290YWxaTnBuYlNiaG9Cc25KMlppTzZyVnd1alF4dFppSjdiZExOZkdpaGJJYWZFcE00VzNDQ3NEYjA?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 17:44:41 GMT",
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2xzZnhUOThNWWNuT0t4S3g4MWRteWlSQlpXMWdudFlqNUN6MW1Zbm9pZzVHR0xnWGdvNmNiUkh6MDhvUk4yY2J1cTRYa1V2ajllOHJyUV8teEpvbHc2QW9MTTBseHVXcXpGbGNpVEtLR2hDSmRxM1FHWDZaN3hMUk9tOGhVcGpBdVo5TmdFaEVpUHNfSzZvYzJPS29xYnZlekQ4eEl3?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 02:59:00 GMT",
       "source": "Reuters",
       "isLive": true,
       "coverage": 1
@@ -133,6 +133,42 @@
       "coverage": 2
     },
     {
+      "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRlVEOVNvOG5SeC1zaU9PX2U0SDJReDlrdHRQVld5X3BEVHFYX1pPOVNtelBSeFhjNGF5bkxZaHVSS1pLOVduZTBFVnR6a3E5bGZmWktsdnhZZUo4Q2tNNThBSFlnTnBDbWZCd3hYOFJrVkYtbkd2REhaQ0JfV290YWxaTnBuYlNiaG9Cc25KMlppTzZyVnd1alF4dFppSjdiZExOZkdpaGJJYWZFcE00VzNDQ3NEYjA?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 17:44:41 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold breaks key Fibonacci support as Iran rejection fuels rate hike bets",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWk4cVNvbk52eTdlM3JnZ3cyLWJ3UHhzYVZaOGZ5UGFHd2NBdkFFWHBZZklJS054UFo1aEpMbWNXbExIbVlGd3NzSG0xVndkaHBuSUZDMGFLdmdiU3dpeEJiQTFEQl9uS2FOV3dLdHQ2Z3h6SkthamVYYTZ4c1FWNWZSdFVCN0hybi14SWlmQlAwcnY2VmtoNmVSSWRQNlByV3d6NFFUNXV4Vmh0QUtv?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 00:12:56 GMT",
+      "source": "Kitco",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Prices Fall to $4,111/oz as Treasury Yields and Fed Rate Hike Bets Pressure Metal - News and Statistics",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHp0Zmoya21CRmVCSDNkNmJ1SXFvbmJYa1BRY1V3N1hGMTFZN1gzUkhzbUZLWXNHajJydWd0ck5lN1hPTl9lemdjTXFXQWVMSEdPU3ZjbEpaQ3Y4bXloYV96YTFMUE16TmtKWDFPOHNXR3BxcTdkZko0TzJaSldPWmxSaHZkXzFqUjQtVTFqZDVXLTI1cEZpTk5vSDg2WHY0bE1POFNxQlVOc0dybDJpeFVPRC1Ka05qbUtqN2JR?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 12:20:36 GMT",
+      "source": "IndexBox",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold falls amid rising oil prices and higher US dollar",
       "sentiment": "bear",
       "kind": "driver",
@@ -145,14 +181,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold breaks key Fibonacci support as Iran rejection fuels rate hike bets",
+      "title": "Gold drops more than 1% on U.S. rate-hike bets",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWk4cVNvbk52eTdlM3JnZ3cyLWJ3UHhzYVZaOGZ5UGFHd2NBdkFFWHBZZklJS054UFo1aEpMbWNXbExIbVlGd3NzSG0xVndkaHBuSUZDMGFLdmdiU3dpeEJiQTFEQl9uS2FOV3dLdHQ2Z3h6SkthamVYYTZ4c1FWNWZSdFVCN0hybi14SWlmQlAwcnY2VmtoNmVSSWRQNlByV3d6NFFUNXV4Vmh0QUtv?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 20:58:00 GMT",
-      "source": "Kitco",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbXZaTXk3cWpLckVDd3dtQXo0VG9qcHNJYjNSVE5GN2hJczd0VC1vU21MSkF6aURKRjFSbnNhdk9YZnRUbDJ3cG9CTjdVOGxkR2NYX3YtTHNzZGtiZFI2WGRubl9Pd01yVUdYODdvLTJTaUdUdXVUUGRoVXEtQ2U1d0dKbzVtR1lhSV9uQVVPaFPSAZYBQVVfeXFMTk54Y3JwQVl2QkJDTndVeDd6WHVSTGhJNnJLZFFoQmo2ZTRGN1h2UVRIU0s3STE4RmQ5WE51ZjhlUlBIZW90eVR3dmZOZFVTMzAwMldSSDZpSERiSVlkZXZqeFloQjh3cFV5UjdhOWQ4ak9xSWc4cDlkbDdkV2RWZ2xJclplTnJiTVRnSGFlRG1QRFpHRDRB?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 02:05:00 GMT",
+      "source": "CNBC",
       "isLive": true,
       "coverage": 1
     },
@@ -169,14 +205,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold bulls seem hesitant as Fed hike bets, higher bond yields and bullish USD cap upside",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDUxNjVMeE1DLTVBSjY2cVk2aVlzS0doRUNxc1lkeDNSLWRIT0NwNjhtdlU4OXBvR0dCOU5sWG5GLTFSRTdPNGVUdXJQUVhHa0t4VXJQUW5VcVp6TVRKR2JZM3l5OGVDVnp3ZjF4Vlc0eUpFWFplTG5jWmQxcG16VGQtM2o3aWJva1pfTDY2OC1CNWJyQ19VdURyMTE1VTY4Mm1LY1pGVVpFYkJrdzVZaVhBblRCUnpJbGdqdXNR?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 08:16:31 GMT",
-      "source": "FXStreet",
+      "title": "Gold Price Rallies as 8-Week Trading Low Blamed on China, Rates, Trump",
+      "sentiment": "bull",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlBYVU5kX2FXX0YyOWJyVXJma09zbGNWTTZrRW1fSFk1YkpYRmJEdmZuVnpFeWVDVTNvU3E0MWw3anZlckk3NF9CZnc1WExSeE1QN044d3ROZU9NZ3BydDhRdDl1aDdQRjRLRlRKSlZuZHV1X0YtS0FsTUNXV0tfMnpGUWl3Y0xGZFhOVW5OdlgtdHc?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 15:09:51 GMT",
+      "source": "BullionVault",
       "isLive": true,
       "coverage": 1
     },
@@ -189,18 +225,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOaHpRSFAxS2pfWHNoaFNaMGYydWlvYzlMbWpieEtiYm0xMmRoNlVoRWJxTFBiSnljWFhScTVsSDBzWGVUNVhJdGxaLUh4WkVvbU9fd3lGUlFhZkVGOG5mQUptVEN1Qk5tZFM3b29odG95dTUxeUtxZmFWeVMxLU90V2tFZnRJS0RXVWJvMlg4VV9WcldHeHdxNFZqeDh6MndIRThkTFJGeU1xdHQ5amhFQVdjNlprV3RzUllSeEVleEluQXNLVXgyRUNUQ29CdDdRcWcxSHNwVTkwaHJzbnQ2UVoyVkdFSFhQUkw3aXpOamozLWRCUGIwUHAxSFFhajR4OHotUGxvcUxWV3RX?oc=5",
       "pubDate": "Tue, 29 Sep 2026 10:44:39 GMT",
       "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Wall Street split on gold price path after drop below $4,300, Main Street maintains bullish majority",
-      "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQTlBcTVpdi1lQm5EaGtBUGtQeDVBckRQX1hrcXE0a2NDYm40ZHloc2N6VHI2OUQzVXBnMzkzMDhQT3dwYjdxWE1CN2twdGttTFdBRjl4aVBBcnozbkVBeC1WQk9ac1lraXJ4MEl1ZUlRVndzNmJWdjZlckxIT1RRcURTd2ZsZW1majBMRWt6aG5nTWpzc01QOWk3Q1B3UzdfLUZiQkxiaDRfS25fT1l2MjYwQ1hvS185ZWxKYWp3VTdkd1BQLVhxc1ZWMmVvdkJFaWhaLXY4ekUtQQ?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 08:24:00 GMT",
-      "source": "Shanghai Metals Market",
       "isLive": true,
       "coverage": 1
     }
