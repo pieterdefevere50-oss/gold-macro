@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-09-30T08:17:33.879Z",
+  "generatedAt": "2026-09-30T12:23:12.587Z",
   "bias": {
     "score": -55,
     "label": "Bearish",
@@ -10,8 +10,8 @@
   },
   "market": {
     "gold": {
-      "price": 4197.600098,
-      "asOf": "2026-09-30T08:17:33.347Z"
+      "price": 4184,
+      "asOf": "2026-09-30T12:23:12.075Z"
     },
     "realYield10": {
       "value": 2.9,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-09-29"
+      "asOf": "2026-09-30"
     }
   },
   "evergreen": [
@@ -109,18 +109,6 @@
   ],
   "live": [
     {
-      "title": "Gold Falls to Seven-Week Low as Rate-Hike Bets Rise",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkJEQ1paQ1RWNGhOV1hmMEMxZFA4R0tfT3phbTZXcWpSY2FreW5CaXY2QWx6UTdqNkthRVVEcXNtRFRDWHVDV01OWHhUTkI4eGFBV25sVktEQ2dRNkxoLWlwN21XLXhpZk8wSjdQaHFFVXh2SHBMLWZFWEZueTFYczIwYnMxdXF3VzVYLVdWM1J3dEszdWhid2ZTYXptWG9ENWhSY2tGUnZScDZW?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 11:32:00 GMT",
-      "source": "WSJ",
-      "isLive": true,
-      "coverage": 2
-    },
-    {
       "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates",
       "sentiment": "bear",
       "kind": "driver",
@@ -140,6 +128,18 @@
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2xzZnhUOThNWWNuT0t4S3g4MWRteWlSQlpXMWdudFlqNUN6MW1Zbm9pZzVHR0xnWGdvNmNiUkh6MDhvUk4yY2J1cTRYa1V2ajllOHJyUV8teEpvbHc2QW9MTTBseHVXcXpGbGNpVEtLR2hDSmRxM1FHWDZaN3hMUk9tOGhVcGpBdVo5TmdFaEVpUHNfSzZvYzJPS29xYnZlekQ4eEl3?oc=5",
       "pubDate": "Tue, 29 Sep 2026 02:59:00 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold hits seven-week low as oil surge fuels rate hike bets",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 15:53:50 GMT",
       "source": "Reuters",
       "isLive": true,
       "coverage": 1
@@ -169,26 +169,26 @@
       "coverage": 1
     },
     {
-      "title": "Gold on track for monthly decline as investors brace for US inflation data",
+      "title": "Gold price prediction today: Why are gold prices down to 7-week low? Check September 30, 2026 outlook",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTld2SXpINElrMTRxSGliajBqR3dqcC1fQkJZNTVJb3JLVEI2aWxRVXRzclZBbGtoclctUVkxZ0t2VjdtRmpjRlhHMUp2Q1c2Nm9qb01HX1ZKZnRuNk5ETWVoaHU0VFVuU3JZMUZIZXVKT1ozMTc0VHM0emdJOVJJTHZrRGZPUkJhbFRZTGFhZUlNTlFqbGhhSENMRDhJcUxxUHlGR29ocWdjeGFo?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 04:54:00 GMT",
-      "source": "Reuters",
+      "text": "Gold is at a fresh low. This describes the price outcome, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQdk9hMDVRdndzRHYwYlE1RGtVclZ3blNMQm5qcDlvdmY0bHpxSDBfZVNuVW1lOXRER0JOMzBJZ1dEb01xczloQUlrTG9GTWx4NGY2ZUtMSWpid0VVMk5UdGZDZ294emFQMzIxNXFwZVBwX0VxTzd0VFkxTUYxa0JjSWJWMzRCeHRSZ3ZwQkhEU092SjY2aHF3aktWMG9mTVJGNHExNE1ObnpCODBuN0d4V2F3RkV6R1A4VHFVdVRfV2twSG1xV2lNRnY0VmxtQmEzQWZrZWNJcE04LXRwYzVMWjNuNVJxZkw1SWZBNmxkR0tLakhoZ2hxS2FmMW4xbWczNnd6azJ5MlBIWDh1SUZXc2VycnY0ejFjNHkyN2dKQkNhVnFTNmRzQ3dkeG05dWZEa2hCekZfbXg3M0h6TkR4SUF4RlgtRFllWE1fX0NRUTbSAdYCQVVfeXFMTXBsbW5JUEpNVXd1V2h6VTM1YWQ2QkhrMUtEU0RuOUNpNFB0ZlNKR05JcG9Ea1hXemo0LXd5b0U1Tk1fTFdOdFR6RFdfM2FqTWNNUG1vYjVYbkFqeUJ3NVpRREFxWWpyU1pnOWl5WlZEYmZiZmFyTThuN1pvT25VQ05aTWhJaERaUWZjX2U5OTBBLVpsMVlqOXl4N1kyTGpXV0F6MnRNOWFWMGE1azROckJBcndhdGhEM1dSdk4xcFZZaC1fTHhDLV95ZjZteVUxemlxZl9CM3l1MEdRYUZuRjdXVWdkTkVySG5tTEduTmlSQ0tJNHE4YkFfX05qYi0xc29QSVIzUnJmbG9nVGZlUGgta2pLNlg0Q05FNDdpdEstZ1NrSFlYSS1nWGhMZGgtQ0Zxb3JtbVRWck5qZDJsTkh5U3pNWElic0V6YThDYUZvaUNfZUd3?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 06:13:00 GMT",
+      "source": "The Times of India",
       "isLive": true,
-      "coverage": 2
+      "coverage": 1
     },
     {
-      "title": "Gold Price Rallies as 8-Week Trading Low Blamed on China, Rates, Trump",
+      "title": "Gold Price Today: Gold Rises 1.60% on September 30, 2026",
       "sentiment": "bull",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlBYVU5kX2FXX0YyOWJyVXJma09zbGNWTTZrRW1fSFk1YkpYRmJEdmZuVnpFeWVDVTNvU3E0MWw3anZlckk3NF9CZnc1WExSeE1QN044d3ROZU9NZ3BydDhRdDl1aDdQRjRLRlRKSlZuZHV1X0YtS0FsTUNXV0tfMnpGUWl3Y0xGZFhOVW5OdlgtdHc?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 15:09:51 GMT",
-      "source": "BullionVault",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcE5VbmtjRkExUFBybE5DTlRzc2RvUFFJcGQzYVdfc0hHSGxOZjB2VzJXQ0dDTktidjdCMFN5ODlxWmRRVFBSTGpDZzhMYTRuUEQzQTlBbHZkMGp2Zjk3c3FUS3g1RWpuZkd6ZVhCR0s2Q1ZsMkhzenRha3FSZlYwTmFXZ0xPTm4xN3NoOXhkUXBVMDM4SkVDR04wR0RPT1J4bEJvNG5lWGZaeHE1?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 12:20:15 GMT",
+      "source": "USA Today",
       "isLive": true,
       "coverage": 1
     }
