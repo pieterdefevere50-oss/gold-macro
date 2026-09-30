@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-09-29T20:16:37.811Z",
+  "generatedAt": "2026-09-30T00:22:11.682Z",
   "bias": {
-    "score": -58,
+    "score": -55,
     "label": "Bearish",
     "bullWeight": 7,
-    "bearWeight": 26,
-    "driversCounted": 11
+    "bearWeight": 24,
+    "driversCounted": 10
   },
   "market": {
     "gold": {
-      "price": 4173,
-      "asOf": "2026-09-29T20:16:37.246Z"
+      "price": 4184.100098,
+      "asOf": "2026-09-30T00:22:11.172Z"
     },
     "realYield10": {
       "value": 2.9,
@@ -22,20 +22,20 @@
       "changePct": 18.852459016393443
     },
     "y10": {
-      "value": 5.17,
-      "asOf": "2026-09-25",
-      "prior": 4.73,
-      "priorDate": "2026-08-28",
-      "change": 0.4399999999999995,
-      "changePct": 9.302325581395337
+      "value": 5.24,
+      "asOf": "2026-09-28",
+      "prior": 4.75,
+      "priorDate": "2026-08-31",
+      "change": 0.4900000000000002,
+      "changePct": 10.315789473684216
     },
     "y2": {
-      "value": 4.81,
-      "asOf": "2026-09-25",
+      "value": 4.92,
+      "asOf": "2026-09-28",
       "prior": 4.34,
-      "priorDate": "2026-08-28",
-      "change": 0.46999999999999975,
-      "changePct": 10.829493087557598
+      "priorDate": "2026-08-31",
+      "change": 0.5800000000000001,
+      "changePct": 13.364055299539174
     },
     "dollar": {
       "value": 120.33,
@@ -58,8 +58,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-09-25",
-      "text": "The 2-year Treasury yield (4.81%) is 93bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
+      "asOf": "2026-09-28",
+      "text": "The 2-year Treasury yield (4.92%) is 104bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
     },
     {
       "key": "real_yields",
@@ -109,40 +109,16 @@
   ],
   "live": [
     {
-      "title": "Gold rises but strong Fed hike bets keep it near seven week-low",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2xzZnhUOThNWWNuT0t4S3g4MWRteWlSQlpXMWdudFlqNUN6MW1Zbm9pZzVHR0xnWGdvNmNiUkh6MDhvUk4yY2J1cTRYa1V2ajllOHJyUV8teEpvbHc2QW9MTTBseHVXcXpGbGNpVEtLR2hDSmRxM1FHWDZaN3hMUk9tOGhVcGpBdVo5TmdFaEVpUHNfSzZvYzJPS29xYnZlekQ4eEl3?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 02:59:00 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold Falls to Seven-Week Low as Rate-Hike Bets Rise",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkJEQ1paQ1RWNGhOV1hmMEMxZFA4R0tfT3phbTZXcWpSY2FreW5CaXY2QWx6UTdqNkthRVVEcXNtRFRDWHVDV01OWHhUTkI4eGFBV25sVktEQ2dRNkxoLWlwN21XLXhpZk8wSjdQaHFFVXh2SHBMLWZFWEZueTFYczIwYnMxdXF3VzVYLVdWM1J3dEszdWhid2ZTYXptWG9ENWhSY2tGUnZScDZW?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 11:34:30 GMT",
-      "source": "wsj.com",
+      "pubDate": "Mon, 28 Sep 2026 11:32:00 GMT",
+      "source": "WSJ",
       "isLive": true,
       "coverage": 2
-    },
-    {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound Despite Strong Dollar",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWWxwdjJVTDdyVmljbmhGTnpwc0tkMTd5dW9zVDZIUUZST1FqYXVPQ2M1bS1IMng0WDdoMmJ1bWJ6LURhaDF1aXRpQ1FkYlNvdmUwdHhLazU2eU1xOWh2ZUhwa2F3cWpzVGc1ZTRqT1BTMGJ0ZGk5ZWRHVHR0X3p5VjFmS1FVZnoyemZubTBjbFV6Rk9famdvMUUzbEMtdmtNbDR3NWRoN0dfc1BMeWd3OWlxUWRFQVFTSi1VOUFrTGg0NGNZeVlJbjBxZlpMSDdX?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 18:32:08 GMT",
-      "source": "FXEmpire",
-      "isLive": true,
-      "coverage": 1
     },
     {
       "title": "Gold's lustre dims as Treasury yields surge, markets bet on higher Fed rates",
@@ -157,14 +133,26 @@
       "coverage": 1
     },
     {
-      "title": "Gold breaks key Fibonacci support as Iran rejection fuels rate hike bets",
+      "title": "Gold rises after hitting seven-week low, Fed hike bets curb gains",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWk4cVNvbk52eTdlM3JnZ3cyLWJ3UHhzYVZaOGZ5UGFHd2NBdkFFWHBZZklJS054UFo1aEpMbWNXbExIbVlGd3NzSG0xVndkaHBuSUZDMGFLdmdiU3dpeEJiQTFEQl9uS2FOV3dLdHQ2Z3h6SkthamVYYTZ4c1FWNWZSdFVCN0hybi14SWlmQlAwcnY2VmtoNmVSSWRQNlByV3d6NFFUNXV4Vmh0QUtv?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 00:12:56 GMT",
-      "source": "Kitco",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2xzZnhUOThNWWNuT0t4S3g4MWRteWlSQlpXMWdudFlqNUN6MW1Zbm9pZzVHR0xnWGdvNmNiUkh6MDhvUk4yY2J1cTRYa1V2ajllOHJyUV8teEpvbHc2QW9MTTBseHVXcXpGbGNpVEtLR2hDSmRxM1FHWDZaN3hMUk9tOGhVcGpBdVo5TmdFaEVpUHNfSzZvYzJPS29xYnZlekQ4eEl3?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 02:59:00 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 2
+    },
+    {
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound Despite Strong Dollar",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWWxwdjJVTDdyVmljbmhGTnpwc0tkMTd5dW9zVDZIUUZST1FqYXVPQ2M1bS1IMng0WDdoMmJ1bWJ6LURhaDF1aXRpQ1FkYlNvdmUwdHhLazU2eU1xOWh2ZUhwa2F3cWpzVGc1ZTRqT1BTMGJ0ZGk5ZWRHVHR0X3p5VjFmS1FVZnoyemZubTBjbFV6Rk9famdvMUUzbEMtdmtNbDR3NWRoN0dfc1BMeWd3OWlxUWRFQVFTSi1VOUFrTGg0NGNZeVlJbjBxZlpMSDdX?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 00:04:42 GMT",
+      "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     },
