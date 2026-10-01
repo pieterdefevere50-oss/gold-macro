@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-01T16:15:14.600Z",
+  "generatedAt": "2026-10-01T20:15:50.545Z",
   "bias": {
-    "score": -41,
+    "score": -45,
     "label": "Bearish",
-    "bullWeight": 11,
-    "bearWeight": 26,
-    "driversCounted": 13
+    "bullWeight": 9,
+    "bearWeight": 24,
+    "driversCounted": 11
   },
   "market": {
     "gold": {
-      "price": 4171.899902,
-      "asOf": "2026-10-01T16:15:13.984Z"
+      "price": 4178.799805,
+      "asOf": "2026-10-01T20:15:50.038Z"
     },
     "realYield10": {
       "value": 2.91,
@@ -109,19 +109,7 @@
   ],
   "live": [
     {
-      "title": "Gold price holding steady despite potential headwinds from a solid US labor market",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Strong labour data cuts the odds of near-term rate cuts, typically pressuring gold.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRkJUOFlGTG9fOW1nODJRU1ozRE53YzRvcnVfa1JsQkYzRGQ2aXZ1clNaZzI1YUF2LVY5UWlXNXA0b2Y0UFYwQWFHTmMtWE1UUE50OXlRdF9iZURPelRlR0pQaVl5cWIxNWRabllrS1kycS1USmdhNTVwWThlNVRyeFJxZEZGdjV0TGRPczVPWUEzaWYtMnp4aHMxOHFrM0k2enFRUnZvalF3SkZOSTVRZ2I1TF9yNnVTUGJmOUVB?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 16:02:57 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold rises as softer inflation data dents Fed rate-hike bets",
+      "title": "Gold holds steady as firm dollar, yields counter easing Fed rate hike bets",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
@@ -145,6 +133,42 @@
       "coverage": 1
     },
     {
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Gains Some Ground Despite Strong Dollar",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONHV3Vm5jRjFPWXZaMW4wUzFfS1BpQUl2VzNJMlFjc2lFZ1U3dlVGcGhoUDFHV2hqaWpzZ3V1Z3hqdHNyZkNraEZEQmFTVUZKbTdZaFVRcHR0em5HaXZvVE1XSk5XRTJhRmtJd0QwamhUWFRpd0VQRWdCYXFmUmJjZm1jUHBjQ0U5aUtqeTNpdlVUeGxic0REVTB2VjljeWRHaXZqTWs3akdTWnFTRmpkZmVXQWplX3RqcWNOckFYWElyejJJSmd5Z042ZUpwZw?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 18:32:51 GMT",
+      "source": "FXEmpire",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold price rockets to session highs as US economy rises 2.2% in Q2, PCE inflation rises 0.2% in August",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Hotter inflation raises the odds the Fed stays restrictive for longer — a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaDhNaGdLUHVaVmhwUjUzUVA5UTRibDYwbEVEU0wtc3N2NzlObTNzYlZlZVRFSXBQZDliNTZvMU9ZNjRoSWp5LWswY0hKU05tNURON0R1VnZRQmtzR29wdFAzRmhocHE4OGlJcFk3WFVhcFliRVphV3d0bG1YaDh3SUhiWEhiMnAtUUdvX2RyU09uazJPWjMyaXBiRmtqR3otaF9xQ09STTY2STh2NXBFeEJmamlOOGMtNG1TejRB?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 12:53:02 GMT",
+      "source": "kitco.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold price holding steady despite potential headwinds from a solid US labor market",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Strong labour data cuts the odds of near-term rate cuts, typically pressuring gold.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRkJUOFlGTG9fOW1nODJRU1ozRE53YzRvcnVfa1JsQkYzRGQ2aXZ1clNaZzI1YUF2LVY5UWlXNXA0b2Y0UFYwQWFHTmMtWE1UUE50OXlRdF9iZURPelRlR0pQaVl5cWIxNWRabllrS1kycS1USmdhNTVwWThlNVRyeFJxZEZGdjV0TGRPczVPWUEzaWYtMnp4aHMxOHFrM0k2enFRUnZvalF3SkZOSTVRZ2I1TF9yNnVTUGJmOUVB?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 09:38:00 GMT",
+      "source": "kitco.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold rises after hitting seven-week low, Fed hike bets curb gains",
       "sentiment": "bear",
       "kind": "driver",
@@ -157,74 +181,26 @@
       "coverage": 1
     },
     {
-      "title": "Gold (XAU/USD) & Silver Price Forecast: Softer PCE Cuts Fed Hike Bets",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdE9HVmRJS2s1RjlfS0FjWm5Ic1FDZTVSZU4wcU1udmdFcUliZ2dxWkk3Z3pnbFEyVkQzTy14em8tUFU2NEdoTzRpeVRTUlFCd1NPWVRLNkl0SmNJTTN0aEgwNGJYOXdyMGhOUldxOU4zWHdUR3ZKTjBMbVItM25LRy1WSjA2Rk5oTkRaRENkcXZpdllUbWo4WGlCUkVnVy1HRkZ3bVZ6dDlZOWhuOVZsS1RaekVxZw?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 08:04:35 GMT",
-      "source": "FXEmpire",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Stock Market Today: 10-Year Treasury Yield Hits 24-Year High as Stocks Turn Mixed, Gold price at $4,159",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTlk3OGFNdVBsaWMyWXFfSGlsN0U5Z3NKM0VWNUszQnRwX2lCaktzcXg1d0JENEJtcVFnNFpaUnJmS2Fwb2RtMkJXUlA2OV9wTDhLY3RtZlpUZUp4SjUyS2hjNlIwcG5QSDZ3ZzZrOXVsQmpXSmV1Y19fNkpZcXhfYWxtY1ZqdFpvYkk1WFB2dWVTRGZxTk9jMWdLdjI4YzFOTkxFZ1VCYVdNSUF2dC00Z3g0dzZVenlaX1FCNWs0Q19EVUhjSXNtV3ZpQ01sa1VJT1JRWHZ0RW5kdFk?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 22:21:43 GMT",
-      "source": "Eurasia Business News",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold struggles as elevated US Treasury yields outweigh dovish Fed repricing",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A dovish stance points to easier policy ahead, typically supportive for gold.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSklvOTRMdVFSNm9WRzVQMFAwdC1fMEF5ZzlUUGI0UW9oc0xtdE5FbkxZTGNGeUQzb280MXp3RXFCcmZxdmlwLU9VVm9KVXdHaEpBaG1EZE5sR0pLVEhMZEltZm5oME5uNTI3T3ZTZTR6Zk81OEVMRTFzcW9uNFA4UFJjU3k4XzA5Z3hxNS1XTTkyR2FHTk55XzlDbUZlVXFiVklxQXowLUZUbXlQVWZvMDZQUVpQUlk?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 14:28:29 GMT",
-      "source": "FXStreet",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold price rockets to session highs as US economy rises 2.2% in Q2, PCE inflation rises 0.2% in August",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Hotter inflation raises the odds the Fed stays restrictive for longer — a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaDhNaGdLUHVaVmhwUjUzUVA5UTRibDYwbEVEU0wtc3N2NzlObTNzYlZlZVRFSXBQZDliNTZvMU9ZNjRoSWp5LWswY0hKU05tNURON0R1VnZRQmtzR29wdFAzRmhocHE4OGlJcFk3WFVhcFliRVphV3d0bG1YaDh3SUhiWEhiMnAtUUdvX2RyU09uazJPWjMyaXBiRmtqR3otaF9xQ09STTY2STh2NXBFeEJmamlOOGMtNG1TejRB?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 10:55:00 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Entrenched premium leaves gold primed to climb despite surge in US bond yields",
       "sentiment": "bull",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU3R0WHlxZ0o0bmdDZlB5ZGUwbWI2Z3hkQWJPemo5b3hNM3dwdjlxNldrSnlvODRKc2hOaVgtSVU5YWRIM2ZkQk1yaGllUjNqT2FCU21JbjEtcm51WThVNURrODh3dDN0WnVuakdQOUF0dTEwM1BDSDFTVkktY2VVOEc5RzJ2ckY4VDVKNEttZ1BwRTZCRldKTVhhV3JhMnJkVmVwdC1JdGpucFdqR1JOY1pvSTZjOXJn?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 14:28:59 GMT",
+      "pubDate": "Thu, 01 Oct 2026 15:59:56 GMT",
       "source": "Reuters",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold Prices Slip as Markets Reassess October Fed Rate Expectations",
+      "title": "Risks rising that gold prices fall below $4,000 in Q4 - Bank of America",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXZVNmFZZ2YyWnJFS1ExaVY2MlpiUGpPY3NvODNlcXlQWDdSNnE3TU5ESHRNcE4yaFJaNXFnYld3djJRc0s3X1A1LUVCb3lMaFNuUmhDeVYxRUtCMEpCMk9sQzF2NHl0YWQyclotTWhybUc3TTVDTTh6Mk50eVd3a2t4VkpyYUJSalE?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 09:36:01 GMT",
-      "source": "Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0EyQVVCNHgzNnBSQ3NkWGp2Z0RhSXM3emdYUU1wXzFKUDJFazhDdktTMWhBeXdOMTdCNFRqNHl3TDZtTGc1YzNQUmZ1QU56c1k5Q0ZNTFhCSzI0N21ycEpYYVV0aEw0eXI2Ukx5SEY2Q3JNZjdMZnZydHc5YkF4X19QakhpNkFIWEk5RG9qSXo4MlFWN1BORkZGS2RHaUMtQzZ6Zg?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 15:02:00 GMT",
+      "source": "kitco.com",
       "isLive": true,
       "coverage": 1
     }
