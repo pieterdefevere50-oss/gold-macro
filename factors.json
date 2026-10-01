@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-01T08:17:41.692Z",
+  "generatedAt": "2026-10-01T12:20:50.038Z",
   "bias": {
-    "score": -51,
+    "score": -30,
     "label": "Bearish",
-    "bullWeight": 9,
-    "bearWeight": 28,
+    "bullWeight": 13,
+    "bearWeight": 24,
     "driversCounted": 13
   },
   "market": {
     "gold": {
-      "price": 4161.299805,
-      "asOf": "2026-10-01T08:17:41.235Z"
+      "price": 4179.299805,
+      "asOf": "2026-10-01T12:20:49.525Z"
     },
     "realYield10": {
       "value": 2.91,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-09-30"
+      "asOf": "2026-10-01"
     }
   },
   "evergreen": [
@@ -109,14 +109,26 @@
   ],
   "live": [
     {
-      "title": "Stock Market Today: 10-Year Treasury Yield Hits 24-Year High as Stocks Turn Mixed, Gold price at $4,159",
+      "title": "Gold price today, Thursday, October 1, 2026: Gold prices rather muted after softer-than-expected inflation data",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Cooler-than-expected inflation raises the odds of rate cuts — supportive for gold.",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQNTNDVEk2VndUV2ZTXzZoQy10c2RkT2E1U1FmS1RkMXhZSW4yWjgyNXljVk1teUV3Tm1GcU1xTWJGN2E4Mks4T3g1b3I3V0h6Y29vZ0ZZaUZuWDhyWHNaTjd4N0Z3THlobUp6bC1Qc3pZVnZvZ2lvQWEySjZJY3JIUDhodUpPdndiRTRxaWpaZm1OVURmRkFiU1ppMXpvVDV3b01HWGpHYmFxbC1zV1FjU0JMXzJTeXRWU0NsOHRhTjIxVk9qRUpUUF9KNkNCZXRxT0lNRmRpVVJSandRVThqRTlwbHBta1JOUXFBbkdnUlRxbTFxWFRmVld0Y2JleVBRTnNNVWdRYmRReTdjd2tYTQ?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 11:05:49 GMT",
+      "source": "Yahoo Finance",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold rises after hitting seven-week low, Fed hike bets curb gains",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTlk3OGFNdVBsaWMyWXFfSGlsN0U5Z3NKM0VWNUszQnRwX2lCaktzcXg1d0JENEJtcVFnNFpaUnJmS2Fwb2RtMkJXUlA2OV9wTDhLY3RtZlpUZUp4SjUyS2hjNlIwcG5QSDZ3ZzZrOXVsQmpXSmV1Y19fNkpZcXhfYWxtY1ZqdFpvYkk1WFB2dWVTRGZxTk9jMWdLdjI4YzFOTkxFZ1VCYVdNSUF2dC00Z3g0dzZVenlaX1FCNWs0Q19EVUhjSXNtV3ZpQ01sa1VJT1JRWHZ0RW5kdFk?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 22:21:43 GMT",
-      "source": "Eurasia Business News",
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2xzZnhUOThNWWNuT0t4S3g4MWRteWlSQlpXMWdudFlqNUN6MW1Zbm9pZzVHR0xnWGdvNmNiUkh6MDhvUk4yY2J1cTRYa1V2ajllOHJyUV8teEpvbHc2QW9MTTBseHVXcXpGbGNpVEtLR2hDSmRxM1FHWDZaN3hMUk9tOGhVcGpBdVo5TmdFaEVpUHNfSzZvYzJPS29xYnZlekQ4eEl3?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 04:01:22 GMT",
+      "source": "Reuters",
       "isLive": true,
       "coverage": 1
     },
@@ -145,6 +157,42 @@
       "coverage": 1
     },
     {
+      "title": "Stock Market Today: 10-Year Treasury Yield Hits 24-Year High as Stocks Turn Mixed, Gold price at $4,159",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTlk3OGFNdVBsaWMyWXFfSGlsN0U5Z3NKM0VWNUszQnRwX2lCaktzcXg1d0JENEJtcVFnNFpaUnJmS2Fwb2RtMkJXUlA2OV9wTDhLY3RtZlpUZUp4SjUyS2hjNlIwcG5QSDZ3ZzZrOXVsQmpXSmV1Y19fNkpZcXhfYWxtY1ZqdFpvYkk1WFB2dWVTRGZxTk9jMWdLdjI4YzFOTkxFZ1VCYVdNSUF2dC00Z3g0dzZVenlaX1FCNWs0Q19EVUhjSXNtV3ZpQ01sa1VJT1JRWHZ0RW5kdFk?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 22:21:43 GMT",
+      "source": "eurasiabusinessnews.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold struggles as rising US Treasury yields outweigh dovish Fed repricing",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A dovish stance points to easier policy ahead, typically supportive for gold.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSklvOTRMdVFSNm9WRzVQMFAwdC1fMEF5ZzlUUGI0UW9oc0xtdE5FbkxZTGNGeUQzb280MXp3RXFCcmZxdmlwLU9VVm9KVXdHaEpBaG1EZE5sR0pLVEhMZEltZm5oME5uNTI3T3ZTZTR6Zk81OEVMRTFzcW9uNFA4UFJjU3k4XzA5Z3hxNS1XTTkyR2FHTk55XzlDbUZlVXFiVklxQXowLUZUbXlQVWZvMDZQUVpQUlk?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 11:25:03 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold prices stall near $4,160 despite $3.8 billion ETF inflows: here’s why",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising ETF holdings show investment demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS1NXZUhZYTJNSnRuN3N0QnhhTk4zaEF4N2Y3b1UtQ1JqU0JoN21hYm5aMUxqRlU3VllaeVpXLUN4dlVEM3NPNHhxTWpZMUlDdXVFb0NBcTRBNEtrSkJ2eDZXNGJhc2RfWlJoQ3JMWC1vMnpaREhCYUlQTjBxY3JYZ1dVUDcwVDN3RTRxTFhqMTlfYzVlZDctZHB3cG1FYWNOU1VxSENzZ2c4OFdFWVNId2tER2UxUVNoSE9nY21EQ080RXQzNnk4?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 05:22:00 GMT",
+      "source": "TradingView",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Steady as Softer Inflation Data Tempers Fed Rate-Hike Bets",
       "sentiment": "bear",
       "kind": "driver",
@@ -157,50 +205,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As 10-Year Yield Hits 5.30%",
+      "title": "Gold Prices Slip as Markets Reassess October Fed Rate Expectations",
       "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOXE0bzROdFdXeTJscDlTNnVWZzFfSFdybzN5ODdDS1VyX2JLWjVuUmdpdjZkV0NFN3dHR1JWVkpvYWVQR3ByNEptV0JwczB6YkxKN3BvMFQtd2sxZDViX25ZMEpuVWdHRmhhR2dqcVdSU3VpbEdaNzNiNjc3LUpiVXVuSHBnQ1dHV0J1bUNIZGYyTVE5RFZ4cmFQeW1WV3I2eXBOSEJ6RlU1NkFLOXhyNFpvRUlnWkpJREVORHJROGJvVndYQVVWag?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 01:12:00 GMT",
-      "source": "FXEmpire",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "U.S. Treasury yields hit multi-year highs as international gold prices fluctuate around $4,150.",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON2J6dF9oWFlzY19IN0xZZjh5MnRNcE43YUlzdGNwMjBCdXRyNnF2VWh3V1NQWk9yaV9EVWtERmRWLTlEX3NmdVoyM2UwQUotMTN5bnN0V1otd0h2WThQd3dyMHpmWl9jNS1QVVlXenpfY09WdzRsNS1wUk55M29kakkxY2tIRjNSd0hpQVI2MHdUekpLcS16VTEyRVVRYnhWbGJiQncwVjc?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 02:19:44 GMT",
-      "source": "Moomoo",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Bitcoin and Gold Prices Jump in Minutes as US Inflation Cools to 3.4%",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Cooling inflation raises the odds of rate cuts, typically supportive for gold.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQckxMWmtoOUZ6Yi1MQWZIVm9nMFBHdERXUkE1S3lIQktIOERaOEpXWFJLQm54bFNoeko0c20zS3prLWtBdUN1dXFRNTB6TmpNLTlCc1lMaTVBb3hSN0FiVFIzU1ZvNWxjQ25RMnlZLUxFNkFtc3VVb1pyclhpbk9ndVp1d0c1NE5HV3dIM1FrbUNNLU03cExhQ2RTcnhHZw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 13:29:18 GMT",
-      "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Rebounds From $4,123 as Softer PCE Cuts October Fed Hike Odds to 38%",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMTdrODVOOXlaV1JKSVlrRkxxamM2elk3VHJacktYSk9LbnZPczdkX3YyaTJyRDBaZDFFQktUOTVfelB6NkFBTm9aaWdmZlZWSi01Uk01N0ExZXc5VTlROUR1MkNkX19NSi0zMWFVVmdURnFWd2JzcURHZkxVUndEb0NEeTFaRkcwWThZcjNTUE9jNFZtNlpz?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 07:14:49 GMT",
-      "source": "FXLeaders",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXZVNmFZZ2YyWnJFS1ExaVY2MlpiUGpPY3NvODNlcXlQWDdSNnE3TU5ESHRNcE4yaFJaNXFnYld3djJRc0s3X1A1LUVCb3lMaFNuUmhDeVYxRUtCMEpCMk9sQzF2NHl0YWQyclotTWhybUc3TTVDTTh6Mk50eVd3a2t4VkpyYUJSalE?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 09:36:01 GMT",
+      "source": "Yahoo Finance UK",
       "isLive": true,
       "coverage": 1
     },
@@ -212,19 +224,7 @@
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWVdNWGV0VHpEdnBxbEc5V0QzYmFsU3BmaWZ6LVd5THdveVFEbjF6Y21YbU83QWVFSWVqcHB2QnYwakE2UmREcGZPb0E1OHlvVFVxVUVHWW1MUF9Bd1pYTmNVa0NlRGhDVEhWZzEya09tVE9TeVRPM3dfdjJjcnN2R18wd2xPcnJSbEJZODB4Y1dLSXZnQ21SYTc2cnI?oc=5",
       "pubDate": "Thu, 01 Oct 2026 07:10:45 GMT",
-      "source": "TradingPedia",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "sentiment": "bull",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYXVGa1JweEtXdEh1Q1FwVER0YzRwZWtieHdLUDBvbTVRQ1FyZTlwZzA3aTFFZkwzbjhjdkpiUVp1enZPM3pCYkFRZnV2RkFjUUVqV0RKM3NhaERubHVhcjQwZW01WER5YTFZZkYzd1YwbHoxNi04Sm0yVEpjSVhBNWZucw?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 04:44:44 GMT",
-      "source": "mitrade.com",
+      "source": "tradingpedia.com",
       "isLive": true,
       "coverage": 1
     }
