@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-01T00:23:03.823Z",
+  "generatedAt": "2026-10-01T04:16:33.934Z",
   "bias": {
     "score": -49,
     "label": "Bearish",
@@ -10,8 +10,8 @@
   },
   "market": {
     "gold": {
-      "price": 4144,
-      "asOf": "2026-10-01T00:23:03.327Z"
+      "price": 4176.399902,
+      "asOf": "2026-10-01T04:16:33.407Z"
     },
     "realYield10": {
       "value": 2.91,
@@ -109,13 +109,25 @@
   ],
   "live": [
     {
+      "title": "Gold Steady as Softer Inflation Data Tempers Fed Rate-Hike Bets",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3VmQndxSTg1aGpLVTFPd3hIVmUyNDd5MXJPUm1lZ2IybU1mMkN1VE9SQ1oyTlVDVmtQaVppT0loOGxxZlI1VWNXYkVZQ0xUWUZiLUF3bG1Ia3JabzFKR05fclpSQjRTdzgtbW5MLWhwTkZSYkhYZVI0Zm5HZ05xdXRKa0VNc1NZb1E?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 00:08:00 GMT",
+      "source": "uk.finance.yahoo.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As 10-Year Yield Hits 5.30%",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOXE0bzROdFdXeTJscDlTNnVWZzFfSFdybzN5ODdDS1VyX2JLWjVuUmdpdjZkV0NFN3dHR1JWVkpvYWVQR3ByNEptV0JwczB6YkxKN3BvMFQtd2sxZDViX25ZMEpuVWdHRmhhR2dqcVdSU3VpbEdaNzNiNjc3LUpiVXVuSHBnQ1dHV0J1bUNIZGYyTVE5RFZ4cmFQeW1WV3I2eXBOSEJ6RlU1NkFLOXhyNFpvRUlnWkpJREVORHJROGJvVndYQVVWag?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 00:14:39 GMT",
+      "pubDate": "Thu, 01 Oct 2026 01:12:00 GMT",
       "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
@@ -153,18 +165,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQckxMWmtoOUZ6Yi1MQWZIVm9nMFBHdERXUkE1S3lIQktIOERaOEpXWFJLQm54bFNoeko0c20zS3prLWtBdUN1dXFRNTB6TmpNLTlCc1lMaTVBb3hSN0FiVFIzU1ZvNWxjQ25RMnlZLUxFNkFtc3VVb1pyclhpbk9ndVp1d0c1NE5HV3dIM1FrbUNNLU03cExhQ2RTcnhHZw?oc=5",
       "pubDate": "Wed, 30 Sep 2026 13:29:18 GMT",
       "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold rises after hitting seven-week low, Fed hike bets curb gains",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2xzZnhUOThNWWNuT0t4S3g4MWRteWlSQlpXMWdudFlqNUN6MW1Zbm9pZzVHR0xnWGdvNmNiUkh6MDhvUk4yY2J1cTRYa1V2ajllOHJyUV8teEpvbHc2QW9MTTBseHVXcXpGbGNpVEtLR2hDSmRxM1FHWDZaN3hMUk9tOGhVcGpBdVo5TmdFaEVpUHNfSzZvYzJPS29xYnZlekQ4eEl3?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 02:59:00 GMT",
-      "source": "reuters.com",
       "isLive": true,
       "coverage": 1
     },
