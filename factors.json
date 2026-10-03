@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-02T20:14:07.084Z",
+  "generatedAt": "2026-10-03T00:20:34.139Z",
   "bias": {
     "score": -19,
     "label": "Mixed / Neutral",
@@ -10,32 +10,32 @@
   },
   "market": {
     "gold": {
-      "price": 4143.600098,
-      "asOf": "2026-10-02T20:14:06.598Z"
+      "price": 4141.799805,
+      "asOf": "2026-10-03T00:20:33.619Z"
     },
     "realYield10": {
-      "value": 2.93,
-      "asOf": "2026-09-30",
-      "prior": 2.45,
-      "priorDate": "2026-09-02",
-      "change": 0.48,
-      "changePct": 19.591836734693878
+      "value": 2.88,
+      "asOf": "2026-10-01",
+      "prior": 2.42,
+      "priorDate": "2026-09-03",
+      "change": 0.45999999999999996,
+      "changePct": 19.008264462809915
     },
     "y10": {
-      "value": 5.29,
-      "asOf": "2026-09-30",
-      "prior": 4.79,
-      "priorDate": "2026-09-02",
-      "change": 0.5,
-      "changePct": 10.438413361169102
+      "value": 5.24,
+      "asOf": "2026-10-01",
+      "prior": 4.77,
+      "priorDate": "2026-09-03",
+      "change": 0.47000000000000064,
+      "changePct": 9.853249475891
     },
     "y2": {
-      "value": 4.88,
-      "asOf": "2026-09-30",
-      "prior": 4.39,
-      "priorDate": "2026-09-02",
-      "change": 0.4900000000000002,
-      "changePct": 11.1617312072893
+      "value": 4.78,
+      "asOf": "2026-10-01",
+      "prior": 4.34,
+      "priorDate": "2026-09-03",
+      "change": 0.4400000000000004,
+      "changePct": 10.138248847926276
     },
     "dollar": {
       "value": 120.33,
@@ -58,8 +58,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-09-30",
-      "text": "The 2-year Treasury yield (4.88%) is 100bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
+      "asOf": "2026-10-01",
+      "text": "The 2-year Treasury yield (4.78%) is 90bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
     },
     {
       "key": "real_yields",
@@ -67,8 +67,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-09-30",
-      "text": "10Y real yield is 2.93%, up 48bp over 4 weeks (as of 2026-09-30): rising real yields raise the opportunity cost of holding non-yielding gold — bearish. Real yields are the most direct macro driver of gold."
+      "asOf": "2026-10-01",
+      "text": "10Y real yield is 2.88%, up 46bp over 4 weeks (as of 2026-10-01): rising real yields raise the opportunity cost of holding non-yielding gold — bearish. Real yields are the most direct macro driver of gold."
     },
     {
       "key": "dollar",
@@ -133,18 +133,6 @@
       "coverage": 1
     },
     {
-      "title": "Gold Gains on Weak US Jobs Data, ETF Demand Resilient Despite Surging Bond Yields",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Weak labour data raises the odds of Fed rate cuts, which tends to support gold.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnFmdDhUUGFOMXQ4bTVBNFRWZGIzZW5yNzJpRzFhVDV0bUlIdkM2V0VrbDFvV0JRX05vTGhINno2WnNja3VNSGJSblF4QXN0ZF8zX0RkNDM1ZjFKdUx3Q1pkbTRhX01nSXZ4d1loak9FTlBDZjk4WVc3ZExPeFViRVlmWDhmQmNDVlJYVXkwLWJXM1RiMGRSQ1hBNA?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 14:57:13 GMT",
-      "source": "BullionVault",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold edges up as softer inflation data dents Fed rate-hike bets",
       "sentiment": "bear",
       "kind": "driver",
@@ -165,6 +153,18 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2lrZXphNHNLcVpyMGpLSHByb1JQUVI4NkpkVzJaR0poSjU5SlVtN2hvdlpGSk1UTm9yRFFfYjhoclNoeS1mdzlfOUxjbnN0Znh5WUFIREItQUlxVENPNE4tdGVhNXVtcVo5Q3ZjX1ZvQ2pJOXhkZ3BHNnVGU0gxQ19YLUdKWmNkSkRLVWQ3UXlPUVEyZmUxd21SeHd4QnN6RjNuYg?oc=5",
       "pubDate": "Fri, 02 Oct 2026 17:33:47 GMT",
       "source": "Yahoo Finance",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Pares Gains after Weak US Jobs Data, ETF Demand Resilient Despite High Bond Yields",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Weak labour data raises the odds of Fed rate cuts, which tends to support gold.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnFmdDhUUGFOMXQ4bTVBNFRWZGIzZW5yNzJpRzFhVDV0bUlIdkM2V0VrbDFvV0JRX05vTGhINno2WnNja3VNSGJSblF4QXN0ZF8zX0RkNDM1ZjFKdUx3Q1pkbTRhX01nSXZ4d1loak9FTlBDZjk4WVc3ZExPeFViRVlmWDhmQmNDVlJYVXkwLWJXM1RiMGRSQ1hBNA?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 14:57:13 GMT",
+      "source": "BullionVault",
       "isLive": true,
       "coverage": 1
     },
@@ -193,14 +193,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold gains as U.S. jobs data eases rate-hike fears, but heads for weekly loss",
+      "title": "When should a central bank sell its gold?",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmdzY2EzTDVzdkpvUW5aVWx4QlhIZkZGOGhUbE1xQzQxSHprcWxBWWhicFp1MC1nOEppUWpmNDYtUnJXNHJ5cGN3ZmVoSVhIWXJ2dFJKN25IdnRhNEFwN0ZpRGZYdS11ZktiaXRYcnUzM0R1SGJjaFVqTV96VEtBSnduSHZvTVBJRmE3c1JHeVJTME14TTctcS1Jak5vVmvSAaQBQVVfeXFMTk8tQ1FnbGo0ZVUteWJQNks3QjIzSmx2SUY5M3JkcFRyOEM5THM0MGpwWDNvekxyU1dUVTdDcWtEZFIxY1g3WHhfSUxESEl3RGZzenFsdTBkcXl0aHB0TG9vbll2TC1adDhqV2RwVVlXbWdfTThXNHp3bjBqZkI2cXotdXo0SDU4QU4xRFRUcVhTRGo5cDJCeFJxUEhuUmpQTnhfNkc?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 03:37:00 GMT",
-      "source": "CNBC",
+      "text": "Central-bank selling is a headwind for gold demand.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwdDhNZVBRejBRMUtpdF9FdzY4RGtqYTAtMVhQbWlIRHRHa3JwdjVyRlZaZXg5ZzEtb25FVmtQYlNIdUxWTWFoeksycHlhQTk3SE5HT1RvdkUzcEZUUnNjZmx6ZXI0bWM0NEhMSnJXS1lZazJNYy1MTnRfTQ?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 16:27:14 GMT",
+      "source": "OMFIF",
       "isLive": true,
       "coverage": 1
     },
@@ -211,20 +211,20 @@
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSWZHMWEtY3pXQng2dkxPRzB1X2ZzYVdSS2hES3g1NXc2ZnoyNmNJN0dSTUtlTU51UmFaeE1JRy15U1FMQnJhUlFWbW9lV3Fmc2w1aTVjODJmQ1dycHFQT1pyQXg1UTNDVkY0S0F6bzdnLWVHWUh5TnlxZXR2UllMWGNlX0lzbExQbjJmckM4NjVoeFBISnFiSGtQRkZmcmNLVC1sMWNKUzlUaVEzWjlLVjBuYVhrYlZCdGtkMWc4S0VJeTl3M25NbQ?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 19:16:38 GMT",
+      "pubDate": "Sat, 03 Oct 2026 00:04:32 GMT",
       "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Rallying oil price could see gold price fall $1400 an ounce next year",
+      "title": "Gold Price Falls 3% on Weak U.S. Jobs Report, Eyes $4,000 Support - News and Statistics",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZnlOWkdCQ2V3QVdlUzZ5UUtGRU5hUlN4c29WMzdFNmlISi1aMmJRbnhfekFFYjJJRGtXOXpTSTh4UkN4VndlOEIxUHhfMU5CeUN6ZFNLb2FiN1VMV01ERkpjY052VG01X050WmlNb3hPN0ZzbF9BZkFVVFZOTjlvUUduUFFfbTNQWGs1YUJlTmoyblR0UW5ITE1Ed0JCaXExdGdoRkhORjhPV1dqekxOUUNLUk9XY3JtaU5DOVlGZndtZw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 06:30:00 GMT",
-      "source": "AFR",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOFdhQ2p3SmNrb0ltbF9oaUxOSnplNUVoc2RDcy1kZlRFR0NsV1hCekNwanVjczBDckRxcFVodmc4RUZlbVp4SWtzbWY1QWJhLXdnQVFtWjA4d0VaMTlNTUg5THNWLWFRM2tjYXZXdjBFYzFjRmRlcWlwLXJkWXdTb05sV2hVeW9BdmhiOXpXNE14bFdHc200?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 21:41:15 GMT",
+      "source": "IndexBox",
       "isLive": true,
       "coverage": 1
     }
