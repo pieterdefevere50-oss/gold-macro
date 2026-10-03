@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-03T15:00:17.431Z",
+  "generatedAt": "2026-10-03T20:05:05.409Z",
   "bias": {
-    "score": -37,
-    "label": "Bearish",
-    "bullWeight": 11,
-    "bearWeight": 24,
-    "driversCounted": 12
+    "score": -16,
+    "label": "Mixed / Neutral",
+    "bullWeight": 13,
+    "bearWeight": 18,
+    "driversCounted": 10
   },
   "market": {
     "gold": {
       "price": 4141.799805,
-      "asOf": "2026-10-03T15:00:16.980Z"
+      "asOf": "2026-10-03T20:05:04.891Z"
     },
     "realYield10": {
       "value": 2.88,
@@ -109,18 +109,6 @@
   ],
   "live": [
     {
-      "title": "Gold edges up as softer inflation data dents Fed rate-hike bets",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjFDcnNwNW1uWWdUaW5iaWRNLV8wbnl4QlBGWHFjN0twMDlINnBTclUwYnRGN1pTVTJYbE94MFEyRk5yQ0FUcXlQLXNkYkdPQXQ3eFlDUko4cXF1Vkc5TUg2LXZKSTAzc3hnOGJrT1hoNl92bG1mY1lSM2MwR3lBcGVQS2NmNDVEWUdURERqcDVkYUhpVTVXZDZqUEF6c1RCMjFFeWpOZWNKVzdGS3dFNzQ3VQ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 19:14:47 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold heads for weekly drop as strong dollar, elevated Treasury yields weigh",
       "sentiment": "bear",
       "kind": "driver",
@@ -151,32 +139,8 @@
       "impact": 2,
       "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEJFSEZwWWs4VFp3UjBkeG5WcFcxYnlkcnVOTWFDNkc1VU01QXRGakVzcTl3U3g4VzBYdTVMak9UZnBSaDRyOXNYVU9qcXBJc0V6ZXFhbXkxa3Y5czV3SHdYTHdXMEZQLTZrS2RUdUpjTmlGY044WVAybHdTRlVQbXZ6LTdZZExtVEVHTHk1SUI0SEZ0SGlVM1JqRDRwWDFyZ2NyaG1B?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 11:29:26 GMT",
+      "pubDate": "Sat, 03 Oct 2026 09:40:46 GMT",
       "source": "Nhan Dan Online",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold price holding steady despite potential headwinds from a solid US labor market",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Strong labour data cuts the odds of near-term rate cuts, typically pressuring gold.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRkJUOFlGTG9fOW1nODJRU1ozRE53YzRvcnVfa1JsQkYzRGQ2aXZ1clNaZzI1YUF2LVY5UWlXNXA0b2Y0UFYwQWFHTmMtWE1UUE50OXlRdF9iZURPelRlR0pQaVl5cWIxNWRabllrS1kycS1USmdhNTVwWThlNVRyeFJxZEZGdjV0TGRPczVPWUEzaWYtMnp4aHMxOHFrM0k2enFRUnZvalF3SkZOSTVRZ2I1TF9yNnVTUGJmOUVB?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 16:02:57 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold fails at $4,200 despite NFP miss as US yields climb",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkxGaDB6UUJWb3hFa3FTN1ZBTXEyRHJVdjRKQTUwMFlJMHhheWp5NzI4LXZYWi1aSE9xSi1yZmxCVHBjQWlGZ1lhMnFkV2VEQXBGVW5hR0NXN1JGdXJFWFRRYUh4eXpnZENMZXJIbmJnWUdWOG9ud0V4bUJ1eVNkQVJibUN6d0xsaUdqdFBBZ0xYb0NrVnpQRC1IVDd4a2c?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 18:03:07 GMT",
-      "source": "fxstreet.com",
       "isLive": true,
       "coverage": 1
     },
@@ -193,6 +157,18 @@
       "coverage": 1
     },
     {
+      "title": "Gold (XAUUSD) Price Forecast: Weak Payrolls Bounce Fails as Sellers Return",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Weak labour data raises the odds of Fed rate cuts, which tends to support gold.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjRqS1UwbE40QXFjQnJLbGh4aXhQcEp1LTM1aFBWY0N0ekRKZmZXV1pXajFNT2stdzdrUklPSm1jWkllRzhOak5YSUduOFhHdDBjbEdfMGRVendYcy1PaFBlN09kY2VCUHVaTnlvV3ZmeUpmeGVYVUNjVVJmRU9fT0gzdEh2aDd1dy05blF0TkFvUTVxSXNNUWRIT0Fla2Z5c19ROTFRX0FvbVpkZHU0NE1STHlRR2FZMTBRQjRtVQ?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 15:05:32 GMT",
+      "source": "FXEmpire",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold prices fall",
       "sentiment": "bear",
       "kind": "price",
@@ -200,7 +176,7 @@
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWmgwVElhOHpCOTVqQ2h1bU9FVkJyTzljLXN2SjhwY19rU2JTSGxmd0lzLVh3RFZjT1N3ek0zMGxsSkdzNjJQVlNtVVZUQVE2NERMMUpwSndocWJ4TVBGRW9GU1VLUVlYb3BIeXIzT1hLVmdpOVdHc3FxY1lvMWdIRw?oc=5",
       "pubDate": "Sat, 03 Oct 2026 07:03:37 GMT",
-      "source": "VnExpress International",
+      "source": "e.vnexpress.net",
       "isLive": true,
       "coverage": 1
     },
