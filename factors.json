@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-03T04:16:37.754Z",
+  "generatedAt": "2026-10-03T08:15:46.237Z",
   "bias": {
     "score": -19,
     "label": "Mixed / Neutral",
@@ -11,7 +11,7 @@
   "market": {
     "gold": {
       "price": 4141.799805,
-      "asOf": "2026-10-03T04:16:37.253Z"
+      "asOf": "2026-10-03T08:15:45.767Z"
     },
     "realYield10": {
       "value": 2.88,
@@ -164,7 +164,7 @@
       "text": "Weak labour data raises the odds of Fed rate cuts, which tends to support gold.",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnFmdDhUUGFOMXQ4bTVBNFRWZGIzZW5yNzJpRzFhVDV0bUlIdkM2V0VrbDFvV0JRX05vTGhINno2WnNja3VNSGJSblF4QXN0ZF8zX0RkNDM1ZjFKdUx3Q1pkbTRhX01nSXZ4d1loak9FTlBDZjk4WVc3ZExPeFViRVlmWDhmQmNDVlJYVXkwLWJXM1RiMGRSQ1hBNA?oc=5",
       "pubDate": "Fri, 02 Oct 2026 14:57:13 GMT",
-      "source": "BullionVault",
+      "source": "bullionvault.com",
       "isLive": true,
       "coverage": 1
     },
@@ -217,14 +217,14 @@
       "coverage": 1
     },
     {
-      "title": "Entrenched premium leaves gold primed to climb despite surge in US bond yields",
-      "sentiment": "bull",
+      "title": "Gold prices fall",
+      "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU3R0WHlxZ0o0bmdDZlB5ZGUwbWI2Z3hkQWJPemo5b3hNM3dwdjlxNldrSnlvODRKc2hOaVgtSVU5YWRIM2ZkQk1yaGllUjNqT2FCU21JbjEtcm51WThVNURrODh3dDN0WnVuakdQOUF0dTEwM1BDSDFTVkktY2VVOEc5RzJ2ckY4VDVKNEttZ1BwRTZCRldKTVhhV3JhMnJkVmVwdC1JdGpucFdqR1JOY1pvSTZjOXJn?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 15:59:56 GMT",
-      "source": "Reuters",
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWmgwVElhOHpCOTVqQ2h1bU9FVkJyTzljLXN2SjhwY19rU2JTSGxmd0lzLVh3RFZjT1N3ek0zMGxsSkdzNjJQVlNtVVZUQVE2NERMMUpwSndocWJ4TVBGRW9GU1VLUVlYb3BIeXIzT1hLVmdpOVdHc3FxY1lvMWdIRw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 07:03:37 GMT",
+      "source": "VnExpress International",
       "isLive": true,
       "coverage": 1
     }
