@@ -2,332 +2,308 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>XAU/USD Macro Driver Overview — live gold macro bias</title>
-<meta name="description" content="Data-driven macro bias for gold (XAU/USD): real yields, dollar, Fed path and classified news, updated automatically every 4 hours.">
-<meta property="og:title" content="XAU/USD Macro Driver Overview">
-<meta property="og:description" content="Data-driven macro bias for gold: real yields, dollar, Fed path and live news, auto-updated.">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🪙</text></svg>">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gold Macro Monitor</title>
+<meta name="description" content="A live read on what is pushing gold: real yields, the dollar, the Fed path and the news flow, updated every four hours.">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2228%22 fill=%22%23b8891a%22/><text x=%2250%22 y=%2268%22 font-size=%2250%22 text-anchor=%22middle%22 font-family=%22sans-serif%22 font-weight=%22800%22 fill=%22%23fff%22>Au</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..700&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<script>
+(function(){var t;try{t=localStorage.getItem("gm-theme")}catch(e){}
+if(!t)t=window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";
+document.documentElement.setAttribute("data-theme",t)})();
+</script>
 <style>
-  :root{
-    --bg:#0f1115; --card:#171a21; --card-border:#262b36; --text:#e8eaed; --text-dim:#9aa1ac;
-    --bull:#22c55e; --bull-bg:rgba(34,197,94,0.12);
-    --bear:#ef4444; --bear-bg:rgba(239,68,68,0.12);
-    --neutral:#eab308; --neutral-bg:rgba(234,179,8,0.12);
-    --accent:#d4af37; --radius:14px;
-  }
-  *{box-sizing:border-box;}
-  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Inter",system-ui,Segoe UI,Roboto,sans-serif;
-    background:radial-gradient(circle at top, #171a21 0%, var(--bg) 60%);color:var(--text);padding:32px 16px 60px;}
-  .wrap{max-width:920px;margin:0 auto;}
-  header{margin-bottom:24px;}
-  .title-row{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap;}
-  h1{font-size:26px;margin:0 0 4px;letter-spacing:-0.01em;}
-  h1 span{color:var(--accent);}
-  .subtitle{color:var(--text-dim);font-size:13.5px;margin:0;}
-  .meta{font-size:12.5px;color:var(--text-dim);margin-top:6px;}
-  #refreshBtn{background:var(--accent);color:#1a1a1a;border:none;padding:10px 18px;border-radius:10px;
-    font-weight:600;font-size:13.5px;cursor:pointer;display:flex;align-items:center;gap:8px;
-    transition:transform .15s ease, box-shadow .15s ease;white-space:nowrap;}
-  #refreshBtn:hover{transform:translateY(-1px);box-shadow:0 6px 18px rgba(212,175,55,0.35);}
-  #refreshBtn.spinning svg{animation:spin 0.8s linear infinite;}
-  @keyframes spin{from{transform:rotate(0deg);}to{transform:rotate(360deg);}}
-  .price-strip{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin:18px 0 6px;}
-  .price-box{background:var(--card);border:1px solid var(--card-border);border-radius:12px;padding:12px 14px;}
-  .price-box .label{font-size:11px;color:var(--text-dim);text-transform:uppercase;letter-spacing:.04em;}
-  .price-box .value{font-size:18px;font-weight:700;margin-top:2px;}
-  .price-box .value.small{font-size:14px;font-weight:600;}
-  .summary{background:linear-gradient(135deg, rgba(212,175,55,0.08), rgba(212,175,55,0.02));
-    border:1px solid rgba(212,175,55,0.3);border-radius:var(--radius);padding:18px 20px;margin:20px 0 26px;}
-  .summary h2{margin:0 0 8px;font-size:15px;color:var(--accent);}
-  .bias-line{display:flex;align-items:center;gap:10px;font-size:15px;font-weight:700;margin-bottom:8px;flex-wrap:wrap;}
-  .bias-pill{padding:4px 12px;border-radius:20px;font-size:13px;font-weight:700;}
-  .bias-pill.bull{background:var(--bull-bg);color:var(--bull);}
-  .bias-pill.bear{background:var(--bear-bg);color:var(--bear);}
-  .bias-pill.neutral{background:var(--neutral-bg);color:var(--neutral);}
-  .summary p{margin:0;color:var(--text-dim);font-size:13.5px;line-height:1.5;}
-  .filters{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap;}
-  .filter-btn{background:var(--card);border:1px solid var(--card-border);color:var(--text-dim);padding:7px 14px;
-    border-radius:20px;font-size:12.5px;cursor:pointer;font-weight:600;transition:all .15s ease;}
-  .filter-btn.active{border-color:var(--accent);color:var(--accent);background:rgba(212,175,55,0.08);}
-  .legend{display:flex;gap:18px;flex-wrap:wrap;font-size:12px;color:var(--text-dim);margin-bottom:20px;
-    padding:10px 14px;background:var(--card);border:1px solid var(--card-border);border-radius:10px;}
-  .legend-item{display:flex;align-items:center;gap:6px;}
-  .dot{width:9px;height:9px;border-radius:50%;display:inline-block;}
-  .dot.bull{background:var(--bull);} .dot.bear{background:var(--bear);} .dot.neutral{background:var(--neutral);}
-  .stars{color:var(--accent);}
-  .card{background:var(--card);border:1px solid var(--card-border);border-radius:var(--radius);padding:18px 20px;
-    margin-bottom:14px;transition:transform .15s ease, border-color .15s ease, box-shadow .15s ease;
-    position:relative;overflow:hidden;}
-  .card:hover{transform:translateY(-2px);border-color:#3a3f4d;box-shadow:0 10px 30px rgba(0,0,0,0.35);}
-  .card::before{content:'';position:absolute;left:0;top:0;bottom:0;width:4px;}
-  .card.bull::before{background:var(--bull);} .card.bear::before{background:var(--bear);} .card.neutral::before{background:var(--neutral);}
-  .card-top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:8px;}
-  .card-title-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap;}
-  .rank{font-size:11px;color:var(--text-dim);font-weight:700;background:#20242e;padding:2px 8px;border-radius:6px;}
-  .card h3{margin:0;font-size:16px;}
-  .tag{font-size:11.5px;font-weight:700;padding:4px 11px;border-radius:20px;white-space:nowrap;letter-spacing:.02em;}
-  .tag.bull{background:var(--bull-bg);color:var(--bull);} .tag.bear{background:var(--bear-bg);color:var(--bear);} .tag.neutral{background:var(--neutral-bg);color:var(--neutral);}
-  .card p{margin:6px 0 10px;color:var(--text-dim);font-size:13.5px;line-height:1.55;}
-  .card-footer{display:flex;justify-content:space-between;align-items:center;font-size:11.5px;color:var(--text-dim);flex-wrap:wrap;gap:6px;}
-  .impact{display:flex;align-items:center;gap:6px;}
-  .live-badge{display:inline-flex;align-items:center;gap:5px;font-size:10.5px;font-weight:700;color:#ff5b5b;text-transform:uppercase;letter-spacing:.04em;}
-  .live-badge .pulse{width:6px;height:6px;border-radius:50%;background:#ff5b5b;animation:pulse 1.4s infinite;}
-  @keyframes pulse{0%{opacity:1;}50%{opacity:.3;}100%{opacity:1;}}
-  .card-footer a{color:var(--text-dim);text-decoration:none;border-bottom:1px dotted var(--card-border);}
-  .card-footer a:hover{color:var(--accent);}
-  footer{margin-top:32px;text-align:center;color:var(--text-dim);font-size:11.5px;line-height:1.6;
-    border-top:1px solid var(--card-border);padding-top:18px;}
+:root{--bg:#f5f6f8;--surface:#fff;--ink:#12151c;--ink2:#4a5260;--ink3:#8a919e;--line:#e2e5eb;--brass:#9a7412;--bull:#0e9f6e;--bear:#e5484d;--neu:#b7791f;--on:#fff;--wash:#eef0f4;
+ --disp:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;--body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif}
+[data-theme=dark]{--bg:#0b0e13;--surface:#12161d;--ink:#eceff4;--ink2:#a2abb9;--ink3:#6c7686;--line:#222a36;--brass:#dcb85f;--bull:#3ddc97;--bear:#ff6b72;--neu:#e9b949;--on:#0b0e13;--wash:#171c25}
+*{box-sizing:border-box}
+html{background:var(--bg)}
+body{margin:0;min-height:100vh;background:var(--bg);color:var(--ink);font:15px/1.55 var(--body);-webkit-font-smoothing:antialiased;font-variant-numeric:tabular-nums}
+button{font:inherit;color:inherit;cursor:pointer}
+a{color:var(--ink2);text-underline-offset:3px}a:hover{color:var(--ink)}
+:focus-visible{outline:2px solid var(--brass);outline-offset:3px;border-radius:6px}
+.wrap{max-width:1600px;margin:0 auto;padding:0 56px}
 
-  .price-box .delta{font-size:11.5px;margin-top:3px;font-weight:600;}
-  .price-box .delta.up{color:var(--bear);} .price-box .delta.down{color:var(--bull);} .price-box .delta.flat{color:var(--text-dim);}
-  .price-box .asof{font-size:10.5px;color:var(--text-dim);margin-top:2px;}
-  .banner{display:none;margin:14px 0 0;padding:10px 14px;border-radius:10px;font-size:12.5px;border:1px solid rgba(234,179,8,.4);background:var(--neutral-bg);color:var(--neutral);}
-  .banner.show{display:block;}
-  .gauge{position:relative;height:10px;border-radius:6px;margin:12px 0 4px;background:linear-gradient(90deg,var(--bear),#3a3f4d 50%,var(--bull));}
-  .gauge .needle{position:absolute;top:-4px;width:4px;height:18px;border-radius:2px;background:#fff;transform:translateX(-2px);box-shadow:0 0 6px rgba(0,0,0,.6);}
-  .gauge-labels{display:flex;justify-content:space-between;font-size:10.5px;color:var(--text-dim);}
-  .badge{display:inline-flex;align-items:center;gap:4px;font-size:10.5px;font-weight:700;padding:2px 8px;border-radius:6px;background:#20242e;color:var(--text-dim);letter-spacing:.03em;}
-  .badge.data{color:var(--accent);} .badge.stale{color:var(--neutral);} .badge.price{color:#8ab4f8;}
-  .charts{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;margin:0 0 26px;}
-  .chart-box{background:var(--card);border:1px solid var(--card-border);border-radius:var(--radius);padding:14px 16px;}
-  .chart-box h4{margin:0 0 8px;font-size:12px;color:var(--text-dim);text-transform:uppercase;letter-spacing:.04em;font-weight:600;}
-  .chart-box svg{width:100%;height:110px;display:block;}
-  .chart-empty{font-size:12.5px;color:var(--text-dim);padding:28px 4px;text-align:center;line-height:1.5;}
-  details.method{background:var(--card);border:1px solid var(--card-border);border-radius:var(--radius);padding:14px 18px;margin-top:26px;font-size:13px;color:var(--text-dim);line-height:1.6;}
-  details.method summary{cursor:pointer;font-weight:700;color:var(--text);}
-  details.method ul{margin:8px 0 0;padding-left:18px;} details.method li{margin-bottom:5px;}
-  .empty{padding:30px;text-align:center;color:var(--text-dim);font-size:13.5px;}
-  :focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
-  @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;}}
-  @media(max-width:600px){h1{font-size:22px;} .card-top{flex-direction:column;}}
+/* top bar */
+.bar{border-bottom:1px solid var(--line)}
+.bar .wrap{display:flex;align-items:center;gap:14px;height:68px}
+.logo{width:34px;height:34px;border-radius:10px;background:var(--brass);color:var(--on);display:grid;place-items:center;font:700 14px var(--disp)}
+.brand{font:600 18px var(--disp);letter-spacing:-.01em}
+.sp{flex:1}
+.status{display:inline-flex;align-items:center;gap:9px;font-size:13px;color:var(--ink2);padding:7px 14px;border:1px solid var(--line);border-radius:99px;background:var(--surface)}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--bull);animation:pulse 2.4s infinite}
+.status.warn .dot{background:var(--neu);animation:none}
+@keyframes pulse{0%{box-shadow:0 0 0 0 color-mix(in srgb,var(--bull) 55%,transparent)}70%,100%{box-shadow:0 0 0 7px transparent}}
+.ib{width:38px;height:38px;border-radius:11px;border:1px solid var(--line);background:var(--surface);color:var(--ink2);display:grid;place-items:center}
+.ib:hover{color:var(--ink);border-color:var(--ink3)}
+.ib svg{width:17px;height:17px}
+.ib.spin svg{animation:spin .8s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}
+
+/* hero */
+.hero{display:grid;grid-template-columns:minmax(0,1fr) 430px;border-bottom:1px solid var(--line)}
+.hl{padding:56px 56px 44px 0}
+.hr{padding:56px 0 44px 48px;border-left:1px solid var(--line)}
+.verdict{margin:0;max-width:19em;text-wrap:balance;font:600 clamp(34px,3.6vw,54px)/1.08 var(--disp);letter-spacing:-.025em}
+.vsub{margin:16px 0 0;color:var(--ink2);font-size:15.5px;max-width:46em}
+.beam{position:relative;display:flex;margin-top:40px;height:74px}
+.half{flex:1;display:flex;min-width:0}
+.half.l{justify-content:flex-end}
+.side{display:flex;gap:3px;height:100%;min-width:0}
+.half.l .side{flex-direction:row-reverse}
+.axis{position:absolute;left:50%;top:-10px;bottom:-10px;width:2px;background:var(--ink);opacity:.85;transform:translateX(-1px);border-radius:2px}
+.blk{min-width:0;border-radius:9px;color:var(--on);padding:8px 11px;font-size:12.5px;font-weight:600;line-height:1.25;overflow:hidden;display:flex;align-items:flex-end;animation:grow .8s cubic-bezier(.2,.8,.2,1) both;animation-delay:calc(var(--i)*70ms)}
+.blk span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.blk.bull{background:var(--bull);transform-origin:left}
+.blk.bear{background:var(--bear);transform-origin:right}
+@keyframes grow{from{transform:scaleX(0);opacity:0}}
+.beam-l{display:flex;justify-content:space-between;margin-top:18px;font-size:13px;color:var(--ink2)}
+.beam-l b{font:600 18px var(--disp);color:var(--ink);margin-left:6px}
+.gl{color:var(--ink3);font-size:13px}
+.price{margin:0;font:600 clamp(44px,4.4vw,64px)/1 var(--disp);letter-spacing:-.03em}
+.price small{font-size:.45em;color:var(--ink3);font-weight:500;letter-spacing:0}
+.pmeta{display:flex;align-items:center;gap:10px;margin-top:12px;font-size:13px;color:var(--ink2);flex-wrap:wrap}
+.chip{display:inline-flex;align-items:center;gap:5px;padding:2px 9px;border-radius:99px;font-size:12px;font-weight:600;background:var(--wash)}
+.chip.up{color:var(--bull);background:color-mix(in srgb,var(--bull) 14%,transparent)}
+.chip.dn{color:var(--bear);background:color-mix(in srgb,var(--bear) 14%,transparent)}
+.chart{margin-top:30px}
+svg[role=img]{display:block;width:100%;height:150px}
+.cap{display:flex;justify-content:space-between;gap:12px;margin-top:8px;font-size:12.5px;color:var(--ink3)}
+.noh{height:150px;border:1px dashed var(--line);border-radius:12px;display:grid;place-items:center;text-align:center;padding:0 24px;color:var(--ink3);font-size:13px}
+
+/* market strip */
+.strip{display:grid;grid-template-columns:repeat(4,1fr);border-bottom:1px solid var(--line)}
+.tile{padding:26px 32px;border-left:1px solid var(--line)}
+.tile:first-child{padding-left:0;border-left:0}
+.tile .k{color:var(--ink2);font-size:13.5px}
+.tile .v{font:600 30px/1.15 var(--disp);letter-spacing:-.02em;margin-top:4px}
+.tile .d{margin-top:6px;font-size:13px;display:flex;gap:8px;align-items:center;flex-wrap:wrap;color:var(--ink3)}
+.imp-up{color:var(--bear)}.imp-dn{color:var(--bull)}.imp-fl{color:var(--ink3)}
+
+/* body */
+.main{display:grid;grid-template-columns:minmax(0,1fr) 380px;gap:56px;padding:44px 56px 56px}
+.sh{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:6px;flex-wrap:wrap}
+h2{margin:0;font:600 24px var(--disp);letter-spacing:-.02em}
+.seg{display:inline-flex;background:var(--wash);border-radius:11px;padding:3px}
+.seg button{border:0;background:transparent;border-radius:8px;padding:6px 14px;font-size:13px;font-weight:500;color:var(--ink2)}
+.seg button[aria-pressed=true]{background:var(--surface);color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.12)}
+.seg em{font-style:normal;color:var(--ink3);margin-left:5px}
+.list{background:var(--surface);border:1px solid var(--line);border-radius:16px;margin-top:16px;overflow:hidden}
+details.row{border-top:1px solid var(--line)}
+details.row:first-child{border-top:0}
+summary{display:grid;grid-template-columns:14px minmax(0,1fr) auto 84px 16px;gap:18px;align-items:center;padding:17px 24px;cursor:pointer;list-style:none}
+summary::-webkit-details-marker{display:none}
+summary:hover{background:var(--wash)}
+.mk{width:11px;height:11px;border-radius:50%;background:var(--neu)}
+.row.bull .mk{background:var(--bull)}.row.bear .mk{background:var(--bear)}
+.row.pa .mk{background:transparent;box-shadow:inset 0 0 0 2px var(--ink3)}
+.rt{min-width:0}
+.rt b{display:block;font-weight:600;font-size:15px;line-height:1.35}
+.rs{display:block;color:var(--ink2);font-size:13.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-top:1px}
+.im{display:inline-flex;gap:3px}
+.im s{width:9px;height:18px;border-radius:3px;background:var(--line)}
+.im s.f{background:var(--ink)}
+.tg{font-size:13px;font-weight:600;text-align:right}
+.tg.bull{color:var(--bull)}.tg.bear{color:var(--bear)}.tg.neutral{color:var(--neu)}.tg.pr{color:var(--ink3)}
+.chev{width:15px;height:15px;color:var(--ink3);transition:transform .2s}
+details[open] .chev{transform:rotate(90deg)}
+.rb{padding:0 24px 22px 56px;max-width:60em}
+.rb p{margin:0 0 12px;color:var(--ink2)}
+.meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:12.5px;color:var(--ink3)}
+.bd{padding:2px 10px;border-radius:99px;background:var(--wash);color:var(--ink2);font-size:12px;font-weight:500}
+.bd.w{color:var(--neu)}
+.sep{padding:12px 24px;background:var(--wash);color:var(--ink3);font-size:13px;border-top:1px solid var(--line)}
+.empty{padding:40px;text-align:center;color:var(--ink3)}
+aside{position:sticky;top:24px;align-self:start;display:grid;gap:36px}
+aside h3{margin:0 0 4px;font:600 18px var(--disp);letter-spacing:-.01em}
+aside .note{margin:0 0 14px;color:var(--ink2);font-size:13.5px}
+.legend{display:grid;gap:10px;margin:0;padding:0;list-style:none;font-size:13.5px;color:var(--ink2)}
+.legend li{display:flex;gap:12px;align-items:flex-start}
+.legend i{width:11px;height:11px;border-radius:50%;margin-top:5px;flex:none}
+
+/* footer */
+footer{border-top:1px solid var(--line)}
+.how{display:grid;grid-template-columns:repeat(3,1fr);gap:56px;padding:44px 0 28px}
+.how h3{margin:0 0 8px;font:600 17px var(--disp)}
+.how p{margin:0;color:var(--ink2);font-size:14px;max-width:34em}
+.fine{margin:0;padding:0 0 44px;color:var(--ink3);font-size:12.5px}
+.banner{display:none;margin:20px 0 0;padding:11px 16px;border-radius:12px;font-size:13.5px;color:var(--neu);background:color-mix(in srgb,var(--neu) 12%,transparent)}
+.banner.on{display:block}
+
+@media(max-width:1180px){.wrap{padding:0 32px}.main{padding:44px 32px 56px}.hero,.main{grid-template-columns:1fr}.hl{padding-right:0}.hr{padding:36px 0 40px;border-left:0;border-top:1px solid var(--line)}aside{position:static}.main{gap:44px}.how{grid-template-columns:1fr;gap:28px}.strip{grid-template-columns:repeat(2,1fr)}.tile:nth-child(3){border-left:0;padding-left:0}.tile:nth-child(n+3){border-top:1px solid var(--line)}}
+@media(max-width:700px){.wrap{padding:0 18px}.main{padding:36px 18px 48px}.hl{padding:36px 0 30px}summary{grid-template-columns:12px minmax(0,1fr) 72px 14px;gap:12px;padding:15px 16px}.im{display:none}.rb{padding:0 16px 20px 40px}.blk span{display:none}.status{display:none}.tile{padding:20px 16px}.tile .v{font-size:24px}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 </style>
 </head>
 <body>
-<div class="wrap">
-  <header>
-    <div class="title-row">
-      <div>
-        <h1><span>XAU</span>/USD Macro Driver Overview</h1>
-        <p class="subtitle">Ranked macroeconomic factors currently influencing gold, tagged bullish or bearish</p>
-        <p class="meta">Content generated: <span id="generatedAt">—</span> · Page checked: <span id="lastUpdated">—</span></p>
-      </div>
-      <button id="refreshBtn" onclick="refreshData()">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
-          <path d="M23 4v6h-6M1 20v-6h6"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
-        </svg>
-        Refresh
-      </button>
-    </div>
-    <p class="meta" id="autoStatus">Backend refreshes this content automatically every 4 hours, even with no one viewing the page.</p>
-    <div class="banner" id="staleBanner" role="status"></div>
+<header class="bar"><div class="wrap">
+  <div class="logo" aria-hidden="true">Au</div><div class="brand">Gold Macro Monitor</div><div class="sp"></div>
+  <div class="status" id="status"><span class="dot"></span><span id="stxt">Loading</span></div>
+  <button class="ib" id="ref" type="button" aria-label="Refresh data" title="Refresh"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.6-6.4"/><path d="M21 4v5h-5"/></svg></button>
+  <button class="ib" id="thm" type="button" aria-label="Switch light or dark theme" title="Theme"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
+</div></header>
 
-    <div class="price-strip" id="priceStrip">
-      <div class="price-box"><div class="label">Gold Spot</div><div class="value" id="goldPrice">—</div><div class="asof" id="goldAsOf"></div></div>
-      <div class="price-box"><div class="label">10Y Real Yield</div><div class="value small" id="realYield">—</div><div class="delta" id="realYieldD"></div><div class="asof" id="realYieldA"></div></div>
-      <div class="price-box"><div class="label">10Y Treasury Yield</div><div class="value small" id="y10">—</div><div class="delta" id="y10D"></div><div class="asof" id="y10A"></div></div>
-      <div class="price-box"><div class="label">Broad Dollar Index</div><div class="value small" id="dollar">—</div><div class="delta" id="dollarD"></div><div class="asof" id="dollarA"></div></div>
-      <div class="price-box"><div class="label">Fed Funds Target</div><div class="value small" id="fedTarget">—</div><div class="asof" id="fedA"></div></div>
-    </div>
-  </header>
+<div class="wrap"><div class="banner" id="ban" role="status"></div></div>
 
-  <div class="summary">
-    <h2>Net Macro Bias</h2>
-    <div class="bias-line" id="biasLine">—</div>
-    <div class="gauge" aria-hidden="true"><div class="needle" id="needle" style="left:50%"></div></div>
-    <div class="gauge-labels" aria-hidden="true"><span>Bearish −100</span><span>0</span><span>+100 Bullish</span></div>
-    <p style="margin-top:10px">Score = (bullish weight − bearish weight) ÷ total weight, over macro <em>drivers</em> only. Price-action headlines are shown but excluded, because price is the outcome, not the cause. See methodology below.</p>
+<section class="wrap hero" aria-label="Current read">
+  <div class="hl">
+    <h1 class="verdict" id="verdict">Reading the market…</h1>
+    <p class="vsub" id="vsub"></p>
+    <div id="beamBox"></div>
   </div>
-
-  <div class="charts" id="charts">
-    <div class="chart-box"><h4>Gold spot (per update)</h4><div id="chartGold"></div></div>
-    <div class="chart-box"><h4>Net macro bias score</h4><div id="chartBias"></div></div>
+  <div class="hr">
+    <div class="gl">Gold spot, XAU/USD</div>
+    <p class="price" id="price">—</p>
+    <div class="pmeta" id="pmeta"></div>
+    <div class="chart" id="cg"></div>
   </div>
+</section>
 
-  <div class="filters">
-    <button class="filter-btn active" data-filter="all" onclick="setFilter('all')">All Factors</button>
-    <button class="filter-btn" data-filter="bull" onclick="setFilter('bull')">Bullish Only</button>
-    <button class="filter-btn" data-filter="bear" onclick="setFilter('bear')">Bearish Only</button>
-    <button class="filter-btn" data-filter="neutral" onclick="setFilter('neutral')">Neutral / Mixed</button>
-  </div>
+<section class="wrap strip" id="strip" aria-label="Market data"></section>
 
-  <div class="legend">
-    <span class="legend-item"><span class="dot bull"></span> Bullish for XAU/USD</span>
-    <span class="legend-item"><span class="dot bear"></span> Bearish for XAU/USD</span>
-    <span class="legend-item"><span class="dot neutral"></span> Neutral / Mixed</span>
-    <span class="legend-item"><span class="stars">★★★★★</span> = Impact weight</span>
-    <span class="legend-item"><span class="live-badge"><span class="pulse"></span>Live</span> = auto-detected news, not hand-written</span>
-  </div>
-
-  <div id="cardList"></div>
-
-  <details class="method">
-    <summary>Methodology, data sources &amp; limits</summary>
-    <ul>
-      <li><b>Data-driven factors</b> (real yields, dollar, Fed path) are computed each run from FRED series: DFII10 (10Y TIPS yield), DTWEXBGS (Fed broad dollar index — not the ICE DXY), DGS2, DFF, DFEDTARL/U.</li>
-      <li><b>Thresholds:</b> real yield ±10bp over 4 weeks; dollar ±1% over 4 weeks; Fed path = 2Y yield vs fed funds ±25bp (above ⇒ market pricing hikes, below ⇒ pricing cuts).</li>
-      <li><b>Impact weights (1–5):</b> real yields 5, Fed path 5, dollar 4, central-bank buying 4, fiscal 3, geopolitics 3, live news 2 (3 if ≥3 outlets carry the story).</li>
-      <li><b>Manual factors</b> (central banks, fiscal, geopolitics) have no free keyless data feed; they are hand-written and show a review date. ETF flows and futures positioning are not included.</li>
-      <li><b>Live news</b> comes from Google News RSS, classified by direction-aware rules (e.g. "yields rise" ≠ "yields fall"), with duplicate stories merged. It can still mis-tag; always check the source.</li>
-      <li><b>Track record:</b> every update appends the gold price and bias score to history, so you can see whether the bias has led price. It is a summary of drivers, not a forecast.</li>
-    </ul>
-  </details>
-
-  <footer>
-    Informational overview only — not financial advice. Structural factors are evergreen commentary; "Live" items are
-    auto-classified from recent headlines by direction-aware rules and can still mis-tag — verify against the linked
-    source before treating anything here as a firm signal.<br>
-    Content regenerated automatically on a schedule by a GitHub Actions job — no manual editing required.
-  </footer>
+<div class="main">
+  <section aria-label="Macro drivers">
+    <div class="sh"><h2>What is moving gold</h2>
+      <div class="seg" role="group" aria-label="Filter drivers" id="seg"></div></div>
+    <div class="list" id="list"></div>
+  </section>
+  <aside>
+    <div><h3>Bias over time</h3><p class="note">Net score at each update. Above the line leans bullish for gold, below leans bearish.</p><div id="cb"></div></div>
+    <div><h3>How to read the colors</h3>
+      <ul class="legend">
+        <li><i style="background:var(--bull)"></i><span>Bullish: supports a higher gold price, such as falling real yields or a weaker dollar.</span></li>
+        <li><i style="background:var(--bear)"></i><span>Bearish: pressures gold, such as rising yields or a stronger dollar.</span></li>
+        <li><i style="background:var(--neu)"></i><span>Neutral: no clear push either way right now.</span></li>
+        <li><i style="box-shadow:inset 0 0 0 2px var(--ink3)"></i><span>Price action: what gold did, not why. Shown for context and left out of the score.</span></li>
+      </ul></div>
+  </aside>
 </div>
 
+<footer><div class="wrap">
+  <div class="how">
+    <div><h3>Where the numbers come from</h3><p>Real yields, the dollar and the Fed path are calculated from FRED data on every update. Gold spot comes from gold-api.com, and the news flow from Google News.</p></div>
+    <div><h3>How the score works</h3><p>Each driver has a weight from 1 to 5. The score is bullish weight minus bearish weight, divided by the total, from −100 to +100. Past ±20 the page calls a tilt. Real yields and the Fed path carry the most weight.</p></div>
+    <div><h3>What it can't see</h3><p>ETF flows and futures positioning are not covered. News is tagged by rules and can be wrong, so check the source. Central bank, fiscal and geopolitical items are written by hand and show their review date.</p></div>
+  </div>
+  <p class="fine">For information only, not financial advice. The score summarizes current drivers and is not a forecast.</p>
+</div></footer>
+
 <script>
-let currentFilter = "all";
-let dataset = { evergreen: [], live: [], generatedAt: null, bias: null, market: {} };
-let history = [];
+const $=id=>document.getElementById(id),
+esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])),
+safe=u=>/^https?:\/\//i.test(u||"")?u:null,
+NAME={fed_path:"the Fed path",real_yields:"real yields",dollar:"the dollar",cb_buying:"central bank buying",fiscal:"fiscal pressure",geopolitics:"geopolitical risk"},
+BL={fed_path:"Fed path",real_yields:"Real yields",dollar:"Dollar",cb_buying:"Central banks",fiscal:"Fiscal",geopolitics:"Geopolitics"},
+TAG={bull:"Bullish",bear:"Bearish",neutral:"Neutral"};
+let D={evergreen:[],live:[]},H=[],F="all",liveGold=null;
 
-const $ = (id) => document.getElementById(id);
-const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const safeUrl = (u) => (/^https?:\/\//i.test(u || "") ? u : null);
-const starString = (n) => "★★★★★".slice(0, n) + "☆☆☆☆☆".slice(0, 5 - n);
-const tagLabel = (s) => (s === "bull" ? "Bullish" : s === "bear" ? "Bearish" : "Neutral");
+const ago=i=>{const t=Date.parse(i);if(!t)return"";const m=Math.max(0,Math.round((Date.now()-t)/6e4));return m<2?"just now":m<60?m+" min ago":m<2880?Math.round(m/60)+" hours ago":Math.round(m/1440)+" days ago"};
+const short=t=>String(t).replace(/\s*\(.*?\)/g,"");
+const sign=(n,d=0)=>(n>0?"+":n<0?"−":"")+Math.abs(n).toFixed(d);
+const items=()=>[...(D.evergreen||[]),...(D.live||[])];
+const drivers=()=>items().filter(f=>f.kind!=="price");
 
-function ago(iso) {
-  const t = new Date(iso).getTime(); if (!Number.isFinite(t)) return "";
-  const m = Math.max(0, Math.round((Date.now() - t) / 60000));
-  if (m < 60) return m + "m ago"; const h = Math.round(m / 60); return h < 48 ? h + "h ago" : Math.round(h / 24) + "d ago";
-}
-
-function setDelta(id, change, unit, digits) {
-  const el = $(id); if (!el) return;
-  if (change == null || !Number.isFinite(change)) { el.textContent = ""; return; }
-  const cls = Math.abs(change) < (unit === "%" ? 0.05 : 0.005) ? "flat" : change > 0 ? "up" : "down";
-  el.className = "delta " + cls;
-  el.textContent = (change > 0 ? "▲ +" : change < 0 ? "▼ " : "• ") + change.toFixed(digits) + unit + " · 4 wk";
-}
-
-function renderMarket() {
-  const m = dataset.market || {};
-  if (m.gold && !$("goldPrice").dataset.live) $("goldPrice").textContent = "$" + Number(m.gold.price).toLocaleString(undefined, { maximumFractionDigits: 0 });
-  if (m.gold) $("goldAsOf").textContent = $("goldPrice").dataset.live ? "live" : "at last update";
-  if (m.realYield10) { $("realYield").textContent = m.realYield10.value.toFixed(2) + "%"; setDelta("realYieldD", m.realYield10.change, "pp", 2); $("realYieldA").textContent = "as of " + m.realYield10.asOf; }
-  if (m.y10) { $("y10").textContent = m.y10.value.toFixed(2) + "%"; setDelta("y10D", m.y10.change, "pp", 2); $("y10A").textContent = "as of " + m.y10.asOf; }
-  if (m.dollar) { $("dollar").textContent = m.dollar.value.toFixed(1); setDelta("dollarD", m.dollar.changePct, "%", 1); $("dollarA").textContent = "as of " + m.dollar.asOf; }
-  if (m.fedTarget) { $("fedTarget").textContent = m.fedTarget.low.toFixed(2) + "%–" + m.fedTarget.high.toFixed(2) + "%"; $("fedA").textContent = "as of " + m.fedTarget.asOf; }
-}
-
-function renderBias() {
-  const b = dataset.bias;
-  if (!b) { $("biasLine").textContent = "—"; return; }
-  const cls = b.label === "Bullish" ? "bull" : b.label === "Bearish" ? "bear" : "neutral";
-  $("biasLine").innerHTML = `<span class="bias-pill ${cls}">${esc(b.label)}</span>
-    <span style="color:var(--text-dim);font-weight:400;font-size:13px;">score ${b.score > 0 ? "+" : ""}${b.score} · bullish weight ${b.bullWeight} vs bearish ${b.bearWeight} · ${b.driversCounted} drivers counted</span>`;
-  $("needle").style.left = (50 + b.score / 2) + "%";
-}
-
-function cardHTML(f, i) {
-  const badges = [];
-  if (f.kind === "price") badges.push('<span class="badge price">PRICE ACTION · not in bias</span>');
-  if (f.dataDriven) badges.push('<span class="badge data">DATA-DRIVEN</span>');
-  if (f.manual) badges.push(`<span class="badge">STRUCTURAL · reviewed ${esc(f.reviewed)}</span>`);
-  if (f.stale) badges.push('<span class="badge stale">STALE · source unavailable, showing last reading</span>');
-  const link = safeUrl(f.link);
-  const liveBit = f.isLive
-    ? `<span class="live-badge"><span class="pulse"></span>Live</span>${f.source ? " · " + esc(f.source) : ""}${f.coverage > 1 ? " · +" + (f.coverage - 1) + " more outlet" + (f.coverage > 2 ? "s" : "") : ""}${f.pubDate ? " · " + esc(ago(f.pubDate)) : ""}${link ? ` · <a href="${esc(link)}" target="_blank" rel="noopener noreferrer">source</a>` : ""}`
-    : (f.asOf ? `<span>data as of ${esc(f.asOf)}</span>` : "");
-  return `<div class="card ${esc(f.sentiment)}">
-    <div class="card-top">
-      <div class="card-title-row"><span class="rank">#${i + 1}</span><h3>${esc(f.title)}</h3></div>
-      <span class="tag ${esc(f.sentiment)}">${tagLabel(f.sentiment)}</span>
-    </div>
-    ${badges.length ? `<div style="margin:2px 0 6px;display:flex;gap:6px;flex-wrap:wrap">${badges.join("")}</div>` : ""}
-    <p>${esc(f.text)}</p>
-    <div class="card-footer"><span class="impact"><span class="stars">${starString(f.impact)}</span> Impact</span><span>${liveBit}</span></div>
-  </div>`;
-}
-
-function render() {
-  renderMarket(); renderBias();
-  const combined = [...dataset.evergreen, ...dataset.live].sort((a, b) => (a.kind === "price") - (b.kind === "price") || b.impact - a.impact);
-  const filtered = currentFilter === "all" ? combined : combined.filter((f) => f.sentiment === currentFilter);
-  $("cardList").innerHTML = filtered.length ? filtered.map(cardHTML).join("") : '<div class="empty">No factors in this category right now.</div>';
-  renderStale(); renderCharts();
-}
-
-function renderStale() {
-  const b = $("staleBanner"); const t = new Date(dataset.generatedAt).getTime();
-  if (Number.isFinite(t) && Date.now() - t > 9 * 3600e3) {
-    b.textContent = `⚠ Data may be out of date — last successful update was ${ago(dataset.generatedAt)}. The scheduled job normally runs every 4 hours.`; b.classList.add("show");
-  } else if ((dataset.errors || []).length) {
-    b.textContent = `Some data sources were unavailable on the last update (${dataset.errors.length}); affected items are marked STALE.`; b.classList.add("show");
-  } else b.classList.remove("show");
-}
-
-function lineChart(points, opts) {
-  const pts = points.filter((p) => p.y != null);
-  if (pts.length < 2) return `<div class="chart-empty">History builds automatically with every update (${pts.length} of 2 points so far).<br>Check back after the next few runs.</div>`;
-  const W = 400, H = 110, pad = 6;
-  const xs = pts.map((p) => p.x), ys = pts.map((p) => p.y);
-  const x0 = Math.min(...xs), x1 = Math.max(...xs);
-  let y0 = opts.fixed ? opts.fixed[0] : Math.min(...ys), y1 = opts.fixed ? opts.fixed[1] : Math.max(...ys);
-  if (y0 === y1) { y0 -= 1; y1 += 1; }
-  const X = (x) => pad + ((x - x0) / (x1 - x0 || 1)) * (W - 2 * pad), Y = (y) => H - pad - ((y - y0) / (y1 - y0)) * (H - 2 * pad);
-  const d = pts.map((p, i) => (i ? "L" : "M") + X(p.x).toFixed(1) + " " + Y(p.y).toFixed(1)).join(" ");
-  const zero = opts.zero && y0 < 0 && y1 > 0 ? `<line x1="0" x2="${W}" y1="${Y(0)}" y2="${Y(0)}" stroke="#3a3f4d" stroke-dasharray="3 3"/>` : "";
-  const last = pts[pts.length - 1];
-  return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="${esc(opts.label)}">${zero}
-    <path d="${d}" fill="none" stroke="${opts.color}" stroke-width="2" vector-effect="non-scaling-stroke"/>
-    <circle cx="${X(last.x)}" cy="${Y(last.y)}" r="3" fill="${opts.color}"/></svg>
-    <div style="display:flex;justify-content:space-between;font-size:10.5px;color:var(--text-dim);margin-top:4px">
-      <span>${opts.fmt(Math.min(...ys))} – ${opts.fmt(Math.max(...ys))}</span><span>latest ${opts.fmt(last.y)} · ${pts.length} pts</span></div>`;
-}
-function renderCharts() {
-  const h = history.map((r) => ({ x: new Date(r.t).getTime(), gold: r.gold, score: r.score }));
-  $("chartGold").innerHTML = lineChart(h.map((r) => ({ x: r.x, y: r.gold })), { color: "#d4af37", label: "Gold spot history", fmt: (v) => "$" + Math.round(v).toLocaleString() });
-  $("chartBias").innerHTML = lineChart(h.map((r) => ({ x: r.x, y: r.score })), { color: "#22c55e", label: "Net macro bias score history", fixed: [-100, 100], zero: true, fmt: (v) => (v > 0 ? "+" : "") + Math.round(v) });
-}
-
-function setFilter(f) {
-  currentFilter = f;
-  document.querySelectorAll(".filter-btn").forEach((b) => b.classList.toggle("active", b.dataset.filter === f));
-  render();
-}
-function stampChecked() { $("lastUpdated").textContent = new Date().toLocaleString(undefined, { hour: "2-digit", minute: "2-digit" }); }
-
-async function loadFactors() {
-  try {
-    const res = await fetch(`./factors.json?t=${Date.now()}`, { cache: "no-store" });
-    if (!res.ok) throw new Error("bad response");
-    dataset = await res.json();
-    $("generatedAt").textContent = dataset.generatedAt
-      ? new Date(dataset.generatedAt).toLocaleString(undefined, { weekday: "short", month: "short", day: "numeric", hour: "2-digit", minute: "2-digit" }) + " (" + ago(dataset.generatedAt) + ")"
-      : "not yet generated";
-  } catch (e) {
-    $("autoStatus").textContent = "Could not load factors.json — check that it's deployed alongside index.html.";
+function verdict(){
+  const b=D.bias;if(!b){$("verdict").textContent="No data yet";return}
+  const side=b.label==="Bullish"?"bull":b.label==="Bearish"?"bear":null;
+  if(!side){$("verdict").textContent="Drivers are balanced, with no clear tilt.";$("vsub").textContent=`Net score ${sign(b.score)} of ±100: ${b.score<0?"a slight bearish lean":b.score>0?"a slight bullish lean":"an even split"}, short of the ±20 line where this page calls a tilt. Each block below is one driver, sized by its weight. Unlabeled blocks are news headlines; hover to read them.`}
+  else{
+    const top=drivers().filter(f=>f.sentiment===side).sort((a,c)=>c.impact-a.impact).slice(0,2);
+    const u=[...new Set(top.map(f=>f.key&&NAME[f.key]?NAME[f.key]:"recent headlines"))];
+    $("verdict").textContent=`A ${side==="bull"?"bullish":"bearish"} tilt, driven by ${u.join(" and ")}.`;
+    $("vsub").textContent=`Net score ${sign(b.score)} on a scale of −100 to +100, from ${b.driversCounted} scored drivers. Each block below is one driver, sized by its weight. Unlabeled blocks are news headlines; hover to read them.`;
   }
 }
-async function loadHistory() {
-  try { const r = await fetch(`./history.json?t=${Date.now()}`, { cache: "no-store" }); if (r.ok) history = await r.json(); } catch (e) { /* chart shows empty state */ }
+function beam(){
+  const b=D.bias;if(!b){$("beamBox").innerHTML="";return}
+  const dr=drivers().filter(f=>f.sentiment==="bull"||f.sentiment==="bear").sort((x,y)=>y.impact-x.impact);
+  const bu=dr.filter(f=>f.sentiment==="bull"),be=dr.filter(f=>f.sentiment==="bear");
+  const sum=a=>a.reduce((s,f)=>s+f.impact,0),tb=sum(bu),te=sum(be),mx=Math.max(tb,te,1);
+  const blk=(a,i0)=>a.map((f,i)=>`<div class="blk ${f.sentiment}" style="flex:${f.impact} 1 0;--i:${i0+i}" title="${esc(short(f.title))}, weight ${f.impact}"><span>${f.key&&BL[f.key]?esc(BL[f.key]):""}</span></div>`).join("");
+  $("beamBox").innerHTML=`<div class="beam" role="img" aria-label="Bearish weight ${te}, bullish weight ${tb}">
+    <div class="half l"><div class="side" style="width:${te/mx*100}%">${blk(be,0)}</div></div><div class="axis"></div>
+    <div class="half r"><div class="side" style="width:${tb/mx*100}%">${blk(bu,2)}</div></div></div>
+    <div class="beam-l"><span>Bearish weight<b>${te}</b></span><span>Bullish weight<b>${tb}</b></span></div>`;
 }
-async function tryLivePrice() {
-  try {
-    const res = await fetch("https://api.gold-api.com/price/XAU", { cache: "no-store" });
-    if (!res.ok) throw new Error("bad response");
-    const data = await res.json();
-    if (data && data.price) {
-      $("goldPrice").textContent = "$" + Number(data.price).toLocaleString(undefined, { maximumFractionDigits: 0 });
-      $("goldPrice").dataset.live = "1";
-    }
-  } catch (e) { /* falls back to the price stored at last update */ }
+function area(pts,o){
+  pts=pts.filter(p=>p.y!=null&&isFinite(p.y)&&isFinite(p.x));
+  if(pts.length<2)return`<div class="noh">${o.empty}</div>`;
+  const W=600,Hh=150,t=10,bt=10,xs=pts.map(p=>p.x),ys=pts.map(p=>p.y),x0=Math.min(...xs),x1=Math.max(...xs);
+  let a=o.fix?o.fix[0]:Math.min(...ys),b=o.fix?o.fix[1]:Math.max(...ys);
+  if(!o.fix){const pad=(b-a)*.15||1;a-=pad;b+=pad}
+  const X=v=>(v-x0)/(x1-x0||1)*W,Y=v=>Hh-bt-(v-a)/(b-a)*(Hh-t-bt);
+  const line=pts.map((p,i)=>(i?"L":"M")+X(p.x).toFixed(1)+" "+Y(p.y).toFixed(1)).join(" ");
+  const base=o.fix?Y(0):Hh,fill=line+` L${W} ${base.toFixed(1)} L0 ${base.toFixed(1)} Z`,z=o.fix?`<line x1="0" x2="${W}" y1="${Y(0)}" y2="${Y(0)}" stroke="var(--ink3)" stroke-width="1" stroke-dasharray="4 4" vector-effect="non-scaling-stroke"/>`:"";
+  const e=pts[pts.length-1],f=pts[0],dt=v=>new Date(v).toLocaleDateString([],{month:"short",day:"numeric"});
+  return`<svg viewBox="0 0 ${W} ${Hh}" preserveAspectRatio="none" role="img" aria-label="${o.label}"><defs><linearGradient id="${o.id}" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${o.color}" stop-opacity=".28"/><stop offset="1" stop-color="${o.color}" stop-opacity="0"/></linearGradient></defs>${z}<path d="${fill}" fill="url(#${o.id})"/><path d="${line}" fill="none" stroke="${o.color}" stroke-width="2.2" stroke-linejoin="round" vector-effect="non-scaling-stroke"/></svg>
+  <div class="cap"><span>${dt(f.x)}</span><span>${pts.length} updates</span><span>${dt(e.x)}</span></div>`;
 }
-async function refreshData() {
-  const btn = $("refreshBtn"); btn.classList.add("spinning");
-  await Promise.all([loadFactors(), loadHistory(), tryLivePrice()]);
-  stampChecked(); render();
-  setTimeout(() => btn.classList.remove("spinning"), 600);
+function gold(){
+  const m=D.market||{},g=liveGold??m.gold?.price;
+  $("price").innerHTML=g?`$${Math.floor(g).toLocaleString()}<small>.${(g%1).toFixed(2).slice(2)}</small>`:"—";
+  const pts=H.filter(r=>r.gold!=null),bits=[];
+  bits.push(`<span>${liveGold?"Live price":m.gold?"Price at last update":""}</span>`);
+  if(pts.length>=2&&g){const c=(g-pts[0].gold)/pts[0].gold*100;bits.push(`<span class="chip ${c>=0?"up":"dn"}">${sign(c,1)}% since tracking began</span>`)}
+  $("pmeta").innerHTML=bits.join("");
+  $("cg").innerHTML=area(H.map(r=>({x:Date.parse(r.t),y:r.gold})),{color:"var(--brass)",id:"ag",label:"Gold price at each update",empty:"The price chart starts after the next update. It refreshes every 4 hours."});
 }
-refreshData();
-setInterval(refreshData, 10 * 60 * 1000);
+function strip(){
+  const m=D.market||{},t=[];
+  const delta=(c,u,d,th)=>{if(c==null)return"";const k=Math.abs(c)<th?"fl":c>0?"up":"dn";const word=k==="fl"?"No clear move":k==="up"?"Headwind for gold":"Tailwind for gold";return`<span class="imp-${k}">${c>0?"▲":c<0?"▼":"●"} ${Math.abs(c).toFixed(d)}${u} in 4 weeks</span><span>${word}</span>`};
+  const tile=(k,v,d)=>`<div class="tile"><div class="k">${k}</div><div class="v">${v}</div><div class="d">${d||""}</div></div>`;
+  const R=m.realYield10,Y=m.y10,U=m.dollar,Fd=m.fedTarget;
+  t.push(tile("10-year real yield",R?R.value.toFixed(2)+"%":"—",R?delta(R.change,"pp",2,.05):""));
+  t.push(tile("10-year Treasury yield",Y?Y.value.toFixed(2)+"%":"—",Y?delta(Y.change,"pp",2,.05):""));
+  t.push(tile("Dollar, Fed broad index",U?U.value.toFixed(1):"—",U?delta(U.changePct,"%",1,.5):""));
+  t.push(tile("Fed funds target",Fd?Fd.low.toFixed(2)+" to "+Fd.high.toFixed(2)+"%":"—",Fd?`<span>As of ${esc(Fd.asOf)}</span>`:""));
+  $("strip").innerHTML=t.join("");
+}
+function row(f){
+  const p=f.kind==="price",bd=[];
+  if(p)bd.push('<span class="bd">Price action, not scored</span>');
+  if(f.dataDriven)bd.push('<span class="bd">Calculated from market data</span>');
+  if(f.manual)bd.push(`<span class="bd">Written by hand, reviewed ${esc(f.reviewed)}</span>`);
+  if(f.stale)bd.push('<span class="bd w">Source unavailable, showing last reading</span>');
+  if(f.isLive){if(f.source)bd.push(`<span>${esc(f.source)}</span>`);if(f.coverage>1)bd.push(`<span>${f.coverage-1} more outlet${f.coverage>2?"s":""} reporting this</span>`);if(f.pubDate)bd.push(`<span>${esc(ago(f.pubDate))}</span>`)}
+  else if(f.asOf)bd.push(`<span>Data as of ${esc(f.asOf)}</span>`);
+  const l=safe(f.link);if(l)bd.push(`<a href="${esc(l)}" target="_blank" rel="noopener noreferrer">Read the source</a>`);
+  const first=(String(f.text).match(/^.*?[.!?](?=\s|$)/)||[f.text])[0];
+  const bars=[1,2,3,4,5].map(n=>`<s class="${n<=f.impact?"f":""}"></s>`).join("");
+  return`<details class="row ${esc(f.sentiment)}${p?" pa":""}"><summary><i class="mk"></i><span class="rt"><b>${esc(f.title)}</b><span class="rs">${esc(first)}</span></span><span class="im" title="Weight ${f.impact} of 5">${bars}</span><span class="tg ${p?"pr":esc(f.sentiment)}">${p?"Price":TAG[f.sentiment]||"Neutral"}</span><svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></summary><div class="rb"><p>${esc(f.text)}</p><div class="meta">${bd.join("")}</div></div></details>`;
+}
+function list(){
+  const all=items(),cnt=k=>k==="all"?all.length:all.filter(f=>f.sentiment===k).length;
+  $("seg").innerHTML=[["all","All"],["bull","Bullish"],["bear","Bearish"],["neutral","Neutral"]].map(([k,l])=>`<button type="button" data-f="${k}" aria-pressed="${F===k}">${l}<em>${cnt(k)}</em></button>`).join("");
+  const x=(F==="all"?all:all.filter(f=>f.sentiment===F)),a=x.filter(f=>f.kind!=="price").sort((p,q)=>q.impact-p.impact),pr=x.filter(f=>f.kind==="price");
+  $("list").innerHTML=x.length?a.map(row).join("")+(pr.length?'<div class="sep">Price action: what gold did, shown for context</div>'+pr.map(row).join(""):""):'<div class="empty">Nothing in this group right now.</div>';
+}
+function status(){
+  const t=Date.parse(D.generatedAt),old=t&&Date.now()-t>9*36e5,err=(D.errors||[]).length;
+  $("status").className="status"+(old||err?" warn":"");
+  $("stxt").textContent=!t?"No update yet":old?`Data may be stale, updated ${ago(D.generatedAt)}`:`Updated ${ago(D.generatedAt)}`;
+  const b=$("ban");
+  if(old){b.textContent=`The last successful update was ${ago(D.generatedAt)}. The scheduled job normally runs every 4 hours, so check the Actions tab on GitHub.`;b.className="banner on"}
+  else if(err){b.textContent=`${err} data source${err>1?"s were":" was"} unavailable on the last update. Affected items are marked and show their last reading.`;b.className="banner on"}
+  else b.className="banner";
+}
+function render(){verdict();beam();gold();strip();list();status();
+  $("cb").innerHTML=area(H.map(r=>({x:Date.parse(r.t),y:r.score})),{color:"var(--ink)",id:"ab",label:"Bias score at each update",fix:[-100,100],empty:"History builds with every update. Two points are needed for a line."});
+}
+async function j(u){const r=await fetch(u+"?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw 0;return r.json()}
+async function load(){
+  $("ref").classList.add("spin");
+  const[f,h,g]=await Promise.allSettled([j("./factors.json"),j("./history.json"),fetch("https://api.gold-api.com/price/XAU",{cache:"no-store"}).then(r=>r.json())]);
+  if(f.status==="fulfilled")D=f.value;
+  if(h.status==="fulfilled"&&Array.isArray(h.value))H=h.value;
+  if(g.status==="fulfilled"&&+g.value?.price>0)liveGold=+g.value.price;
+  render();setTimeout(()=>$("ref").classList.remove("spin"),500);
+}
+$("ref").onclick=load;
+$("thm").onclick=()=>{const n=document.documentElement.getAttribute("data-theme")==="dark"?"light":"dark";document.documentElement.setAttribute("data-theme",n);try{localStorage.setItem("gm-theme",n)}catch(e){}};
+$("seg").onclick=e=>{const b=e.target.closest("button");if(b){F=b.dataset.f;list()}};
+load();setInterval(load,6e5);
 </script>
 </body>
 </html>
