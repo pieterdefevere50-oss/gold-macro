@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-03T20:05:05.409Z",
+  "generatedAt": "2026-10-04T03:12:27.523Z",
   "bias": {
     "score": -16,
     "label": "Mixed / Neutral",
@@ -11,7 +11,7 @@
   "market": {
     "gold": {
       "price": 4141.799805,
-      "asOf": "2026-10-03T20:05:04.891Z"
+      "asOf": "2026-10-04T03:12:27.061Z"
     },
     "realYield10": {
       "value": 2.88,
@@ -109,18 +109,6 @@
   ],
   "live": [
     {
-      "title": "Gold heads for weekly drop as strong dollar, elevated Treasury yields weigh",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcU0zNk9Vb0hCT2pmbmJmeVE2S0tGa3NIMEdscGhEamlzdUhTUFdfLTVUX3FCTHVWMFdySmktUmdvTFIwQnpsX192VzYxdnUyTTJOWXRETzh1Z2ZFYUJpYjM3MWJJdG1XSG1tQTZCMnhBRlAzaTZEdHJEREY5cEJla2VZU3ZaZGtVOFZQMzljR3JFdUtUUlJUbzk1NzZiRzBna1JIRmdiVng?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 02:24:00 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Bond Selloff Pressures Gold; Soft Jobs Data Offers a Reprieve",
       "sentiment": "bull",
       "kind": "driver",
@@ -129,18 +117,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2lrZXphNHNLcVpyMGpLSHByb1JQUVI4NkpkVzJaR0poSjU5SlVtN2hvdlpGSk1UTm9yRFFfYjhoclNoeS1mdzlfOUxjbnN0Znh5WUFIREItQUlxVENPNE4tdGVhNXVtcVo5Q3ZjX1ZvQ2pJOXhkZ3BHNnVGU0gxQ19YLUdKWmNkSkRLVWQ3UXlPUVEyZmUxd21SeHd4QnN6RjNuYg?oc=5",
       "pubDate": "Fri, 02 Oct 2026 17:33:47 GMT",
       "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Infographic: Gold prices dip on October 3 as US dollar strengthens",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEJFSEZwWWs4VFp3UjBkeG5WcFcxYnlkcnVOTWFDNkc1VU01QXRGakVzcTl3U3g4VzBYdTVMak9UZnBSaDRyOXNYVU9qcXBJc0V6ZXFhbXkxa3Y5czV3SHdYTHdXMEZQLTZrS2RUdUpjTmlGY044WVAybHdTRlVQbXZ6LTdZZExtVEVHTHk1SUI0SEZ0SGlVM1JqRDRwWDFyZ2NyaG1B?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 09:40:46 GMT",
-      "source": "Nhan Dan Online",
       "isLive": true,
       "coverage": 1
     },
@@ -157,6 +133,18 @@
       "coverage": 1
     },
     {
+      "title": "Gold heads for weekly drop as strong dollar, elevated Treasury yields weigh",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmdzY2EzTDVzdkpvUW5aVWx4QlhIZkZGOGhUbE1xQzQxSHprcWxBWWhicFp1MC1nOEppUWpmNDYtUnJXNHJ5cGN3ZmVoSVhIWXJ2dFJKN25IdnRhNEFwN0ZpRGZYdS11ZktiaXRYcnUzM0R1SGJjaFVqTV96VEtBSnduSHZvTVBJRmE3c1JHeVJTME14TTctcS1Jak5vVmvSAaQBQVVfeXFMTk8tQ1FnbGo0ZVUteWJQNks3QjIzSmx2SUY5M3JkcFRyOEM5THM0MGpwWDNvekxyU1dUVTdDcWtEZFIxY1g3WHhfSUxESEl3RGZzenFsdTBkcXl0aHB0TG9vbll2TC1adDhqV2RwVVlXbWdfTThXNHp3bjBqZkI2cXotdXo0SDU4QU4xRFRUcVhTRGo5cDJCeFJxUEhuUmpQTnhfNkc?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 03:37:00 GMT",
+      "source": "CNBC",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold (XAUUSD) Price Forecast: Weak Payrolls Bounce Fails as Sellers Return",
       "sentiment": "bull",
       "kind": "driver",
@@ -169,26 +157,38 @@
       "coverage": 1
     },
     {
-      "title": "Gold prices fall",
+      "title": "Infographic: Gold prices dip on October 3 as US dollar strengthens",
       "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWmgwVElhOHpCOTVqQ2h1bU9FVkJyTzljLXN2SjhwY19rU2JTSGxmd0lzLVh3RFZjT1N3ek0zMGxsSkdzNjJQVlNtVVZUQVE2NERMMUpwSndocWJ4TVBGRW9GU1VLUVlYb3BIeXIzT1hLVmdpOVdHc3FxY1lvMWdIRw?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 07:03:37 GMT",
-      "source": "e.vnexpress.net",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEJFSEZwWWs4VFp3UjBkeG5WcFcxYnlkcnVOTWFDNkc1VU01QXRGakVzcTl3U3g4VzBYdTVMak9UZnBSaDRyOXNYVU9qcXBJc0V6ZXFhbXkxa3Y5czV3SHdYTHdXMEZQLTZrS2RUdUpjTmlGY044WVAybHdTRlVQbXZ6LTdZZExtVEVHTHk1SUI0SEZ0SGlVM1JqRDRwWDFyZ2NyaG1B?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 09:40:46 GMT",
+      "source": "Nhan Dan Online",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Retreats As Treasury Yields Rebound",
+      "title": "Rallying oil price could see gold price fall $1400 an ounce next year",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSWZHMWEtY3pXQng2dkxPRzB1X2ZzYVdSS2hES3g1NXc2ZnoyNmNJN0dSTUtlTU51UmFaeE1JRy15U1FMQnJhUlFWbW9lV3Fmc2w1aTVjODJmQ1dycHFQT1pyQXg1UTNDVkY0S0F6bzdnLWVHWUh5TnlxZXR2UllMWGNlX0lzbExQbjJmckM4NjVoeFBISnFiSGtQRkZmcmNLVC1sMWNKUzlUaVEzWjlLVjBuYVhrYlZCdGtkMWc4S0VJeTl3M25NbQ?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 01:02:00 GMT",
-      "source": "FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZnlOWkdCQ2V3QVdlUzZ5UUtGRU5hUlN4c29WMzdFNmlISi1aMmJRbnhfekFFYjJJRGtXOXpTSTh4UkN4VndlOEIxUHhfMU5CeUN6ZFNLb2FiN1VMV01ERkpjY052VG01X050WmlNb3hPN0ZzbF9BZkFVVFZOTjlvUUduUFFfbTNQWGs1YUJlTmoyblR0UW5ITE1Ed0JCaXExdGdoRkhORjhPV1dqekxOUUNLUk9XY3JtaU5DOVlGZndtZw?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 06:30:00 GMT",
+      "source": "AFR",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold, silver prices fall in local, global markets",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2lQVlIyQkRnc2FNazJjbnhIQXJkYWE1VTRRMjdkc3F1SzVOLTVjMHprdFcwRkxuOHQ2NFg5bEpPdnpUMlgtR0VxeHpnODl2YUNXNk1uRG1DYVpXUktvY3FsbkpXTGlVN0F0c1VQRWM2OVA1RllZSGxNNkMzSkh4enEyNlVrTEFva1d5NtIBlAFBVV95cUxPanBubEJRX1V4dmZGd25uVXJzYjNFVEJLZGtiVzVWdGVPY3g5UmZjOGE4VTk2VmdjTmdsaGRPRUlWdFd1YktCTGc4MnhFQVVjSjBMNnpnbkZhUTBMQ3owbVBsMXlVQUstRXd1NmZGOWU0cFBzS3ZOdGJDUk1yOHFYUXBQdFI1LTk3dF96T1Z0azlBdE5M?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 23:23:51 GMT",
+      "source": "The Express Tribune",
       "isLive": true,
       "coverage": 1
     }
