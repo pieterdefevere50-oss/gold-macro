@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-04T05:54:40.395Z",
+  "generatedAt": "2026-10-04T15:27:06.963Z",
   "bias": {
-    "score": -16,
-    "label": "Mixed / Neutral",
-    "bullWeight": 13,
+    "score": -24,
+    "label": "Bearish",
+    "bullWeight": 11,
     "bearWeight": 18,
-    "driversCounted": 10
+    "driversCounted": 9
   },
   "market": {
     "gold": {
       "price": 4141.799805,
-      "asOf": "2026-10-04T05:54:39.961Z"
+      "asOf": "2026-10-04T15:27:06.452Z"
     },
     "realYield10": {
       "value": 2.88,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-10-03"
+      "asOf": "2026-10-04"
     }
   },
   "evergreen": [
@@ -121,6 +121,18 @@
       "coverage": 1
     },
     {
+      "title": "Gold futures rebound as October rate hike expectations fall.",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Fading rate-hike expectations lower the odds of tighter policy, easing pressure on non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLTNQR3JZVkhoTXhvTFczdmdmQzNLNXdvQkFSUDNkXzJUbVZ1LWVkTVFpSlhPWkhyQkMySmN2cmwzOWJNRGl5WnpSa3RzdVVKZ1B3Sm5ZTHFhNnJxOXY1SUtZaGFsekpTMUM3QXdwY19yUW5HY2FoYzdFSkZETzMtZ3VUUDFWdzdOMFBsUlNZTXdxU3owcFJwdzhlMmlNUHptaDlEVE82R3NWT3d5MVg5Zw?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 23:23:42 GMT",
+      "source": "CME Group",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Bond Selloff Pressures Gold; Soft Jobs Data Offers a Reprieve",
       "sentiment": "bull",
       "kind": "driver",
@@ -128,55 +140,31 @@
       "text": "Weak labour data raises the odds of Fed rate cuts, which tends to support gold.",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2lrZXphNHNLcVpyMGpLSHByb1JQUVI4NkpkVzJaR0poSjU5SlVtN2hvdlpGSk1UTm9yRFFfYjhoclNoeS1mdzlfOUxjbnN0Znh5WUFIREItQUlxVENPNE4tdGVhNXVtcVo5Q3ZjX1ZvQ2pJOXhkZ3BHNnVGU0gxQ19YLUdKWmNkSkRLVWQ3UXlPUVEyZmUxd21SeHd4QnN6RjNuYg?oc=5",
       "pubDate": "Fri, 02 Oct 2026 17:33:47 GMT",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold Pares Gains after Weak US Jobs Data, ETF Demand Resilient Despite High Bond Yields",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Weak labour data raises the odds of Fed rate cuts, which tends to support gold.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnFmdDhUUGFOMXQ4bTVBNFRWZGIzZW5yNzJpRzFhVDV0bUlIdkM2V0VrbDFvV0JRX05vTGhINno2WnNja3VNSGJSblF4QXN0ZF8zX0RkNDM1ZjFKdUx3Q1pkbTRhX01nSXZ4d1loak9FTlBDZjk4WVc3ZExPeFViRVlmWDhmQmNDVlJYVXkwLWJXM1RiMGRSQ1hBNA?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 14:57:13 GMT",
-      "source": "BullionVault",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold (XAUUSD) Price Forecast: Weak Payrolls Bounce Fails as Sellers Return",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Weak labour data raises the odds of Fed rate cuts, which tends to support gold.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjRqS1UwbE40QXFjQnJLbGh4aXhQcEp1LTM1aFBWY0N0ekRKZmZXV1pXajFNT2stdzdrUklPSm1jWkllRzhOak5YSUduOFhHdDBjbEdfMGRVendYcy1PaFBlN09kY2VCUHVaTnlvV3ZmeUpmeGVYVUNjVVJmRU9fT0gzdEh2aDd1dy05blF0TkFvUTVxSXNNUWRIT0Fla2Z5c19ROTFRX0FvbVpkZHU0NE1STHlRR2FZMTBRQjRtVQ?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 15:05:32 GMT",
-      "source": "FXEmpire",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold fails at $4,200 despite NFP miss as US yields climb",
+      "title": "When should a central bank sell its gold?",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkxGaDB6UUJWb3hFa3FTN1ZBTXEyRHJVdjRKQTUwMFlJMHhheWp5NzI4LXZYWi1aSE9xSi1yZmxCVHBjQWlGZ1lhMnFkV2VEQXBGVW5hR0NXN1JGdXJFWFRRYUh4eXpnZENMZXJIbmJnWUdWOG9ud0V4bUJ1eVNkQVJibUN6d0xsaUdqdFBBZ0xYb0NrVnpQRC1IVDd4a2c?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 18:03:07 GMT",
-      "source": "FXStreet",
+      "text": "Central-bank selling is a headwind for gold demand.",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwdDhNZVBRejBRMUtpdF9FdzY4RGtqYTAtMVhQbWlIRHRHa3JwdjVyRlZaZXg5ZzEtb25FVmtQYlNIdUxWTWFoeksycHlhQTk3SE5HT1RvdkUzcEZUUnNjZmx6ZXI0bWM0NEhMSnJXS1lZazJNYy1MTnRfTQ?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 16:27:14 GMT",
+      "source": "OMFIF",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Rallying oil price could see gold price fall $1400 an ounce next year",
-      "sentiment": "bear",
+      "title": "Shafaq News..Gold prices rise in Baghdad, Erbil markets",
+      "sentiment": "bull",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZnlOWkdCQ2V3QVdlUzZ5UUtGRU5hUlN4c29WMzdFNmlISi1aMmJRbnhfekFFYjJJRGtXOXpTSTh4UkN4VndlOEIxUHhfMU5CeUN6ZFNLb2FiN1VMV01ERkpjY052VG01X050WmlNb3hPN0ZzbF9BZkFVVFZOTjlvUUduUFFfbTNQWGs1YUJlTmoyblR0UW5ITE1Ed0JCaXExdGdoRkhORjhPV1dqekxOUUNLUk9XY3JtaU5DOVlGZndtZw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 06:30:00 GMT",
-      "source": "AFR",
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUmdhZHdNbUdBdlJ6NEwyMnhNRjgxV1c4U21EMW5tTGZWTzVfUHV5S0JiWjd5RW5RaFJ4dl9yM1QtT3dDNEd5SkJDOERBUG5XdUdzaHhkUmJpNC1KY1psUVQ2c2VSNDVVeWpfaVRrelNlWjFra2xyUlU0WGtXelBKREItcEtYdw?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 08:57:32 GMT",
+      "source": "شفق نيوز",
       "isLive": true,
       "coverage": 1
     },
@@ -187,7 +175,7 @@
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2lQVlIyQkRnc2FNazJjbnhIQXJkYWE1VTRRMjdkc3F1SzVOLTVjMHprdFcwRkxuOHQ2NFg5bEpPdnpUMlgtR0VxeHpnODl2YUNXNk1uRG1DYVpXUktvY3FsbkpXTGlVN0F0c1VQRWM2OVA1RllZSGxNNkMzSkh4enEyNlVrTEFva1d5NtIBlAFBVV95cUxPanBubEJRX1V4dmZGd25uVXJzYjNFVEJLZGtiVzVWdGVPY3g5UmZjOGE4VTk2VmdjTmdsaGRPRUlWdFd1YktCTGc4MnhFQVVjSjBMNnpnbkZhUTBMQ3owbVBsMXlVQUstRXd1NmZGOWU0cFBzS3ZOdGJDUk1yOHFYUXBQdFI1LTk3dF96T1Z0azlBdE5M?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 23:23:51 GMT",
+      "pubDate": "Sun, 04 Oct 2026 00:45:00 GMT",
       "source": "The Express Tribune",
       "isLive": true,
       "coverage": 1
