@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-04T03:12:27.523Z",
+  "generatedAt": "2026-10-04T05:54:40.395Z",
   "bias": {
     "score": -16,
     "label": "Mixed / Neutral",
@@ -11,7 +11,7 @@
   "market": {
     "gold": {
       "price": 4141.799805,
-      "asOf": "2026-10-04T03:12:27.061Z"
+      "asOf": "2026-10-04T05:54:39.961Z"
     },
     "realYield10": {
       "value": 2.88,
@@ -109,6 +109,18 @@
   ],
   "live": [
     {
+      "title": "Gold heads for weekly drop as strong dollar, elevated Treasury yields weigh",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcU0zNk9Vb0hCT2pmbmJmeVE2S0tGa3NIMEdscGhEamlzdUhTUFdfLTVUX3FCTHVWMFdySmktUmdvTFIwQnpsX192VzYxdnUyTTJOWXRETzh1Z2ZFYUJpYjM3MWJJdG1XSG1tQTZCMnhBRlAzaTZEdHJEREY5cEJla2VZU3ZaZGtVOFZQMzljR3JFdUtUUlJUbzk1NzZiRzBna1JIRmdiVng?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 16:43:25 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Bond Selloff Pressures Gold; Soft Jobs Data Offers a Reprieve",
       "sentiment": "bull",
       "kind": "driver",
@@ -116,7 +128,7 @@
       "text": "Weak labour data raises the odds of Fed rate cuts, which tends to support gold.",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2lrZXphNHNLcVpyMGpLSHByb1JQUVI4NkpkVzJaR0poSjU5SlVtN2hvdlpGSk1UTm9yRFFfYjhoclNoeS1mdzlfOUxjbnN0Znh5WUFIREItQUlxVENPNE4tdGVhNXVtcVo5Q3ZjX1ZvQ2pJOXhkZ3BHNnVGU0gxQ19YLUdKWmNkSkRLVWQ3UXlPUVEyZmUxd21SeHd4QnN6RjNuYg?oc=5",
       "pubDate": "Fri, 02 Oct 2026 17:33:47 GMT",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "isLive": true,
       "coverage": 1
     },
@@ -133,18 +145,6 @@
       "coverage": 1
     },
     {
-      "title": "Gold heads for weekly drop as strong dollar, elevated Treasury yields weigh",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmdzY2EzTDVzdkpvUW5aVWx4QlhIZkZGOGhUbE1xQzQxSHprcWxBWWhicFp1MC1nOEppUWpmNDYtUnJXNHJ5cGN3ZmVoSVhIWXJ2dFJKN25IdnRhNEFwN0ZpRGZYdS11ZktiaXRYcnUzM0R1SGJjaFVqTV96VEtBSnduSHZvTVBJRmE3c1JHeVJTME14TTctcS1Jak5vVmvSAaQBQVVfeXFMTk8tQ1FnbGo0ZVUteWJQNks3QjIzSmx2SUY5M3JkcFRyOEM5THM0MGpwWDNvekxyU1dUVTdDcWtEZFIxY1g3WHhfSUxESEl3RGZzenFsdTBkcXl0aHB0TG9vbll2TC1adDhqV2RwVVlXbWdfTThXNHp3bjBqZkI2cXotdXo0SDU4QU4xRFRUcVhTRGo5cDJCeFJxUEhuUmpQTnhfNkc?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 03:37:00 GMT",
-      "source": "CNBC",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold (XAUUSD) Price Forecast: Weak Payrolls Bounce Fails as Sellers Return",
       "sentiment": "bull",
       "kind": "driver",
@@ -157,14 +157,14 @@
       "coverage": 1
     },
     {
-      "title": "Infographic: Gold prices dip on October 3 as US dollar strengthens",
+      "title": "Gold fails at $4,200 despite NFP miss as US yields climb",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEJFSEZwWWs4VFp3UjBkeG5WcFcxYnlkcnVOTWFDNkc1VU01QXRGakVzcTl3U3g4VzBYdTVMak9UZnBSaDRyOXNYVU9qcXBJc0V6ZXFhbXkxa3Y5czV3SHdYTHdXMEZQLTZrS2RUdUpjTmlGY044WVAybHdTRlVQbXZ6LTdZZExtVEVHTHk1SUI0SEZ0SGlVM1JqRDRwWDFyZ2NyaG1B?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 09:40:46 GMT",
-      "source": "Nhan Dan Online",
+      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkxGaDB6UUJWb3hFa3FTN1ZBTXEyRHJVdjRKQTUwMFlJMHhheWp5NzI4LXZYWi1aSE9xSi1yZmxCVHBjQWlGZ1lhMnFkV2VEQXBGVW5hR0NXN1JGdXJFWFRRYUh4eXpnZENMZXJIbmJnWUdWOG9ud0V4bUJ1eVNkQVJibUN6d0xsaUdqdFBBZ0xYb0NrVnpQRC1IVDd4a2c?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 18:03:07 GMT",
+      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
