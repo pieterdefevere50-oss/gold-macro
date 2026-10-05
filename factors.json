@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-05T00:23:53.065Z",
+  "generatedAt": "2026-10-05T04:17:49.310Z",
   "bias": {
-    "score": -33,
+    "score": -40,
     "label": "Bearish",
-    "bullWeight": 7,
-    "bearWeight": 14,
-    "driversCounted": 5
+    "bullWeight": 9,
+    "bearWeight": 21,
+    "driversCounted": 9
   },
   "market": {
     "gold": {
-      "price": 4156.200195,
-      "asOf": "2026-10-05T00:23:52.592Z"
+      "price": 4134.700195,
+      "asOf": "2026-10-05T04:17:48.794Z"
     },
     "realYield10": {
       "value": 2.88,
@@ -109,6 +109,78 @@
   ],
   "live": [
     {
+      "title": "Gold gains as October Fed rate hike prospects fade",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 3,
+      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0dGUTlhay1BaS1nWk41NWd0UFdwbV9QSzNuNGZnTjVYRlpYNXo5NFF6TkZDWV9QNGpDMEhzd3QwUG41clBBTVVGalVyQy1nZkw5SHNRbGktSTJrbjJoMmZNR3NWNTY2WVpIeXA4YUVBOUlkb2dyMExSTXlpaDBvLU93bXpIZWtpbzNTMFAxMmJ5ODhMMmJIWUhVbw?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 02:12:00 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 3
+    },
+    {
+      "title": "Commodity Corner: Oil prices slip on rising supply; gold gains on softer Fed rate-hike bets",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWUViZnBrS0FRcC1qQkxGUVB1UW5OaE1wT0RMN0FCMjBzS3l6dk93blZ5VFJ1NVRPYXdPenN6R3ozVXdPbUx1YjE3aV92bW82M1ctNXpDQlhfOUxwOTllcDIySXVoMlFfWlNYOUdOYWlpQklzOW1FUElidlhENUtnVlJpaEx5MUdxaUZLT0w1RUJfZDk4Qjl3TTBYcy1pT3FHTmppRThfYW1BVzlzVTMxMkVaMFpJOV9zNTVHUzFhMGxsTGJoQWxQTDczT2ZXUFFydm9oLTlmcTVUU1ZuWEs2TFQ5emF0R28?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 02:47:00 GMT",
+      "source": "TradingView",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold edges higher after weekly slide as weak jobs data ease Fed hike bets",
+      "sentiment": "neutral",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Headline mixes bullish and bearish signals that roughly offset: Weak labour data raises the odds of Fed rate cuts, which tends to support gold. But: Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSjk4V3U5TlBLTXB3enVON05NMlhhQ3R1RkdyT2RUSUxVaVRwMG14SE9QZlNnUERRd0d6U1JrU18wbGw0VGFGMkF5UHdUVTNLTGpGRlBqNF9TbUtROGtjbzB1LUtBT3o1U1Nvc1M2NkNwNGRyeXV0Z0RseTJDSHVBOXhTNzMxaFFrNlRseEExRmFmdUN4NjZDMXBGZVhBNUdEMFltaFVzTHVWZFpNazREQTFNOWRkSUxxdncxR0stVFVlNi0ybGhIaA?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 01:20:01 GMT",
+      "source": "Investing.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold holds gains above $4,150 as traders trim bets on Fed rate hikes",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb1ZGN2FremJpRHhDUEM4LTlnNEdNa21XUmViNXVabjZwV0lVd3k3SmhKUG1PNnVzY3JBeWc5VXJBbjNCNnZ2TnBnYURLYmxwS3VaT0ZBcGFET3V1cTFUWmthSVkxOFdXUk42bXA0dllOcnJBWUgtT1g4N00xVjFZV1JBMmt2dDdrZmJtVWhJS3dUaTNzckc2VWZab0QwMVBGdlU0NVMtWDlXaWhZS3pJ?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 02:13:30 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Slumps 26% From Peak, Yet Retail Investors and Central Banks Keep Buying — Divergent Strategies Emerge",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Central-bank accumulation reinforces structural demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLWU1XV0VZQnl5Q3hkUUpIeWZ6QUVYazhpZC1uaW1sYzFyOW5BLWphWWhjUFJ1UnRjZnlKNlEzOTluMFY4X0dmdUphS2lMTWJYQTJ4SmZWSUgwdTdIODUwSTFySWZTNFVKeVYwNFVjVVFhZTl6Nnc?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 03:31:24 GMT",
+      "source": "finance.biggo.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Price Sees Cautious Gains – Analysis – 05-10-2026",
+      "sentiment": "bull",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZXJMSGFYamJJa0VubG9NS2NfR0tLVUwxT21zRjkzWWJtYmcyelNtcGNWQU05OTZuYU45RkdXclJzUmttZDdBVzZoZVpSenlQaXFHUjFQaDYzWWdwSmZCS3F6czZ6d0Zvd2ZGWW9oS1BHUGFpSnJCakRwdXdqVklQSnJSY09MUldKenNIY0xTRmRNWWFMTFpwOUhZUWpqS2xpSTlFS2o5NjVQNXJzd3l4eHZwQkM2Sm9kTkV3azNtV2ExZXNCSlZJWA?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 01:23:00 GMT",
+      "source": "Economies.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Predicted to hit Rs 2 lakh, will gold prices fall to Rs 1.25 lakh per 10 grams?",
       "sentiment": "bear",
       "kind": "price",
@@ -116,19 +188,7 @@
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUmF3Mld0WUo3UXdoWTY4bnBBaTdqSC1QcFFoYzFvM0FKZGs5U2M3ZmRmaHVRM0FNMWRrdVoxUjEyWkdZNjNRNnh1M3J4MmNHQzdLQjhXNVMtT2ZJV2pZX1l1VDhSc2dtbGhQc1NobWdySExTUEhNU1dWcUZObXpZeGpIbk9GYjlLb2ZNU0JZalloSXVoMHlrVTRoVVlLdDdUVUxTOWx3bVlkWFlvd0lCVm5IcEppbF9jd2xRVWpsbHRQZUwyaUVaSkdHT0xXVFJOYktLM0U0Z2dzUFJJMU05eE9qcmNhQ0JVLVZNbF85T1BnTEVkNVE?oc=5",
       "pubDate": "Sun, 04 Oct 2026 13:41:00 GMT",
-      "source": "timesofindia.indiatimes.com",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Shafaq News..Gold prices rise in Baghdad, Erbil markets",
-      "sentiment": "bull",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUmdhZHdNbUdBdlJ6NEwyMnhNRjgxV1c4U21EMW5tTGZWTzVfUHV5S0JiWjd5RW5RaFJ4dl9yM1QtT3dDNEd5SkJDOERBUG5XdUdzaHhkUmJpNC1KY1psUVQ2c2VSNDVVeWpfaVRrelNlWjFra2xyUlU0WGtXelBKREItcEtYdw?oc=5",
-      "pubDate": "Sun, 04 Oct 2026 08:57:32 GMT",
-      "source": "شفق نيوز",
+      "source": "The Times of India",
       "isLive": true,
       "coverage": 1
     }
