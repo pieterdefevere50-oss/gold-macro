@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-04T20:57:58.651Z",
+  "generatedAt": "2026-10-05T00:23:53.065Z",
   "bias": {
-    "score": -22,
+    "score": -33,
     "label": "Bearish",
-    "bullWeight": 9,
+    "bullWeight": 7,
     "bearWeight": 14,
-    "driversCounted": 6
+    "driversCounted": 5
   },
   "market": {
     "gold": {
-      "price": 4141.799805,
-      "asOf": "2026-10-04T20:57:58.160Z"
+      "price": 4156.200195,
+      "asOf": "2026-10-05T00:23:52.592Z"
     },
     "realYield10": {
       "value": 2.88,
@@ -109,18 +109,6 @@
   ],
   "live": [
     {
-      "title": "Gold futures rebound as October rate hike expectations fall.",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Fading rate-hike expectations lower the odds of tighter policy, easing pressure on non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLTNQR3JZVkhoTXhvTFczdmdmQzNLNXdvQkFSUDNkXzJUbVZ1LWVkTVFpSlhPWkhyQkMySmN2cmwzOWJNRGl5WnpSa3RzdVVKZ1B3Sm5ZTHFhNnJxOXY1SUtZaGFsekpTMUM3QXdwY19yUW5HY2FoYzdFSkZETzMtZ3VUUDFWdzdOMFBsUlNZTXdxU3owcFJwdzhlMmlNUHptaDlEVE82R3NWT3d5MVg5Zw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 23:23:42 GMT",
-      "source": "CME Group",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Predicted to hit Rs 2 lakh, will gold prices fall to Rs 1.25 lakh per 10 grams?",
       "sentiment": "bear",
       "kind": "price",
@@ -128,7 +116,7 @@
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUmF3Mld0WUo3UXdoWTY4bnBBaTdqSC1QcFFoYzFvM0FKZGs5U2M3ZmRmaHVRM0FNMWRrdVoxUjEyWkdZNjNRNnh1M3J4MmNHQzdLQjhXNVMtT2ZJV2pZX1l1VDhSc2dtbGhQc1NobWdySExTUEhNU1dWcUZObXpZeGpIbk9GYjlLb2ZNU0JZalloSXVoMHlrVTRoVVlLdDdUVUxTOWx3bVlkWFlvd0lCVm5IcEppbF9jd2xRVWpsbHRQZUwyaUVaSkdHT0xXVFJOYktLM0U0Z2dzUFJJMU05eE9qcmNhQ0JVLVZNbF85T1BnTEVkNVE?oc=5",
       "pubDate": "Sun, 04 Oct 2026 13:41:00 GMT",
-      "source": "The Times of India",
+      "source": "timesofindia.indiatimes.com",
       "isLive": true,
       "coverage": 1
     },
