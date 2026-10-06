@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-06T16:17:05.583Z",
+  "generatedAt": "2026-10-06T20:15:11.440Z",
   "bias": {
-    "score": -26,
-    "label": "Bearish",
-    "bullWeight": 13,
+    "score": -19,
+    "label": "Mixed / Neutral",
+    "bullWeight": 15,
     "bearWeight": 22,
-    "driversCounted": 12
+    "driversCounted": 13
   },
   "market": {
     "gold": {
-      "price": 4164.100098,
-      "asOf": "2026-10-06T16:17:05.012Z"
+      "price": 4169.399902,
+      "asOf": "2026-10-06T20:15:10.846Z"
     },
     "realYield10": {
       "value": 2.92,
@@ -133,14 +133,14 @@
       "coverage": 2
     },
     {
-      "title": "Gold price slides as yields surge, but SPDR holdings tell a different story",
-      "sentiment": "bear",
+      "title": "Gold climbs as dollar, Treasury yields slip",
+      "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2tGbmVaYk9welpLcElzUGZLRTlaR1dWM0M1R2VzZ2pZWGhLYjRLc0NDNXFHNExZdFRqVDRfWHVDWnFOeTNTamZsOXk1Y05abl9ZOXZMSXQtdThBNGJyWklmcVdXS2lDNU9pa0NmZ0lLY2pQS1VzQ242d1h5QUJnSTVhS1ltZllaRUpWTkdNV0I3TTNITWdMZFlja1lrWTVfOURUQjNRQzlSTnFLM20ySDRyMA?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 06:54:24 GMT",
-      "source": "investingLive",
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWlJrNUoyclBvOFFxZkxnNl9IbzVibmFWaW5UVjFMZW1hb2RLRUlIWDdmekl6bFJlMVM5ZklZWGdjVFJvRk1tVkZhb3VFMGlVTWQ1TURQbm4yQmR1LUhfRVFoS2hYVklXUnZqRDlGVnF2LUM5TE9hbk5VZGFhTnM2RWNmMURPTmUyOVFjYmtjM2g3ZHhD?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 17:00:00 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
@@ -153,6 +153,30 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdXdFSTJ6LWc1QTBUQW9WcklkUUhlNnQ3SlhCbHpHNHd0ZGhkQUc2VEpuVEFyUDNfbnVLbFZkaDIyay1kUzhSbFYxYlV0X25vRF9XbGlwUXRlS0JPYTRCakEwb3VrN0gxcUQ2VDk5dFQyNFc2aW13T3V6bEFOaDl4dFg2SE1DOGxCM2g2VF9Na0tPLW84aUtodnhDVFZFdnhJeERkcERGRmcwSFJh?oc=5",
       "pubDate": "Tue, 06 Oct 2026 09:02:53 GMT",
       "source": "Crux Investor",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold price slides as yields surge, but SPDR holdings tell a different story",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2tGbmVaYk9welpLcElzUGZLRTlaR1dWM0M1R2VzZ2pZWGhLYjRLc0NDNXFHNExZdFRqVDRfWHVDWnFOeTNTamZsOXk1Y05abl9ZOXZMSXQtdThBNGJyWklmcVdXS2lDNU9pa0NmZ0lLY2pQS1VzQ242d1h5QUJnSTVhS1ltZllaRUpWTkdNV0I3TTNITWdMZFlja1lrWTVfOURUQjNRQzlSTnFLM20ySDRyMA?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 06:54:24 GMT",
+      "source": "investingLive",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold rebounds from two-month lows as US Dollar, Treasury yields retreat",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjR1ZE1kWEZVdlNrNFczR2RNeGtWM3BTbmlYdG05dm1Ra2JDOXhyOVVsdVdoeVhKUTBBR3pkTVd3aDZSbnhnWmtGdFJKMDg3NkZUZEpXSE40TWtWZmpRWVdKWXZLOUhKNDdGRFN4U0lyZjNOcncwcjM2Rkh6NGJSelFlWnh2NHM3VzJ3dDhockRVd2VQeWFpMWQyVnRXNHl0QVRYU1hRaUZobHlGMmc?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 14:38:22 GMT",
+      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
@@ -181,26 +205,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold rebounds from two-month lows as US Dollar, Treasury yields retreat",
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Rebounds As Dollar Pulls Back From Yearly Highs",
       "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjR1ZE1kWEZVdlNrNFczR2RNeGtWM3BTbmlYdG05dm1Ra2JDOXhyOVVsdVdoeVhKUTBBR3pkTVd3aDZSbnhnWmtGdFJKMDg3NkZUZEpXSE40TWtWZmpRWVdKWXZLOUhKNDdGRFN4U0lyZjNOcncwcjM2Rkh6NGJSelFlWnh2NHM3VzJ3dDhockRVd2VQeWFpMWQyVnRXNHl0QVRYU1hRaUZobHlGMmc?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 12:33:58 GMT",
-      "source": "FXStreet",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold edges up as October rate hike bets ease, stronger dollar cap gains",
-      "sentiment": "neutral",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Headline mixes bullish and bearish signals that roughly offset: Fading rate-hike expectations lower the odds of tighter policy, easing pressure on non-yielding gold. But: A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEVLNVNjZkZIb3RmZFlwejB4UURPQU9FdnlCSEwwQXk5R29wTUhRMXZvVkVpdnN6X3NybXZ6c1JvdXVXaDNlWDhVUjZzRmVSTzVLdzFudlM2a2Z4UkI5WTNBQzc5R2xEeDlvZDgzVjAtbDlIenc5cEN5b0dCSWlldW04MjQtdWFDRUtGc1JRODhVVWR2TzNOSlRXMU9lSDJPS3gyZGxTZnAxRTlacHQ1bVYtUjhPdw?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 01:30:00 GMT",
-      "source": "Kitco",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ0xlZTF5YTQ4OGszRy1rMnJ1OThQVFQ4TTBQbkpjY0VMblEyaFRCdzhCSWJveVFpQmg1eWtQMjlXTVUtQ080REVTVUR1ZFN0MHFMZDU0Sm1CdkRvaHNaUTRLVllMZ0x0dVdaM0QwZm9ZaHc1NVZTTFA1Z3ZsTC0tQ2drQXlBb2QzbEUzQlJ5dzRtY3ZBU0N4ZTZMLXRVMmRXNnVJVDJHY0hMaElkNlRzdC16MVh0b1R0ZjVGUnJ1YWRydUlyc1QwZjc1QlBmeGpkbk1OMUgweS0?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 17:56:42 GMT",
+      "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     },
@@ -213,18 +225,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZV95MGs2dWpXNjJrOFIxcVlKb3NkaWpiaVdLOW56Mmx2SHBXMGNkcUxUVFZ5aWxsQk5CRS1VZ3Z0cFdIa2V1cEd4SVZCSnd5cXBLU21xbUxFV2dUd2Z5Q1VIbmNEZFFMZXBJcEhNMEIwaDM1cUFkWk9iYmZrdzdUWGxlUmIzenFZdFo3cWU3VU0zZ3NNZEEwQ014c0NDLXM?oc=5",
       "pubDate": "Tue, 06 Oct 2026 09:39:19 GMT",
       "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Advances as Lower Oil Prices Shift Focus to U.S. Rate Outlook",
-      "sentiment": "bull",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd040MTkxZzRHbmpHVlJDRGdITGJzYWowbmR5UnMybUZlTVJIQWxZbHpNWkxwaFZlemFEMHFycHpaaC1vbEZDUWltYWc1UUV2YXlEaEhHR2ZHTkJjVzcyV3ZCZFB6OWNobmprSFVWYTdFNXBEcHFyT0lhNzdweWtqS050YUE3dw?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 09:41:02 GMT",
-      "source": "Yahoo Finance UK",
       "isLive": true,
       "coverage": 1
     }
