@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-06T12:19:47.418Z",
+  "generatedAt": "2026-10-06T16:17:05.583Z",
   "bias": {
-    "score": -53,
+    "score": -26,
     "label": "Bearish",
-    "bullWeight": 7,
-    "bearWeight": 23,
-    "driversCounted": 9
+    "bullWeight": 13,
+    "bearWeight": 22,
+    "driversCounted": 12
   },
   "market": {
     "gold": {
-      "price": 4177.899902,
-      "asOf": "2026-10-06T12:19:46.937Z"
+      "price": 4164.100098,
+      "asOf": "2026-10-06T16:17:05.012Z"
     },
     "realYield10": {
       "value": 2.92,
@@ -109,6 +109,30 @@
   ],
   "live": [
     {
+      "title": "70-Tonne ETF Inflows Reinforce Current Gold Output Advantage",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising ETF holdings show investment demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDZUX1BVbHBWUklHQVVPdTMyZE1tWjhkREtqbzdCSHdqeTlBTkpWajZJTXcxR3NxZm4wQ1FYRnRQclc2eDFaRFIySUpOc01oLWdKSVFVenFPZU00Sl85VjExV2QyZGtROFR5V0FuZU5xOVJjbFlpWW1fVHBkN1lDMFhXOVhxZmpielM4dGpfajY3dEJnNVFvR1hmSQ?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 15:27:55 GMT",
+      "source": "Crux Investor",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold steady as stronger dollar and high yields offset waning Fed hike expectations",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish. A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0dGUTlhay1BaS1nWk41NWd0UFdwbV9QSzNuNGZnTjVYRlpYNXo5NFF6TkZDWV9QNGpDMEhzd3QwUG41clBBTVVGalVyQy1nZkw5SHNRbGktSTJrbjJoMmZNR3NWNTY2WVpIeXA4YUVBOUlkb2dyMExSTXlpaDBvLU93bXpIZWtpbzNTMFAxMmJ5ODhMMmJIWUhVbw?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 02:12:00 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 2
+    },
+    {
       "title": "Gold price slides as yields surge, but SPDR holdings tell a different story",
       "sentiment": "bear",
       "kind": "driver",
@@ -117,6 +141,30 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2tGbmVaYk9welpLcElzUGZLRTlaR1dWM0M1R2VzZ2pZWGhLYjRLc0NDNXFHNExZdFRqVDRfWHVDWnFOeTNTamZsOXk1Y05abl9ZOXZMSXQtdThBNGJyWklmcVdXS2lDNU9pa0NmZ0lLY2pQS1VzQ242d1h5QUJnSTVhS1ltZllaRUpWTkdNV0I3TTNITWdMZFlja1lrWTVfOURUQjNRQzlSTnFLM20ySDRyMA?oc=5",
       "pubDate": "Tue, 06 Oct 2026 06:54:24 GMT",
       "source": "investingLive",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Falling Fed Hike Odds Open a Selective Contrarian Case for Gold Producers",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdXdFSTJ6LWc1QTBUQW9WcklkUUhlNnQ3SlhCbHpHNHd0ZGhkQUc2VEpuVEFyUDNfbnVLbFZkaDIyay1kUzhSbFYxYlV0X25vRF9XbGlwUXRlS0JPYTRCakEwb3VrN0gxcUQ2VDk5dFQyNFc2aW13T3V6bEFOaDl4dFg2SE1DOGxCM2g2VF9Na0tPLW84aUtodnhDVFZFdnhJeERkcERGRmcwSFJh?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 09:02:53 GMT",
+      "source": "Crux Investor",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold price rises as oil falls, Fed rate hike bets ease",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Fading rate-hike expectations lower the odds of tighter policy, easing pressure on non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYjY2RDRaV2wtcElLS2dCUnhCYkxIU3pJSkRLcEoxNjJRdTl3Q0VwR2ZvOVJpTHBKdHNOaUR5OWFfMDRmRDhpel9EY2thMVhNT2pXYk9OT0kxWExpM3N1NkUxMW5UZld4NWoxTU02OEZNQklKMmFkekVTLWZ3bWtvSnVR?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 15:39:25 GMT",
+      "source": "Mining.com.au",
       "isLive": true,
       "coverage": 1
     },
@@ -133,26 +181,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold steady as stronger dollar and high yields offset waning Fed hike expectations",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 3,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish. A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0dGUTlhay1BaS1nWk41NWd0UFdwbV9QSzNuNGZnTjVYRlpYNXo5NFF6TkZDWV9QNGpDMEhzd3QwUG41clBBTVVGalVyQy1nZkw5SHNRbGktSTJrbjJoMmZNR3NWNTY2WVpIeXA4YUVBOUlkb2dyMExSTXlpaDBvLU93bXpIZWtpbzNTMFAxMmJ5ODhMMmJIWUhVbw?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 02:12:00 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 3
-    },
-    {
-      "title": "Gold prices rise after weak September jobs report dims Fed rate hike",
-      "sentiment": "bear",
+      "title": "Gold rebounds from two-month lows as US Dollar, Treasury yields retreat",
+      "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4N0lnTTVpS1lYQjNObkUycnJoVEstb05yQnZIYnhLT1JYa2NUMGZUR1pDd1lfVWNycTJsSFlnclF3S2liZ295MFFCZE14SXI3VkNZME9oVWZaeGFsZkV3UnpZdW5ub1k5ZHpzdHc1Rkk5OU94czJLeHpXOFpVcm8?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 14:49:46 GMT",
-      "source": "qz.com",
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjR1ZE1kWEZVdlNrNFczR2RNeGtWM3BTbmlYdG05dm1Ra2JDOXhyOVVsdVdoeVhKUTBBR3pkTVd3aDZSbnhnWmtGdFJKMDg3NkZUZEpXSE40TWtWZmpRWVdKWXZLOUhKNDdGRFN4U0lyZjNOcncwcjM2Rkh6NGJSelFlWnh2NHM3VzJ3dDhockRVd2VQeWFpMWQyVnRXNHl0QVRYU1hRaUZobHlGMmc?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 12:33:58 GMT",
+      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
@@ -163,7 +199,7 @@
       "impact": 2,
       "text": "Headline mixes bullish and bearish signals that roughly offset: Fading rate-hike expectations lower the odds of tighter policy, easing pressure on non-yielding gold. But: A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEVLNVNjZkZIb3RmZFlwejB4UURPQU9FdnlCSEwwQXk5R29wTUhRMXZvVkVpdnN6X3NybXZ6c1JvdXVXaDNlWDhVUjZzRmVSTzVLdzFudlM2a2Z4UkI5WTNBQzc5R2xEeDlvZDgzVjAtbDlIenc5cEN5b0dCSWlldW04MjQtdWFDRUtGc1JRODhVVWR2TzNOSlRXMU9lSDJPS3gyZGxTZnAxRTlacHQ1bVYtUjhPdw?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 01:35:21 GMT",
+      "pubDate": "Tue, 06 Oct 2026 01:30:00 GMT",
       "source": "Kitco",
       "isLive": true,
       "coverage": 1
