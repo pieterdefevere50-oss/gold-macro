@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-07T16:18:31.390Z",
+  "generatedAt": "2026-10-07T20:15:45.471Z",
   "bias": {
-    "score": -37,
+    "score": -26,
     "label": "Bearish",
-    "bullWeight": 11,
-    "bearWeight": 24,
+    "bullWeight": 13,
+    "bearWeight": 22,
     "driversCounted": 12
   },
   "market": {
     "gold": {
-      "price": 4112.200195,
-      "asOf": "2026-10-07T16:18:30.874Z"
+      "price": 4107.399902,
+      "asOf": "2026-10-07T20:15:44.939Z"
     },
     "realYield10": {
       "value": 2.95,
@@ -121,14 +121,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Falls as Stronger Dollar Puts Focus on Fed Rate Outlook",
+      "title": "Gold tests $4,100 as US Dollar and yields rise ahead of FOMC Minutes",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSG5jMXRvOEd4X3BIeTVtb2tkazdwR21SZnFxaTRkQndzWU1wZHlmMWREY3ViZXpyYl9LTUtTRFRsbHZ3WWVnU3U0TU9FZmlrc3VWa3Y0blE2SUdQREZEampWZm1rU1kzcF94ZXZWTTVNRWtzVWRjdWZVZEpnWkFTREE1SVFuQW8?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 09:41:27 GMT",
-      "source": "Yahoo Finance UK",
+      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2NaLTd5SDJmeVdSQUJ1VU1aQjBQeG9jVDNPVjNFdXUwWm1UeWt3bjQyRDc3WF85NGRnTWZEZnBsd0l0X2ZROTRqQWpORy03LXV4R01ZMVNwaWlxa09oQlJkTWVVbzl6SVVYaEFzaW1oMFJ0dmNCTjJEcUxSRHRhZ05JTkZKRmVmVXZLX0RCbzRVaWZXZGNQWlplVUNuWnpmN1Y1a0Y3SXdRVE1hR1NMVA?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 16:10:56 GMT",
+      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
@@ -157,6 +157,30 @@
       "coverage": 1
     },
     {
+      "title": "Gold, silver prices rise as yields ease but December Fed risk remains - Kitco AM Report",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcmdOTXBpdDBOakU0eEExcUhoM2ZNYXRrZzRjWWlxN2tnd1c0TVhHUmZJcWctRXFhS0lBbkM5aWdIbGt2WXp0ZElPa3NLcEJWNG9HSEVpNkc4RWRlakFtSVJrclFBbC1RNnhZZThMbkVydFExVUh0NXJPSUU3UHZxQUpKU3h2bVliMjhOa0tUMWhxNHdwOW1MeWxscXVRanJBWHBxX0lBZWU0cFY2ZlNyLVdjZWx4dW8?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 14:47:15 GMT",
+      "source": "Kitco",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Falls as Stronger Dollar Puts Focus on Fed Rate Outlook",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSG5jMXRvOEd4X3BIeTVtb2tkazdwR21SZnFxaTRkQndzWU1wZHlmMWREY3ViZXpyYl9LTUtTRFRsbHZ3WWVnU3U0TU9FZmlrc3VWa3Y0blE2SUdQREZEampWZm1rU1kzcF94ZXZWTTVNRWtzVWRjdWZVZEpnWkFTREE1SVFuQW8?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 09:41:27 GMT",
+      "source": "Yahoo Finance UK",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Is Down 20% from its Iran-War Peak: Which ETF Is Best Positioned for a Rebound?",
       "sentiment": "bull",
       "kind": "driver",
@@ -165,30 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLXdPWS14c3ZDQUxiNWFjSmFxcmtFNktWZVB2eWJhUTBXd3ZGbWJPZU9fYzE1UGY5cmlBWExsMFRSRnhQZVRpWVhGVWNvMDRPSzROeDc5c0drRmh1VGFydUY3bVF2M2RYdHNrRTlJWXItb0pVNUtta1hJZGV2T3pTS2lFT2FSdXZuNUdlbS1VNWRUWVhZVHVEaVFPU050Slg2aWh6V29zYWlONjlldUZkUVloNVlzUzlTUlMwS1RQMkU3amh6bkJRQXppc2VPSTY2Z3lKOTJxcw?oc=5",
       "pubDate": "Wed, 07 Oct 2026 12:51:34 GMT",
       "source": "TradingView",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold tests $4,100 as US Dollar and yields rise ahead of FOMC Minutes",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2NaLTd5SDJmeVdSQUJ1VU1aQjBQeG9jVDNPVjNFdXUwWm1UeWt3bjQyRDc3WF85NGRnTWZEZnBsd0l0X2ZROTRqQWpORy03LXV4R01ZMVNwaWlxa09oQlJkTWVVbzl6SVVYaEFzaW1oMFJ0dmNCTjJEcUxSRHRhZ05JTkZKRmVmVXZLX0RCbzRVaWZXZGNQWlplVUNuWnpmN1Y1a0Y3SXdRVE1hR1NMVA?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 14:04:02 GMT",
-      "source": "FXStreet",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Shafaq News..Gold slips as dollar firms, Fed minutes loom",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNejc4QndPQXNDcTJVeDdLLVp0RW1QZ09HWTlBQ1BNSDZQWkRaZ2xkY3Jhd1lvRHpRRkNmUXU4Wk9IZzg2LTJCeWhpZjAtSURFRHRmeDdoVXl4X1JSOC05Z0E1OXFZdG81VXZ2THR5OWJjTzhGcGd5aGdBckxVWDZrMjM1TQ?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 06:55:14 GMT",
-      "source": "شفق نيوز",
       "isLive": true,
       "coverage": 1
     },
@@ -205,14 +205,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Price Rebound Could Be A Game Changer For Newmont Stock (NEM)",
+      "title": "Gold surged to a record, then fell hard. What happened?",
       "sentiment": "bull",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUhwbFUzUFFkeXY1N3BvNFIzVktJQmZuS3ZScVVKS2RvQVEtbzJucTU4VnhrMXVXWl9lVnVhdDhoQndtN01xcmlMVUI5cG9zTWR5QVd2cWItV3ZXRGlGQmVVM1pfVEstSXBQTGVRUkZwUnpWX0UtUGlQR2VuZHdPTGpIdjhrYVVodFZWRmlFMVhUY0xMX3B5WHRoMmptOEFvMTRfV0RNcTdlWnc5ZVg3Nmk1ckZXVXhXd2h4RUIwQVNVQdIBxwFBVV95cUxNejdPcW5uZDhvamduakNhZlBGb1I0dmloZFY3aW1mWEI3RXVLdVRSRnhQNDVmTEZHTzFBeUFsNzNmdGpNVkdYU1hjMkZEUVJxM19WeDVKNzVjZVZxTXRxMmpGS2d0RWVvaFFxMUxadU9wVF96UEdWTXF3bHpRZ0VzN1h3WkFPdG9fY2g3Q1Zjc0VMR3JtZVo2YUdrTzZhRDlUZl9VTTh0ZFJFSFQwT1B6N0d4YmlKaEY5YWZIbmNRa3p5VzlkVE80?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 11:42:27 GMT",
-      "source": "Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0FWX1NWRkx0M1UweWRqY1FlcmNtYnZIYnBfVDdBbUV1bnlYUnhicVg3VmJ6WGZYM3dfWURTOEUzVXdwX1JGWDcxOGlCX2ZqU2ptd0VadmxqSnhHTVE1VUNoSFpuVkFuNEZaQ0Jfd3g2WWJUbW8zOW9QSGJtc3lpMkU3QVZaV1NSVXNPdFdPVWl5WDJWazk5aFNuQUlZcXprRzh6cVZ5SWN3TEJz?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 19:34:45 GMT",
+      "source": "Pittsburgh Post-Gazette",
       "isLive": true,
       "coverage": 1
     }
