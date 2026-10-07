@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-07T00:24:11.325Z",
+  "generatedAt": "2026-10-07T04:15:59.564Z",
   "bias": {
     "score": -21,
     "label": "Bearish",
@@ -10,8 +10,8 @@
   },
   "market": {
     "gold": {
-      "price": 4163.5,
-      "asOf": "2026-10-07T00:24:10.797Z"
+      "price": 4143.700195,
+      "asOf": "2026-10-07T04:15:58.630Z"
     },
     "realYield10": {
       "value": 2.95,
@@ -109,18 +109,6 @@
   ],
   "live": [
     {
-      "title": "Gold climbs as dollar, Treasury yields slip",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z3SEV1TFdScWdiaHBPbEVUTjFEYWV0WjJSQjRPRkl2LTZsNHJoNzU1RGEyM0V2bE5LYk9KUDUtZ0tNMGFKYWw3NWFoUEdkQU5MaklVVy1lUmNMRlJQOUk3VjFjNmJZWGk1bzZtRkpLVWxmTUMzZ0NadVJsZUs3TWNlY0JrdGNubHpXOWNTRXEyVXM0YkUxWGd2UDQ2dkJi?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 02:15:00 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "70-Tonne ETF Inflows Reinforce Current Gold Output Advantage",
       "sentiment": "bull",
       "kind": "driver",
@@ -139,10 +127,34 @@
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish. A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0dGUTlhay1BaS1nWk41NWd0UFdwbV9QSzNuNGZnTjVYRlpYNXo5NFF6TkZDWV9QNGpDMEhzd3QwUG41clBBTVVGalVyQy1nZkw5SHNRbGktSTJrbjJoMmZNR3NWNTY2WVpIeXA4YUVBOUlkb2dyMExSTXlpaDBvLU93bXpIZWtpbzNTMFAxMmJ5ODhMMmJIWUhVbw?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 02:12:00 GMT",
+      "pubDate": "Tue, 06 Oct 2026 02:24:41 GMT",
       "source": "Reuters",
       "isLive": true,
-      "coverage": 2
+      "coverage": 1
+    },
+    {
+      "title": "Gold holds gains as oil flows recover, Treasury yields ease",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ2Z0QUtnUmJqa2dHb21tLVd2MlMzamU0N2gtUW5FZWM2ZURSSi1tQ3F1dFhPZG9kNktJWkFNOEl2QXVJa2RuQk9NbTljS3RpTzNzcXFUbkIwVzlJTUFPejNhdVpjdTdCcFVrUzZYWTdxektlRmZ6ZEJoM1p0aVY3cw?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 02:20:00 GMT",
+      "source": "Yahoo Finance Australia",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold climbs as dollar, Treasury yields slip",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z3SEV1TFdScWdiaHBPbEVUTjFEYWV0WjJSQjRPRkl2LTZsNHJoNzU1RGEyM0V2bE5LYk9KUDUtZ0tNMGFKYWw3NWFoUEdkQU5MaklVVy1lUmNMRlJQOUk3VjFjNmJZWGk1bzZtRkpLVWxmTUMzZ0NadVJsZUs3TWNlY0JrdGNubHpXOWNTRXEyVXM0YkUxWGd2UDQ2dkJi?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 02:15:00 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
     },
     {
       "title": "Falling Fed Hike Odds Open a Selective Contrarian Case for Gold Producers",
@@ -169,25 +181,13 @@
       "coverage": 1
     },
     {
-      "title": "Gold, silver prices rise as yields ease but December Fed risk remains - Kitco AM Report",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcmdOTXBpdDBOakU0eEExcUhoM2ZNYXRrZzRjWWlxN2tnd1c0TVhHUmZJcWctRXFhS0lBbkM5aWdIbGt2WXp0ZElPa3NLcEJWNG9HSEVpNkc4RWRlakFtSVJrclFBbC1RNnhZZThMbkVydFExVUh0NXJPSUU3UHZxQUpKU3h2bVliMjhOa0tUMWhxNHdwOW1MeWxscXVRanJBWHBxX0lBZWU0cFY2ZlNyLVdjZWx4dW8?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 12:53:57 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Rebounds As Dollar Pulls Back From Yearly Highs",
       "sentiment": "bull",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ0xlZTF5YTQ4OGszRy1rMnJ1OThQVFQ4TTBQbkpjY0VMblEyaFRCdzhCSWJveVFpQmg1eWtQMjlXTVUtQ080REVTVUR1ZFN0MHFMZDU0Sm1CdkRvaHNaUTRLVllMZ0x0dVdaM0QwZm9ZaHc1NVZTTFA1Z3ZsTC0tQ2drQXlBb2QzbEUzQlJ5dzRtY3ZBU0N4ZTZMLXRVMmRXNnVJVDJHY0hMaElkNlRzdC16MVh0b1R0ZjVGUnJ1YWRydUlyc1QwZjc1QlBmeGpkbk1OMUgweS0?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 23:54:54 GMT",
+      "pubDate": "Wed, 07 Oct 2026 00:50:00 GMT",
       "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
