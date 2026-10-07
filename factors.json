@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-07T12:21:08.264Z",
+  "generatedAt": "2026-10-07T16:18:31.390Z",
   "bias": {
-    "score": -45,
+    "score": -37,
     "label": "Bearish",
-    "bullWeight": 9,
+    "bullWeight": 11,
     "bearWeight": 24,
-    "driversCounted": 11
+    "driversCounted": 12
   },
   "market": {
     "gold": {
-      "price": 4119.299805,
-      "asOf": "2026-10-07T12:21:07.530Z"
+      "price": 4112.200195,
+      "asOf": "2026-10-07T16:18:30.874Z"
     },
     "realYield10": {
       "value": 2.95,
@@ -109,30 +109,6 @@
   ],
   "live": [
     {
-      "title": "Gold down 1% as dollar gains; Fed minutes in focus",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMU10STF5SHNISk9FdXk3NTA2YjZhbnhWRTJlYlpBRGVhanFxWVQxVzhVek11UEp1OUJOU1Y1WjNQTDlBWmg3aEhvVWkzMUpXd3dBbm5Qa3pEcFdEeERZUDNwUHdFYVp0YmZPQVd3dDIwalp0LU1YWi1WTFZNVm5FTWxrSkR0dTJnNk9aM1BBc29MWXk5S3lOLXIxVW1Fd0xvbmhxNEpn?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 02:18:00 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Shafaq News..Gold slips as dollar firms, Fed minutes loom",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNejc4QndPQXNDcTJVeDdLLVp0RW1QZ09HWTlBQ1BNSDZQWkRaZ2xkY3Jhd1lvRHpRRkNmUXU4Wk9IZzg2LTJCeWhpZjAtSURFRHRmeDdoVXl4X1JSOC05Z0E1OXFZdG81VXZ2THR5OWJjTzhGcGd5aGdBckxVWDZrMjM1TQ?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 06:55:14 GMT",
-      "source": "شفق نيوز",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold Prices Fall as Dollar Strengthens Ahead of Federal Reserve Minutes",
       "sentiment": "bear",
       "kind": "driver",
@@ -141,18 +117,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUJ6QzRwVFp6QVFXT2NBb0tGVFRlclQyeWdtaTJaSi12M05qdG5ieUxBQVBBTHJjU0E5SEJtaDVOTHZnakFDZVBmaW5KWkYzend6bnF4c3llWEM3czBrZFFKbm1ybDJGaWVLS2NrQm02ZVo2eGdHcDRJX2dqa0ZPN1hwdHdxeHYxMlZSR0VYYXVBeXJvLUt2OEEyVnNhclRSVkdVWl9jTmw?oc=5",
       "pubDate": "Wed, 07 Oct 2026 09:33:56 GMT",
       "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold steady as stronger dollar and high yields offset waning Fed hike expectations",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish. A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0dGUTlhay1BaS1nWk41NWd0UFdwbV9QSzNuNGZnTjVYRlpYNXo5NFF6TkZDWV9QNGpDMEhzd3QwUG41clBBTVVGalVyQy1nZkw5SHNRbGktSTJrbjJoMmZNR3NWNTY2WVpIeXA4YUVBOUlkb2dyMExSTXlpaDBvLU93bXpIZWtpbzNTMFAxMmJ5ODhMMmJIWUhVbw?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 02:24:41 GMT",
-      "source": "Reuters",
       "isLive": true,
       "coverage": 1
     },
@@ -169,6 +133,18 @@
       "coverage": 1
     },
     {
+      "title": "Gold steady as stronger dollar and high yields offset waning Fed hike expectations",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish. A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0dGUTlhay1BaS1nWk41NWd0UFdwbV9QSzNuNGZnTjVYRlpYNXo5NFF6TkZDWV9QNGpDMEhzd3QwUG41clBBTVVGalVyQy1nZkw5SHNRbGktSTJrbjJoMmZNR3NWNTY2WVpIeXA4YUVBOUlkb2dyMExSTXlpaDBvLU93bXpIZWtpbzNTMFAxMmJ5ODhMMmJIWUhVbw?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 02:24:41 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold climbs as dollar, Treasury yields slip",
       "sentiment": "bull",
       "kind": "driver",
@@ -181,26 +157,62 @@
       "coverage": 1
     },
     {
+      "title": "Gold Is Down 20% from its Iran-War Peak: Which ETF Is Best Positioned for a Rebound?",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLXdPWS14c3ZDQUxiNWFjSmFxcmtFNktWZVB2eWJhUTBXd3ZGbWJPZU9fYzE1UGY5cmlBWExsMFRSRnhQZVRpWVhGVWNvMDRPSzROeDc5c0drRmh1VGFydUY3bVF2M2RYdHNrRTlJWXItb0pVNUtta1hJZGV2T3pTS2lFT2FSdXZuNUdlbS1VNWRUWVhZVHVEaVFPU050Slg2aWh6V29zYWlONjlldUZkUVloNVlzUzlTUlMwS1RQMkU3amh6bkJRQXppc2VPSTY2Z3lKOTJxcw?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 12:51:34 GMT",
+      "source": "TradingView",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold tests $4,100 as US Dollar and yields rise ahead of FOMC Minutes",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2NaLTd5SDJmeVdSQUJ1VU1aQjBQeG9jVDNPVjNFdXUwWm1UeWt3bjQyRDc3WF85NGRnTWZEZnBsd0l0X2ZROTRqQWpORy03LXV4R01ZMVNwaWlxa09oQlJkTWVVbzl6SVVYaEFzaW1oMFJ0dmNCTjJEcUxSRHRhZ05JTkZKRmVmVXZLX0RCbzRVaWZXZGNQWlplVUNuWnpmN1Y1a0Y3SXdRVE1hR1NMVA?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 14:04:02 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Shafaq News..Gold slips as dollar firms, Fed minutes loom",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNejc4QndPQXNDcTJVeDdLLVp0RW1QZ09HWTlBQ1BNSDZQWkRaZ2xkY3Jhd1lvRHpRRkNmUXU4Wk9IZzg2LTJCeWhpZjAtSURFRHRmeDdoVXl4X1JSOC05Z0E1OXFZdG81VXZ2THR5OWJjTzhGcGd5aGdBckxVWDZrMjM1TQ?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 06:55:14 GMT",
+      "source": "شفق نيوز",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold slides to two-month low as robust dollar, yields add pressure",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold is at a fresh low. This describes the price outcome, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMU10STF5SHNISk9FdXk3NTA2YjZhbnhWRTJlYlpBRGVhanFxWVQxVzhVek11UEp1OUJOU1Y1WjNQTDlBWmg3aEhvVWkzMUpXd3dBbm5Qa3pEcFdEeERZUDNwUHdFYVp0YmZPQVd3dDIwalp0LU1YWi1WTFZNVm5FTWxrSkR0dTJnNk9aM1BBc29MWXk5S3lOLXIxVW1Fd0xvbmhxNEpn?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 02:18:00 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Price Rebound Could Be A Game Changer For Newmont Stock (NEM)",
       "sentiment": "bull",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNejdPcW5uZDhvamduakNhZlBGb1I0dmloZFY3aW1mWEI3RXVLdVRSRnhQNDVmTEZHTzFBeUFsNzNmdGpNVkdYU1hjMkZEUVJxM19WeDVKNzVjZVZxTXRxMmpGS2d0RWVvaFFxMUxadU9wVF96UEdWTXF3bHpRZ0VzN1h3WkFPdG9fY2g3Q1Zjc0VMR3JtZVo2YUdrTzZhRDlUZl9VTTh0ZFJFSFQwT1B6N0d4YmlKaEY5YWZIbmNRa3p5VzlkVE800gHHAUFVX3lxTE16N09xbm5kOG9qZ25qQ2FmUEZvUjR2aWhkVjdpbWZYQjdFdUt1VFJGeFA0NWZMRkdPMUF5QWw3M2Z0ak1WR1hTWGMyRkRRUnEzX1Z4NUo3NWNlVnFNdHEyakZLZ3RFZW9oUXExTFp1T3BUX3pQR1ZNcXdselFnRXM3WHdaQU90b19jaDdDVmNzRUxHcm1lWjZhR2tPNmFEOVRmX1VNOHRkUkVIVDBPUHo3R3hiaUpoRjlhZkhuY1FrenlXOWRUTzQ?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 11:42:28 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUhwbFUzUFFkeXY1N3BvNFIzVktJQmZuS3ZScVVKS2RvQVEtbzJucTU4VnhrMXVXWl9lVnVhdDhoQndtN01xcmlMVUI5cG9zTWR5QVd2cWItV3ZXRGlGQmVVM1pfVEstSXBQTGVRUkZwUnpWX0UtUGlQR2VuZHdPTGpIdjhrYVVodFZWRmlFMVhUY0xMX3B5WHRoMmptOEFvMTRfV0RNcTdlWnc5ZVg3Nmk1ckZXVXhXd2h4RUIwQVNVQdIBxwFBVV95cUxNejdPcW5uZDhvamduakNhZlBGb1I0dmloZFY3aW1mWEI3RXVLdVRSRnhQNDVmTEZHTzFBeUFsNzNmdGpNVkdYU1hjMkZEUVJxM19WeDVKNzVjZVZxTXRxMmpGS2d0RWVvaFFxMUxadU9wVF96UEdWTXF3bHpRZ0VzN1h3WkFPdG9fY2g3Q1Zjc0VMR3JtZVo2YUdrTzZhRDlUZl9VTTh0ZFJFSFQwT1B6N0d4YmlKaEY5YWZIbmNRa3p5VzlkVE80?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 11:42:27 GMT",
       "source": "Simply Wall Street",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold falls as investors await Fed September meeting minutes",
-      "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QbEJDX19FNkRwSEhleTdNVTdHV2J5cEhPdjBLb0k5VTNydklSdWVhdlJ6Tm90UUZsX0hLUk9fZE90M2VzZTFvQUotQUd6Zl9pd3dSa0ZIMzRhcGRWTDdYZUdqV1d6RU4xUmJpZGNKTQ?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 11:51:47 GMT",
-      "source": "Quartz",
       "isLive": true,
       "coverage": 1
     }
