@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-07T04:15:59.564Z",
+  "generatedAt": "2026-10-07T08:18:37.289Z",
   "bias": {
-    "score": -21,
+    "score": -26,
     "label": "Bearish",
     "bullWeight": 13,
-    "bearWeight": 20,
-    "driversCounted": 11
+    "bearWeight": 22,
+    "driversCounted": 12
   },
   "market": {
     "gold": {
-      "price": 4143.700195,
-      "asOf": "2026-10-07T04:15:58.630Z"
+      "price": 4131.700195,
+      "asOf": "2026-10-07T08:18:36.815Z"
     },
     "realYield10": {
       "value": 2.95,
@@ -109,14 +109,38 @@
   ],
   "live": [
     {
-      "title": "70-Tonne ETF Inflows Reinforce Current Gold Output Advantage",
+      "title": "Gold slips as dollar gains; investors await Fed minutes for rate clues",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMU10STF5SHNISk9FdXk3NTA2YjZhbnhWRTJlYlpBRGVhanFxWVQxVzhVek11UEp1OUJOU1Y1WjNQTDlBWmg3aEhvVWkzMUpXd3dBbm5Qa3pEcFdEeERZUDNwUHdFYVp0YmZPQVd3dDIwalp0LU1YWi1WTFZNVm5FTWxrSkR0dTJnNk9aM1BBc29MWXk5S3lOLXIxVW1Fd0xvbmhxNEpn?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 02:18:00 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold climbs as dollar, Treasury yields slip",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising ETF holdings show investment demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDZUX1BVbHBWUklHQVVPdTMyZE1tWjhkREtqbzdCSHdqeTlBTkpWajZJTXcxR3NxZm4wQ1FYRnRQclc2eDFaRFIySUpOc01oLWdKSVFVenFPZU00Sl85VjExV2QyZGtROFR5V0FuZU5xOVJjbFlpWW1fVHBkN1lDMFhXOVhxZmpielM4dGpfajY3dEJnNVFvR1hmSQ?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 15:27:55 GMT",
-      "source": "Crux Investor",
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z3SEV1TFdScWdiaHBPbEVUTjFEYWV0WjJSQjRPRkl2LTZsNHJoNzU1RGEyM0V2bE5LYk9KUDUtZ0tNMGFKYWw3NWFoUEdkQU5MaklVVy1lUmNMRlJQOUk3VjFjNmJZWGk1bzZtRkpLVWxmTUMzZ0NadVJsZUs3TWNlY0JrdGNubHpXOWNTRXEyVXM0YkUxWGd2UDQ2dkJi?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 18:24:44 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "RBI Repo Rate Hike: Will Gold Prices Fall After Rates Rise To 5.50%? What Investors Should Know",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPRFNEbEdRLWoweUdCM2w5VHI3bVBfXzhmQlU1aU1FSXh0YlhTbkJvUFdVdUUzU3M3Y2JiNWpmVlZxRjNsemx3Z1Z0V2tKN0dXQjVYRlBYdWxxbDU1WTh1b05kdXpqSFFWZzRad3k1X3JCcXJSS1VXRmJYZ1J5R2o5a2ZxSmpmMVBabFZhRFpmR0lmOTdKVEMzQUwxREVCbHc5WXo5cDNZS0FXeFVDdE0tOHhWSGdyNlN1SkhoUzcyN1UxMjNDeHRIcVRTaEJqT2p5MHMwNGozdS1pU0NtS19nYTV2ZWlyTDdxRHVydHJWZ2Q1a0gyeWVtd202QjB5V2R2c1BiU09MZUd3MHlmQWxJeA?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 05:40:35 GMT",
+      "source": "NDTV Profit",
       "isLive": true,
       "coverage": 1
     },
@@ -133,6 +157,30 @@
       "coverage": 1
     },
     {
+      "title": "Gold struggles below $4,150 as USD bulls look to FOMC Minutes for rate hike cues",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLTk0MVBncnFGeVpiZ2o4TGlTQ3hNUnk4clRsdjVBdG42RlFrTUVvREJ3QUF0WjN4TjNqT2FNQ2IxMVZxVFhYM0ZrcW1EZjVqTTd6djQ5RTJvZTZ3anhvRFQxUjhpbXdCdGhBRTdENk5qMU9hM1JxMmtFWGlHRldtb2dUdElwQ1M1TnlnbFVSSWpzbnFzNHdXQW82dExfX0Zva2hJT0o4UllMR3djVThQMXEtc2w0M3pOenB5eFg2b2l5cElJ?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 07:03:56 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "70-Tonne ETF Inflows Reinforce Current Gold Output Advantage",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising ETF holdings show investment demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDZUX1BVbHBWUklHQVVPdTMyZE1tWjhkREtqbzdCSHdqeTlBTkpWajZJTXcxR3NxZm4wQ1FYRnRQclc2eDFaRFIySUpOc01oLWdKSVFVenFPZU00Sl85VjExV2QyZGtROFR5V0FuZU5xOVJjbFlpWW1fVHBkN1lDMFhXOVhxZmpielM4dGpfajY3dEJnNVFvR1hmSQ?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 15:27:55 GMT",
+      "source": "Crux Investor",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold holds gains as oil flows recover, Treasury yields ease",
       "sentiment": "bull",
       "kind": "driver",
@@ -141,42 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ2Z0QUtnUmJqa2dHb21tLVd2MlMzamU0N2gtUW5FZWM2ZURSSi1tQ3F1dFhPZG9kNktJWkFNOEl2QXVJa2RuQk9NbTljS3RpTzNzcXFUbkIwVzlJTUFPejNhdVpjdTdCcFVrUzZYWTdxektlRmZ6ZEJoM1p0aVY3cw?oc=5",
       "pubDate": "Wed, 07 Oct 2026 02:20:00 GMT",
       "source": "Yahoo Finance Australia",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold climbs as dollar, Treasury yields slip",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z3SEV1TFdScWdiaHBPbEVUTjFEYWV0WjJSQjRPRkl2LTZsNHJoNzU1RGEyM0V2bE5LYk9KUDUtZ0tNMGFKYWw3NWFoUEdkQU5MaklVVy1lUmNMRlJQOUk3VjFjNmJZWGk1bzZtRkpLVWxmTUMzZ0NadVJsZUs3TWNlY0JrdGNubHpXOWNTRXEyVXM0YkUxWGd2UDQ2dkJi?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 02:15:00 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Falling Fed Hike Odds Open a Selective Contrarian Case for Gold Producers",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdXdFSTJ6LWc1QTBUQW9WcklkUUhlNnQ3SlhCbHpHNHd0ZGhkQUc2VEpuVEFyUDNfbnVLbFZkaDIyay1kUzhSbFYxYlV0X25vRF9XbGlwUXRlS0JPYTRCakEwb3VrN0gxcUQ2VDk5dFQyNFc2aW13T3V6bEFOaDl4dFg2SE1DOGxCM2g2VF9Na0tPLW84aUtodnhDVFZFdnhJeERkcERGRmcwSFJh?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 09:02:53 GMT",
-      "source": "Crux Investor",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold price slides as yields surge, but SPDR holdings tell a different story",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2tGbmVaYk9welpLcElzUGZLRTlaR1dWM0M1R2VzZ2pZWGhLYjRLc0NDNXFHNExZdFRqVDRfWHVDWnFOeTNTamZsOXk1Y05abl9ZOXZMSXQtdThBNGJyWklmcVdXS2lDNU9pa0NmZ0lLY2pQS1VzQ242d1h5QUJnSTVhS1ltZllaRUpWTkdNV0I3TTNITWdMZFlja1lrWTVfOURUQjNRQzlSTnFLM20ySDRyMA?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 06:54:24 GMT",
-      "source": "investingLive",
       "isLive": true,
       "coverage": 1
     },
@@ -193,14 +205,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Rebounds From 2-Month Low Ahead of FOMC Minutes",
-      "sentiment": "bull",
+      "title": "Gold prices slide",
+      "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQem9LaFhHMkhLS1A1bEJVcXdfaWdPSlhMQlBLVTRyVk1DVjVXem0zWWdhUl90eTZWS1Jma1E2S0tqRDNQWEtlSGVLcWFkNnJRY3RVdXJybko1Mjc3UlJqYzgxYk1zeDM2NjNBMHJ2M0xGZHVWVEVQSFV2ZkpiWlVQdDg0R1c0V0hsWjdDWXBkbmk?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 17:56:13 GMT",
-      "source": "GoldSilver",
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVlpNRjREM3NFZEZ0NDJ0RHBBNm0wMjQ5SEM3NXlub2Q0VW8zX0dTaDM1VVRwVEttSnBiR3kxRTBYelAzZ3Qta18wLWNpVWkwQ3V0aHRvMnJZc3NJMG5rbXktcExzbWZrTVNRVUoyaURoeDgyREtrSmMyRHQzaVNvcnpR?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 08:09:48 GMT",
+      "source": "VnExpress International",
       "isLive": true,
       "coverage": 1
     }
