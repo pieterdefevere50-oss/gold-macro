@@ -1,41 +1,41 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-06T20:15:11.440Z",
+  "generatedAt": "2026-10-07T00:24:11.325Z",
   "bias": {
-    "score": -19,
-    "label": "Mixed / Neutral",
-    "bullWeight": 15,
-    "bearWeight": 22,
-    "driversCounted": 13
+    "score": -21,
+    "label": "Bearish",
+    "bullWeight": 13,
+    "bearWeight": 20,
+    "driversCounted": 11
   },
   "market": {
     "gold": {
-      "price": 4169.399902,
-      "asOf": "2026-10-06T20:15:10.846Z"
+      "price": 4163.5,
+      "asOf": "2026-10-07T00:24:10.797Z"
     },
     "realYield10": {
-      "value": 2.92,
-      "asOf": "2026-10-02",
+      "value": 2.95,
+      "asOf": "2026-10-05",
       "prior": 2.43,
       "priorDate": "2026-09-04",
-      "change": 0.48999999999999977,
-      "changePct": 20.16460905349793
+      "change": 0.52,
+      "changePct": 21.39917695473251
     },
     "y10": {
-      "value": 5.28,
-      "asOf": "2026-10-02",
+      "value": 5.31,
+      "asOf": "2026-10-05",
       "prior": 4.78,
       "priorDate": "2026-09-04",
-      "change": 0.5,
-      "changePct": 10.460251046025103
+      "change": 0.5299999999999994,
+      "changePct": 11.087866108786598
     },
     "y2": {
-      "value": 4.83,
-      "asOf": "2026-10-02",
+      "value": 4.84,
+      "asOf": "2026-10-05",
       "prior": 4.37,
       "priorDate": "2026-09-04",
-      "change": 0.45999999999999996,
-      "changePct": 10.526315789473683
+      "change": 0.46999999999999975,
+      "changePct": 10.75514874141876
     },
     "dollar": {
       "value": 121.3848,
@@ -58,8 +58,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-02",
-      "text": "The 2-year Treasury yield (4.83%) is 95bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
+      "asOf": "2026-10-05",
+      "text": "The 2-year Treasury yield (4.84%) is 96bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
     },
     {
       "key": "real_yields",
@@ -67,8 +67,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-02",
-      "text": "10Y real yield is 2.92%, up 49bp over 4 weeks (as of 2026-10-02): rising real yields raise the opportunity cost of holding non-yielding gold — bearish. Real yields are the most direct macro driver of gold."
+      "asOf": "2026-10-05",
+      "text": "10Y real yield is 2.95%, up 52bp over 4 weeks (as of 2026-10-05): rising real yields raise the opportunity cost of holding non-yielding gold — bearish. Real yields are the most direct macro driver of gold."
     },
     {
       "key": "dollar",
@@ -109,6 +109,18 @@
   ],
   "live": [
     {
+      "title": "Gold climbs as dollar, Treasury yields slip",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z3SEV1TFdScWdiaHBPbEVUTjFEYWV0WjJSQjRPRkl2LTZsNHJoNzU1RGEyM0V2bE5LYk9KUDUtZ0tNMGFKYWw3NWFoUEdkQU5MaklVVy1lUmNMRlJQOUk3VjFjNmJZWGk1bzZtRkpLVWxmTUMzZ0NadVJsZUs3TWNlY0JrdGNubHpXOWNTRXEyVXM0YkUxWGd2UDQ2dkJi?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 02:15:00 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "70-Tonne ETF Inflows Reinforce Current Gold Output Advantage",
       "sentiment": "bull",
       "kind": "driver",
@@ -131,18 +143,6 @@
       "source": "Reuters",
       "isLive": true,
       "coverage": 2
-    },
-    {
-      "title": "Gold climbs as dollar, Treasury yields slip",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWlJrNUoyclBvOFFxZkxnNl9IbzVibmFWaW5UVjFMZW1hb2RLRUlIWDdmekl6bFJlMVM5ZklZWGdjVFJvRk1tVkZhb3VFMGlVTWQ1TURQbm4yQmR1LUhfRVFoS2hYVklXUnZqRDlGVnF2LUM5TE9hbk5VZGFhTnM2RWNmMURPTmUyOVFjYmtjM2g3ZHhD?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 17:00:00 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
     },
     {
       "title": "Falling Fed Hike Odds Open a Selective Contrarian Case for Gold Producers",
@@ -169,38 +169,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold rebounds from two-month lows as US Dollar, Treasury yields retreat",
+      "title": "Gold, silver prices rise as yields ease but December Fed risk remains - Kitco AM Report",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
       "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjR1ZE1kWEZVdlNrNFczR2RNeGtWM3BTbmlYdG05dm1Ra2JDOXhyOVVsdVdoeVhKUTBBR3pkTVd3aDZSbnhnWmtGdFJKMDg3NkZUZEpXSE40TWtWZmpRWVdKWXZLOUhKNDdGRFN4U0lyZjNOcncwcjM2Rkh6NGJSelFlWnh2NHM3VzJ3dDhockRVd2VQeWFpMWQyVnRXNHl0QVRYU1hRaUZobHlGMmc?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 14:38:22 GMT",
-      "source": "FXStreet",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold price rises as oil falls, Fed rate hike bets ease",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Fading rate-hike expectations lower the odds of tighter policy, easing pressure on non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYjY2RDRaV2wtcElLS2dCUnhCYkxIU3pJSkRLcEoxNjJRdTl3Q0VwR2ZvOVJpTHBKdHNOaUR5OWFfMDRmRDhpel9EY2thMVhNT2pXYk9OT0kxWExpM3N1NkUxMW5UZld4NWoxTU02OEZNQklKMmFkekVTLWZ3bWtvSnVR?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 15:39:25 GMT",
-      "source": "Mining.com.au",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Shafaq News..Gold eases as dollar, Treasury yields climb",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUViWFhBX1RVdFBHRGNmcnZnWTIzZTI5cHhHMEVUWE9zRTU0Y3ZHSk10bTRPdXI5NmNzRUtIbjNvbndiZ05UQnJmOWl1X1FUZmZvMGFmTmlEMTJHV2dXNUxoNnIzOEdvWDhfRzBsZHhXZTNOQy1HZTI2Z2dKejkxajJB?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 05:13:04 GMT",
-      "source": "شفق نيوز",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcmdOTXBpdDBOakU0eEExcUhoM2ZNYXRrZzRjWWlxN2tnd1c0TVhHUmZJcWctRXFhS0lBbkM5aWdIbGt2WXp0ZElPa3NLcEJWNG9HSEVpNkc4RWRlakFtSVJrclFBbC1RNnhZZThMbkVydFExVUh0NXJPSUU3UHZxQUpKU3h2bVliMjhOa0tUMWhxNHdwOW1MeWxscXVRanJBWHBxX0lBZWU0cFY2ZlNyLVdjZWx4dW8?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 12:53:57 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
@@ -211,20 +187,20 @@
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ0xlZTF5YTQ4OGszRy1rMnJ1OThQVFQ4TTBQbkpjY0VMblEyaFRCdzhCSWJveVFpQmg1eWtQMjlXTVUtQ080REVTVUR1ZFN0MHFMZDU0Sm1CdkRvaHNaUTRLVllMZ0x0dVdaM0QwZm9ZaHc1NVZTTFA1Z3ZsTC0tQ2drQXlBb2QzbEUzQlJ5dzRtY3ZBU0N4ZTZMLXRVMmRXNnVJVDJHY0hMaElkNlRzdC16MVh0b1R0ZjVGUnJ1YWRydUlyc1QwZjc1QlBmeGpkbk1OMUgweS0?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 17:56:42 GMT",
+      "pubDate": "Tue, 06 Oct 2026 23:54:54 GMT",
       "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold Prices Rise as Oil Decline Eases Some Inflation Concerns",
-      "sentiment": "bear",
+      "title": "Gold Rebounds From 2-Month Low Ahead of FOMC Minutes",
+      "sentiment": "bull",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZV95MGs2dWpXNjJrOFIxcVlKb3NkaWpiaVdLOW56Mmx2SHBXMGNkcUxUVFZ5aWxsQk5CRS1VZ3Z0cFdIa2V1cEd4SVZCSnd5cXBLU21xbUxFV2dUd2Z5Q1VIbmNEZFFMZXBJcEhNMEIwaDM1cUFkWk9iYmZrdzdUWGxlUmIzenFZdFo3cWU3VU0zZ3NNZEEwQ014c0NDLXM?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 09:39:19 GMT",
-      "source": "Yahoo Finance",
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQem9LaFhHMkhLS1A1bEJVcXdfaWdPSlhMQlBLVTRyVk1DVjVXem0zWWdhUl90eTZWS1Jma1E2S0tqRDNQWEtlSGVLcWFkNnJRY3RVdXJybko1Mjc3UlJqYzgxYk1zeDM2NjNBMHJ2M0xGZHVWVEVQSFV2ZkpiWlVQdDg0R1c0V0hsWjdDWXBkbmk?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 17:56:13 GMT",
+      "source": "GoldSilver",
       "isLive": true,
       "coverage": 1
     }
