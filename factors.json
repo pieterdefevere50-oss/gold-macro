@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-08T00:22:58.370Z",
+  "generatedAt": "2026-10-08T04:16:15.320Z",
   "bias": {
-    "score": -41,
+    "score": -37,
     "label": "Bearish",
     "bullWeight": 11,
-    "bearWeight": 26,
-    "driversCounted": 13
+    "bearWeight": 24,
+    "driversCounted": 12
   },
   "market": {
     "gold": {
-      "price": 4108.799805,
-      "asOf": "2026-10-08T00:22:57.865Z"
+      "price": 4138.299805,
+      "asOf": "2026-10-08T04:16:14.858Z"
     },
     "realYield10": {
       "value": 2.91,
@@ -109,14 +109,14 @@
   ],
   "live": [
     {
-      "title": "Gold futures slump to two-month low on stronger dollar, high yields (GLD:NYSEARCA)",
+      "title": "Gold prices recover from two-month low as dollar rally stalls",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbW9BTGVkUGRQcThZLU8tNG1RQTdmTjZuWEJkb2pYcnFfeDFpNlVqMkZjNmIxcExnRWNDVW42U055WV85TVg5bEdBdWFoZGF5b01Qa3JyR3VUZmEyR0wxSXBoTEpMb09XWnFDV0tnSUl5OThEVU9SZUdwMHZhYUJsWVo0YXllcmFsZDk4NG01RlFsZHh5Z0hnNEgzQkFwU2l3V19qUnN6OA?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 21:25:08 GMT",
-      "source": "Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTl2VDRiV2EtanRNTGxRVGc4OEhQUUhZOEV1MXduVGNBOW1wa2V6N2lqaXJaX2hiVnpPdU5kSC05VGNVUV9ydExDbnVral9vVW1qTFlvYTZSMGY2cTFraXRJeEthaEZmMFRuVmtVYzc2azRkYlM5MVBvWG9nUGY0LUFBX2VmZHNWTkxHTVZGdUtvTWd2NGlJbg?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 01:21:00 GMT",
+      "source": "Reuters",
       "isLive": true,
       "coverage": 1
     },
@@ -133,6 +133,18 @@
       "coverage": 1
     },
     {
+      "title": "Gold climbs as dollar, Treasury yields slip",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z3SEV1TFdScWdiaHBPbEVUTjFEYWV0WjJSQjRPRkl2LTZsNHJoNzU1RGEyM0V2bE5LYk9KUDUtZ0tNMGFKYWw3NWFoUEdkQU5MaklVVy1lUmNMRlJQOUk3VjFjNmJZWGk1bzZtRkpLVWxmTUMzZ0NadVJsZUs3TWNlY0JrdGNubHpXOWNTRXEyVXM0YkUxWGd2UDQ2dkJi?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 18:45:06 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold tests $4,100 as US Dollar and yields rise ahead of FOMC Minutes",
       "sentiment": "bear",
       "kind": "driver",
@@ -145,40 +157,16 @@
       "coverage": 1
     },
     {
-      "title": "Gold steady as stronger dollar and high yields offset waning Fed hike expectations",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish. A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0dGUTlhay1BaS1nWk41NWd0UFdwbV9QSzNuNGZnTjVYRlpYNXo5NFF6TkZDWV9QNGpDMEhzd3QwUG41clBBTVVGalVyQy1nZkw5SHNRbGktSTJrbjJoMmZNR3NWNTY2WVpIeXA4YUVBOUlkb2dyMExSTXlpaDBvLU93bXpIZWtpbzNTMFAxMmJ5ODhMMmJIWUhVbw?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 02:24:41 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold climbs as dollar, Treasury yields slip",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Z3SEV1TFdScWdiaHBPbEVUTjFEYWV0WjJSQjRPRkl2LTZsNHJoNzU1RGEyM0V2bE5LYk9KUDUtZ0tNMGFKYWw3NWFoUEdkQU5MaklVVy1lUmNMRlJQOUk3VjFjNmJZWGk1bzZtRkpLVWxmTUMzZ0NadVJsZUs3TWNlY0JrdGNubHpXOWNTRXEyVXM0YkUxWGd2UDQ2dkJi?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 02:15:00 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold falls to two‑month low near $4,100 on stronger US Dollar",
+      "title": "Gold futures slump to two-month low on stronger dollar, high yields",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmZEc2lpOU13bi1TNWF1VGlIMllpV0dkQ3BSdWFsLWg5Q3lWbmNENFlkbENWZGN4QmJoYmx0cU1wd0tYczBxNVBXQU8wUDFRLVVnMVI5UFJsUW9Cc0hWWlFJbUtZdHlGVTZqU3JtRkYwcGdlbXRudzFSWi1Mc3djcEQ4Sl9BSGowQjV4SWlUb21hWkxXMzdjT3YyTlFZdWdIbjhtV2lB?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 23:25:06 GMT",
-      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd3p6dnA5QS1UQVNpRkx3TEZNbzlsZWJXb0JMV2JsNWFIQUZHckROWFJ6eGFIVEphVHVtSHhyOVp5alpLYkZURTNVYnZnRjBsMGs4MjJkbVNWRWZHTS12S3FQRm91ZHB0MTJhZmxVNG93ZzRpRzNkTFJTZ3c1aU1XMkdNTVBSXzk0NGRXSTMtRGJlUmVzbzIwYkNweFE4ZWUtamRNTmQwTnJYUkpiQU1qb25GTUNialFPSHZTOXNnblhQVmlhZjZaYg?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 21:25:08 GMT",
+      "source": "TradingView",
       "isLive": true,
-      "coverage": 1
+      "coverage": 2
     },
     {
       "title": "Gold, silver prices rise as yields ease but December Fed risk remains - Kitco AM Report",
@@ -205,6 +193,18 @@
       "coverage": 1
     },
     {
+      "title": "Gold ETF rush defies 8.5% gold price slide",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TR1RZNm5wZFlrWm15cUVTOTd1Z0FsX3B0ZTRRMjgxQ2ZCd3NtMkdpX2VPazNHRnJCZzVLekFEQ3VyNW8tRVZ5ZE5uMWxIQ0ZPTGd0UXNqMFI5d3c0MDVxMUFVRWRKTDJkQlhvSXFtaDdiVXM?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 17:47:45 GMT",
+      "source": "Mining.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold slides to two-month low as robust dollar, yields add pressure",
       "sentiment": "bear",
       "kind": "price",
@@ -213,18 +213,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMU10STF5SHNISk9FdXk3NTA2YjZhbnhWRTJlYlpBRGVhanFxWVQxVzhVek11UEp1OUJOU1Y1WjNQTDlBWmg3aEhvVWkzMUpXd3dBbm5Qa3pEcFdEeERZUDNwUHdFYVp0YmZPQVd3dDIwalp0LU1YWi1WTFZNVm5FTWxrSkR0dTJnNk9aM1BBc29MWXk5S3lOLXIxVW1Fd0xvbmhxNEpn?oc=5",
       "pubDate": "Wed, 07 Oct 2026 02:18:00 GMT",
       "source": "Reuters",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold surged to a record, then fell hard. What happened?",
-      "sentiment": "bull",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0FWX1NWRkx0M1UweWRqY1FlcmNtYnZIYnBfVDdBbUV1bnlYUnhicVg3VmJ6WGZYM3dfWURTOEUzVXdwX1JGWDcxOGlCX2ZqU2ptd0VadmxqSnhHTVE1VUNoSFpuVkFuNEZaQ0Jfd3g2WWJUbW8zOW9QSGJtc3lpMkU3QVZaV1NSVXNPdFdPVWl5WDJWazk5aFNuQUlZcXprRzh6cVZ5SWN3TEJz?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 23:29:55 GMT",
-      "source": "Pittsburgh Post-Gazette",
       "isLive": true,
       "coverage": 1
     }
