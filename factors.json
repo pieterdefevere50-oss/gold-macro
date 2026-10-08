@@ -1,41 +1,41 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-08T16:19:02.088Z",
+  "generatedAt": "2026-10-08T20:16:46.526Z",
   "bias": {
-    "score": -41,
+    "score": -30,
     "label": "Bearish",
-    "bullWeight": 11,
-    "bearWeight": 26,
+    "bullWeight": 13,
+    "bearWeight": 24,
     "driversCounted": 13
   },
   "market": {
     "gold": {
-      "price": 4129,
-      "asOf": "2026-10-08T16:19:01.561Z"
+      "price": 4135.899902,
+      "asOf": "2026-10-08T20:16:45.975Z"
     },
     "realYield10": {
-      "value": 2.91,
-      "asOf": "2026-10-06",
-      "prior": 2.43,
-      "priorDate": "2026-09-08",
-      "change": 0.48,
-      "changePct": 19.753086419753085
+      "value": 2.92,
+      "asOf": "2026-10-07",
+      "prior": 2.46,
+      "priorDate": "2026-09-09",
+      "change": 0.45999999999999996,
+      "changePct": 18.69918699186992
     },
     "y10": {
-      "value": 5.27,
-      "asOf": "2026-10-06",
-      "prior": 4.8,
-      "priorDate": "2026-09-08",
-      "change": 0.46999999999999975,
-      "changePct": 9.791666666666663
+      "value": 5.28,
+      "asOf": "2026-10-07",
+      "prior": 4.83,
+      "priorDate": "2026-09-09",
+      "change": 0.4500000000000002,
+      "changePct": 9.316770186335408
     },
     "y2": {
-      "value": 4.79,
-      "asOf": "2026-10-06",
-      "prior": 4.39,
-      "priorDate": "2026-09-08",
-      "change": 0.40000000000000036,
-      "changePct": 9.111617312072902
+      "value": 4.77,
+      "asOf": "2026-10-07",
+      "prior": 4.43,
+      "priorDate": "2026-09-09",
+      "change": 0.33999999999999986,
+      "changePct": 7.674943566591419
     },
     "dollar": {
       "value": 121.3848,
@@ -58,8 +58,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-06",
-      "text": "The 2-year Treasury yield (4.79%) is 91bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
+      "asOf": "2026-10-07",
+      "text": "The 2-year Treasury yield (4.77%) is 89bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
     },
     {
       "key": "real_yields",
@@ -67,8 +67,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-06",
-      "text": "10Y real yield is 2.91%, up 48bp over 4 weeks (as of 2026-10-06): rising real yields raise the opportunity cost of holding non-yielding gold — bearish. Real yields are the most direct macro driver of gold."
+      "asOf": "2026-10-07",
+      "text": "10Y real yield is 2.92%, up 46bp over 4 weeks (as of 2026-10-07): rising real yields raise the opportunity cost of holding non-yielding gold — bearish. Real yields are the most direct macro driver of gold."
     },
     {
       "key": "dollar",
@@ -109,50 +109,14 @@
   ],
   "live": [
     {
-      "title": "Fed Hike Bets Pressure Gold, Opening Lower Entry Prices as China Buys",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZDAxTi1ERGszTk12UWlTd2RyWms3SHlUNzJ3SWJFWUY3T0h6MUI3TmtLZG1YT0hoQ1MwS3R6cUJ2MWxXczJwMWZPMW5IX2VIbEZ3TnVCSXdSRWt4Y3RKMmlIY01sbUQtV2VtV2g4anR5aUVEcE5paXk2WFJRRm4wN0hYcWdlenhoYndJOHJFcmh5cUNDRnBzc0NpdzdRZ0l2NmtKclVn?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 10:01:52 GMT",
-      "source": "Crux Investor",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Central Banks Keep Buying, but Gold Keeps Falling",
+      "title": "Gold ticks up as investors weigh Fed path, mounting debt concerns",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Central-bank accumulation reinforces structural demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wdWlGbVRBdGpQQVBPQk4ydDJ2MGVwTWp6dTBuNFMyUWNkU21WNGQtTkpEQXRxdW1zdXhsYW5UTkxROGdLWkNtNW9lNlBBQUszUkhUWHQ4TmpKUjFCWXIwNDlmRzJDbENocF83VVZSQ1djU1FhclFpQS01YzJ0d1U?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 11:26:37 GMT",
-      "source": "Trending Topics",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold prices recover from two-month low as dollar rally stalls",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGd5cXdWU1YxaC1EOEVzLVVPS0VHekp2WHBLVG1qX1hDbHhUNS02Q281TFdBQWw2cXBOejlXdURjbERuaXpHbng0aFBCNmVJYnpDSGdUeTJIWmpMUkJnQzZlSG5TMGxUSXhYbUpGdzVqZmN4dU9XMjluQlRIQkp5UXNDZ1Vhby12elJicUVUYWU1bE9HQVhiY01QMm8tZjV4eExWNdIBpAFBVV95cUxOOGd5cXdWU1YxaC1EOEVzLVVPS0VHekp2WHBLVG1qX1hDbHhUNS02Q281TFdBQWw2cXBOejlXdURjbERuaXpHbng0aFBCNmVJYnpDSGdUeTJIWmpMUkJnQzZlSG5TMGxUSXhYbUpGdzVqZmN4dU9XMjluQlRIQkp5UXNDZ1Vhby12elJicUVUYWU1bE9HQVhiY01QMm8tZjV4eExWNQ?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 03:14:00 GMT",
-      "source": "CNBC",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Price Forecast: Strong Dollar Caps Rebound After FOMC Minutes",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSUxWaFZSWm9jazl2VTZLNkJZQ1Jram95MGRZUWJ0bG5mOTU5d0IyamtKZGN5UkdHTVZqS0dPY096bjNVMFcxdkVKWFdaZkg5RHUyLTMteF9YSURVTThkVjVfQWVWcmd6MzJkbGhkNG1XTGdCRGdwSnpBQWFJTlFwY0F5S1lFWlVHNmxIdDUxWHpBSy04MzhjNnVpakIwMTVlYURWTnhEV19GQmhqU1BqZkNuOHpLMXNuWVdKd3B1UWdYQQ?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 09:05:26 GMT",
-      "source": "FXEmpire",
+      "text": "Concerns about US fiscal health support gold as a hedge.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTl2VDRiV2EtanRNTGxRVGc4OEhQUUhZOEV1MXduVGNBOW1wa2V6N2lqaXJaX2hiVnpPdU5kSC05VGNVUV9ydExDbnVral9vVW1qTFlvYTZSMGY2cTFraXRJeEthaEZmMFRuVmtVYzc2azRkYlM5MVBvWG9nUGY0LUFBX2VmZHNWTkxHTVZGdUtvTWd2NGlJbg?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 01:21:00 GMT",
+      "source": "Reuters",
       "isLive": true,
       "coverage": 1
     },
@@ -169,6 +133,54 @@
       "coverage": 1
     },
     {
+      "title": "Gold Oil Price Shock: Why Real Yields Beat the Hormuz Surge",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising real yields are the single most direct headwind for gold: they raise the opportunity cost of holding it.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZmdiNnhZeGxsX3hnMW95cU1QMi1YNXhqamR3RlhVMW5KQ0JkdXFfWWJIZS1INC1DZ0ptdzNKS0s1Q2dyX1NhVU8zTllJbmhFenhoYnRVb0x3cXFQQktLV0xHVS1NR21CNXpESjR4R0hoYzFwcUFHTmZ3QklsUG9lemhaeWwydndvU25EVVliX2FvYjh1STAyN191c2sybWVuSExsNmREWQ?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 16:22:53 GMT",
+      "source": "GoldSilver",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold prices recover from two-month low as dollar rally stalls",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGd5cXdWU1YxaC1EOEVzLVVPS0VHekp2WHBLVG1qX1hDbHhUNS02Q281TFdBQWw2cXBOejlXdURjbERuaXpHbng0aFBCNmVJYnpDSGdUeTJIWmpMUkJnQzZlSG5TMGxUSXhYbUpGdzVqZmN4dU9XMjluQlRIQkp5UXNDZ1Vhby12elJicUVUYWU1bE9HQVhiY01QMm8tZjV4eExWNdIBpAFBVV95cUxOOGd5cXdWU1YxaC1EOEVzLVVPS0VHekp2WHBLVG1qX1hDbHhUNS02Q281TFdBQWw2cXBOejlXdURjbERuaXpHbng0aFBCNmVJYnpDSGdUeTJIWmpMUkJnQzZlSG5TMGxUSXhYbUpGdzVqZmN4dU9XMjluQlRIQkp5UXNDZ1Vhby12elJicUVUYWU1bE9HQVhiY01QMm8tZjV4eExWNQ?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 03:14:00 GMT",
+      "source": "CNBC",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Central Banks Keep Buying, but Gold Keeps Falling",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Central-bank accumulation reinforces structural demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wdWlGbVRBdGpQQVBPQk4ydDJ2MGVwTWp6dTBuNFMyUWNkU21WNGQtTkpEQXRxdW1zdXhsYW5UTkxROGdLWkNtNW9lNlBBQUszUkhUWHQ4TmpKUjFCWXIwNDlmRzJDbENocF83VVZSQ1djU1FhclFpQS01YzJ0d1U?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 11:26:37 GMT",
+      "source": "Trending Topics",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Fed Hike Bets Pressure Gold, Opening Lower Entry Prices as China Buys",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZDAxTi1ERGszTk12UWlTd2RyWms3SHlUNzJ3SWJFWUY3T0h6MUI3TmtLZG1YT0hoQ1MwS3R6cUJ2MWxXczJwMWZPMW5IX2VIbEZ3TnVCSXdSRWt4Y3RKMmlIY01sbUQtV2VtV2g4anR5aUVEcE5paXk2WFJRRm4wN0hYcWdlenhoYndJOHJFcmh5cUNDRnBzc0NpdzdRZ0l2NmtKclVn?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 10:01:52 GMT",
+      "source": "Crux Investor",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Rebounds Modestly From Two-Month Low as Fed Rate Hike Expectations Limit Gains",
       "sentiment": "bear",
       "kind": "driver",
@@ -177,18 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQWEwd0Z5UGR5WVlqS3NOcnM0VGotRmZzT3FwdnFRb1RuTndFX0tGdkZaREF5SHNJNm83aEJDQmVzQkhkUkVoWHRab2N2TnpsN1JKejhnOVpWQmlGN3ZMcjhVb0VTVzBPb21zVThwa1BDN0Y5QkRUQWhtOHVBS3VuWDBlNkVhYkZ1?oc=5",
       "pubDate": "Thu, 08 Oct 2026 09:58:01 GMT",
       "source": "Yahoo Finance UK",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Price Forecast: XAU/USD recovery falters as Oil and yields rise",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWxoUFBka1VUVEFtMTFFZ296WFljUGM2NTNzOWd5SVk2bFp0MENyTlJVblExNU1wRmJfYkNnOFFNWHY3cWdQT0ktZVNhZDRpQlc4SzU4NS1jR0dLTUVoSWxkUTJCLTBwQWI2YV9aR0VCUS1MZklQRFQydWZIU1RBc0dqMA?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 10:09:04 GMT",
-      "source": "Mitrade",
       "isLive": true,
       "coverage": 1
     },
@@ -217,14 +217,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Rallies, Silver Doesn't as Diesel Boosts the Dems' Mid-Terms Odds",
-      "sentiment": "bull",
+      "title": "Gold Price Shapes JIS Fall as Brands Split Between 18k Statements and Budget-Friendly Designs",
+      "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXBfU0pwejJYbmdEVG83VDI3N05iSk5HN3JreVVGZDlKYkpNMjFWdXN2VUdDWEI5aEJnVTI0VGxobFVzNVNWZVltRlJJb2prQUU5eGhER2MxLW1HQ3A5bmJBUWR2MVRzSE85ZzZKRHd6TlgtVTVPeTBHNE1EcVRMdFpDU0VZVGJGNDkxOG9LRXZHb1RjVGxZNw?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 14:49:55 GMT",
-      "source": "BullionVault",
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iVi01MHlaWTlQTjc1MEtWMUlDZWhMN01qMTE3WERCUkpKaTRxRWhyV0ZHbXhVX2d0TWltcWZwNktJallRR0lSc2xzdnNmbnZ4eE1maDhBS3RWS0VVQkJJanpuUlBRMnJlM29MT0F6d2lhNkVIWDhz?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 17:46:08 GMT",
+      "source": "JCK",
       "isLive": true,
       "coverage": 1
     }
