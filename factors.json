@@ -1,41 +1,41 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-07T20:15:45.471Z",
+  "generatedAt": "2026-10-08T00:22:58.370Z",
   "bias": {
-    "score": -26,
+    "score": -41,
     "label": "Bearish",
-    "bullWeight": 13,
-    "bearWeight": 22,
-    "driversCounted": 12
+    "bullWeight": 11,
+    "bearWeight": 26,
+    "driversCounted": 13
   },
   "market": {
     "gold": {
-      "price": 4107.399902,
-      "asOf": "2026-10-07T20:15:44.939Z"
+      "price": 4108.799805,
+      "asOf": "2026-10-08T00:22:57.865Z"
     },
     "realYield10": {
-      "value": 2.95,
-      "asOf": "2026-10-05",
+      "value": 2.91,
+      "asOf": "2026-10-06",
       "prior": 2.43,
-      "priorDate": "2026-09-04",
-      "change": 0.52,
-      "changePct": 21.39917695473251
+      "priorDate": "2026-09-08",
+      "change": 0.48,
+      "changePct": 19.753086419753085
     },
     "y10": {
-      "value": 5.31,
-      "asOf": "2026-10-05",
-      "prior": 4.78,
-      "priorDate": "2026-09-04",
-      "change": 0.5299999999999994,
-      "changePct": 11.087866108786598
+      "value": 5.27,
+      "asOf": "2026-10-06",
+      "prior": 4.8,
+      "priorDate": "2026-09-08",
+      "change": 0.46999999999999975,
+      "changePct": 9.791666666666663
     },
     "y2": {
-      "value": 4.84,
-      "asOf": "2026-10-05",
-      "prior": 4.37,
-      "priorDate": "2026-09-04",
-      "change": 0.46999999999999975,
-      "changePct": 10.75514874141876
+      "value": 4.79,
+      "asOf": "2026-10-06",
+      "prior": 4.39,
+      "priorDate": "2026-09-08",
+      "change": 0.40000000000000036,
+      "changePct": 9.111617312072902
     },
     "dollar": {
       "value": 121.3848,
@@ -58,8 +58,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-05",
-      "text": "The 2-year Treasury yield (4.84%) is 96bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
+      "asOf": "2026-10-06",
+      "text": "The 2-year Treasury yield (4.79%) is 91bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
     },
     {
       "key": "real_yields",
@@ -67,8 +67,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-05",
-      "text": "10Y real yield is 2.95%, up 52bp over 4 weeks (as of 2026-10-05): rising real yields raise the opportunity cost of holding non-yielding gold — bearish. Real yields are the most direct macro driver of gold."
+      "asOf": "2026-10-06",
+      "text": "10Y real yield is 2.91%, up 48bp over 4 weeks (as of 2026-10-06): rising real yields raise the opportunity cost of holding non-yielding gold — bearish. Real yields are the most direct macro driver of gold."
     },
     {
       "key": "dollar",
@@ -108,6 +108,18 @@
     }
   ],
   "live": [
+    {
+      "title": "Gold futures slump to two-month low on stronger dollar, high yields (GLD:NYSEARCA)",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbW9BTGVkUGRQcThZLU8tNG1RQTdmTjZuWEJkb2pYcnFfeDFpNlVqMkZjNmIxcExnRWNDVW42U055WV85TVg5bEdBdWFoZGF5b01Qa3JyR3VUZmEyR0wxSXBoTEpMb09XWnFDV0tnSUl5OThEVU9SZUdwMHZhYUJsWVo0YXllcmFsZDk4NG01RlFsZHh5Z0hnNEgzQkFwU2l3V19qUnN6OA?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 21:25:08 GMT",
+      "source": "Seeking Alpha",
+      "isLive": true,
+      "coverage": 1
+    },
     {
       "title": "Gold Prices Fall as Dollar Strengthens Ahead of Federal Reserve Minutes",
       "sentiment": "bear",
@@ -157,6 +169,18 @@
       "coverage": 1
     },
     {
+      "title": "Gold falls to two‑month low near $4,100 on stronger US Dollar",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmZEc2lpOU13bi1TNWF1VGlIMllpV0dkQ3BSdWFsLWg5Q3lWbmNENFlkbENWZGN4QmJoYmx0cU1wd0tYczBxNVBXQU8wUDFRLVVnMVI5UFJsUW9Cc0hWWlFJbUtZdHlGVTZqU3JtRkYwcGdlbXRudzFSWi1Mc3djcEQ4Sl9BSGowQjV4SWlUb21hWkxXMzdjT3YyTlFZdWdIbjhtV2lB?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 23:25:06 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold, silver prices rise as yields ease but December Fed risk remains - Kitco AM Report",
       "sentiment": "bull",
       "kind": "driver",
@@ -181,18 +205,6 @@
       "coverage": 1
     },
     {
-      "title": "Gold Is Down 20% from its Iran-War Peak: Which ETF Is Best Positioned for a Rebound?",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLXdPWS14c3ZDQUxiNWFjSmFxcmtFNktWZVB2eWJhUTBXd3ZGbWJPZU9fYzE1UGY5cmlBWExsMFRSRnhQZVRpWVhGVWNvMDRPSzROeDc5c0drRmh1VGFydUY3bVF2M2RYdHNrRTlJWXItb0pVNUtta1hJZGV2T3pTS2lFT2FSdXZuNUdlbS1VNWRUWVhZVHVEaVFPU050Slg2aWh6V29zYWlONjlldUZkUVloNVlzUzlTUlMwS1RQMkU3amh6bkJRQXppc2VPSTY2Z3lKOTJxcw?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 12:51:34 GMT",
-      "source": "TradingView",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold slides to two-month low as robust dollar, yields add pressure",
       "sentiment": "bear",
       "kind": "price",
@@ -211,7 +223,7 @@
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0FWX1NWRkx0M1UweWRqY1FlcmNtYnZIYnBfVDdBbUV1bnlYUnhicVg3VmJ6WGZYM3dfWURTOEUzVXdwX1JGWDcxOGlCX2ZqU2ptd0VadmxqSnhHTVE1VUNoSFpuVkFuNEZaQ0Jfd3g2WWJUbW8zOW9QSGJtc3lpMkU3QVZaV1NSVXNPdFdPVWl5WDJWazk5aFNuQUlZcXprRzh6cVZ5SWN3TEJz?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 19:34:45 GMT",
+      "pubDate": "Wed, 07 Oct 2026 23:29:55 GMT",
       "source": "Pittsburgh Post-Gazette",
       "isLive": true,
       "coverage": 1
