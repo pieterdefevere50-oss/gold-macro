@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-09T16:16:09.464Z",
+  "generatedAt": "2026-10-09T20:14:35.433Z",
   "bias": {
     "score": -3,
     "label": "Mixed / Neutral",
-    "bullWeight": 17,
-    "bearWeight": 18,
-    "driversCounted": 12
+    "bullWeight": 15,
+    "bearWeight": 16,
+    "driversCounted": 10
   },
   "market": {
     "gold": {
-      "price": 4194,
-      "asOf": "2026-10-09T16:16:08.949Z"
+      "price": 4196.200195,
+      "asOf": "2026-10-09T20:14:34.897Z"
     },
     "realYield10": {
       "value": 2.92,
@@ -121,18 +121,6 @@
       "coverage": 1
     },
     {
-      "title": "Gold Price Forecast: XAU/USD rallies to $4,200 as US yields retreat",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWnhSWkgyQ3lrd0ZmWVpFUXd2dUtKbDFQc3I3RXBBcTY5REl3VVlkaU42UE95Yl9kSkd4emJ3dDQtWFFaclRMN0U2aTRFTFdXckoySzduUU1lZmdWTUMta3hrTjJHb2tIaW1uN1JzanRod3dMYU4wSGNPV3VlOEVYTUZHRGwzaUtKNEJqRUVfM2JtakVLZFAzWjhLMzdrWGM4V3hhYjZRUmhPQmlR?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 10:09:51 GMT",
-      "source": "FXStreet",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold ticks up as investors weigh Fed path, mounting debt concerns",
       "sentiment": "bull",
       "kind": "driver",
@@ -141,6 +129,18 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTl2VDRiV2EtanRNTGxRVGc4OEhQUUhZOEV1MXduVGNBOW1wa2V6N2lqaXJaX2hiVnpPdU5kSC05VGNVUV9ydExDbnVral9vVW1qTFlvYTZSMGY2cTFraXRJeEthaEZmMFRuVmtVYzc2azRkYlM5MVBvWG9nUGY0LUFBX2VmZHNWTkxHTVZGdUtvTWd2NGlJbg?oc=5",
       "pubDate": "Thu, 08 Oct 2026 01:21:00 GMT",
       "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Price Forecast: XAU/USD rallies to $4,200 as US yields retreat",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWnhSWkgyQ3lrd0ZmWVpFUXd2dUtKbDFQc3I3RXBBcTY5REl3VVlkaU42UE95Yl9kSkd4emJ3dDQtWFFaclRMN0U2aTRFTFdXckoySzduUU1lZmdWTUMta3hrTjJHb2tIaW1uN1JzanRod3dMYU4wSGNPV3VlOEVYTUZHRGwzaUtKNEJqRUVfM2JtakVLZFAzWjhLMzdrWGM4V3hhYjZRUmhPQmlR?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 10:09:51 GMT",
+      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
@@ -169,30 +169,6 @@
       "coverage": 1
     },
     {
-      "title": "Futures and stocks rally together, precious metals sector surges, Western Gold hits limit up, spot silver trading sees marginal improvement [SMM Flash]",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Strong equities reduce the relative appeal of safe-haven gold.",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXJiSkp1clVZaWJNX2w5alZKTUlfVklpcklKQ2NOOFFHaDVMcTFlY0VxRkJvT1pYdDBXaUtZdlZDT3VVOHQzOGlMdmV2Mnl1a2lFNFpBRE14RmM0TmttRG9hbDlPQjlCZlRHS0RWNjZvSWgtTWpHMVExcGQtY1ptdVZsZWM0bWx3QlYyTHhzeGVIS2N0MUgwcG5JSUFkVElwVnk0dGdZRU5MakhHZHM3WlFFVXJrUzF0U3czTTNzOGlrRW9FZ3lZa2pKZVpkellpVVZjZ0NWSHBIUWZqTmxfZEZaZW8tUTNqbm95VFZoSkVpRENQNVdIYUpmWjJIR3dGS0tJYmpCMXdaTVFiajVEUXN1V01uWWlVUVd3?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 12:11:00 GMT",
-      "source": "Shanghai Metals Market",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Chart of the day: Gold price rebounds as Treasury yields retreat but $4,200 remains a hurdle",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0pkSENQaGdYbktTZTZYdWphcXhxUm5hM19tY1FMYTBMeEdJQVZkX3FuVVhwd1hUOEUxcWYyY0lwaXlzeE1yckJpTEtMYXJMNkQ0N3ZSUTAydVc4LTZmTV9JZFJ0WEJpS292VWJOb1ZnOENvTzd0U29fN0JfQlpPZXY3cHVhZDhzUlBNWWVDMnJwcXZqRWc3bHNILTZoOVRSTkhpZUptVHdyeDR3RV91MF80bHJFckhiYXpPSzZYOE4xTWhTeXZFTg?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 04:36:19 GMT",
-      "source": "investingLive",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold price today, Friday, October 9, 2026: Gold prices see modest gains after 'productive discussions' with Iran",
       "sentiment": "bull",
       "kind": "price",
@@ -205,14 +181,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold hits one-week high on softer oil prices",
+      "title": "Gold Price Today: Gold Rises 2.00% on October 09, 2026",
       "sentiment": "bull",
       "kind": "price",
       "impact": 1,
-      "text": "Gold is at a fresh high. This describes the price outcome, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVl80MTVLVXR1WWd1MGxyNFRNN1VaNlJ2WFNIeGlrLS1HTGwzc1pZZ3FqaFZyOFBZcDk0VGRnMzVvSUtiSGFyR3c2Z29Fa25XZk1xX0JlWGpJZVlNaEJhWXhoenc3enFGZGZ3QnVUaGg1U2ZTNE9GZGxfTDIyb3hoMl9ycTNsOHpHeWdKRXk1VmdZZ1VITnhMR29NQ3JYUmV4TXJpemVRaw?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 01:58:00 GMT",
-      "source": "Reuters",
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY0lrdnFsdmpOYS1HTzlMNHByR0xVMkttNkdPTWtkSVQ1RkRGUlQ2OFR1ZmJNVnJMM2ZjN1E0NnBQMHRFbk00eG4xTUpuOUNRMHVYcTJYTUc0UFU2SDFBUFl3b25HMTVwRFZXTDAtODB3ZEN2NXhfMFdTaUVCQWhTTVdYZUIxWXhFbUdVa3B6WEl5SkdqY092dXVLakRFNnhRUEhuRkxpcjJydw?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 16:14:00 GMT",
+      "source": "USA Today",
       "isLive": true,
       "coverage": 1
     }
