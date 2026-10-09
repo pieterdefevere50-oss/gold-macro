@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-09T12:18:52.356Z",
+  "generatedAt": "2026-10-09T16:16:09.464Z",
   "bias": {
-    "score": 9,
+    "score": -3,
     "label": "Mixed / Neutral",
-    "bullWeight": 19,
-    "bearWeight": 16,
+    "bullWeight": 17,
+    "bearWeight": 18,
     "driversCounted": 12
   },
   "market": {
     "gold": {
-      "price": 4182.100098,
-      "asOf": "2026-10-09T12:18:51.770Z"
+      "price": 4194,
+      "asOf": "2026-10-09T16:16:08.949Z"
     },
     "realYield10": {
       "value": 2.92,
@@ -109,14 +109,14 @@
   ],
   "live": [
     {
-      "title": "Gold adds over 1% on easing oil prices, softer dollar",
-      "sentiment": "bull",
+      "title": "Gold price trades near high after preliminary Consumer Sentiment falls to 46.3, inflation expectations rise",
+      "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVl80MTVLVXR1WWd1MGxyNFRNN1VaNlJ2WFNIeGlrLS1HTGwzc1pZZ3FqaFZyOFBZcDk0VGRnMzVvSUtiSGFyR3c2Z29Fa25XZk1xX0JlWGpJZVlNaEJhWXhoenc3enFGZGZ3QnVUaGg1U2ZTNE9GZGxfTDIyb3hoMl9ycTNsOHpHeWdKRXk1VmdZZ1VITnhMR29NQ3JYUmV4TXJpemVRaw?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 01:58:00 GMT",
-      "source": "Reuters",
+      "text": "Hotter inflation raises the odds the Fed stays restrictive for longer — a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFd5VWxYTzE1YzQzZEJOQlhReVc4dU1jd2tmLTl0TW1fR29fOXRqQlY0MUlIZmpGN2I0QWhjemVRc19lN3ZBM281bk9lLWoxQXVQZzY2UkV6YVFkRjJ5VjQ1blplcUI4WXQtMjRTeWJjNU9jTU9fajEzSE5vY2FiaFpvSE9qMjlDajFWY2I5WnpNYXhEUHlnX0xJN0gwUTdfNFM1cVdqenBDcHptS2xmU2RiVGI5SFQ3OHNubA?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 11:01:00 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
@@ -157,14 +157,14 @@
       "coverage": 1
     },
     {
-      "title": "Chart of the day: Gold price rebounds as Treasury yields retreat but $4,200 remains a hurdle",
+      "title": "Gold, silver rebound as dollar, yields and oil ease - Kitco AM Report",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
       "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0pkSENQaGdYbktTZTZYdWphcXhxUm5hM19tY1FMYTBMeEdJQVZkX3FuVVhwd1hUOEUxcWYyY0lwaXlzeE1yckJpTEtMYXJMNkQ0N3ZSUTAydVc4LTZmTV9JZFJ0WEJpS292VWJOb1ZnOENvTzd0U29fN0JfQlpPZXY3cHVhZDhzUlBNWWVDMnJwcXZqRWc3bHNILTZoOVRSTkhpZUptVHdyeDR3RV91MF80bHJFckhiYXpPSzZYOE4xTWhTeXZFTg?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 04:36:19 GMT",
-      "source": "investingLive",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWUt6QXFwVTRMVTVIeUZaeTBucXlKaTNpRHdoOURUM1hWMmdtRU1RTnd0Qm81bUY5cUE0MExTczlqb0Ffbk1Cdm1MMlBKWmVKTmlGSUVnX1AwQ045bzNJZ3hfWDhLQ0dqVUp1N3RQRkRnOWNYWXBNNXFVM2RJOXRVVmw2YmRuRndKcDNoQV9tRXZ6WmhCM1BLWGkwclpCc0xEczNDNER2WFc2NEtv?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 10:05:00 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
@@ -175,20 +175,20 @@
       "impact": 2,
       "text": "Strong equities reduce the relative appeal of safe-haven gold.",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNXJiSkp1clVZaWJNX2w5alZKTUlfVklpcklKQ2NOOFFHaDVMcTFlY0VxRkJvT1pYdDBXaUtZdlZDT3VVOHQzOGlMdmV2Mnl1a2lFNFpBRE14RmM0TmttRG9hbDlPQjlCZlRHS0RWNjZvSWgtTWpHMVExcGQtY1ptdVZsZWM0bWx3QlYyTHhzeGVIS2N0MUgwcG5JSUFkVElwVnk0dGdZRU5MakhHZHM3WlFFVXJrUzF0U3czTTNzOGlrRW9FZ3lZa2pKZVpkellpVVZjZ0NWSHBIUWZqTmxfZEZaZW8tUTNqbm95VFZoSkVpRENQNVdIYUpmWjJIR3dGS0tJYmpCMXdaTVFiajVEUXN1V01uWWlVUVd3?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 08:59:00 GMT",
+      "pubDate": "Fri, 09 Oct 2026 12:11:00 GMT",
       "source": "Shanghai Metals Market",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold prices climb above $4,200 as US Treasury yields fall",
+      "title": "Chart of the day: Gold price rebounds as Treasury yields retreat but $4,200 remains a hurdle",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
       "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3WW5VbEhfX0ExZzBtdWtsUTVHM3BjY19nOUFiNzFzdnFFajVuZW14MzJSYjI4d2xHRGRON3dCSDlTOTBlR3ZDbGhDalBuWTVOLWRzN1ZnVQ?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 10:08:00 GMT",
-      "source": "Azernews.az",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0pkSENQaGdYbktTZTZYdWphcXhxUm5hM19tY1FMYTBMeEdJQVZkX3FuVVhwd1hUOEUxcWYyY0lwaXlzeE1yckJpTEtMYXJMNkQ0N3ZSUTAydVc4LTZmTV9JZFJ0WEJpS292VWJOb1ZnOENvTzd0U29fN0JfQlpPZXY3cHVhZDhzUlBNWWVDMnJwcXZqRWc3bHNILTZoOVRSTkhpZUptVHdyeDR3RV91MF80bHJFckhiYXpPSzZYOE4xTWhTeXZFTg?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 04:36:19 GMT",
+      "source": "investingLive",
       "isLive": true,
       "coverage": 1
     },
@@ -205,14 +205,14 @@
       "coverage": 1
     },
     {
-      "title": "UBS flags level in gold prices where dip buyers will likely emerge",
-      "sentiment": "bear",
+      "title": "Gold hits one-week high on softer oil prices",
+      "sentiment": "bull",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQUxZVktSVzg4bkxTRUF0SDdraTJ6bW1uYWM2Q2xOdHJleV9yZEtMOXV3MWdKa094Ni04Zm9PZVRsWnBkQjNaR1hzaFk4ZUV4anFFUzBGYktTdEtmSHpKU2NpUTdTZ29XZ2twSjgwRVFNNlltdjkza2F2OTYwaW42RzV6c09uRXZSMlFlZFViS1F3a2NvVnhQWk5CbzE2RllVOW5HbEJDX21Rc2d1cTE4Q28zQUlPZ1dzaG9uM0dYOA?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 08:55:56 GMT",
-      "source": "Investing.com",
+      "text": "Gold is at a fresh high. This describes the price outcome, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVl80MTVLVXR1WWd1MGxyNFRNN1VaNlJ2WFNIeGlrLS1HTGwzc1pZZ3FqaFZyOFBZcDk0VGRnMzVvSUtiSGFyR3c2Z29Fa25XZk1xX0JlWGpJZVlNaEJhWXhoenc3enFGZGZ3QnVUaGg1U2ZTNE9GZGxfTDIyb3hoMl9ycTNsOHpHeWdKRXk1VmdZZ1VITnhMR29NQ3JYUmV4TXJpemVRaw?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 01:58:00 GMT",
+      "source": "Reuters",
       "isLive": true,
       "coverage": 1
     }
