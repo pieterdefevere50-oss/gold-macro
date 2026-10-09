@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-08T20:16:46.526Z",
+  "generatedAt": "2026-10-09T00:25:48.661Z",
   "bias": {
-    "score": -30,
+    "score": -41,
     "label": "Bearish",
-    "bullWeight": 13,
-    "bearWeight": 24,
+    "bullWeight": 11,
+    "bearWeight": 26,
     "driversCounted": 13
   },
   "market": {
     "gold": {
-      "price": 4135.899902,
-      "asOf": "2026-10-08T20:16:45.975Z"
+      "price": 4143.5,
+      "asOf": "2026-10-09T00:25:48.009Z"
     },
     "realYield10": {
       "value": 2.92,
@@ -133,6 +133,18 @@
       "coverage": 1
     },
     {
+      "title": "Gold Price Forecast: XAU/USD recovery falters as Oil and yields rise",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcGRuWmpDd1Vta3gza2lKbW5WMXVWZWRlSmg0clFXOUhqeFJraWItSjRRZlJVZWoyeTBCdUF6TzJEV3RoUHE4U1g0V29yUUlsYzU2SUY2clZyWXdPYW9iZ1liUWNsMGhhY3BRUEtoRGt4NXluWGtEaUpmS1pUbFhVYldHV1AySU41UnNIUVU3TmQ1YUh3Y0NkZFJzUGE3b1JXY2lBR1UyNmRGYy1kOHdDaGdUd2dTU25jY05aeGVQNUJNNFVPcm9BLXE4UTQwUQ?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 16:06:41 GMT",
+      "source": "www.tmgm.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Oil Price Shock: Why Real Yields Beat the Hormuz Surge",
       "sentiment": "bear",
       "kind": "driver",
@@ -145,14 +157,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold prices recover from two-month low as dollar rally stalls",
+      "title": "Gold gains on geopolitics as Fed hike bets shift to December",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGd5cXdWU1YxaC1EOEVzLVVPS0VHekp2WHBLVG1qX1hDbHhUNS02Q281TFdBQWw2cXBOejlXdURjbERuaXpHbng0aFBCNmVJYnpDSGdUeTJIWmpMUkJnQzZlSG5TMGxUSXhYbUpGdzVqZmN4dU9XMjluQlRIQkp5UXNDZ1Vhby12elJicUVUYWU1bE9HQVhiY01QMm8tZjV4eExWNdIBpAFBVV95cUxOOGd5cXdWU1YxaC1EOEVzLVVPS0VHekp2WHBLVG1qX1hDbHhUNS02Q281TFdBQWw2cXBOejlXdURjbERuaXpHbng0aFBCNmVJYnpDSGdUeTJIWmpMUkJnQzZlSG5TMGxUSXhYbUpGdzVqZmN4dU9XMjluQlRIQkp5UXNDZ1Vhby12elJicUVUYWU1bE9HQVhiY01QMm8tZjV4eExWNQ?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 03:14:00 GMT",
-      "source": "CNBC",
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEpqRXZsZVRJclFZMUVXcTI3VGphSktHNTJ4d0todzhKT0xsc1YzYl9jLXExNEpNcUJjMVhlNFdrRXJaVHNMakdlME5wNlAxRi1HSWdUREtKNTRlUTF3VF9OWXltSHJJYWgwTjhGdlJpbmVNcVhZVnMtdENYQVhFODQ0dldFLThHNTVFS1MyVlJZcnFacDNZRDFmZ0FicUtiU2RKVk9n?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 21:05:52 GMT",
+      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
@@ -181,38 +193,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Rebounds Modestly From Two-Month Low as Fed Rate Hike Expectations Limit Gains",
+      "title": "Gold prices recover from two-month low as dollar rally stalls",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQWEwd0Z5UGR5WVlqS3NOcnM0VGotRmZzT3FwdnFRb1RuTndFX0tGdkZaREF5SHNJNm83aEJDQmVzQkhkUkVoWHRab2N2TnpsN1JKejhnOVpWQmlGN3ZMcjhVb0VTVzBPb21zVThwa1BDN0Y5QkRUQWhtOHVBS3VuWDBlNkVhYkZ1?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 09:58:01 GMT",
-      "source": "Yahoo Finance UK",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold gains modestly as US Treasury yields ease, Fed hike risks linger",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT3dpdEpPNkRVUFI1NXg2Qm1TWmRfX2ZRRlA0R1dUOUFtRDFMWE5sc1RLMkg5bTlWemx1Umk5djZFeW95MjhoMkNjZ1F1SXJEUUQ1WFdNcmtBWEsyZzNvZ0ZVM2J0aTduQlNZcXBoc3k3Z0V6amJ4Mk9RVFZTeUV1YXRKaS04NmJQREZiOU82b09JZXdMYU5QR1JaV2ZHam9CUVBYd2szWQ?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 14:35:22 GMT",
-      "source": "FXStreet",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold price today, Thursday, October 8, 2026: Yearly gold gains evaporate after Fed says higher rates are expected",
-      "sentiment": "bull",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdDJiR3pYcXZxSmh5NmtiVmZtWUxLRXl0TkZIZEQySDhFSGdzSTdUSGtYVzljYjVPM0kzY0dlZGV2U002cnRDVS04ZTJSd2hFeGJaOVlqVUlWLS1mX3VWU09RU3Bka1dJMWljRVQ5cU1CclZCR1JZLURFWkVPNXFVd2dLNTlCbk5HanBRUXM3VEdxRFp4R0Znb0RqVHlvSzFZWEpjTkpqZ2FiNGVLNENTNVMtS0ZyLUM1SzBCLWVJcy11dkM0RGZOV2VMcF9mRV9rQ2JoTjBCaWFUZ2ZpLWgzZURrNGEydWxxMnk5bzVoa0Z1TGNmZXl1M0sybTcxSHY1ZlFNOTlrV3JkcUx2MWtPNUljZw?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 10:53:09 GMT",
-      "source": "Yahoo Finance",
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGd5cXdWU1YxaC1EOEVzLVVPS0VHekp2WHBLVG1qX1hDbHhUNS02Q281TFdBQWw2cXBOejlXdURjbERuaXpHbng0aFBCNmVJYnpDSGdUeTJIWmpMUkJnQzZlSG5TMGxUSXhYbUpGdzVqZmN4dU9XMjluQlRIQkp5UXNDZ1Vhby12elJicUVUYWU1bE9HQVhiY01QMm8tZjV4eExWNdIBpAFBVV95cUxOOGd5cXdWU1YxaC1EOEVzLVVPS0VHekp2WHBLVG1qX1hDbHhUNS02Q281TFdBQWw2cXBOejlXdURjbERuaXpHbng0aFBCNmVJYnpDSGdUeTJIWmpMUkJnQzZlSG5TMGxUSXhYbUpGdzVqZmN4dU9XMjluQlRIQkp5UXNDZ1Vhby12elJicUVUYWU1bE9HQVhiY01QMm8tZjV4eExWNQ?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 03:14:00 GMT",
+      "source": "CNBC",
       "isLive": true,
       "coverage": 1
     },
@@ -225,6 +213,18 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iVi01MHlaWTlQTjc1MEtWMUlDZWhMN01qMTE3WERCUkpKaTRxRWhyV0ZHbXhVX2d0TWltcWZwNktJallRR0lSc2xzdnNmbnZ4eE1maDhBS3RWS0VVQkJJanpuUlBRMnJlM29MT0F6d2lhNkVIWDhz?oc=5",
       "pubDate": "Thu, 08 Oct 2026 17:46:08 GMT",
       "source": "JCK",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold price today, Thursday, October 8, 2026: Yearly gold gains evaporate after Fed says higher rates are expected",
+      "sentiment": "bull",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdDJiR3pYcXZxSmh5NmtiVmZtWUxLRXl0TkZIZEQySDhFSGdzSTdUSGtYVzljYjVPM0kzY0dlZGV2U002cnRDVS04ZTJSd2hFeGJaOVlqVUlWLS1mX3VWU09RU3Bka1dJMWljRVQ5cU1CclZCR1JZLURFWkVPNXFVd2dLNTlCbk5HanBRUXM3VEdxRFp4R0Znb0RqVHlvSzFZWEpjTkpqZ2FiNGVLNENTNVMtS0ZyLUM1SzBCLWVJcy11dkM0RGZOV2VMcF9mRV9rQ2JoTjBCaWFUZ2ZpLWgzZURrNGEydWxxMnk5bzVoa0Z1TGNmZXl1M0sybTcxSHY1ZlFNOTlrV3JkcUx2MWtPNUljZw?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 10:53:09 GMT",
+      "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
     }
