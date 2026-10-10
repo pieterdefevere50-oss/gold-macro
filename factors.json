@@ -1,41 +1,41 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-09T20:14:35.433Z",
+  "generatedAt": "2026-10-10T00:23:48.446Z",
   "bias": {
     "score": -3,
     "label": "Mixed / Neutral",
-    "bullWeight": 15,
-    "bearWeight": 16,
-    "driversCounted": 10
+    "bullWeight": 17,
+    "bearWeight": 18,
+    "driversCounted": 12
   },
   "market": {
     "gold": {
-      "price": 4196.200195,
-      "asOf": "2026-10-09T20:14:34.897Z"
+      "price": 4195.600098,
+      "asOf": "2026-10-10T00:23:47.887Z"
     },
     "realYield10": {
-      "value": 2.92,
-      "asOf": "2026-10-07",
-      "prior": 2.46,
-      "priorDate": "2026-09-09",
-      "change": 0.45999999999999996,
-      "changePct": 18.69918699186992
+      "value": 2.87,
+      "asOf": "2026-10-08",
+      "prior": 2.55,
+      "priorDate": "2026-09-10",
+      "change": 0.3200000000000003,
+      "changePct": 12.549019607843148
     },
     "y10": {
-      "value": 5.28,
-      "asOf": "2026-10-07",
-      "prior": 4.83,
-      "priorDate": "2026-09-09",
-      "change": 0.4500000000000002,
-      "changePct": 9.316770186335408
+      "value": 5.22,
+      "asOf": "2026-10-08",
+      "prior": 4.95,
+      "priorDate": "2026-09-10",
+      "change": 0.2699999999999996,
+      "changePct": 5.454545454545446
     },
     "y2": {
-      "value": 4.77,
-      "asOf": "2026-10-07",
-      "prior": 4.43,
-      "priorDate": "2026-09-09",
-      "change": 0.33999999999999986,
-      "changePct": 7.674943566591419
+      "value": 4.75,
+      "asOf": "2026-10-08",
+      "prior": 4.56,
+      "priorDate": "2026-09-10",
+      "change": 0.1900000000000004,
+      "changePct": 4.166666666666676
     },
     "dollar": {
       "value": 121.3848,
@@ -58,8 +58,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-07",
-      "text": "The 2-year Treasury yield (4.77%) is 89bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
+      "asOf": "2026-10-08",
+      "text": "The 2-year Treasury yield (4.75%) is 87bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
     },
     {
       "key": "real_yields",
@@ -67,8 +67,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-07",
-      "text": "10Y real yield is 2.92%, up 46bp over 4 weeks (as of 2026-10-07): rising real yields raise the opportunity cost of holding non-yielding gold — bearish. Real yields are the most direct macro driver of gold."
+      "asOf": "2026-10-08",
+      "text": "10Y real yield is 2.87%, up 32bp over 4 weeks (as of 2026-10-08): rising real yields raise the opportunity cost of holding non-yielding gold — bearish. Real yields are the most direct macro driver of gold."
     },
     {
       "key": "dollar",
@@ -115,7 +115,7 @@
       "impact": 2,
       "text": "Hotter inflation raises the odds the Fed stays restrictive for longer — a headwind for gold.",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFd5VWxYTzE1YzQzZEJOQlhReVc4dU1jd2tmLTl0TW1fR29fOXRqQlY0MUlIZmpGN2I0QWhjemVRc19lN3ZBM281bk9lLWoxQXVQZzY2UkV6YVFkRjJ5VjQ1blplcUI4WXQtMjRTeWJjNU9jTU9fajEzSE5vY2FiaFpvSE9qMjlDajFWY2I5WnpNYXhEUHlnX0xJN0gwUTdfNFM1cVdqenBDcHptS2xmU2RiVGI5SFQ3OHNubA?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 11:01:00 GMT",
+      "pubDate": "Fri, 09 Oct 2026 14:13:55 GMT",
       "source": "Kitco",
       "isLive": true,
       "coverage": 1
@@ -157,14 +157,38 @@
       "coverage": 1
     },
     {
-      "title": "Gold, silver rebound as dollar, yields and oil ease - Kitco AM Report",
+      "title": "Gold and the US Dollar Are Both Rising – Here’s What Traders Should Watch",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVnh4MmdNcEhzZkJ5MHZlMG5WbE8xR3FxZkliajBzUGE1OW0xVHZLOXhRRUdsR2NMNkRpR19BdVRablJiNTF3cXJQYnU0LW1rQ1Z5dmk1d2pSek1wNldQZHhzNnhVdTF3eXdwaU05a05EUFRUYTlfSjkzb0c3RkJjSVNLck03MUdlN0xjS2xZQ0FHZERFVUQ0dEpaMVpyWXVOQkV5TkZTeXVSR3g1elBxVWRKYTZUY1V5WkRDU0VR?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 22:57:56 GMT",
+      "source": "FXEmpire",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold price rebounds to weekly high as yields ease",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
       "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWUt6QXFwVTRMVTVIeUZaeTBucXlKaTNpRHdoOURUM1hWMmdtRU1RTnd0Qm81bUY5cUE0MExTczlqb0Ffbk1Cdm1MMlBKWmVKTmlGSUVnX1AwQ045bzNJZ3hfWDhLQ0dqVUp1N3RQRkRnOWNYWXBNNXFVM2RJOXRVVmw2YmRuRndKcDNoQV9tRXZ6WmhCM1BLWGkwclpCc0xEczNDNER2WFc2NEtv?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 10:05:00 GMT",
-      "source": "Kitco",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CazZRY1Vad0o3bThXeS0zTUZTdTRTbEhMZnJaZ1lTVnNGN2Z2RUdPRFdIeDJxVG52SGV3M3dyZjBVMDljQjFCWjM2cy01aXpoa2Vadi1md1hyWjFiZzY5MmRuM3JObEZvZWVjZ3dUSFZmYnRvajJ5UTQwd2U?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 21:56:15 GMT",
+      "source": "Mining.com.au",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold and Silver Forecast: Softer Dollar Fuels Rebound Despite Fed Hike Risks",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY3o2T1VNbmFlckdtd09zZVpFQjJUQjlPVmh5bmZwZ0lmS0M1MHQtQVlkRVZVdDRRM0lOa2lFM2JIUWRxaDVyNzF0MlRvWDZlbUhBblZDSktSY0U5bl85bV9aYWhydzNtWEltWTVQbGxpbTBHcHdXM1lkazI3ZUV0OGpwVzJ4YmpfSnUxUm92eHZzRlRacEhvRzhXNXZkWjJhSmljQ2pYb0FvM3ZWbmdTNWpFLU9EVGhEMGpXOHppTUNsWVFq?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 08:40:29 GMT",
+      "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     },
