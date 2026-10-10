@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-10T04:15:23.197Z",
+  "generatedAt": "2026-10-10T08:14:56.251Z",
   "bias": {
-    "score": -9,
+    "score": -3,
     "label": "Mixed / Neutral",
     "bullWeight": 15,
-    "bearWeight": 18,
-    "driversCounted": 11
+    "bearWeight": 16,
+    "driversCounted": 10
   },
   "market": {
     "gold": {
       "price": 4195.600098,
-      "asOf": "2026-10-10T04:15:22.575Z"
+      "asOf": "2026-10-10T08:14:55.788Z"
     },
     "realYield10": {
       "value": 2.87,
@@ -115,7 +115,7 @@
       "impact": 2,
       "text": "Hotter inflation raises the odds the Fed stays restrictive for longer — a headwind for gold.",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFd5VWxYTzE1YzQzZEJOQlhReVc4dU1jd2tmLTl0TW1fR29fOXRqQlY0MUlIZmpGN2I0QWhjemVRc19lN3ZBM281bk9lLWoxQXVQZzY2UkV6YVFkRjJ5VjQ1blplcUI4WXQtMjRTeWJjNU9jTU9fajEzSE5vY2FiaFpvSE9qMjlDajFWY2I5WnpNYXhEUHlnX0xJN0gwUTdfNFM1cVdqenBDcHptS2xmU2RiVGI5SFQ3OHNubA?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 18:01:00 GMT",
+      "pubDate": "Fri, 09 Oct 2026 14:13:55 GMT",
       "source": "Kitco",
       "isLive": true,
       "coverage": 1
@@ -133,6 +133,18 @@
       "coverage": 1
     },
     {
+      "title": "Gold, silver rebound as dollar, yields and oil ease - Kitco AM Report",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWUt6QXFwVTRMVTVIeUZaeTBucXlKaTNpRHdoOURUM1hWMmdtRU1RTnd0Qm81bUY5cUE0MExTczlqb0Ffbk1Cdm1MMlBKWmVKTmlGSUVnX1AwQ045bzNJZ3hfWDhLQ0dqVUp1N3RQRkRnOWNYWXBNNXFVM2RJOXRVVmw2YmRuRndKcDNoQV9tRXZ6WmhCM1BLWGkwclpCc0xEczNDNER2WFc2NEtv?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 17:05:00 GMT",
+      "source": "Kitco",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Prices Rise 1.5% as Dollar and US Treasury Yields Retreat",
       "sentiment": "bull",
       "kind": "driver",
@@ -141,30 +153,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTGp4b3pEMHBIX1JmZ2J6Q3NDWGpyMm4wcWZZcWJOaUpSSlFzZmU1X0dlazg5Z0txMXJId0o4N1g1VnFuU0FKZkxZMUFfVzRHV0gzSzB4em5UM09Sel9fS1ZDcDdva1dmSUxRYUhhVWY1Q29UcVoxQkk4WS1sMFlOc256ZlMtbExFLVhzQjRwbEVQOXBy?oc=5",
       "pubDate": "Fri, 09 Oct 2026 09:32:26 GMT",
       "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold and the US Dollar Are Both Rising – Here’s What Traders Should Watch",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVnh4MmdNcEhzZkJ5MHZlMG5WbE8xR3FxZkliajBzUGE1OW0xVHZLOXhRRUdsR2NMNkRpR19BdVRablJiNTF3cXJQYnU0LW1rQ1Z5dmk1d2pSek1wNldQZHhzNnhVdTF3eXdwaU05a05EUFRUYTlfSjkzb0c3RkJjSVNLck03MUdlN0xjS2xZQ0FHZERFVUQ0dEpaMVpyWXVOQkV5TkZTeXVSR3g1elBxVWRKYTZUY1V5WkRDU0VR?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 00:47:49 GMT",
-      "source": "FXEmpire",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold, silver rebound as dollar, yields and oil ease - Kitco AM Report",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWUt6QXFwVTRMVTVIeUZaeTBucXlKaTNpRHdoOURUM1hWMmdtRU1RTnd0Qm81bUY5cUE0MExTczlqb0Ffbk1Cdm1MMlBKWmVKTmlGSUVnX1AwQ045bzNJZ3hfWDhLQ0dqVUp1N3RQRkRnOWNYWXBNNXFVM2RJOXRVVmw2YmRuRndKcDNoQV9tRXZ6WmhCM1BLWGkwclpCc0xEczNDNER2WFc2NEtv?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 13:25:48 GMT",
-      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
@@ -193,14 +181,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Price Today: Gold Rises 2.00% on October 09, 2026",
+      "title": "Gold posts first weekly gain in three weeks — can $4,200 hold through CPI?",
       "sentiment": "bull",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY0lrdnFsdmpOYS1HTzlMNHByR0xVMkttNkdPTWtkSVQ1RkRGUlQ2OFR1ZmJNVnJMM2ZjN1E0NnBQMHRFbk00eG4xTUpuOUNRMHVYcTJYTUc0UFU2SDFBUFl3b25HMTVwRFZXTDAtODB3ZEN2NXhfMFdTaUVCQWhTTVdYZUIxWXhFbUdVa3B6WEl5SkdqY092dXVLakRFNnhRUEhuRkxpcjJydw?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 16:14:00 GMT",
-      "source": "USA Today",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkF2dnIzdlZoTklJOGRHLVZISlo2S0RyWVBDV092MDhKWE9TQVdYZWd0b2lrWU8tWDFLcmxIOV9yaDM3bjcxeEpKNUxidFFnanVkd2tmQXZHZnB1cjFaMnNkSm1XSnlaTHJWVm1nYzFfdVhjMU5SeFBTajdCVXpWUjZZRFpELXRkUUVRSkFmSEtEOWJoeHowWk0wWk0ybnlHbE1RZHRXcUZicTJLb1gw?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 06:34:45 GMT",
+      "source": "Mitrade",
       "isLive": true,
       "coverage": 1
     }
