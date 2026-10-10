@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-10T00:23:48.446Z",
+  "generatedAt": "2026-10-10T04:15:23.197Z",
   "bias": {
-    "score": -3,
+    "score": -9,
     "label": "Mixed / Neutral",
-    "bullWeight": 17,
+    "bullWeight": 15,
     "bearWeight": 18,
-    "driversCounted": 12
+    "driversCounted": 11
   },
   "market": {
     "gold": {
       "price": 4195.600098,
-      "asOf": "2026-10-10T00:23:47.887Z"
+      "asOf": "2026-10-10T04:15:22.575Z"
     },
     "realYield10": {
       "value": 2.87,
@@ -115,20 +115,8 @@
       "impact": 2,
       "text": "Hotter inflation raises the odds the Fed stays restrictive for longer — a headwind for gold.",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFd5VWxYTzE1YzQzZEJOQlhReVc4dU1jd2tmLTl0TW1fR29fOXRqQlY0MUlIZmpGN2I0QWhjemVRc19lN3ZBM281bk9lLWoxQXVQZzY2UkV6YVFkRjJ5VjQ1blplcUI4WXQtMjRTeWJjNU9jTU9fajEzSE5vY2FiaFpvSE9qMjlDajFWY2I5WnpNYXhEUHlnX0xJN0gwUTdfNFM1cVdqenBDcHptS2xmU2RiVGI5SFQ3OHNubA?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 14:13:55 GMT",
+      "pubDate": "Fri, 09 Oct 2026 18:01:00 GMT",
       "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold ticks up as investors weigh Fed path, mounting debt concerns",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Concerns about US fiscal health support gold as a hedge.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaTl2VDRiV2EtanRNTGxRVGc4OEhQUUhZOEV1MXduVGNBOW1wa2V6N2lqaXJaX2hiVnpPdU5kSC05VGNVUV9ydExDbnVral9vVW1qTFlvYTZSMGY2cTFraXRJeEthaEZmMFRuVmtVYzc2azRkYlM5MVBvWG9nUGY0LUFBX2VmZHNWTkxHTVZGdUtvTWd2NGlJbg?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 01:21:00 GMT",
-      "source": "Reuters",
       "isLive": true,
       "coverage": 1
     },
@@ -163,8 +151,20 @@
       "impact": 2,
       "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVnh4MmdNcEhzZkJ5MHZlMG5WbE8xR3FxZkliajBzUGE1OW0xVHZLOXhRRUdsR2NMNkRpR19BdVRablJiNTF3cXJQYnU0LW1rQ1Z5dmk1d2pSek1wNldQZHhzNnhVdTF3eXdwaU05a05EUFRUYTlfSjkzb0c3RkJjSVNLck03MUdlN0xjS2xZQ0FHZERFVUQ0dEpaMVpyWXVOQkV5TkZTeXVSR3g1elBxVWRKYTZUY1V5WkRDU0VR?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 22:57:56 GMT",
+      "pubDate": "Sat, 10 Oct 2026 00:47:49 GMT",
       "source": "FXEmpire",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold, silver rebound as dollar, yields and oil ease - Kitco AM Report",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWUt6QXFwVTRMVTVIeUZaeTBucXlKaTNpRHdoOURUM1hWMmdtRU1RTnd0Qm81bUY5cUE0MExTczlqb0Ffbk1Cdm1MMlBKWmVKTmlGSUVnX1AwQ045bzNJZ3hfWDhLQ0dqVUp1N3RQRkRnOWNYWXBNNXFVM2RJOXRVVmw2YmRuRndKcDNoQV9tRXZ6WmhCM1BLWGkwclpCc0xEczNDNER2WFc2NEtv?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 13:25:48 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
@@ -177,18 +177,6 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CazZRY1Vad0o3bThXeS0zTUZTdTRTbEhMZnJaZ1lTVnNGN2Z2RUdPRFdIeDJxVG52SGV3M3dyZjBVMDljQjFCWjM2cy01aXpoa2Vadi1md1hyWjFiZzY5MmRuM3JObEZvZWVjZ3dUSFZmYnRvajJ5UTQwd2U?oc=5",
       "pubDate": "Fri, 09 Oct 2026 21:56:15 GMT",
       "source": "Mining.com.au",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold and Silver Forecast: Softer Dollar Fuels Rebound Despite Fed Hike Risks",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY3o2T1VNbmFlckdtd09zZVpFQjJUQjlPVmh5bmZwZ0lmS0M1MHQtQVlkRVZVdDRRM0lOa2lFM2JIUWRxaDVyNzF0MlRvWDZlbUhBblZDSktSY0U5bl85bV9aYWhydzNtWEltWTVQbGxpbTBHcHdXM1lkazI3ZUV0OGpwVzJ4YmpfSnUxUm92eHZzRlRacEhvRzhXNXZkWjJhSmljQ2pYb0FvM3ZWbmdTNWpFLU9EVGhEMGpXOHppTUNsWVFq?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 08:40:29 GMT",
-      "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     },
