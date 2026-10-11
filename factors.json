@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-11T12:19:19.216Z",
+  "generatedAt": "2026-10-11T16:14:17.900Z",
   "bias": {
-    "score": -19,
-    "label": "Mixed / Neutral",
-    "bullWeight": 11,
-    "bearWeight": 16,
-    "driversCounted": 8
+    "score": -33,
+    "label": "Bearish",
+    "bullWeight": 7,
+    "bearWeight": 14,
+    "driversCounted": 5
   },
   "market": {
     "gold": {
       "price": 4195.600098,
-      "asOf": "2026-10-11T12:18:46.784Z"
+      "asOf": "2026-10-11T16:14:17.380Z"
     },
     "realYield10": {
       "value": 2.87,
@@ -109,72 +109,29 @@
   ],
   "live": [
     {
-      "title": "Gold price trades near high after preliminary Consumer Sentiment falls to 46.3, inflation expectations rise",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Hotter inflation raises the odds the Fed stays restrictive for longer — a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFd5VWxYTzE1YzQzZEJOQlhReVc4dU1jd2tmLTl0TW1fR29fOXRqQlY0MUlIZmpGN2I0QWhjemVRc19lN3ZBM281bk9lLWoxQXVQZzY2UkV6YVFkRjJ5VjQ1blplcUI4WXQtMjRTeWJjNU9jTU9fajEzSE5vY2FiaFpvSE9qMjlDajFWY2I5WnpNYXhEUHlnX0xJN0gwUTdfNFM1cVdqenBDcHptS2xmU2RiVGI5SFQ3OHNubA?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 11:01:00 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1,
-      "stale": true
-    },
-    {
-      "title": "Gold Price Forecast: XAU/USD rallies to $4,200 as US yields retreat",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWnhSWkgyQ3lrd0ZmWVpFUXd2dUtKbDFQc3I3RXBBcTY5REl3VVlkaU42UE95Yl9kSkd4emJ3dDQtWFFaclRMN0U2aTRFTFdXckoySzduUU1lZmdWTUMta3hrTjJHb2tIaW1uN1JzanRod3dMYU4wSGNPV3VlOEVYTUZHRGwzaUtKNEJqRUVfM2JtakVLZFAzWjhLMzdrWGM4V3hhYjZRUmhPQmlR?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 10:09:51 GMT",
-      "source": "FXStreet",
-      "isLive": true,
-      "coverage": 1,
-      "stale": true
-    },
-    {
-      "title": "Gold Prices Rise 1.5% as Dollar and US Treasury Yields Retreat",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTGp4b3pEMHBIX1JmZ2J6Q3NDWGpyMm4wcWZZcWJOaUpSSlFzZmU1X0dlazg5Z0txMXJId0o4N1g1VnFuU0FKZkxZMUFfVzRHV0gzSzB4em5UM09Sel9fS1ZDcDdva1dmSUxRYUhhVWY1Q29UcVoxQkk4WS1sMFlOc256ZlMtbExFLVhzQjRwbEVQOXBy?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 09:32:26 GMT",
-      "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1,
-      "stale": true
-    },
-    {
-      "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
-      "sentiment": "bull",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold is at a fresh high. This describes the price outcome, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVl80MTVLVXR1WWd1MGxyNFRNN1VaNlJ2WFNIeGlrLS1HTGwzc1pZZ3FqaFZyOFBZcDk0VGRnMzVvSUtiSGFyR3c2Z29Fa25XZk1xX0JlWGpJZVlNaEJhWXhoenc3enFGZGZ3QnVUaGg1U2ZTNE9GZGxfTDIyb3hoMl9ycTNsOHpHeWdKRXk1VmdZZ1VITnhMR29NQ3JYUmV4TXJpemVRaw?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 08:52:57 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 1,
-      "stale": true
-    },
-    {
-      "title": "Will gold prices fall further? Check reasons behind the recent dip, forecasts and more",
+      "title": "Shafaq News..Gold prices fall in Baghdad, rise in Erbil",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSlQ2NW1rdG1SUGFEQlVnZXpsZjBCczJPNVNfUGp6ZDRCQldhNU04TF9JSTF1MXIxYnM2M08zNE1nTHNHUVlLd2tOMTB5ZzVmR3FWYnBLcDNrVm52bFBQekdZeXpzNmREY0RrcWV2Y2NPbHdsVGUzZGhmZG1EUVRyR21Vd2dzRy1iVkVQTW16NkZWcFdEeEFoVEdvTEFMdkx6UVgzd2RZWVVzdmF3T1NOTUU3UmVTNmlxeWZMNE5vSjhMQk9BNjNZLWwxNlpuVlMw0gHWAUFVX3lxTE1XbXFVanlhUEhsYlF5cGJnM3RSNFp2NERMM2FPNlVLcGdfUnREWTFIaHBtZUx5SjREVWZVelBYUkxjQ0IyWmh6QVRJYllQMU5MQU53cVZMcWhjM3oyS3VpVVhHcWdYWGs4RlBWaEp2Y0liLWZQazdzdXdkdXY1RVpmdkFIZzJJcmRiamRjdkpVMktYNXhTeEVuSkVKVWlicUVMRE5lTG40SEJvQkZOUkZxVVBFZFF0eGsyUnN3ZEk4d0JaRl9ac1RFNjA5N2J5eEZidDVTTUE?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 18:32:52 GMT",
-      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXRHc3llSkQ1VjJKTEtUN2xtYk1mMFRQRVdURmpuWF85QmVIR3BYa2lqRVByM2F4clF5dnB1ZXEta0hZRWY0d2M2SnlKSzU3M00tMkY4c0g0MktFdXZwQU9sSG4xZjFPQnlvU0JxZWtEaXpTWWxwY2lTWHBwZmtGQ2syVQ?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 09:07:16 GMT",
+      "source": "شفق نيوز",
       "isLive": true,
-      "coverage": 1,
-      "stale": true
+      "coverage": 1
+    },
+    {
+      "title": "How Investors Are Reacting To G Mining Ventures Stock As Quarterly Gold Sales Slip",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTnNfeG55ZmwxODJuWUNISDhWOU52SjV6cG9lNzdRZDB5VEFtOGJhQ0d5UXF2ZmpnNElTR1g4NHh4NGc2Nl9OYTVQUC1OV2t4akxJamRVcGNjNFk0T1hGRHpJaHk0UktSTlBuYXdnVnBQWmZHS1IzUi1zNlRLR1lmVDFWc1Y1RjZCQjNXdURHc2JITlc0VGRSR3BCaGN5RlVZNHpQZm92MFVpWUxzXzY2NW1FRTBJcF9yVUtkWlBrOGJLM21yRW82N3E1VGNucHpzWGxKUWZPSkfSAd4BQVVfeXFMTWRTTUlhX2VoNmZXQ3VxNEdxenB5YnpocmJ4TzhuWThnamZ3blhBSmVleUR0UEVROFdQSzhMMXJzbnVfc3ZNMFBkMW5IYU12VkJJVF9lemsxVW5menl0YnA3MEdZdDUtN2RrWEgtdzhoWG1fa1dtWFVjbExPbTJHcnpGdWhBLW5FMG5ab3RCaEtaNUZhS1VYTExYYUY2dGxrWHZwV3lXTnF3dk94bzBGWmh6dm4tdUtnM196cVFIV3JCZm1PRE1QYXBCMGd5TTVMcmhXelBqWDE5eTUtWm9B?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 02:42:35 GMT",
+      "source": "Simply Wall Street",
+      "isLive": true,
+      "coverage": 1
     }
   ],
-  "errors": [
-    "news: HTTP 503"
-  ]
+  "errors": []
 }
