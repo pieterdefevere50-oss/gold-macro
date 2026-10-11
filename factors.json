@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-11T16:14:17.900Z",
+  "generatedAt": "2026-10-11T20:13:46.965Z",
   "bias": {
-    "score": -33,
+    "score": -22,
     "label": "Bearish",
-    "bullWeight": 7,
+    "bullWeight": 9,
     "bearWeight": 14,
-    "driversCounted": 5
+    "driversCounted": 6
   },
   "market": {
     "gold": {
       "price": 4195.600098,
-      "asOf": "2026-10-11T16:14:17.380Z"
+      "asOf": "2026-10-11T20:13:46.427Z"
     },
     "realYield10": {
       "value": 2.87,
@@ -109,6 +109,18 @@
   ],
   "live": [
     {
+      "title": "Gold Price Forecast: UBS Sees $5,200 By June 2027 On ETF Buying",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising ETF holdings show investment demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMFBBdlZBMlFKZEk0RFBTWmhua25pZE1tNXpKeFk3aXlweEw4anBmRExzSG5MWGVtWXN6UGxtNWFoZWpKRkRMdFVFZjZBeXl5LU9mRDlOMWt4bFBBM3J5NUhJOHg0TkQwYl9LenhTRFVxV0E2cHJtYmt2azk2YnpGTDZNdHBjOGxJbVRGLXZtSHY0YUVnZDI3Z2dJdmEwbTZ4ZExUZ1JXaE5QR2hMMTR2WEhUOWhZd2ZLN3p4dWhR?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 17:15:00 GMT",
+      "source": "Exchange Rates UK",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Shafaq News..Gold prices fall in Baghdad, rise in Erbil",
       "sentiment": "bear",
       "kind": "price",
@@ -121,14 +133,14 @@
       "coverage": 1
     },
     {
-      "title": "How Investors Are Reacting To G Mining Ventures Stock As Quarterly Gold Sales Slip",
-      "sentiment": "bear",
+      "title": "Gold posts first weekly gain in three weeks — can $4,200 hold through CPI?",
+      "sentiment": "bull",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTnNfeG55ZmwxODJuWUNISDhWOU52SjV6cG9lNzdRZDB5VEFtOGJhQ0d5UXF2ZmpnNElTR1g4NHh4NGc2Nl9OYTVQUC1OV2t4akxJamRVcGNjNFk0T1hGRHpJaHk0UktSTlBuYXdnVnBQWmZHS1IzUi1zNlRLR1lmVDFWc1Y1RjZCQjNXdURHc2JITlc0VGRSR3BCaGN5RlVZNHpQZm92MFVpWUxzXzY2NW1FRTBJcF9yVUtkWlBrOGJLM21yRW82N3E1VGNucHpzWGxKUWZPSkfSAd4BQVVfeXFMTWRTTUlhX2VoNmZXQ3VxNEdxenB5YnpocmJ4TzhuWThnamZ3blhBSmVleUR0UEVROFdQSzhMMXJzbnVfc3ZNMFBkMW5IYU12VkJJVF9lemsxVW5menl0YnA3MEdZdDUtN2RrWEgtdzhoWG1fa1dtWFVjbExPbTJHcnpGdWhBLW5FMG5ab3RCaEtaNUZhS1VYTExYYUY2dGxrWHZwV3lXTnF3dk94bzBGWmh6dm4tdUtnM196cVFIV3JCZm1PRE1QYXBCMGd5TTVMcmhXelBqWDE5eTUtWm9B?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 02:42:35 GMT",
-      "source": "Simply Wall Street",
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkF2dnIzdlZoTklJOGRHLVZISlo2S0RyWVBDV092MDhKWE9TQVdYZWd0b2lrWU8tWDFLcmxIOV9yaDM3bjcxeEpKNUxidFFnanVkd2tmQXZHZnB1cjFaMnNkSm1XSnlaTHJWVm1nYzFfdVhjMU5SeFBTajdCVXpWUjZZRFpELXRkUUVRSkFmSEtEOWJoeHowWk0wWk0ybnlHbE1RZHRXcUZicTJLb1gw?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 06:34:45 GMT",
+      "source": "Mitrade",
       "isLive": true,
       "coverage": 1
     }
