@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-11T00:23:17.129Z",
+  "generatedAt": "2026-10-11T04:15:12.594Z",
   "bias": {
-    "score": -10,
+    "score": -19,
     "label": "Mixed / Neutral",
-    "bullWeight": 13,
+    "bullWeight": 11,
     "bearWeight": 16,
-    "driversCounted": 9
+    "driversCounted": 8
   },
   "market": {
     "gold": {
       "price": 4195.600098,
-      "asOf": "2026-10-11T00:23:16.611Z"
+      "asOf": "2026-10-11T04:15:12.110Z"
     },
     "realYield10": {
       "value": 2.87,
@@ -145,14 +145,14 @@
       "coverage": 1
     },
     {
-      "title": "XAU/USD Forecast: Central Bank Gold Buying Spree Sets Stage for $4,500 Breakout",
+      "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
       "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Central-bank accumulation reinforces structural demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbEdJRzBkcXAtWjJSLWs3S05MMkJ2XzJLZ1hFQV9tMGEwVFRhNHBsTVZiY2hGVnU4TDctX0N5bkZEdi1MTWtzR29idzZvSW5YT1VUQ2dxYUNvRnFUck0yWG1zR0VBR3VMVlNad1NVY3JIMjFnRUUzR3hiYnJOazhoejlMSEx5Nks5c3JaSzJkVXNxQWVJRTBlLTFleXVjdWRxczE2VXdJOTJlc2d4V2F4ZF9pYVlJVTluNGhr?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 08:49:58 GMT",
-      "source": "FXLeaders",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold is at a fresh high. This describes the price outcome, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVl80MTVLVXR1WWd1MGxyNFRNN1VaNlJ2WFNIeGlrLS1HTGwzc1pZZ3FqaFZyOFBZcDk0VGRnMzVvSUtiSGFyR3c2Z29Fa25XZk1xX0JlWGpJZVlNaEJhWXhoenc3enFGZGZ3QnVUaGg1U2ZTNE9GZGxfTDIyb3hoMl9ycTNsOHpHeWdKRXk1VmdZZ1VITnhMR29NQ3JYUmV4TXJpemVRaw?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 08:52:57 GMT",
+      "source": "Reuters",
       "isLive": true,
       "coverage": 1
     },
@@ -165,18 +165,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSlQ2NW1rdG1SUGFEQlVnZXpsZjBCczJPNVNfUGp6ZDRCQldhNU04TF9JSTF1MXIxYnM2M08zNE1nTHNHUVlLd2tOMTB5ZzVmR3FWYnBLcDNrVm52bFBQekdZeXpzNmREY0RrcWV2Y2NPbHdsVGUzZGhmZG1EUVRyR21Vd2dzRy1iVkVQTW16NkZWcFdEeEFoVEdvTEFMdkx6UVgzd2RZWVVzdmF3T1NOTUU3UmVTNmlxeWZMNE5vSjhMQk9BNjNZLWwxNlpuVlMw0gHWAUFVX3lxTE1XbXFVanlhUEhsYlF5cGJnM3RSNFp2NERMM2FPNlVLcGdfUnREWTFIaHBtZUx5SjREVWZVelBYUkxjQ0IyWmh6QVRJYllQMU5MQU53cVZMcWhjM3oyS3VpVVhHcWdYWGs4RlBWaEp2Y0liLWZQazdzdXdkdXY1RVpmdkFIZzJJcmRiamRjdkpVMktYNXhTeEVuSkVKVWlicUVMRE5lTG40SEJvQkZOUkZxVVBFZFF0eGsyUnN3ZEk4d0JaRl9ac1RFNjA5N2J5eEZidDVTTUE?oc=5",
       "pubDate": "Sat, 10 Oct 2026 18:32:52 GMT",
       "source": "Livemint",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold posts first weekly gain in three weeks — can $4,200 hold through CPI?",
-      "sentiment": "bull",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkF2dnIzdlZoTklJOGRHLVZISlo2S0RyWVBDV092MDhKWE9TQVdYZWd0b2lrWU8tWDFLcmxIOV9yaDM3bjcxeEpKNUxidFFnanVkd2tmQXZHZnB1cjFaMnNkSm1XSnlaTHJWVm1nYzFfdVhjMU5SeFBTajdCVXpWUjZZRFpELXRkUUVRSkFmSEtEOWJoeHowWk0wWk0ybnlHbE1RZHRXcUZicTJLb1gw?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 06:34:45 GMT",
-      "source": "Mitrade",
       "isLive": true,
       "coverage": 1
     }
