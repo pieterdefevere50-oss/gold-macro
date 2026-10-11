@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-10T20:13:53.122Z",
+  "generatedAt": "2026-10-11T00:23:17.129Z",
   "bias": {
     "score": -10,
     "label": "Mixed / Neutral",
@@ -11,7 +11,7 @@
   "market": {
     "gold": {
       "price": 4195.600098,
-      "asOf": "2026-10-10T20:13:52.543Z"
+      "asOf": "2026-10-11T00:23:16.611Z"
     },
     "realYield10": {
       "value": 2.87,
@@ -133,18 +133,6 @@
       "coverage": 1
     },
     {
-      "title": "XAU/USD Forecast: Central Bank Gold Buying Spree Sets Stage for $4,500 Breakout",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Central-bank accumulation reinforces structural demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbEdJRzBkcXAtWjJSLWs3S05MMkJ2XzJLZ1hFQV9tMGEwVFRhNHBsTVZiY2hGVnU4TDctX0N5bkZEdi1MTWtzR29idzZvSW5YT1VUQ2dxYUNvRnFUck0yWG1zR0VBR3VMVlNad1NVY3JIMjFnRUUzR3hiYnJOazhoejlMSEx5Nks5c3JaSzJkVXNxQWVJRTBlLTFleXVjdWRxczE2VXdJOTJlc2d4V2F4ZF9pYVlJVTluNGhr?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 08:49:58 GMT",
-      "source": "FXLeaders",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold Prices Rise 1.5% as Dollar and US Treasury Yields Retreat",
       "sentiment": "bull",
       "kind": "driver",
@@ -157,14 +145,26 @@
       "coverage": 1
     },
     {
-      "title": "Gold price today, Friday, October 9, 2026: Gold prices see modest gains after 'productive discussions' with Iran",
+      "title": "XAU/USD Forecast: Central Bank Gold Buying Spree Sets Stage for $4,500 Breakout",
       "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Central-bank accumulation reinforces structural demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbEdJRzBkcXAtWjJSLWs3S05MMkJ2XzJLZ1hFQV9tMGEwVFRhNHBsTVZiY2hGVnU4TDctX0N5bkZEdi1MTWtzR29idzZvSW5YT1VUQ2dxYUNvRnFUck0yWG1zR0VBR3VMVlNad1NVY3JIMjFnRUUzR3hiYnJOazhoejlMSEx5Nks5c3JaSzJkVXNxQWVJRTBlLTFleXVjdWRxczE2VXdJOTJlc2d4V2F4ZF9pYVlJVTluNGhr?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 08:49:58 GMT",
+      "source": "FXLeaders",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Will gold prices fall further? Check reasons behind the recent dip, forecasts and more",
+      "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPc3BLTlBrSUxxSnkxRk9PZldTbEhocjFYV1hKM254TTdkYkg4Mzg0ODZ3VnBEQUtra2UtaXUtSUpUT1ZTMUFvZmQzTVFQcmFfeGZ1bi04QWNLNThwTW04aGZnN1V2OW9UWlVaYlg0YVJVSjRrZDZPVTg5VlBETGFFM2J1bGxNRjYxY0tpSFZpSEljejc4Szl3OTNYbmx2WVA4RTZjZG9jN1FQVDNQcXpfclZ6bVF1TmhmNXBLMjE1MzBtN1RFSjlWMWx2TmxQS1l3azVhdXdtT1p2QWJVSExKcEI4bUJONUdOZ0N1b21JVDU2bDY1VTd4QVRZMHliei03R05OUFc5VjZpdG1rN2Nn?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 10:59:55 GMT",
-      "source": "Yahoo Finance",
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSlQ2NW1rdG1SUGFEQlVnZXpsZjBCczJPNVNfUGp6ZDRCQldhNU04TF9JSTF1MXIxYnM2M08zNE1nTHNHUVlLd2tOMTB5ZzVmR3FWYnBLcDNrVm52bFBQekdZeXpzNmREY0RrcWV2Y2NPbHdsVGUzZGhmZG1EUVRyR21Vd2dzRy1iVkVQTW16NkZWcFdEeEFoVEdvTEFMdkx6UVgzd2RZWVVzdmF3T1NOTUU3UmVTNmlxeWZMNE5vSjhMQk9BNjNZLWwxNlpuVlMw0gHWAUFVX3lxTE1XbXFVanlhUEhsYlF5cGJnM3RSNFp2NERMM2FPNlVLcGdfUnREWTFIaHBtZUx5SjREVWZVelBYUkxjQ0IyWmh6QVRJYllQMU5MQU53cVZMcWhjM3oyS3VpVVhHcWdYWGs4RlBWaEp2Y0liLWZQazdzdXdkdXY1RVpmdkFIZzJJcmRiamRjdkpVMktYNXhTeEVuSkVKVWlicUVMRE5lTG40SEJvQkZOUkZxVVBFZFF0eGsyUnN3ZEk4d0JaRl9ac1RFNjA5N2J5eEZidDVTTUE?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 18:32:52 GMT",
+      "source": "Livemint",
       "isLive": true,
       "coverage": 1
     },
