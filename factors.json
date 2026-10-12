@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-12T04:18:22.074Z",
+  "generatedAt": "2026-10-12T08:20:21.528Z",
   "bias": {
-    "score": -19,
+    "score": 15,
     "label": "Mixed / Neutral",
-    "bullWeight": 11,
-    "bearWeight": 16,
-    "driversCounted": 8
+    "bullWeight": 19,
+    "bearWeight": 14,
+    "driversCounted": 11
   },
   "market": {
     "gold": {
-      "price": 4202,
-      "asOf": "2026-10-12T04:17:55.927Z"
+      "price": 4176.600098,
+      "asOf": "2026-10-12T08:20:21.067Z"
     },
     "realYield10": {
       "value": 2.87,
@@ -109,6 +109,66 @@
   ],
   "live": [
     {
+      "title": "Gold Gains on Weaker Dollar, Lower Oil Prices",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYXotcG5oSUJHOWlCY2FGUktkcmlWOEF5S3RqMGY0dGl2OFFGWmNDRzVTdmJ0LW0zbU9VcGhDaU9rQXhIMVlfZXZ5VktnQ09KWDB3S2d3RFhFZWdWdzBiekNBVnB0anJiTHZ3NGdJeTZqcEpaeGRVb3B6WVpLblJnY2Yzcnl4ZzZNYVE?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 07:04:08 GMT",
+      "source": "Fana News -",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold rises as oil and dollar weaken, with US inflation data in focus",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAwSWFwTzNDVlVoV3lxVW9ZbW9XMHFRWVo1TFpWSVA0b0dZcmtzZ19SOUg0MFFuYTdKcENUZXhVMDZ2b0ExNWJvNWVqUlU?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 07:24:03 GMT",
+      "source": "سانا",
+      "isLive": true,
+      "coverage": 2
+    },
+    {
+      "title": "Gold Prices Today: Ounce Rises to $4,206, Supported by a Weaker Dollar",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUzJvRHdiMlMtVDM3UHp3djJlMEd5SUMtMjhUQmJPOWNkZWM0anVic2g5SjJmaU1WVEtBQTl1UXJwREgyNnVoZTdMaHRtOVF6cW1hYmdmNHd5VjZyTUk1N1AwZ0YzNTlhVVpHUWFXeU5kZzJwc0FvMG1SekVzOXBGNl9VZWVmXzlwUWJUU1Y3dmpkLWVQRXRYM2txZ3ZkN2lWdDRleEZzXzdQQmVyTzl4Wmd1RTNVY1FCVXp3T1ZQVQ?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 07:12:11 GMT",
+      "source": "صوت الإمارات",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold drifts higher above $4,200 on surging ETF inflows, markets await US inflation data this week",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising ETF holdings show investment demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVkpSV1BLeVlCWHN4OXlPWVBaN19IdGZqdW95N1RLMGd3NDRicDRFZkJRUm1fTUFTY09JWkxCNmgwWTNNZVBOQXNDeHFUQjI2cjlnZTRodFZfdUVjZnFNTUZUSThTRjBxMm5kV0lNM2gzYTVZbjAtVl9rVlQ4ZEtWM3dKb3ptdFJpQmFqSFh0ZEtVQ2dYM2tfOW53VWl0eWlQWmsydnFOX3pfR3FwNEtQQ044LWo1aDV1VmVSc3NveHM1RnRtYU9QYjhDVkRtcnBORjlGOQ?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 02:13:44 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Geopolitical risk and private capital flows: gold price signals for mine planners",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSUV4X2s1RlQ2RnVxUjZYMFJZc01mcVdZdHNkYUVzSTlRd0lWY0k0ZVJ1Y1hMeFZIeXJIMXFlMnpjRjE2VmdKbFpJTi1PcEgyOVlFQ0xENG1xU2gyN3NDN000OC1CYW5ubE5CRmpEUW9iM0MzbzBObnQxdlBBekVfTmF5d0hNWFNQQUtLUFJSZzdqSUp6RWFCOG1rZWFUUURzM3dLTmpmb2JyLTZXOW53MEtiUWxKT0JsUWh0enhR?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 00:00:50 GMT",
+      "source": "Geomechanics.io",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold and silver whiplash as Treasury yields smash 2007 highs and Gulf war simmers",
       "sentiment": "bull",
       "kind": "driver",
@@ -118,50 +178,32 @@
       "pubDate": "Sun, 11 Oct 2026 21:59:58 GMT",
       "source": "Startup Fortune",
       "isLive": true,
-      "coverage": 1,
-      "stale": true
+      "coverage": 1
     },
     {
-      "title": "Gold breaks out as dollar rally cracks and Treasury futures find buyers",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX2dSSkFQb2J2VDZ0RV9fM1JWV0toY2pfQXF0Tml3NlB3dUpncjFsZGpaUzU5UFBDdDNRYTI3WXMyWVVJaG9vRkV0R1FTZDl2dlN4M2c5RlVBNDJkSGpyYWlZUy1hVXpQaHV0Q3l0T3ZYNGd1OWNfa2FLYjcxVEY3OHEtdTBVMGwyR0YzOTZrLVhoRF9CSzg0ZXlVOTcyWjhCT3FFUTRWQXZmOHVjeWQ5WVZvVUZpWUtDWlBZ?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 22:24:57 GMT",
-      "source": "StoneX",
-      "isLive": true,
-      "coverage": 1,
-      "stale": true
-    },
-    {
-      "title": "Gold Price Forecast: UBS Sees $5,200 By June 2027 On ETF Buying",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising ETF holdings show investment demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMFBBdlZBMlFKZEk0RFBTWmhua25pZE1tNXpKeFk3aXlweEw4anBmRExzSG5MWGVtWXN6UGxtNWFoZWpKRkRMdFVFZjZBeXl5LU9mRDlOMWt4bFBBM3J5NUhJOHg0TkQwYl9LenhTRFVxV0E2cHJtYmt2azk2YnpGTDZNdHBjOGxJbVRGLXZtSHY0YUVnZDI3Z2dJdmEwbTZ4ZExUZ1JXaE5QR2hMMTR2WEhUOWhZd2ZLN3p4dWhR?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 17:15:00 GMT",
-      "source": "Exchange Rates UK",
-      "isLive": true,
-      "coverage": 1,
-      "stale": true
-    },
-    {
-      "title": "Shafaq News..Gold prices fall in Baghdad, rise in Erbil",
+      "title": "Gold prices drop",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXRHc3llSkQ1VjJKTEtUN2xtYk1mMFRQRVdURmpuWF85QmVIR3BYa2lqRVByM2F4clF5dnB1ZXEta0hZRWY0d2M2SnlKSzU3M00tMkY4c0g0MktFdXZwQU9sSG4xZjFPQnlvU0JxZWtEaXpTWWxwY2lTWHBwZmtGQ2syVQ?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 09:07:16 GMT",
-      "source": "شفق نيوز",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaUxvRTFncUxrbFRWNVA5ZmtrLXN1LThOV05pbGRSazN3YlZVeFFxMk1VWG9LbEF4di1zS2dQQ0YxeVhtaHFVWm1NVlgwcEw2ZmJYOThZYTR5WlMwVV8ySVY5TjNJN0ZJZktHQ184RlpwcHY2LVJyeXRIZmFqN3g0Tw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 07:54:29 GMT",
+      "source": "VnExpress International",
       "isLive": true,
-      "coverage": 1,
-      "stale": true
+      "coverage": 1
+    },
+    {
+      "title": "China ramps up gold buying as prices fall",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdkh6WjZTSUZ1MU5fd0RQc2JDNWd1THQ5enFldzVKZXVubGxzLWpqVTZ2M0s2ZlpDWkxkdFdqUldhN3hjVlBNU05mWHh5SEZOQlZJYkJ2TWI2cGMxUkx6NTdyTGpzYXJ1R2hVRUtkeF9UdEdSMWc2WmU2UXBBaDlmeXFlbFhBZC0zUzdtSHh0TXhkNmM?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 05:21:00 GMT",
+      "source": "Shanghai Metals Market",
+      "isLive": true,
+      "coverage": 1
     }
   ],
-  "errors": [
-    "news: HTTP 503"
-  ]
+  "errors": []
 }
