@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-11T20:13:46.965Z",
+  "generatedAt": "2026-10-12T00:25:09.558Z",
   "bias": {
-    "score": -22,
-    "label": "Bearish",
-    "bullWeight": 9,
-    "bearWeight": 14,
-    "driversCounted": 6
+    "score": -19,
+    "label": "Mixed / Neutral",
+    "bullWeight": 11,
+    "bearWeight": 16,
+    "driversCounted": 8
   },
   "market": {
     "gold": {
-      "price": 4195.600098,
-      "asOf": "2026-10-11T20:13:46.427Z"
+      "price": 4211.299805,
+      "asOf": "2026-10-12T00:25:09.028Z"
     },
     "realYield10": {
       "value": 2.87,
@@ -109,6 +109,30 @@
   ],
   "live": [
     {
+      "title": "Gold and silver whiplash as Treasury yields smash 2007 highs and Gulf war simmers",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMjA3am1aN0JmUXdqSHMxSzM3bDFOZXN3cXZTX1Y4bXA0LUVxaUdQeUk5X3ZldW1EbGZNLXdUMHJ0RC1rLV81cWl0R2VfM0NQeW01SjR4cXpub0NKZi1rYmhvbzNTYjBtbXFFcld0RHowVGhRRm9nekN2VklVemRaMl9STVE0Z2hQdXQxaHVUVjZXS2FPOUhlLUFCNkFGSWFxc1NYNk9Ea3lwdmFyUkE?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 21:59:58 GMT",
+      "source": "Startup Fortune",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold breaks out as dollar rally cracks and Treasury futures find buyers",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX2dSSkFQb2J2VDZ0RV9fM1JWV0toY2pfQXF0Tml3NlB3dUpncjFsZGpaUzU5UFBDdDNRYTI3WXMyWVVJaG9vRkV0R1FTZDl2dlN4M2c5RlVBNDJkSGpyYWlZUy1hVXpQaHV0Q3l0T3ZYNGd1OWNfa2FLYjcxVEY3OHEtdTBVMGwyR0YzOTZrLVhoRF9CSzg0ZXlVOTcyWjhCT3FFUTRWQXZmOHVjeWQ5WVZvVUZpWUtDWlBZ?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 22:24:57 GMT",
+      "source": "StoneX",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Price Forecast: UBS Sees $5,200 By June 2027 On ETF Buying",
       "sentiment": "bull",
       "kind": "driver",
@@ -129,18 +153,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXRHc3llSkQ1VjJKTEtUN2xtYk1mMFRQRVdURmpuWF85QmVIR3BYa2lqRVByM2F4clF5dnB1ZXEta0hZRWY0d2M2SnlKSzU3M00tMkY4c0g0MktFdXZwQU9sSG4xZjFPQnlvU0JxZWtEaXpTWWxwY2lTWHBwZmtGQ2syVQ?oc=5",
       "pubDate": "Sun, 11 Oct 2026 09:07:16 GMT",
       "source": "شفق نيوز",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold posts first weekly gain in three weeks — can $4,200 hold through CPI?",
-      "sentiment": "bull",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkF2dnIzdlZoTklJOGRHLVZISlo2S0RyWVBDV092MDhKWE9TQVdYZWd0b2lrWU8tWDFLcmxIOV9yaDM3bjcxeEpKNUxidFFnanVkd2tmQXZHZnB1cjFaMnNkSm1XSnlaTHJWVm1nYzFfdVhjMU5SeFBTajdCVXpWUjZZRFpELXRkUUVRSkFmSEtEOWJoeHowWk0wWk0ybnlHbE1RZHRXcUZicTJLb1gw?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 06:34:45 GMT",
-      "source": "Mitrade",
       "isLive": true,
       "coverage": 1
     }
