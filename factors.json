@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-12T00:25:09.558Z",
+  "generatedAt": "2026-10-12T04:18:22.074Z",
   "bias": {
     "score": -19,
     "label": "Mixed / Neutral",
@@ -10,8 +10,8 @@
   },
   "market": {
     "gold": {
-      "price": 4211.299805,
-      "asOf": "2026-10-12T00:25:09.028Z"
+      "price": 4202,
+      "asOf": "2026-10-12T04:17:55.927Z"
     },
     "realYield10": {
       "value": 2.87,
@@ -118,7 +118,8 @@
       "pubDate": "Sun, 11 Oct 2026 21:59:58 GMT",
       "source": "Startup Fortune",
       "isLive": true,
-      "coverage": 1
+      "coverage": 1,
+      "stale": true
     },
     {
       "title": "Gold breaks out as dollar rally cracks and Treasury futures find buyers",
@@ -130,7 +131,8 @@
       "pubDate": "Sun, 11 Oct 2026 22:24:57 GMT",
       "source": "StoneX",
       "isLive": true,
-      "coverage": 1
+      "coverage": 1,
+      "stale": true
     },
     {
       "title": "Gold Price Forecast: UBS Sees $5,200 By June 2027 On ETF Buying",
@@ -142,7 +144,8 @@
       "pubDate": "Sun, 11 Oct 2026 17:15:00 GMT",
       "source": "Exchange Rates UK",
       "isLive": true,
-      "coverage": 1
+      "coverage": 1,
+      "stale": true
     },
     {
       "title": "Shafaq News..Gold prices fall in Baghdad, rise in Erbil",
@@ -154,8 +157,11 @@
       "pubDate": "Sun, 11 Oct 2026 09:07:16 GMT",
       "source": "شفق نيوز",
       "isLive": true,
-      "coverage": 1
+      "coverage": 1,
+      "stale": true
     }
   ],
-  "errors": []
+  "errors": [
+    "news: HTTP 503"
+  ]
 }
