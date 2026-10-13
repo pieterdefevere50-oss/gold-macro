@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-13T08:19:50.191Z",
+  "generatedAt": "2026-10-13T12:22:43.957Z",
   "bias": {
-    "score": -14,
+    "score": -19,
     "label": "Mixed / Neutral",
     "bullWeight": 15,
-    "bearWeight": 20,
-    "driversCounted": 12
+    "bearWeight": 22,
+    "driversCounted": 13
   },
   "market": {
     "gold": {
-      "price": 4192.100098,
-      "asOf": "2026-10-13T08:19:49.637Z"
+      "price": 4186.399902,
+      "asOf": "2026-10-13T12:22:43.428Z"
     },
     "realYield10": {
       "value": 2.87,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-10-12"
+      "asOf": "2026-10-13"
     }
   },
   "evergreen": [
@@ -115,20 +115,20 @@
       "impact": 2,
       "text": "A dovish stance points to easier policy ahead, typically supportive for gold.",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZzc0VBMXVwcklVemRpM3hieFAtSnB2NE4zNGZBUUVROS1iYVpFbWxPX2RBWUhtU2s1Y1d6ZDlLb1VZUlpadUc3UEpPQ2NLN1FGU3NiN0RQbF84UWJMSFFTaUd1cEZUbTE0SnNabTVLLVRSajFoYXBPV0RDTjFmNWtIN2F4ams5NFVjSTNoNmhEdkc4WmRDd1JUSkEya0VHakhVNXJiaXBHM3FVNmV4VXY1Yw?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 20:25:58 GMT",
+      "pubDate": "Mon, 12 Oct 2026 23:30:14 GMT",
       "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold slips near $4,160 as Middle East tensions fuel rate-hike concerns",
-      "sentiment": "bear",
+      "title": "Gold Price Forecast: XAU/USD retraces losses as US yields and Oil prices ease",
+      "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSS1fczhOT2Q4dU9ibHhyQWVuNElWRGh3MFUtR3lNcjJWd0RYQ0c4dW1WQTNXN0NJVHhSN3c4SGtoQm9acU5iNUY4WHNQaENRcEdhLUhiejJjYVdySXNFUFk2NnNSRklEM1VOQXlDblBqMTREOW56SHBYVGZSX3k0elJzb2NSV2I0bWFSb1oxamRBTGhZSmc?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 01:50:00 GMT",
-      "source": "Yahoo Finance",
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNFc0TTJoOThoLWF1UzM0U1NWSTdXbWNHSko2Mm53aGV6VXB4ZEh3MEYyWVUwV0E4Y191NExkWl9iWGJFcGQxcTF5UjF1cXdrVFhiNS1nMGxRb1B1aVlVLXBjM05sSXkyQ1J2QXJGZmc2VWhpMmJ2aElJMUNlNVctaUtMTURYaUdZMEZSTVB0SmlzamstZ09qWGpSMkt2U1pfd2M5WUVZYnFKejVuaGVaZDI0T1NCVk54U2pR?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 09:28:55 GMT",
+      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
@@ -145,14 +145,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Hits the \"High-Yield Wall\"! ETF Buying Struggles to Support the Market",
-      "sentiment": "bull",
+      "title": "Gold slips near $4,160 as Middle East tensions fuel rate-hike concerns",
+      "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising ETF holdings show investment demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV1htM0pTZ0FjN0l4VHZ4dW9WUmkyWlNMWllHZnhKZEN0NTdNVVpUSHJhNE44TFhEeGxxR3hsTV90d3pTY1RQeHptQlJPUUN3YVV1dDlwY0ZWT3FWeEhsMmliR0pBSUt1Vjk0dGNHSEtTWG12VTh6WVdoaGZVV2tjNnRONTJXb0dXQkI5YTl0b2tNNjlnOEtNWGRPYjBodw?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 03:41:03 GMT",
-      "source": "Moomoo",
+      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSS1fczhOT2Q4dU9ibHhyQWVuNElWRGh3MFUtR3lNcjJWd0RYQ0c4dW1WQTNXN0NJVHhSN3c4SGtoQm9acU5iNUY4WHNQaENRcEdhLUhiejJjYVdySXNFUFk2NnNSRklEM1VOQXlDblBqMTREOW56SHBYVGZSX3k0elJzb2NSV2I0bWFSb1oxamRBTGhZSmc?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 01:50:00 GMT",
+      "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
     },
@@ -169,26 +169,26 @@
       "coverage": 1
     },
     {
-      "title": "BofA sees gold struggling to hold $4,000 as Iran war oil shock keeps Fed hawkish",
-      "sentiment": "neutral",
+      "title": "Gold Hits the \"High-Yield Wall\"! ETF Buying Struggles to Support the Market",
+      "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Headline mixes bullish and bearish signals that roughly offset: Rising geopolitical risk typically boosts safe-haven demand for gold. But: A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcWxmVFBNU0ZLZnRlbVNTMVhtWkEwTVJ4TlNRM2xVVERuRFdkN00zeVNwRHpncmJrTzZOdk5fbVlRYm56UWpKQzVqX1BPYTVmQmN4clZmWnB3UFI3dFE2a3RIeEFwWGtxTWh3cmRFLXk5TDNGY3FqelowUERFNFJScU5hYzRScEsyM2JHS2V1LTVxbDVwQjBBbDdVcFlXRV9HNjlJZ080anYxNGEzZmNRdU1tU3E4OEg2dHc?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 00:31:39 GMT",
-      "source": "investingLive",
+      "text": "Rising ETF holdings show investment demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV1htM0pTZ0FjN0l4VHZ4dW9WUmkyWlNMWllHZnhKZEN0NTdNVVpUSHJhNE44TFhEeGxxR3hsTV90d3pTY1RQeHptQlJPUUN3YVV1dDlwY0ZWT3FWeEhsMmliR0pBSUt1Vjk0dGNHSEtTWG12VTh6WVdoaGZVV2tjNnRONTJXb0dXQkI5YTl0b2tNNjlnOEtNWGRPYjBodw?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 03:41:03 GMT",
+      "source": "Moomoo",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold rebounds as dollar retreats, Middle East tensions sustain inflation concerns",
-      "sentiment": "bull",
+      "title": "Gold bulls seem hesitant below $4,200 as hawkish Fed offset USD weakness",
+      "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZERrWG56TXZKYVIxcUd4eWVIOXpNODBFRlFwTXA5dVhDZThGb0VpQkFvWHUyOHNxYzNydVhwTWIwVnM4dzNMRDJCNnFhTVUwU3c3bEZMT1Joc3FaVWphNmI1VEk3aHVCakc4QWJpTS1lMmRPR3ZkVjJKUlU5WTdiMjhqZ1V6ekhNZGVKOW5lZUF2Wk9Ddk1qWjQ2NVJMWGxOT3VxMFE1NWRjeWxmZVdMNlJUR090S2hHRkxldHl6eDA?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 04:52:35 GMT",
-      "source": "Investing.com",
+      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOGVzRVVFc0diWE9OdkNMaTJUdU41ZmNWWVFlNGkzUVBuMFZGcXFvQXl0MXVqeUsyMC11YmVlZXdVQ3p4TWdqOU1zX196QnFfNlo0dmNoQmRWeEhrYjN3d3c1WTZYYzZEaW5XUmJNU3FWaWRGdUNJY00wdDB6OFJ2S1JWV1VfdFNQUVRKR1RYX3VtYml0b3o1SjVBclo5LWUxNHpPNUFfR2ZzQ2R3ZUhrS0c4dUlRSnNkREs0Tnp2QQ?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 08:17:16 GMT",
+      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
@@ -199,7 +199,7 @@
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9vWUZmMnhWUlpnZWtuaC14TkxWb0NVX0kxcUhDOVZZaGVKV2oyaFl0Umh1RjBTdGZtbDdlQzBUSEpJRHpkcDVOYng0SGJZRm9xZVlDQnV5dkRaSURzNXB4c2tyRTVIUVdhOS1MeTZZOXNPcmlxQmE2ME5CTXNMVXFzRFFUWFFwRElRTGpQREVFbXZwSWwxd1hXcnFoSVJRaXF2bVZnWVFSejRiYzJuaFNRdXQxYWFf?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 20:03:57 GMT",
+      "pubDate": "Mon, 12 Oct 2026 23:06:04 GMT",
       "source": "Kitco",
       "isLive": true,
       "coverage": 1
@@ -222,8 +222,8 @@
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzZiRVoxQW1yZGdYbjJpdnF1bmRaRWhBb0haSkhXMXBialhDMXF2dk5tNGw1VlNNV0g4dVJndjhNWjVKRDRfV2pTSEd3VUZvY21iaXJKS25LcGFfS1lXaVNtcy1DWjNDMlplQXBqMFNhUzBVNlVhSlFWMmpjVmRuSw?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 07:07:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2dGN296VGpKVnZJVFNTWDgyeDBISXRZajdzbFNvcVA2bXV2MUE0SmtoNmd2cXIxY2F4dmNfRnB6UHRFOFFyM1hpOFFFaWZwa1ltTGhvTU9IaTduLWpKOUtCdzlOeE1Vb3pjRHlIUVZhbUk0UnZCYXN0dlhtN0w2Y1prb2lJQQ?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 07:12:18 GMT",
       "source": "شفق نيوز",
       "isLive": true,
       "coverage": 1
