@@ -1,49 +1,49 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-13T16:18:24.981Z",
+  "generatedAt": "2026-10-13T20:26:59.732Z",
   "bias": {
-    "score": -19,
-    "label": "Mixed / Neutral",
-    "bullWeight": 15,
-    "bearWeight": 22,
+    "score": -30,
+    "label": "Bearish",
+    "bullWeight": 13,
+    "bearWeight": 24,
     "driversCounted": 13
   },
   "market": {
     "gold": {
-      "price": 4159.200195,
-      "asOf": "2026-10-13T16:18:24.410Z"
+      "price": 4159,
+      "asOf": "2026-10-13T20:26:59.181Z"
     },
     "realYield10": {
-      "value": 2.87,
-      "asOf": "2026-10-08",
-      "prior": 2.55,
-      "priorDate": "2026-09-10",
-      "change": 0.3200000000000003,
-      "changePct": 12.549019607843148
+      "value": 2.91,
+      "asOf": "2026-10-09",
+      "prior": 2.6,
+      "priorDate": "2026-09-11",
+      "change": 0.31000000000000005,
+      "changePct": 11.923076923076925
     },
     "y10": {
-      "value": 5.22,
-      "asOf": "2026-10-08",
-      "prior": 4.95,
-      "priorDate": "2026-09-10",
-      "change": 0.2699999999999996,
-      "changePct": 5.454545454545446
+      "value": 5.24,
+      "asOf": "2026-10-09",
+      "prior": 4.96,
+      "priorDate": "2026-09-11",
+      "change": 0.28000000000000025,
+      "changePct": 5.645161290322586
     },
     "y2": {
-      "value": 4.75,
-      "asOf": "2026-10-08",
-      "prior": 4.56,
-      "priorDate": "2026-09-10",
-      "change": 0.1900000000000004,
-      "changePct": 4.166666666666676
+      "value": 4.8,
+      "asOf": "2026-10-09",
+      "prior": 4.63,
+      "priorDate": "2026-09-11",
+      "change": 0.16999999999999993,
+      "changePct": 3.6717062634989186
     },
     "dollar": {
-      "value": 121.3848,
-      "asOf": "2026-10-02",
-      "prior": 118.0732,
-      "priorDate": "2026-09-04",
-      "change": 3.3115999999999985,
-      "changePct": 2.8047008127161783
+      "value": 121.6023,
+      "asOf": "2026-10-09",
+      "prior": 118.2126,
+      "priorDate": "2026-09-11",
+      "change": 3.389700000000005,
+      "changePct": 2.8674608290486843
     },
     "fedTarget": {
       "low": 3.75,
@@ -58,8 +58,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-08",
-      "text": "The 2-year Treasury yield (4.75%) is 87bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
+      "asOf": "2026-10-09",
+      "text": "The 2-year Treasury yield (4.80%) is 92bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
     },
     {
       "key": "real_yields",
@@ -67,8 +67,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-08",
-      "text": "10Y real yield is 2.87%, up 32bp over 4 weeks (as of 2026-10-08): rising real yields raise the opportunity cost of holding non-yielding gold — bearish. Real yields are the most direct macro driver of gold."
+      "asOf": "2026-10-09",
+      "text": "10Y real yield is 2.91%, up 31bp over 4 weeks (as of 2026-10-09): rising real yields raise the opportunity cost of holding non-yielding gold — bearish. Real yields are the most direct macro driver of gold."
     },
     {
       "key": "dollar",
@@ -76,8 +76,8 @@
       "sentiment": "bear",
       "impact": 4,
       "dataDriven": true,
-      "asOf": "2026-10-02",
-      "text": "The Fed's broad trade-weighted dollar index is 121.4, up 2.8% over 4 weeks (as of 2026-10-02): a firmer dollar makes gold pricier for foreign buyers — bearish."
+      "asOf": "2026-10-09",
+      "text": "The Fed's broad trade-weighted dollar index is 121.6, up 2.9% over 4 weeks (as of 2026-10-09): a firmer dollar makes gold pricier for foreign buyers — bearish."
     },
     {
       "key": "cb_buying",
@@ -109,30 +109,6 @@
   ],
   "live": [
     {
-      "title": "Gold rises on weaker dollar, lower oil ahead of US inflation data",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 02:23:00 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold price needs a dovish Fed or renewed debasement fears to reverse its downtrend – Bank of America",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A dovish stance points to easier policy ahead, typically supportive for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZzc0VBMXVwcklVemRpM3hieFAtSnB2NE4zNGZBUUVROS1iYVpFbWxPX2RBWUhtU2s1Y1d6ZDlLb1VZUlpadUc3UEpPQ2NLN1FGU3NiN0RQbF84UWJMSFFTaUd1cEZUbTE0SnNabTVLLVRSajFoYXBPV0RDTjFmNWtIN2F4ams5NFVjSTNoNmhEdkc4WmRDd1JUSkEya0VHakhVNXJiaXBHM3FVNmV4VXY1Yw?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 02:33:11 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold Price Forecast: XAU/USD retraces losses as US yields and Oil prices ease",
       "sentiment": "bull",
       "kind": "driver",
@@ -157,14 +133,38 @@
       "coverage": 1
     },
     {
+      "title": "Gold price needs a dovish Fed or renewed debasement fears to reverse its downtrend – Bank of America",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A dovish stance points to easier policy ahead, typically supportive for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZzc0VBMXVwcklVemRpM3hieFAtSnB2NE4zNGZBUUVROS1iYVpFbWxPX2RBWUhtU2s1Y1d6ZDlLb1VZUlpadUc3UEpPQ2NLN1FGU3NiN0RQbF84UWJMSFFTaUd1cEZUbTE0SnNabTVLLVRSajFoYXBPV0RDTjFmNWtIN2F4ams5NFVjSTNoNmhEdkc4WmRDd1JUSkEya0VHakhVNXJiaXBHM3FVNmV4VXY1Yw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 12:36:00 GMT",
+      "source": "Kitco",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold firms as dollar, yields and oil retreat before CPI - Kitco AM Report",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
       "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdTNJS0pZa1BndjBFTmhTYjRXNWxpVFpkbU9qY1ZRVWk0OG1wMDUtZEJ2VjJDMWt6eUNNTzdGRFc1blB6WTE0VndMaTdWcXl5blE4V0dSMDRZckhRdHpZMHBVaXZUZXFkbU42YXZWUU42SnpEYTlsOFVQZXI5eFlPWkdFaVk2N3hPZDBOS3lwVWZTdjlRTE9keS1pZUU0X2R6SXdRQ1RZM3E2UQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 13:06:14 GMT",
+      "pubDate": "Tue, 13 Oct 2026 09:54:00 GMT",
       "source": "Kitco",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold slides on US yields surge ahead of CPI",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOWFqbjlkcUJUMmJIcHIwenJPZi1yMGJxZkpRNWRRRjYybFM0Ri11Rk1YRHlFVDB3UE9wa0hScm52S3VubV9mUzVxckR5V3F5WTgwc1Z1d1VDS0JrWkJJTmlfZjM5YWR5ZmxJZkQxYXdRUFhDVk1pRHUyQzFVUDFmTlR0bE8yWkFPSHRJbGVRZw?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 17:42:22 GMT",
+      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
@@ -181,6 +181,18 @@
       "coverage": 1
     },
     {
+      "title": "Kazakhstan Central Bank to Sell Gold in 2026, Targeting 75% Reserve Share - News and Statistics",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Central-bank selling is a headwind for gold demand.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOV9ZUnFhSWh5TktocTBxN3hJS3BPYjdpcXkxcnBrSTVwU1V3dWJVUHV1alFnd1hQY05qQXJoa2lHRWdPNFRqcnY5VFpSQUVQekJ0MW0zMDFOeUUyX2R5YzVuWUNud0hvNHhCVTdUYWNXU0RfVE9CWDRQSkNqVmZsVnNzNzI4WVFlMjdKUU92SFdQMGpiaGlpSmVuYjdFbldNdENydngxT2dNR1AwU0E?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 16:12:29 GMT",
+      "source": "IndexBox",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Trump declared an energy ceasefire. Gold rose anyway",
       "sentiment": "bear",
       "kind": "driver",
@@ -189,18 +201,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2RuSXNqc0stRTNwdVFVd3pjdktZSi0yOG5aVE0tLVhPdmFvWlBVSFdLdXBpclhmeGtxNElzM1VHZ0phN19NR2ZnRGx0WkQyNFpmNlRKZEotckpyOXh3dlVxR3B1VW5TN29tbGV4MnY4STNXcHI1czQ3LTFvQnB1b3haTE1SREdjNzEtekh3?oc=5",
       "pubDate": "Tue, 13 Oct 2026 13:03:00 GMT",
       "source": "TheStreet",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold slips near $4,160 as Middle East tensions fuel rate-hike concerns",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSS1fczhOT2Q4dU9ibHhyQWVuNElWRGh3MFUtR3lNcjJWd0RYQ0c4dW1WQTNXN0NJVHhSN3c4SGtoQm9acU5iNUY4WHNQaENRcEdhLUhiejJjYVdySXNFUFk2NnNSRklEM1VOQXlDblBqMTREOW56SHBYVGZSX3k0elJzb2NSV2I0bWFSb1oxamRBTGhZSmc?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 01:50:00 GMT",
-      "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
     },
