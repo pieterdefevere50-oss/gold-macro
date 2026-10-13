@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-13T12:22:43.957Z",
+  "generatedAt": "2026-10-13T16:18:24.981Z",
   "bias": {
     "score": -19,
     "label": "Mixed / Neutral",
@@ -10,8 +10,8 @@
   },
   "market": {
     "gold": {
-      "price": 4186.399902,
-      "asOf": "2026-10-13T12:22:43.428Z"
+      "price": 4159.200195,
+      "asOf": "2026-10-13T16:18:24.410Z"
     },
     "realYield10": {
       "value": 2.87,
@@ -109,13 +109,25 @@
   ],
   "live": [
     {
+      "title": "Gold rises on weaker dollar, lower oil ahead of US inflation data",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnRSZTl3U0dwUkZRSkNlalhmeF94cE1aaGV4NjNZdll2aENMRDZTWGNTTnhjMS1BQ1hKUG9qc2hKS185eXpWTjFfUnBwN1cwdVNIUllaMnc0Tno2SnFBaXp4RGxMWkd1eFhXR1VTLV9qN25ETlIyeEVLNXNGX2NqZV80SUk5WG5IeEVDNGpRbTRfaVliMk9HVk5vQ0lyVnc?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 02:23:00 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold price needs a dovish Fed or renewed debasement fears to reverse its downtrend – Bank of America",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
       "text": "A dovish stance points to easier policy ahead, typically supportive for gold.",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZzc0VBMXVwcklVemRpM3hieFAtSnB2NE4zNGZBUUVROS1iYVpFbWxPX2RBWUhtU2s1Y1d6ZDlLb1VZUlpadUc3UEpPQ2NLN1FGU3NiN0RQbF84UWJMSFFTaUd1cEZUbTE0SnNabTVLLVRSajFoYXBPV0RDTjFmNWtIN2F4ams5NFVjSTNoNmhEdkc4WmRDd1JUSkEya0VHakhVNXJiaXBHM3FVNmV4VXY1Yw?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 23:30:14 GMT",
+      "pubDate": "Tue, 13 Oct 2026 02:33:11 GMT",
       "source": "Kitco",
       "isLive": true,
       "coverage": 1
@@ -145,6 +157,42 @@
       "coverage": 1
     },
     {
+      "title": "Gold firms as dollar, yields and oil retreat before CPI - Kitco AM Report",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdTNJS0pZa1BndjBFTmhTYjRXNWxpVFpkbU9qY1ZRVWk0OG1wMDUtZEJ2VjJDMWt6eUNNTzdGRFc1blB6WTE0VndMaTdWcXl5blE4V0dSMDRZckhRdHpZMHBVaXZUZXFkbU42YXZWUU42SnpEYTlsOFVQZXI5eFlPWkdFaVk2N3hPZDBOS3lwVWZTdjlRTE9keS1pZUU0X2R6SXdRQ1RZM3E2UQ?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 13:06:14 GMT",
+      "source": "Kitco",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Prices Retreat as Dollar Rises and Markets Await US Inflation Data",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT0w0Y3RrOGVoaEs3Q1FmcUFCYTZVSFFabW80bjNzeGVudGtpVUxGdFg4c2Zoa1UzMkRlQTRVdFNvUjN6Q0NORVl4NktqSDVuMVcyMW1HNmw0VEJSYmxoWElOcmhPeVBzcGF1bHBHcGItQXRpTnM3UFZmRzBhN0lNN09LYzJTb3l1UnJHTkgxdm8wLTNaQnJQd1lueU9Mbno4blFRdW1UdGRxeEhZNlE?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 12:35:27 GMT",
+      "source": "Fana News -",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Trump declared an energy ceasefire. Gold rose anyway",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "De-escalation reduces the safe-haven risk premium in gold.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2RuSXNqc0stRTNwdVFVd3pjdktZSi0yOG5aVE0tLVhPdmFvWlBVSFdLdXBpclhmeGtxNElzM1VHZ0phN19NR2ZnRGx0WkQyNFpmNlRKZEotckpyOXh3dlVxR3B1VW5TN29tbGV4MnY4STNXcHI1czQ3LTFvQnB1b3haTE1SREdjNzEtekh3?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 13:03:00 GMT",
+      "source": "TheStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold slips near $4,160 as Middle East tensions fuel rate-hike concerns",
       "sentiment": "bear",
       "kind": "driver",
@@ -157,50 +205,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Prices in 9-Month Correction Yet ETF Inflows Persist... Experts See \"Return to $5,000 by Year-End\"",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising ETF holdings show investment demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RN3VKWW84UThYY2FoS3U1bjVKMFlqLXdVSXpXUXU3NUtNSjV3LWdlSGdJT2xOc0xRNkxKcno3bm5UR2duWlNWenNXcDNEMFBTQmk4a2pxcVlRV1BWZThmYlV0S0NiUmxfRXlYbFEwNE1VeEJ4TGc?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 07:55:00 GMT",
-      "source": "BigGo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Hits the \"High-Yield Wall\"! ETF Buying Struggles to Support the Market",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising ETF holdings show investment demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV1htM0pTZ0FjN0l4VHZ4dW9WUmkyWlNMWllHZnhKZEN0NTdNVVpUSHJhNE44TFhEeGxxR3hsTV90d3pTY1RQeHptQlJPUUN3YVV1dDlwY0ZWT3FWeEhsMmliR0pBSUt1Vjk0dGNHSEtTWG12VTh6WVdoaGZVV2tjNnRONTJXb0dXQkI5YTl0b2tNNjlnOEtNWGRPYjBodw?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 03:41:03 GMT",
-      "source": "Moomoo",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold bulls seem hesitant below $4,200 as hawkish Fed offset USD weakness",
+      "title": "US Gold ETFs Hit Record-Low Market Share as Asia Expands on Falling Price",
       "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOGVzRVVFc0diWE9OdkNMaTJUdU41ZmNWWVFlNGkzUVBuMFZGcXFvQXl0MXVqeUsyMC11YmVlZXdVQ3p4TWdqOU1zX196QnFfNlo0dmNoQmRWeEhrYjN3d3c1WTZYYzZEaW5XUmJNU3FWaWRGdUNJY00wdDB6OFJ2S1JWV1VfdFNQUVRKR1RYX3VtYml0b3o1SjVBclo5LWUxNHpPNUFfR2ZzQ2R3ZUhrS0c4dUlRSnNkREs0Tnp2QQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 08:17:16 GMT",
-      "source": "FXStreet",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold, silver soften as markets price in December Fed hike risk - Kitco PM Report",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMm9vWUZmMnhWUlpnZWtuaC14TkxWb0NVX0kxcUhDOVZZaGVKV2oyaFl0Umh1RjBTdGZtbDdlQzBUSEpJRHpkcDVOYng0SGJZRm9xZVlDQnV5dkRaSURzNXB4c2tyRTVIUVdhOS1MeTZZOXNPcmlxQmE2ME5CTXNMVXFzRFFUWFFwRElRTGpQREVFbXZwSWwxd1hXcnFoSVJRaXF2bVZnWVFSejRiYzJuaFNRdXQxYWFf?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 23:06:04 GMT",
-      "source": "Kitco",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold is at a fresh low. This describes the price outcome, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTE1Ma3hsaUxnMlV1dHpHd3BSSGRfaHp3MkxHS2hHdzF2NUJ3dE1HdTliM3k3aEFmRjZMRGNnNmNfZGdrcEZTZFBfT3dlQWI5WmE0TFhVSTBUNlg5djEyN3AtYUF0NjdZMGZjbTluOEFDUjlyUWg2TUxONXplUlB6SjNfVVFCTV9Yb0E?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 14:21:42 GMT",
+      "source": "BullionVault",
       "isLive": true,
       "coverage": 1
     },
@@ -213,18 +225,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOcjBoRVlNRXN4OGJEdzY1MVMtZlAtQjhXMHBvRFFoWXdZdW81X0pzbFlDb0V2MmswUTZFUGNqT0hibDFrX3JLZERVajdrbldlQldjSkg2ZjRKTzlIYkh0VV8zWTE5NzdHZVN3U2Fmd05pSHhsN0tBamNHcHZBMFlQTmkwWG9FUlV1a1pyaDVJQ29mSmJkRVpBNjRjeXJvd0JRRk1JS2lvMWJob2lwV0NmSm1PVnlqNDc3TnVybEo2WDlldHFsRnVEOEZsbWw0eXc4VXRva053UTZzR1FBdkdKeEZsaUw3SzdZMWU3cHNxVW5CbUx3WWZPVktjUlVFeWQwb2tQMk9YdHB0MUtSUmEwZ19BM01lUk5FenN0YjA2VzhLRThORmFfTnhJLWLSAbICQVVfeXFMTjJwWXJXZkwxSmd3OEVjTUVjSE1wTjEydjJTbUw3VWdUTHowdmJ6cVlpSjF5SXNsYWhrS1d3TFU0bkZxdjRnd25QSDJxazBBblBIWHBzQ2JEay1sbzA2cDczQkt0QWlmdng0V3U3RmkwbEM0RDcxMERaQUNQVU5jWTMtUXFBcUV0MmVJMHJ6MGlCcm5OQnd1R2cwX0VxVmtoUUtKNUp5Ti0xVnVIOEFvWndmYkFDWm5pVldtNjY0aEpXQ2YzVVE3Wkk4Y2tCY184Z2ttZElRakJpTEpZXzlGWkE2Sm9FaWduQWdtUGhhLTdXRTNjeElsS2l5b21nNWY4TGVja0c3TDg4Vi1aRlFXZHBtZGExckVPUHpUckdCdFh2RUhKRE1TSWgwSWRJbFppNDJB?oc=5",
       "pubDate": "Tue, 13 Oct 2026 06:13:00 GMT",
       "source": "The Times of India",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Shafaq News..Gold rises as markets await US inflation data",
-      "sentiment": "bull",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2dGN296VGpKVnZJVFNTWDgyeDBISXRZajdzbFNvcVA2bXV2MUE0SmtoNmd2cXIxY2F4dmNfRnB6UHRFOFFyM1hpOFFFaWZwa1ltTGhvTU9IaTduLWpKOUtCdzlOeE1Vb3pjRHlIUVZhbUk0UnZCYXN0dlhtN0w2Y1prb2lJQQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 07:12:18 GMT",
-      "source": "شفق نيوز",
       "isLive": true,
       "coverage": 1
     }
