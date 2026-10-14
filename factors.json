@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-13T20:26:59.732Z",
+  "generatedAt": "2026-10-14T00:32:30.024Z",
   "bias": {
-    "score": -30,
-    "label": "Bearish",
-    "bullWeight": 13,
-    "bearWeight": 24,
+    "score": -8,
+    "label": "Mixed / Neutral",
+    "bullWeight": 17,
+    "bearWeight": 20,
     "driversCounted": 13
   },
   "market": {
     "gold": {
-      "price": 4159,
-      "asOf": "2026-10-13T20:26:59.181Z"
+      "price": 4160.600098,
+      "asOf": "2026-10-14T00:32:29.383Z"
     },
     "realYield10": {
       "value": 2.91,
@@ -109,6 +109,18 @@
   ],
   "live": [
     {
+      "title": "Gold: If Wars Can't Spark a Rally, What Will?",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR3doazRLamtMUkVJei1laGUyMjZkY0ZvNGI1eWlYNHdWU3F3aUhhWXlGblczbHpPWGdQU1dBRTFaQnhrXzZEZ0N2cU4xMUpLTm1EdDdVMGNSMS0yRUlISFcxVWZ6dWlJZVdja3N6YkdTQlgwa1JWUmFXZ1FwdG02VFRZN0Q2MUlXcW54ZHNfTQ?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 20:58:16 GMT",
+      "source": "Barchart.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Price Forecast: XAU/USD retraces losses as US yields and Oil prices ease",
       "sentiment": "bull",
       "kind": "driver",
@@ -151,7 +163,19 @@
       "impact": 2,
       "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdTNJS0pZa1BndjBFTmhTYjRXNWxpVFpkbU9qY1ZRVWk0OG1wMDUtZEJ2VjJDMWt6eUNNTzdGRFc1blB6WTE0VndMaTdWcXl5blE4V0dSMDRZckhRdHpZMHBVaXZUZXFkbU42YXZWUU42SnpEYTlsOFVQZXI5eFlPWkdFaVk2N3hPZDBOS3lwVWZTdjlRTE9keS1pZUU0X2R6SXdRQ1RZM3E2UQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 09:54:00 GMT",
+      "pubDate": "Tue, 13 Oct 2026 13:06:56 GMT",
+      "source": "Kitco",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold rises on weaker dollar, lower oil ahead of US inflation data",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdm01ZWpsQXcxSlV4V202V1JUUE91VFBnRHY2QlVsdkxnaUZDUDcxam1ZTEp2bEd0cVFxcWhiSEVXYk9CdU45aE1FRlI0YUU1SUNyckJyLW9xV1JsekpxR1ZIaWZhUC1IN25ScldrYzhfUGpaUk1hd2U5V0ozUWZaeUNQbWNRT2RfcWlib0kxLU56anJ2VGZsZ1FLTm5kN2NHdTB4UmMweG1pWTZaMFE?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 10:46:00 GMT",
       "source": "Kitco",
       "isLive": true,
       "coverage": 1
@@ -181,30 +205,6 @@
       "coverage": 1
     },
     {
-      "title": "Kazakhstan Central Bank to Sell Gold in 2026, Targeting 75% Reserve Share - News and Statistics",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Central-bank selling is a headwind for gold demand.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOV9ZUnFhSWh5TktocTBxN3hJS3BPYjdpcXkxcnBrSTVwU1V3dWJVUHV1alFnd1hQY05qQXJoa2lHRWdPNFRqcnY5VFpSQUVQekJ0MW0zMDFOeUUyX2R5YzVuWUNud0hvNHhCVTdUYWNXU0RfVE9CWDRQSkNqVmZsVnNzNzI4WVFlMjdKUU92SFdQMGpiaGlpSmVuYjdFbldNdENydngxT2dNR1AwU0E?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 16:12:29 GMT",
-      "source": "IndexBox",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Trump declared an energy ceasefire. Gold rose anyway",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "De-escalation reduces the safe-haven risk premium in gold.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2RuSXNqc0stRTNwdVFVd3pjdktZSi0yOG5aVE0tLVhPdmFvWlBVSFdLdXBpclhmeGtxNElzM1VHZ0phN19NR2ZnRGx0WkQyNFpmNlRKZEotckpyOXh3dlVxR3B1VW5TN29tbGV4MnY4STNXcHI1czQ3LTFvQnB1b3haTE1SREdjNzEtekh3?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 13:03:00 GMT",
-      "source": "TheStreet",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "US Gold ETFs Hit Record-Low Market Share as Asia Expands on Falling Price",
       "sentiment": "bear",
       "kind": "price",
@@ -217,14 +217,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold price prediction today: Will gold prices rise? Check October 13, 2026 outlook",
-      "sentiment": "bull",
+      "title": "Gold Prices Rise as Oil Retreats Ahead of US Inflation Data and Federal Reserve Decision",
+      "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOcjBoRVlNRXN4OGJEdzY1MVMtZlAtQjhXMHBvRFFoWXdZdW81X0pzbFlDb0V2MmswUTZFUGNqT0hibDFrX3JLZERVajdrbldlQldjSkg2ZjRKTzlIYkh0VV8zWTE5NzdHZVN3U2Fmd05pSHhsN0tBamNHcHZBMFlQTmkwWG9FUlV1a1pyaDVJQ29mSmJkRVpBNjRjeXJvd0JRRk1JS2lvMWJob2lwV0NmSm1PVnlqNDc3TnVybEo2WDlldHFsRnVEOEZsbWw0eXc4VXRva053UTZzR1FBdkdKeEZsaUw3SzdZMWU3cHNxVW5CbUx3WWZPVktjUlVFeWQwb2tQMk9YdHB0MUtSUmEwZ19BM01lUk5FenN0YjA2VzhLRThORmFfTnhJLWLSAbICQVVfeXFMTjJwWXJXZkwxSmd3OEVjTUVjSE1wTjEydjJTbUw3VWdUTHowdmJ6cVlpSjF5SXNsYWhrS1d3TFU0bkZxdjRnd25QSDJxazBBblBIWHBzQ2JEay1sbzA2cDczQkt0QWlmdng0V3U3RmkwbEM0RDcxMERaQUNQVU5jWTMtUXFBcUV0MmVJMHJ6MGlCcm5OQnd1R2cwX0VxVmtoUUtKNUp5Ti0xVnVIOEFvWndmYkFDWm5pVldtNjY0aEpXQ2YzVVE3Wkk4Y2tCY184Z2ttZElRakJpTEpZXzlGWkE2Sm9FaWduQWdtUGhhLTdXRTNjeElsS2l5b21nNWY4TGVja0c3TDg4Vi1aRlFXZHBtZGExckVPUHpUckdCdFh2RUhKRE1TSWgwSWRJbFppNDJB?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 06:13:00 GMT",
-      "source": "The Times of India",
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEZCNGprNjBBYnFqZmFfZDhoSi1GcVV3a1Y4NVJrdUlyZmhoTUZ5TDA0NEVMVmVFd0dsVGhSSTQtdUFCeWFxWFZGcDNudnNXY2RTS1FFZ0x3amVQLVpHUVotb0JQQThNNlhfcmtLV1duNGVyaTRPOFp1U3A4M0pKMDdtVTVJa29yVVpLTVItOHVjdTlzczNLb2gtM2w2SE5J?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 09:36:08 GMT",
+      "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
     }
