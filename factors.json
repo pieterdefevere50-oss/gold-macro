@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-14T04:28:29.650Z",
+  "generatedAt": "2026-10-14T08:30:12.287Z",
   "bias": {
-    "score": 3,
+    "score": -3,
     "label": "Mixed / Neutral",
-    "bullWeight": 19,
+    "bullWeight": 17,
     "bearWeight": 18,
-    "driversCounted": 13
+    "driversCounted": 12
   },
   "market": {
     "gold": {
-      "price": 4161.700195,
-      "asOf": "2026-10-14T04:28:29.049Z"
+      "price": 4152,
+      "asOf": "2026-10-14T08:30:11.754Z"
     },
     "realYield10": {
       "value": 2.91,
@@ -121,18 +121,6 @@
       "coverage": 1
     },
     {
-      "title": "Gold: If Wars Can't Spark a Rally, What Will?",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR3doazRLamtMUkVJei1laGUyMjZkY0ZvNGI1eWlYNHdWU3F3aUhhWXlGblczbHpPWGdQU1dBRTFaQnhrXzZEZ0N2cU4xMUpLTm1EdDdVMGNSMS0yRUlISFcxVWZ6dWlJZVdja3N6YkdTQlgwa1JWUmFXZ1FwdG02VFRZN0Q2MUlXcW54ZHNfTQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 20:58:16 GMT",
-      "source": "Barchart.com",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Why Gold ETF Inflows Surged Even as the Metal’s Price Fell",
       "sentiment": "bull",
       "kind": "driver",
@@ -187,20 +175,32 @@
       "impact": 2,
       "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdTNJS0pZa1BndjBFTmhTYjRXNWxpVFpkbU9qY1ZRVWk0OG1wMDUtZEJ2VjJDMWt6eUNNTzdGRFc1blB6WTE0VndMaTdWcXl5blE4V0dSMDRZckhRdHpZMHBVaXZUZXFkbU42YXZWUU42SnpEYTlsOFVQZXI5eFlPWkdFaVk2N3hPZDBOS3lwVWZTdjlRTE9keS1pZUU0X2R6SXdRQ1RZM3E2UQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 18:06:14 GMT",
+      "pubDate": "Tue, 13 Oct 2026 23:07:27 GMT",
       "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold Price Forecast: XAU/USD retraces losses as US yields and Oil prices ease",
+      "title": "Gold: If Wars Can't Spark a Rally, What Will?",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNFc0TTJoOThoLWF1UzM0U1NWSTdXbWNHSko2Mm53aGV6VXB4ZEh3MEYyWVUwV0E4Y191NExkWl9iWGJFcGQxcTF5UjF1cXdrVFhiNS1nMGxRb1B1aVlVLXBjM05sSXkyQ1J2QXJGZmc2VWhpMmJ2aElJMUNlNVctaUtMTURYaUdZMEZSTVB0SmlzamstZ09qWGpSMkt2U1pfd2M5WUVZYnFKejVuaGVaZDI0T1NCVk54U2pR?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 09:28:55 GMT",
-      "source": "FXStreet",
+      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR3doazRLamtMUkVJei1laGUyMjZkY0ZvNGI1eWlYNHdWU3F3aUhhWXlGblczbHpPWGdQU1dBRTFaQnhrXzZEZ0N2cU4xMUpLTm1EdDdVMGNSMS0yRUlISFcxVWZ6dWlJZVdja3N6YkdTQlgwa1JWUmFXZ1FwdG02VFRZN0Q2MUlXcW54ZHNfTQ?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 20:58:16 GMT",
+      "source": "Barchart.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Prices Decline as US Dollar Strengthens and Investors Assess Geopolitical Risks",
+      "sentiment": "neutral",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Headline mixes bullish and bearish signals that roughly offset: Rising geopolitical risk typically boosts safe-haven demand for gold. But: A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTRGVWFkMmpxcXkwYUpNaTZiRFVGR3phellzTm9MLUU4UjB4bi1SX3g0aWdCV1IyY3k5QnJyMUhqVHBaSVNIVVNUdGJRS1pqTGRUaWM2a3VBLVFrc1hYOUtVb3lxUlZOOEJCc1V5Ml9KTTdYODNRQkNSR3lhd01tcHFJTHIwV0J2dWJXN1JRb1lGNGdEd2l2NDdOaTRkVU5Z?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 10:18:18 GMT",
+      "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
     },
@@ -217,14 +217,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Prices Rise as Oil Retreats Ahead of US Inflation Data and Federal Reserve Decision",
+      "title": "Gold falls as traders weigh Fed rate outlook, await US inflation data",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEZCNGprNjBBYnFqZmFfZDhoSi1GcVV3a1Y4NVJrdUlyZmhoTUZ5TDA0NEVMVmVFd0dsVGhSSTQtdUFCeWFxWFZGcDNudnNXY2RTS1FFZ0x3amVQLVpHUVotb0JQQThNNlhfcmtLV1duNGVyaTRPOFp1U3A4M0pKMDdtVTVJa29yVVpLTVItOHVjdTlzczNLb2gtM2w2SE5J?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 09:36:08 GMT",
-      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHdCNWZoZmlSaFVRLVhwUVpTT1ZfeEQ3QVloVzRKaFVlRnMwY0d1UjNlWTFOZm4telc5U2JOTkpNZmQ5QmJMbW1XQ1RXTk02NmdZVjZNRDVCaHdBUEpRbll3cC1ieVBIZGoyck5qVlRlUG9mMWptMzg5X0cxZVhOVjNwOGdmaVVHRmpkNWp2Z3B5S3V3UVZfZXVLS2xfeDdCR21EWGh0YzhCWlItMFVXenFwSE9YWU5qcnZsSy1DY1Q0dw?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 07:09:04 GMT",
+      "source": "Investing.com",
       "isLive": true,
       "coverage": 1
     }
