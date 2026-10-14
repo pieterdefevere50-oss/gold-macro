@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-14T08:30:12.287Z",
+  "generatedAt": "2026-10-14T12:33:41.430Z",
   "bias": {
-    "score": -3,
-    "label": "Mixed / Neutral",
-    "bullWeight": 17,
+    "score": -24,
+    "label": "Bearish",
+    "bullWeight": 11,
     "bearWeight": 18,
-    "driversCounted": 12
+    "driversCounted": 9
   },
   "market": {
     "gold": {
-      "price": 4152,
-      "asOf": "2026-10-14T08:30:11.754Z"
+      "price": 4126.399902,
+      "asOf": "2026-10-14T12:33:40.867Z"
     },
     "realYield10": {
       "value": 2.91,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-10-13"
+      "asOf": "2026-10-14"
     }
   },
   "evergreen": [
@@ -121,14 +121,14 @@
       "coverage": 1
     },
     {
-      "title": "Why Gold ETF Inflows Surged Even as the Metal’s Price Fell",
-      "sentiment": "bull",
+      "title": "Gold eases on strong dollar, oil prices; US inflation data eyed",
+      "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising ETF holdings show investment demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGxGcUdianJDOHBZdlZCcnFPSkVGTUVzMVZJZlBOMHlHaTdvMXRfcGhreXc2aHA4Sk1vandpeEdwYm9kUTQ2MnpDblRoUEdjZUtEUldCOVhkOThDbWp3dGFjVlRmNWJrcTV6U0NydUpnOUZoa2RrOU1zNWRrTG8wVnVEYWF1WllYM1RjZ0RGOU5SMkRvUW9ZcThVbmg0eEZnSnVESUFiVmRKc0VGLTFmXw?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 04:04:43 GMT",
-      "source": "The Daily Upside",
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTdfbFRJUWVBUW5ndjBGSlJ6aGRQYi1saWxfVU5haEdOVXJaNzFuRnlyZ1F6eGVPb2tGYVczeXlRWEI5WmVHeVFGMTVqd2I5dEZCVDNrNDBkS2N1Q2NWWlRQMzhSa3BPMlZnVElqaFhaQkRLWnJrMG1NUnlvYVE5OWZGTXZucUJoaTUzTmxJeS1mUHpRSVVNT2xlRUI5dmtoQmc?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 18:36:35 GMT",
+      "source": "Reuters",
       "isLive": true,
       "coverage": 1
     },
@@ -145,86 +145,38 @@
       "coverage": 1
     },
     {
-      "title": "Gold eases on strong dollar, oil prices; US inflation data eyed",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTdfbFRJUWVBUW5ndjBGSlJ6aGRQYi1saWxfVU5haEdOVXJaNzFuRnlyZ1F6eGVPb2tGYVczeXlRWEI5WmVHeVFGMTVqd2I5dEZCVDNrNDBkS2N1Q2NWWlRQMzhSa3BPMlZnVElqaFhaQkRLWnJrMG1NUnlvYVE5OWZGTXZucUJoaTUzTmxJeS1mUHpRSVVNT2xlRUI5dmtoQmc?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 18:36:35 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold price needs a dovish Fed or renewed debasement fears to reverse its downtrend – Bank of America",
+      "title": "Why Gold ETF Inflows Surged Even as the Metal’s Price Fell",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "A dovish stance points to easier policy ahead, typically supportive for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZzc0VBMXVwcklVemRpM3hieFAtSnB2NE4zNGZBUUVROS1iYVpFbWxPX2RBWUhtU2s1Y1d6ZDlLb1VZUlpadUc3UEpPQ2NLN1FGU3NiN0RQbF84UWJMSFFTaUd1cEZUbTE0SnNabTVLLVRSajFoYXBPV0RDTjFmNWtIN2F4ams5NFVjSTNoNmhEdkc4WmRDd1JUSkEya0VHakhVNXJiaXBHM3FVNmV4VXY1Yw?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 19:36:00 GMT",
-      "source": "Kitco",
+      "text": "Rising ETF holdings show investment demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGxGcUdianJDOHBZdlZCcnFPSkVGTUVzMVZJZlBOMHlHaTdvMXRfcGhreXc2aHA4Sk1vandpeEdwYm9kUTQ2MnpDblRoUEdjZUtEUldCOVhkOThDbWp3dGFjVlRmNWJrcTV6U0NydUpnOUZoa2RrOU1zNWRrTG8wVnVEYWF1WllYM1RjZ0RGOU5SMkRvUW9ZcThVbmg0eEZnSnVESUFiVmRKc0VGLTFmXw?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 04:04:43 GMT",
+      "source": "The Daily Upside",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold firms as dollar, yields and oil retreat before CPI - Kitco AM Report",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdTNJS0pZa1BndjBFTmhTYjRXNWxpVFpkbU9qY1ZRVWk0OG1wMDUtZEJ2VjJDMWt6eUNNTzdGRFc1blB6WTE0VndMaTdWcXl5blE4V0dSMDRZckhRdHpZMHBVaXZUZXFkbU42YXZWUU42SnpEYTlsOFVQZXI5eFlPWkdFaVk2N3hPZDBOS3lwVWZTdjlRTE9keS1pZUU0X2R6SXdRQ1RZM3E2UQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 23:07:27 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold: If Wars Can't Spark a Rally, What Will?",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR3doazRLamtMUkVJei1laGUyMjZkY0ZvNGI1eWlYNHdWU3F3aUhhWXlGblczbHpPWGdQU1dBRTFaQnhrXzZEZ0N2cU4xMUpLTm1EdDdVMGNSMS0yRUlISFcxVWZ6dWlJZVdja3N6YkdTQlgwa1JWUmFXZ1FwdG02VFRZN0Q2MUlXcW54ZHNfTQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 20:58:16 GMT",
-      "source": "Barchart.com",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Prices Decline as US Dollar Strengthens and Investors Assess Geopolitical Risks",
-      "sentiment": "neutral",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Headline mixes bullish and bearish signals that roughly offset: Rising geopolitical risk typically boosts safe-haven demand for gold. But: A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTRGVWFkMmpxcXkwYUpNaTZiRFVGR3phellzTm9MLUU4UjB4bi1SX3g0aWdCV1IyY3k5QnJyMUhqVHBaSVNIVVNUdGJRS1pqTGRUaWM2a3VBLVFrc1hYOUtVb3lxUlZOOEJCc1V5Ml9KTTdYODNRQkNSR3lhd01tcHFJTHIwV0J2dWJXN1JRb1lGNGdEd2l2NDdOaTRkVU5Z?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 10:18:18 GMT",
-      "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "US Gold ETFs Hit Record-Low Market Share as Asia Expands on Falling Price",
-      "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold is at a fresh low. This describes the price outcome, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTE1Ma3hsaUxnMlV1dHpHd3BSSGRfaHp3MkxHS2hHdzF2NUJ3dE1HdTliM3k3aEFmRjZMRGNnNmNfZGdrcEZTZFBfT3dlQWI5WmE0TFhVSTBUNlg5djEyN3AtYUF0NjdZMGZjbTluOEFDUjlyUWg2TUxONXplUlB6SjNfVVFCTV9Yb0E?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 14:21:42 GMT",
-      "source": "BullionVault",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold falls as traders weigh Fed rate outlook, await US inflation data",
+      "title": "Gold dips as traders weigh Fed rate outlook, await U.S. inflation data",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHdCNWZoZmlSaFVRLVhwUVpTT1ZfeEQ3QVloVzRKaFVlRnMwY0d1UjNlWTFOZm4telc5U2JOTkpNZmQ5QmJMbW1XQ1RXTk02NmdZVjZNRDVCaHdBUEpRbll3cC1ieVBIZGoyck5qVlRlUG9mMWptMzg5X0cxZVhOVjNwOGdmaVVHRmpkNWp2Z3B5S3V3UVZfZXVLS2xfeDdCR21EWGh0YzhCWlItMFVXenFwSE9YWU5qcnZsSy1DY1Q0dw?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 07:09:04 GMT",
+      "pubDate": "Wed, 14 Oct 2026 09:35:46 GMT",
       "source": "Investing.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold prices slip",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZTk0UW90N0xPWlhfZUQ3UjljLTB4eGtxZHlvcDBzT3NMQUlQZ2VnbXlRYXUwVWxaU3lNb3FvbzdQS0lNMk1nbEotM29Ib2xmeWVEU05OUnR1cUltX2xyc0lUcjdyY182OGVrS0hkU0JTNjBDa1NMQ3NmR2k1LUlJdg?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 07:41:53 GMT",
+      "source": "VnExpress International",
       "isLive": true,
       "coverage": 1
     }
