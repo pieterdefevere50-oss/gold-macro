@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-14T00:32:30.024Z",
+  "generatedAt": "2026-10-14T04:28:29.650Z",
   "bias": {
-    "score": -8,
+    "score": 3,
     "label": "Mixed / Neutral",
-    "bullWeight": 17,
-    "bearWeight": 20,
+    "bullWeight": 19,
+    "bearWeight": 18,
     "driversCounted": 13
   },
   "market": {
     "gold": {
-      "price": 4160.600098,
-      "asOf": "2026-10-14T00:32:29.383Z"
+      "price": 4161.700195,
+      "asOf": "2026-10-14T04:28:29.049Z"
     },
     "realYield10": {
       "value": 2.91,
@@ -109,6 +109,18 @@
   ],
   "live": [
     {
+      "title": "Gold Price Forecast: XAU/USD looks to $4100 and US CPI inflation amid geopolitical risks",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTTF2WlE4SGNOUXVQR3ZpSmdGU3AyYW5PcGM2elZLLTNUWFc5Q0NVbkRqLXNERUpGQmY5THRkRlpIclRJWmxaa0lWdElFNGdWUXphbW9aVG1wSzVrVTN1SXpzSmRGbkRDMVBHR0hwNGVrSlBUWDM3VUZvQjJRS0ktMzFxUWloUHRpMHJQSHVqcmh0UnkzaXdrN0VLRER4Q1ZxWllhVjZDNlI4WmtkM3piVS1LOVZBMXpBTWJUZzJLM2UxTDFGTF9sR25NMkVpdw?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 02:30:23 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold: If Wars Can't Spark a Rally, What Will?",
       "sentiment": "bull",
       "kind": "driver",
@@ -121,14 +133,26 @@
       "coverage": 1
     },
     {
-      "title": "Gold Price Forecast: XAU/USD retraces losses as US yields and Oil prices ease",
+      "title": "Why Gold ETF Inflows Surged Even as the Metal’s Price Fell",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNFc0TTJoOThoLWF1UzM0U1NWSTdXbWNHSko2Mm53aGV6VXB4ZEh3MEYyWVUwV0E4Y191NExkWl9iWGJFcGQxcTF5UjF1cXdrVFhiNS1nMGxRb1B1aVlVLXBjM05sSXkyQ1J2QXJGZmc2VWhpMmJ2aElJMUNlNVctaUtMTURYaUdZMEZSTVB0SmlzamstZ09qWGpSMkt2U1pfd2M5WUVZYnFKejVuaGVaZDI0T1NCVk54U2pR?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 09:28:55 GMT",
-      "source": "FXStreet",
+      "text": "Rising ETF holdings show investment demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGxGcUdianJDOHBZdlZCcnFPSkVGTUVzMVZJZlBOMHlHaTdvMXRfcGhreXc2aHA4Sk1vandpeEdwYm9kUTQ2MnpDblRoUEdjZUtEUldCOVhkOThDbWp3dGFjVlRmNWJrcTV6U0NydUpnOUZoa2RrOU1zNWRrTG8wVnVEYWF1WllYM1RjZ0RGOU5SMkRvUW9ZcThVbmg0eEZnSnVESUFiVmRKc0VGLTFmXw?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 04:04:43 GMT",
+      "source": "The Daily Upside",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Steady as Fed Official’s Remarks Temper Rate-Hike Bets",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZld1TDEtdExkQmJiUE5vMUtPWmNMRDQ0ZmcxUVhrRG1ndzhReGQ2NDdqanNyeUdQN3UxaHdqaVE5NTc2WEpWVWRiekQzeXgtaHlUamdRMXhvc3JtZEhQNm1Qd2pZN0ZDZGVmM3g5NDJsVVRJS05tWDdXVHZpZkVGb0YwUDV0NWxF?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 00:08:00 GMT",
+      "source": "Yahoo Finance UK",
       "isLive": true,
       "coverage": 1
     },
@@ -139,7 +163,7 @@
       "impact": 2,
       "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTdfbFRJUWVBUW5ndjBGSlJ6aGRQYi1saWxfVU5haEdOVXJaNzFuRnlyZ1F6eGVPb2tGYVczeXlRWEI5WmVHeVFGMTVqd2I5dEZCVDNrNDBkS2N1Q2NWWlRQMzhSa3BPMlZnVElqaFhaQkRLWnJrMG1NUnlvYVE5OWZGTXZucUJoaTUzTmxJeS1mUHpRSVVNT2xlRUI5dmtoQmc?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 03:13:00 GMT",
+      "pubDate": "Mon, 12 Oct 2026 18:36:35 GMT",
       "source": "Reuters",
       "isLive": true,
       "coverage": 1
@@ -151,7 +175,7 @@
       "impact": 2,
       "text": "A dovish stance points to easier policy ahead, typically supportive for gold.",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzZzc0VBMXVwcklVemRpM3hieFAtSnB2NE4zNGZBUUVROS1iYVpFbWxPX2RBWUhtU2s1Y1d6ZDlLb1VZUlpadUc3UEpPQ2NLN1FGU3NiN0RQbF84UWJMSFFTaUd1cEZUbTE0SnNabTVLLVRSajFoYXBPV0RDTjFmNWtIN2F4ams5NFVjSTNoNmhEdkc4WmRDd1JUSkEya0VHakhVNXJiaXBHM3FVNmV4VXY1Yw?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 12:36:00 GMT",
+      "pubDate": "Mon, 12 Oct 2026 19:36:00 GMT",
       "source": "Kitco",
       "isLive": true,
       "coverage": 1
@@ -163,44 +187,20 @@
       "impact": 2,
       "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdTNJS0pZa1BndjBFTmhTYjRXNWxpVFpkbU9qY1ZRVWk0OG1wMDUtZEJ2VjJDMWt6eUNNTzdGRFc1blB6WTE0VndMaTdWcXl5blE4V0dSMDRZckhRdHpZMHBVaXZUZXFkbU42YXZWUU42SnpEYTlsOFVQZXI5eFlPWkdFaVk2N3hPZDBOS3lwVWZTdjlRTE9keS1pZUU0X2R6SXdRQ1RZM3E2UQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 13:06:56 GMT",
+      "pubDate": "Tue, 13 Oct 2026 18:06:14 GMT",
       "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold rises on weaker dollar, lower oil ahead of US inflation data",
+      "title": "Gold Price Forecast: XAU/USD retraces losses as US yields and Oil prices ease",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdm01ZWpsQXcxSlV4V202V1JUUE91VFBnRHY2QlVsdkxnaUZDUDcxam1ZTEp2bEd0cVFxcWhiSEVXYk9CdU45aE1FRlI0YUU1SUNyckJyLW9xV1JsekpxR1ZIaWZhUC1IN25ScldrYzhfUGpaUk1hd2U5V0ozUWZaeUNQbWNRT2RfcWlib0kxLU56anJ2VGZsZ1FLTm5kN2NHdTB4UmMweG1pWTZaMFE?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 10:46:00 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold slides on US yields surge ahead of CPI",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOWFqbjlkcUJUMmJIcHIwenJPZi1yMGJxZkpRNWRRRjYybFM0Ri11Rk1YRHlFVDB3UE9wa0hScm52S3VubV9mUzVxckR5V3F5WTgwc1Z1d1VDS0JrWkJJTmlfZjM5YWR5ZmxJZkQxYXdRUFhDVk1pRHUyQzFVUDFmTlR0bE8yWkFPSHRJbGVRZw?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 17:42:22 GMT",
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNFc0TTJoOThoLWF1UzM0U1NWSTdXbWNHSko2Mm53aGV6VXB4ZEh3MEYyWVUwV0E4Y191NExkWl9iWGJFcGQxcTF5UjF1cXdrVFhiNS1nMGxRb1B1aVlVLXBjM05sSXkyQ1J2QXJGZmc2VWhpMmJ2aElJMUNlNVctaUtMTURYaUdZMEZSTVB0SmlzamstZ09qWGpSMkt2U1pfd2M5WUVZYnFKejVuaGVaZDI0T1NCVk54U2pR?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 09:28:55 GMT",
       "source": "FXStreet",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Prices Retreat as Dollar Rises and Markets Await US Inflation Data",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT0w0Y3RrOGVoaEs3Q1FmcUFCYTZVSFFabW80bjNzeGVudGtpVUxGdFg4c2Zoa1UzMkRlQTRVdFNvUjN6Q0NORVl4NktqSDVuMVcyMW1HNmw0VEJSYmxoWElOcmhPeVBzcGF1bHBHcGItQXRpTnM3UFZmRzBhN0lNN09LYzJTb3l1UnJHTkgxdm8wLTNaQnJQd1lueU9Mbno4blFRdW1UdGRxeEhZNlE?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 12:35:27 GMT",
-      "source": "Fana News -",
       "isLive": true,
       "coverage": 1
     },
