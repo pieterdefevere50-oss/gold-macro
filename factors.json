@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-16T16:27:00.288Z",
+  "generatedAt": "2026-10-16T20:22:58.092Z",
   "bias": {
-    "score": -9,
+    "score": -8,
     "label": "Mixed / Neutral",
-    "bullWeight": 15,
-    "bearWeight": 18,
-    "driversCounted": 11
+    "bullWeight": 17,
+    "bearWeight": 20,
+    "driversCounted": 13
   },
   "market": {
     "gold": {
-      "price": 4167.899902,
-      "asOf": "2026-10-16T16:26:59.769Z"
+      "price": 4167.799805,
+      "asOf": "2026-10-16T20:22:57.512Z"
     },
     "realYield10": {
       "value": 2.84,
@@ -22,12 +22,12 @@
       "changePct": 5.970149253731331
     },
     "y10": {
-      "value": 5.19,
-      "asOf": "2026-10-14",
-      "prior": 5.01,
-      "priorDate": "2026-09-16",
-      "change": 0.1800000000000006,
-      "changePct": 3.5928143712574974
+      "value": 5.1,
+      "asOf": "2026-10-15",
+      "prior": 4.94,
+      "priorDate": "2026-09-17",
+      "change": 0.15999999999999925,
+      "changePct": 3.2388663967611184
     },
     "y2": {
       "value": 4.82,
@@ -109,6 +109,18 @@
   ],
   "live": [
     {
+      "title": "Hot Inflation Hits Gold, but Safe-Haven Buyers Fight Back",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Points to safe-haven demand as investors seek protection from risk.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWo1MDF4SXhidW1uR29FSGVhaEVXZnRGM1pJb0Rqa2RNY0tpcjd1alBqSEY3bEl0anFXNXZ3dnp4SlZfN2pTbkpRY1FMdGk0UU1ZdGVVdWctN0VCWHktcWFVWk5vUkdJdkRoZHpoSTRVWGVNbUlhNkVXM1RuZ2h1bzVLUnBhOGl6THE1bk9Zb2FiNk56azRTTnhzNzlyYTA?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 17:42:05 GMT",
+      "source": "Yahoo Finance",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold price today, Friday, October 16, 2026: Gold lifts as Treasury yields and dollar fall back",
       "sentiment": "bull",
       "kind": "driver",
@@ -133,18 +145,6 @@
       "coverage": 1
     },
     {
-      "title": "Gold Advances as Treasury Yield Decline and Dollar Weakness Offset Interest Rate Concerns",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdUxzVVRVRFJTQ1BLZEFPaGs4VWhIdFNWdXBNRUpOVlUwdWFHQzExYUpOQWlzbWJIN19kaTRvWEhJeGpXUFdPZHdIVXhFWDVJQzNKSjI1RlpHVXZzbDFIWjhJYktLWTktUzZ6SmRORGhXaFJ6Nno4WnlrWWFpNjY3ZUxKd3JVVkIxNVpjZnJB?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 09:06:42 GMT",
-      "source": "Yahoo Finance UK",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold rebounds on weaker dollar, yield drop; October Fed hike bets subdued",
       "sentiment": "bull",
       "kind": "driver",
@@ -157,14 +157,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold struggles for direction as Fed rate-hike bets keep buyers cautious",
-      "sentiment": "bear",
+      "title": "Gold Advances as Treasury Yield Decline and Dollar Weakness Offset Interest Rate Concerns",
+      "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeXZ1eExBbjZNRm1yNk8xbmltendSX3JPbktMV0Q1aWNnVTN0UG94S1gxaTdPdk5iWWlfUThWaVJ3bXIzUG9lTnRZZlB4X2diRTVIZnotQjg3aGd4cjNNLS1ySjV5NVU5R2RDUDI4U1ZmZmh0MmI4LXM5SjZuNnFOeUpOd1BuWVZaeVA1SUJDQXNKaUI1d2pMQktvRmNsSW1HSGk1eGdtSUwxWEJjS201RmpzOEMzR0hiUW4yYw?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 13:46:09 GMT",
-      "source": "FXStreet",
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdUxzVVRVRFJTQ1BLZEFPaGs4VWhIdFNWdXBNRUpOVlUwdWFHQzExYUpOQWlzbWJIN19kaTRvWEhJeGpXUFdPZHdIVXhFWDVJQzNKSjI1RlpHVXZzbDFIWjhJYktLWTktUzZ6SmRORGhXaFJ6Nno4WnlrWWFpNjY3ZUxKd3JVVkIxNVpjZnJB?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 09:06:42 GMT",
+      "source": "Yahoo Finance UK",
       "isLive": true,
       "coverage": 1
     },
@@ -181,26 +181,50 @@
       "coverage": 1
     },
     {
-      "title": "TSX futures edge higher as gold prices rise; comments from BoC’s Macklem in focus",
-      "sentiment": "bull",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVUhxZTM5Q203djE4UTBzcUh2ZmVEanRVS3AyMmpYUEJDaE9pZW13WUxETW5LRDBBazBIWVFUeVNEMUVTSVpkMkZaLVoxLWhDOGpsN1RzcVhJUFVfY0x6ZDZEUmJoV2pvVXZmWm9KdmE5TEdUcjRLbGRsNDJidUdUTUtNVml1RzVRQ25PTnE3dldySUJ5U0Qtb1VvWjRzSGtqMEtYQ3VfaFBLSVdvTHZUd2NqMUdCTWRHU3hVUFNhbXMzdjU2RmxGNFZmMU53SGZjVVE?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 11:57:01 GMT",
-      "source": "Investing.com",
+      "title": "Gold stumbles as US yields eclipse fading October Fed hike bets",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMHBwdlFJN1lCVlJXeXhhNVBtamRYV0xpZ1lEWEppVkZqWG11aW1UWHRvQUFWcy1hM2Q3ZjlMdlF4N3hsd3FFMF8xSkZGamJIS1pLM0o4OUxuRGlpRG42WU5iMG9jVEpyTWktb3BzVXFvSXFvYmt6T1QyTHEtRG9zT3g4WFlZX2pPVFloenp3N2JUNWZ1QV83dGhZS3BKNUhkamUtLWpSZG9DQQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 19:21:29 GMT",
+      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold price rallies as lower yields, AI stock selloff fuel haven demand",
-      "sentiment": "bull",
+      "title": "Gold struggles for direction as Fed rate-hike bets keep buyers cautious",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeXZ1eExBbjZNRm1yNk8xbmltendSX3JPbktMV0Q1aWNnVTN0UG94S1gxaTdPdk5iWWlfUThWaVJ3bXIzUG9lTnRZZlB4X2diRTVIZnotQjg3aGd4cjNNLS1ySjV5NVU5R2RDUDI4U1ZmZmh0MmI4LXM5SjZuNnFOeUpOd1BuWVZaeVA1SUJDQXNKaUI1d2pMQktvRmNsSW1HSGk1eGdtSUwxWEJjS201RmpzOEMzR0hiUW4yYw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 14:58:41 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold set for a weekly drop as traders assess Fed signals",
+      "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQkVrY2xsWjh3dWwya1B3VG9hYVcwQkFmc19KRHBxT2p2TVI0cTc0QVVXa0pPSXdxOVlqRGNYUmk1SnlteEtMNkhkVmxiYTBHdk9qTjNZdmFjVzNfNXJoZ0NkTWhqWVgybFlJbVZiZkNtQWJvaFpudDVhLVkyaU9NY250VXUzdlY0V0RXY0xCbFFjWl9rdnNlMTJ3dllqUQ?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 23:45:37 GMT",
-      "source": "Mining.com",
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFdTSHVlWTdpZG0xRlc1U3Rka1I3Q3FLdVhKUVJjRWdlb040SXdMZktTT3k1WEgxSnB0QzdaQ2FSY05KTVVOSFg4aVpSRm01Z1hfdGNxY0JnYzJqeXBCcm1SU1FaVzlPUWljNFBxWDlYZmJxYU5ycmxyb1FNUEpTcVpoc3AwS25VUUgxMkFIOXZpQU5TZlVOTEVmVQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 18:20:09 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "World Gold Council: China buys heavily on gold price dip; ETF holdings hit record high",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckRNSnkzejNKTXZ5NC04d3dCOHhsNzQybGYyOWRLOVB0RTF1X1dOYml4NUlhWVRpUmhlN0x0eGg0aC1hYzViU3ZYNW9UYy1IV3hpdEdKVTU4R2VRdVNtM3JpbjE4QnZlbnlOeTJVZmpzNmh1OUttT1ctamRqSkkwQnRJbEREbVg1b1RKUXBDV3U4c2hGa3ZWTXFERW02REt0?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 16:40:32 GMT",
+      "source": "Moomoo",
       "isLive": true,
       "coverage": 1
     }
