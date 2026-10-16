@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-16T00:30:44.579Z",
+  "generatedAt": "2026-10-16T04:26:50.975Z",
   "bias": {
-    "score": -3,
+    "score": 15,
     "label": "Mixed / Neutral",
-    "bullWeight": 17,
-    "bearWeight": 18,
-    "driversCounted": 12
+    "bullWeight": 19,
+    "bearWeight": 14,
+    "driversCounted": 11
   },
   "market": {
     "gold": {
-      "price": 4156.399902,
-      "asOf": "2026-10-16T00:30:44.128Z"
+      "price": 4180.100098,
+      "asOf": "2026-10-16T04:26:50.449Z"
     },
     "realYield10": {
       "value": 2.84,
@@ -109,18 +109,6 @@
   ],
   "live": [
     {
-      "title": "U.S. Treasury’s gold revaluation could restart the ‘debasement trade’ as yield pressures fade – UBP’s Kinsella",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWw4SkxFRjJfckFaYnNtSi1mLVBGd3h5QmdoZjlUOXhwMVNxOUVJd1NjOVZUbUJ5MkJrc1VCSDlNSGZrX2tEV3pWTmk0blk5NXVnX3JpR2hjdlNteVAtWXhjVkg5dFVwNTZJUk9xS280NGlyVGVzQmVnVkFwc3ZiMXRMc2lZNGwwYXM1LUxaeXdweG54X2tKaDcyREpIWlpoeEJPTktvRzJZTTRZZnY2ek1n?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 20:07:25 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold rebounds on weaker dollar, yield drop; October Fed hike bets subdued",
       "sentiment": "bull",
       "kind": "driver",
@@ -128,18 +116,6 @@
       "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds. A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGo4bEV3TDlUV2I1Nkg3dzNpODBCZ0hBWXJtWHR2OWwxWGVGZlRVcDZINFJqdmQ5QXJRNk5aUVVtZDhZSUlzUEJNWmpUcm9oSmtrNldYLWZEWTl6NDNueFY4VlQyby1oYnBKcnFSaHBQR1BWZXZ1NVg5LXZReXc5UjlWTXFzd2pDSEpBVTljTjk?oc=5",
       "pubDate": "Thu, 15 Oct 2026 03:18:00 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold drops over 1% as hot US inflation data boosts Fed hike bets",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkM3NGdUajlORC1ZZjBNcFZtNjYwa2JRaFczS1V4OVRORGhzZG1NUGxaY3ppRjdfQlFvUmREakJQM1RGaDNZZmZFMnJrY2Rtemc2Z1dBY1pPRy1ZbnBJVzNfTG1MMGJ5TXY5VzFpaDd6UENqd1pUOVdlTm1sS241QkFzNm1kdDJXTjl5emhLV200WUI1QVh4RQ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 03:12:00 GMT",
       "source": "Reuters",
       "isLive": true,
       "coverage": 1
@@ -181,14 +157,26 @@
       "coverage": 1
     },
     {
-      "title": "Gold Price Forecast: Higher-Than-Expected CPI Weighs on Gold, Can PPI Push Gold Back to $4,200?",
-      "sentiment": "bear",
+      "title": "Gold Price Forecast: Softer Dollar Fuels Rebound After Hot CPI",
+      "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Hotter-than-expected inflation raises the odds the Fed stays restrictive — a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQWxDS0V5NXptLXIwbTlwSmd4VHlfWW9XcTBPVGJxVXNLejFVNUdZZ2JkVW9TeHNQTWNlcE1GdzBsZW1PSWdyY3FiWE5aSmhLeVI5dm5EdEdfS0hOR0VYZFdDbmhGTEk0U0xUQlpEbUItZFVQcWxQdnRjb1JDci1mZnAwSTAzTEljbHRpNGJxSm84S0pjaHh6SEV5aTFTbG5CU3FaU0tvNEI1TjdBWlRCLS1GeUE3Zlk?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 10:36:52 GMT",
-      "source": "TradingKey",
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZnBxaDRUOW44alZHbmowQ1gybDVRQkxMUkU1a1duTTdHSDJpWXFpejZHTHluenhyUHRISms2Wk5ySVRDenNtWXRieGFwVjM2U2JCbi01QXlKTUllRzI2aHFubnAwOHNIdU9GQUE2TGppeEVWX2x0RTFDVjI2SzFsUlB3Nm4zRlItNVhDNzN2LTR2ajZyRVA2RUZfWHhQZVZEaWZFZ0IzM1d0YUFUNVZxbmVFLW9RQkR5OXd6eA?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 10:25:58 GMT",
+      "source": "FXEmpire",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "U.S. Treasury’s gold revaluation could restart the ‘debasement trade’ as yield pressures fade – UBP’s Kinsella",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWw4SkxFRjJfckFaYnNtSi1mLVBGd3h5QmdoZjlUOXhwMVNxOUVJd1NjOVZUbUJ5MkJrc1VCSDlNSGZrX2tEV3pWTmk0blk5NXVnX3JpR2hjdlNteVAtWXhjVkg5dFVwNTZJUk9xS280NGlyVGVzQmVnVkFwc3ZiMXRMc2lZNGwwYXM1LUxaeXdweG54X2tKaDcyREpIWlpoeEJPTktvRzJZTTRZZnY2ek1n?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 13:38:00 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
@@ -205,14 +193,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Rebounds As Dollar Dives",
+      "title": "Gold Rallies, Silver Doesn't as Tech Stocks Sink with Bond Yields",
       "sentiment": "bull",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS3BOT0dTeFhzaDNNRWNxdDdKNlI3Ulh2M1p4b1kxWWR3dGVvWFVqUjV1alpoVVUxLV9ES0REZUc5alZDazRZZThzSHBQUHRiNTBMcFVJd290WDdNRnFRaUNqcW4wUUpRVlFYeUVKOW5JZFhpTHAwWGp3eVRDX1hiQlVpYmVoZThUZlBWNlNnSE5UODQxYXk0b21leXdYaDJraUVtLTQzQ2N3alVGLW9IdmNBMFRnQ0lKa1hTNg?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 00:16:02 GMT",
-      "source": "FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHVtYVR2cDl6UnljRHdWVy1LdVRlMktpUlVzMFpBQ2N3ak9faFB2ZV9EU1AwZlc2a2kyMUkyUTZQeERtdWZMZG5ETlVjUnhiendaMGZ0ZzJKT2J3bEZxNzZPaGZMUm1zdWpGbWNjQS12c3c5bTIzNGV6bFFlUTRmcWF3Y1NfcEM2bVRPeQ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 15:27:36 GMT",
+      "source": "BullionVault",
       "isLive": true,
       "coverage": 1
     }
