@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-16T08:28:07.108Z",
+  "generatedAt": "2026-10-16T12:32:38.656Z",
   "bias": {
-    "score": -10,
+    "score": -14,
     "label": "Mixed / Neutral",
-    "bullWeight": 13,
-    "bearWeight": 16,
-    "driversCounted": 9
+    "bullWeight": 15,
+    "bearWeight": 20,
+    "driversCounted": 12
   },
   "market": {
     "gold": {
-      "price": 4185.700195,
-      "asOf": "2026-10-16T08:28:06.562Z"
+      "price": 4180.600098,
+      "asOf": "2026-10-16T12:32:38.191Z"
     },
     "realYield10": {
       "value": 2.84,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-10-15"
+      "asOf": "2026-10-16"
     }
   },
   "evergreen": [
@@ -109,14 +109,38 @@
   ],
   "live": [
     {
-      "title": "Gold rebounds on weaker dollar, yield drop; October Fed hike bets subdued",
+      "title": "Gold price today, Friday, October 16, 2026: Gold lifts as Treasury yields and dollar fall back",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds. A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGo4bEV3TDlUV2I1Nkg3dzNpODBCZ0hBWXJtWHR2OWwxWGVGZlRVcDZINFJqdmQ5QXJRNk5aUVVtZDhZSUlzUEJNWmpUcm9oSmtrNldYLWZEWTl6NDNueFY4VlQyby1oYnBKcnFSaHBQR1BWZXZ1NVg5LXZReXc5UjlWTXFzd2pDSEpBVTljTjk?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 03:18:00 GMT",
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYTdlYXpVRFE4a0pkTDdONG1yblhsX2RvOXphaHJwUkhVTkJlTUNhWEJXV19WMHpTMTZ5MkJON3dBRFVQcUxMR25ZX0libGpzT3B0bUxiSjd5MFNIUG5pQV9jR2tVTS1ZMmlhdW1vUDFxWDJ3MnVzOEF3eHZnM1dDVEFadUdwcDUtMFc1bU5RckpVVTBJRHhsWWYyUUVXOEp1VHQ4NGU4cXpRZ25ISVVPWFBQdHpEb1pFbTVJbWxVVDgwYTRPY0F3ODBFQjJqM2dGU3k5UjBZNGNFWnZNSlZrMlZUazMtMnF0TzQtVUctejRVQXZzdkZUbFh3?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 11:06:51 GMT",
+      "source": "Yahoo Finance",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold drops over 1% as hot US inflation data boosts Fed hike bets",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZkM3NGdUajlORC1ZZjBNcFZtNjYwa2JRaFczS1V4OVRORGhzZG1NUGxaY3ppRjdfQlFvUmREakJQM1RGaDNZZmZFMnJrY2Rtemc2Z1dBY1pPRy1ZbnBJVzNfTG1MMGJ5TXY5VzFpaDd6UENqd1pUOVdlTm1sS241QkFzNm1kdDJXTjl5emhLV200WUI1QVh4RQ?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 15:57:51 GMT",
       "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Prices Rise as Lower US Treasury Yields and Weaker Dollar Support Precious Metals",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2RZenRjYVptbmQyak9SR0UybHlFWWVxSHpkNEMyOTRVak1YaVQ0VXNhNEpmRTNzdnM0c2cyTktJZzhxaGZZSk5fRk1VZ0tvaF9reFlUMGkxakNhdkxTSVUyeHVOaWtrZE10NzBHd0ZqUzV4Nm1mYTZ3RkRKeU9rVkFBNHB2LWMwR1I1RFl3ZWdMblNkVFRmTGktMA?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 09:05:17 GMT",
+      "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
     },
@@ -133,26 +157,50 @@
       "coverage": 1
     },
     {
-      "title": "Gold rebounds above $4,150 as yields fall, Fed Warsh’s speech in focus",
+      "title": "Gold rebounds on weaker dollar, yield drop; October Fed hike bets subdued",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcTltQ1V4dXVNNkUwVDJxa0RobWxqUHMxcnlYdmpucVNFRUh4Wm9lSEpvVlMxUWF4WURPNWFPZGl1NVZGSWhGN0dObUNVRHROQzZFVV9GWUlQaklEckd1N0s3d2FjdzNmV2dKNS1XdVZIRmdGcGtYUmVkTldnUTFVWldYUzl1RmRvMXlkY2NYdEJSRnN2ZXhXWmhYMllhdzdWSHF5YjRpdUZJWExQeUpCX00xeDdxanYwYTlrTjluV2M0WUdneG05bGtjVnl3dw?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 02:30:07 GMT",
-      "source": "www.tmgm.com",
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds. A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGo4bEV3TDlUV2I1Nkg3dzNpODBCZ0hBWXJtWHR2OWwxWGVGZlRVcDZINFJqdmQ5QXJRNk5aUVVtZDhZSUlzUEJNWmpUcm9oSmtrNldYLWZEWTl6NDNueFY4VlQyby1oYnBKcnFSaHBQR1BWZXZ1NVg5LXZReXc5UjlWTXFzd2pDSEpBVTljTjk?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 03:18:00 GMT",
+      "source": "Reuters",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold Prices Recover as Weaker Dollar and Falling Bond Yields Offset US Inflation Concerns",
+      "title": "Gold Advances as Treasury Yield Decline and Dollar Weakness Offset Interest Rate Concerns",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSFVaWno3TG10cU9rNzktMkhhWnY4VmpVZE9PQzlmY0l0Z0xoTDN3UTJUVk9BRUM2R3JiRTM5VlVMMTcwT1kxRVZTZVNSYkVDYTc4UW5XdkF3RnB2OVFzQzZQYWd5Y0hud1M0dUp6U0tjWW1kX0dpRjFTZ2hyN2h6ODNmTkFDS1RFd1E?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 09:46:34 GMT",
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdUxzVVRVRFJTQ1BLZEFPaGs4VWhIdFNWdXBNRUpOVlUwdWFHQzExYUpOQWlzbWJIN19kaTRvWEhJeGpXUFdPZHdIVXhFWDVJQzNKSjI1RlpHVXZzbDFIWjhJYktLWTktUzZ6SmRORGhXaFJ6Nno4WnlrWWFpNjY3ZUxKd3JVVkIxNVpjZnJB?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 09:06:42 GMT",
       "source": "Yahoo Finance UK",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Has safe-haven logic taken the upper hand? Gold prices rebounded, firmly resisting expectations of interest rate hikes, while gold-related stocks in the Hong Kong market strengthened across the board.",
+      "sentiment": "neutral",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Headline mixes bullish and bearish signals that roughly offset: Points to safe-haven demand as investors seek protection from risk. But: Rate hikes raise the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUlSR3BTWG9yeDVVc2owbDMtWXJiLXY3WGpfR0U4SmNlQ204OENYNklEdGFNd1l4MWxNeFAtVFNSU1dIZWVkVE5qLVRzZUpOdVFjYW81RzJPX1pGWFByZUdSQXNOdUhNdWJkQ0JLSUMyV3JyUjlFUHZueXVPb2NjUllfSlc3YTYtWllhYkdUS0pEcTVTeS1rYy1RY3hidw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 06:41:25 GMT",
+      "source": "Moomoo",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold holds firm but struggles to build momentum as Fed rate-hike risks linger",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeXZ1eExBbjZNRm1yNk8xbmltendSX3JPbktMV0Q1aWNnVTN0UG94S1gxaTdPdk5iWWlfUThWaVJ3bXIzUG9lTnRZZlB4X2diRTVIZnotQjg3aGd4cjNNLS1ySjV5NVU5R2RDUDI4U1ZmZmh0MmI4LXM5SjZuNnFOeUpOd1BuWVZaeVA1SUJDQXNKaUI1d2pMQktvRmNsSW1HSGk1eGdtSUwxWEJjS201RmpzOEMzR0hiUW4yYw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 11:06:51 GMT",
+      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
