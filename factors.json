@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-17T16:21:49.291Z",
+  "generatedAt": "2026-10-17T20:20:30.562Z",
   "bias": {
     "score": -10,
     "label": "Mixed / Neutral",
@@ -11,7 +11,7 @@
   "market": {
     "gold": {
       "price": 4166.100098,
-      "asOf": "2026-10-17T16:21:48.815Z"
+      "asOf": "2026-10-17T20:20:29.994Z"
     },
     "realYield10": {
       "value": 2.78,
@@ -109,18 +109,6 @@
   ],
   "live": [
     {
-      "title": "Gold Prices Fall for the Week as US Inflation Fuels Rate Hike Concerns",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaTlJU09OUFQ3VTJWZ3pQTHNlM3haZ24tMEJfOVRTRXFmVHhfa20tWGc0WmQ3V0ZUQ2ktckVmYXdOLWVycklIcmE2VTB1dEpWVFpCVm5GSUdaamF2SGlsdTQ3OVFZYVJxVDB4dUJiSGc1LUoxY3VJdlZ3eGZ1S3FsNy1NVkFHcTdORUN2VElXbDFMR2k0SllCUDM5ck1KSWJ6enplZTdxVGcwcUw3?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 09:54:57 GMT",
-      "source": "Fana News -",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold price today, Friday, October 16, 2026: Gold lifts as Treasury yields and dollar fall back",
       "sentiment": "bull",
       "kind": "driver",
@@ -141,6 +129,18 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWo1MDF4SXhidW1uR29FSGVhaEVXZnRGM1pJb0Rqa2RNY0tpcjd1alBqSEY3bEl0anFXNXZ3dnp4SlZfN2pTbkpRY1FMdGk0UU1ZdGVVdWctN0VCWHktcWFVWk5vUkdJdkRoZHpoSTRVWGVNbUlhNkVXM1RuZ2h1bzVLUnBhOGl6THE1bk9Zb2FiNk56azRTTnhzNzlyYTA?oc=5",
       "pubDate": "Fri, 16 Oct 2026 17:42:05 GMT",
       "source": "Yahoo Finance",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Faces Year-End Downward Pressure...\"90% Odds of Fed Rate Hike in December\"",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zcTdreElPODI0OXM2eE13ZU1OejdjdjRzU1BlVWRCMVltZ2hGYlI4Ym5jQmpkS2w2Y3d6WElEbm9ENUFBZ3BkYmw0dGE4MjJkTnY1LU0zZUtHN1hlOXhQanZ0UXVpMHhQMWJLbGNybElJTThxMEE?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 11:35:00 GMT",
+      "source": "BigGo Finance",
       "isLive": true,
       "coverage": 1
     },
