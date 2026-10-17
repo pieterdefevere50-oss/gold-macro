@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-17T12:25:28.584Z",
+  "generatedAt": "2026-10-17T16:21:49.291Z",
   "bias": {
     "score": -10,
     "label": "Mixed / Neutral",
@@ -11,7 +11,7 @@
   "market": {
     "gold": {
       "price": 4166.100098,
-      "asOf": "2026-10-17T12:25:28.123Z"
+      "asOf": "2026-10-17T16:21:48.815Z"
     },
     "realYield10": {
       "value": 2.78,
@@ -121,18 +121,6 @@
       "coverage": 1
     },
     {
-      "title": "Hot Inflation Hits Gold, but Safe-Haven Buyers Fight Back",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Points to safe-haven demand as investors seek protection from risk.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWo1MDF4SXhidW1uR29FSGVhaEVXZnRGM1pJb0Rqa2RNY0tpcjd1alBqSEY3bEl0anFXNXZ3dnp4SlZfN2pTbkpRY1FMdGk0UU1ZdGVVdWctN0VCWHktcWFVWk5vUkdJdkRoZHpoSTRVWGVNbUlhNkVXM1RuZ2h1bzVLUnBhOGl6THE1bk9Zb2FiNk56azRTTnhzNzlyYTA?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 17:42:05 GMT",
-      "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold price today, Friday, October 16, 2026: Gold lifts as Treasury yields and dollar fall back",
       "sentiment": "bull",
       "kind": "driver",
@@ -140,6 +128,18 @@
       "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYTdlYXpVRFE4a0pkTDdONG1yblhsX2RvOXphaHJwUkhVTkJlTUNhWEJXV19WMHpTMTZ5MkJON3dBRFVQcUxMR25ZX0libGpzT3B0bUxiSjd5MFNIUG5pQV9jR2tVTS1ZMmlhdW1vUDFxWDJ3MnVzOEF3eHZnM1dDVEFadUdwcDUtMFc1bU5RckpVVTBJRHhsWWYyUUVXOEp1VHQ4NGU4cXpRZ25ISVVPWFBQdHpEb1pFbTVJbWxVVDgwYTRPY0F3ODBFQjJqM2dGU3k5UjBZNGNFWnZNSlZrMlZUazMtMnF0TzQtVUctejRVQXZzdkZUbFh3?oc=5",
       "pubDate": "Fri, 16 Oct 2026 11:06:51 GMT",
+      "source": "Yahoo Finance",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Hot Inflation Hits Gold, but Safe-Haven Buyers Fight Back",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Points to safe-haven demand as investors seek protection from risk.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWo1MDF4SXhidW1uR29FSGVhaEVXZnRGM1pJb0Rqa2RNY0tpcjd1alBqSEY3bEl0anFXNXZ3dnp4SlZfN2pTbkpRY1FMdGk0UU1ZdGVVdWctN0VCWHktcWFVWk5vUkdJdkRoZHpoSTRVWGVNbUlhNkVXM1RuZ2h1bzVLUnBhOGl6THE1bk9Zb2FiNk56azRTTnhzNzlyYTA?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 17:42:05 GMT",
       "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
