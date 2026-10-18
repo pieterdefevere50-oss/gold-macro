@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-18T12:25:41.644Z",
+  "generatedAt": "2026-10-18T16:23:11.108Z",
   "bias": {
     "score": -12,
     "label": "Mixed / Neutral",
@@ -11,7 +11,7 @@
   "market": {
     "gold": {
       "price": 4166.100098,
-      "asOf": "2026-10-18T12:25:41.209Z"
+      "asOf": "2026-10-18T16:23:10.641Z"
     },
     "realYield10": {
       "value": 2.78,
@@ -115,7 +115,7 @@
       "impact": 2,
       "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmRROXBZRU5HZ1NBSmQzenJKM2ExNE1OT2RCcnYyMjhKMC1fZTVQNWNXSlVIWXM2VlI1Umttd0tlbVZFLUVCVTNKaS1vVlZSNjJEYXJtZHB2cnV6bUtwTEVScU9KdEctS195Q0hmQVNWMlVaTUk0NzIxbkw4Tm9lUnJEU1k0SlQweWE4cG1LSDJYenljVWRzM2FGMHQ0WlVFSGwyMUN3eDlXMjF2akVZamZ5MXI?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 06:23:22 GMT",
+      "pubDate": "Sun, 18 Oct 2026 11:34:53 GMT",
       "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
@@ -154,7 +154,7 @@
       "pubDate": "Sun, 18 Oct 2026 10:07:21 GMT",
       "source": "شفق نيوز",
       "isLive": true,
-      "coverage": 1
+      "coverage": 2
     }
   ],
   "errors": []
