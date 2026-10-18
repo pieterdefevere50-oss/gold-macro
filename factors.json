@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-17T20:20:30.562Z",
+  "generatedAt": "2026-10-18T00:31:17.484Z",
   "bias": {
-    "score": -10,
+    "score": -3,
     "label": "Mixed / Neutral",
-    "bullWeight": 13,
+    "bullWeight": 15,
     "bearWeight": 16,
-    "driversCounted": 9
+    "driversCounted": 10
   },
   "market": {
     "gold": {
       "price": 4166.100098,
-      "asOf": "2026-10-17T20:20:29.994Z"
+      "asOf": "2026-10-18T00:31:16.981Z"
     },
     "realYield10": {
       "value": 2.78,
@@ -133,6 +133,18 @@
       "coverage": 1
     },
     {
+      "title": "Gold Prices Rise as Lower US Treasury Yields and Weaker Dollar Support Precious Metals",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2RZenRjYVptbmQyak9SR0UybHlFWWVxSHpkNEMyOTRVak1YaVQ0VXNhNEpmRTNzdnM0c2cyTktJZzhxaGZZSk5fRk1VZ0tvaF9reFlUMGkxakNhdkxTSVUyeHVOaWtrZE10NzBHd0ZqUzV4Nm1mYTZ3RkRKeU9rVkFBNHB2LWMwR1I1RFl3ZWdMblNkVFRmTGktMA?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 09:05:17 GMT",
+      "source": "Yahoo Finance",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Faces Year-End Downward Pressure...\"90% Odds of Fed Rate Hike in December\"",
       "sentiment": "bear",
       "kind": "driver",
@@ -145,14 +157,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Prices Rise as Lower US Treasury Yields and Weaker Dollar Support Precious Metals",
+      "title": "Gold Advances as Treasury Yield Decline and Dollar Weakness Offset Interest Rate Concerns",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2RZenRjYVptbmQyak9SR0UybHlFWWVxSHpkNEMyOTRVak1YaVQ0VXNhNEpmRTNzdnM0c2cyTktJZzhxaGZZSk5fRk1VZ0tvaF9reFlUMGkxakNhdkxTSVUyeHVOaWtrZE10NzBHd0ZqUzV4Nm1mYTZ3RkRKeU9rVkFBNHB2LWMwR1I1RFl3ZWdMblNkVFRmTGktMA?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 09:05:17 GMT",
-      "source": "Yahoo Finance",
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdUxzVVRVRFJTQ1BLZEFPaGs4VWhIdFNWdXBNRUpOVlUwdWFHQzExYUpOQWlzbWJIN19kaTRvWEhJeGpXUFdPZHdIVXhFWDVJQzNKSjI1RlpHVXZzbDFIWjhJYktLWTktUzZ6SmRORGhXaFJ6Nno4WnlrWWFpNjY3ZUxKd3JVVkIxNVpjZnJB?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 09:06:42 GMT",
+      "source": "Yahoo Finance UK",
       "isLive": true,
       "coverage": 1
     },
