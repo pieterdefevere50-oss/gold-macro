@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-18T04:24:25.457Z",
+  "generatedAt": "2026-10-18T08:22:58.491Z",
   "bias": {
-    "score": -3,
+    "score": 10,
     "label": "Mixed / Neutral",
-    "bullWeight": 15,
-    "bearWeight": 16,
+    "bullWeight": 17,
+    "bearWeight": 14,
     "driversCounted": 10
   },
   "market": {
     "gold": {
       "price": 4166.100098,
-      "asOf": "2026-10-18T04:24:24.967Z"
+      "asOf": "2026-10-18T08:22:57.983Z"
     },
     "realYield10": {
       "value": 2.78,
@@ -109,6 +109,18 @@
   ],
   "live": [
     {
+      "title": "Gold News: Softer Dollar Fails as December Rate Risk Caps XAUUSD",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmRROXBZRU5HZ1NBSmQzenJKM2ExNE1OT2RCcnYyMjhKMC1fZTVQNWNXSlVIWXM2VlI1Umttd0tlbVZFLUVCVTNKaS1vVlZSNjJEYXJtZHB2cnV6bUtwTEVScU9KdEctS195Q0hmQVNWMlVaTUk0NzIxbkw4Tm9lUnJEU1k0SlQweWE4cG1LSDJYenljVWRzM2FGMHQ0WlVFSGwyMUN3eDlXMjF2akVZamZ5MXI?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 06:22:59 GMT",
+      "source": "FXEmpire",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold price today, Friday, October 16, 2026: Gold lifts as Treasury yields and dollar fall back",
       "sentiment": "bull",
       "kind": "driver",
@@ -145,18 +157,6 @@
       "coverage": 1
     },
     {
-      "title": "Gold Faces Year-End Downward Pressure...\"90% Odds of Fed Rate Hike in December\"",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zcTdreElPODI0OXM2eE13ZU1OejdjdjRzU1BlVWRCMVltZ2hGYlI4Ym5jQmpkS2w2Y3d6WElEbm9ENUFBZ3BkYmw0dGE4MjJkTnY1LU0zZUtHN1hlOXhQanZ0UXVpMHhQMWJLbGNybElJTThxMEE?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 11:35:00 GMT",
-      "source": "BigGo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold Advances as Treasury Yield Decline and Dollar Weakness Offset Interest Rate Concerns",
       "sentiment": "bull",
       "kind": "driver",
@@ -178,7 +178,7 @@
       "pubDate": "Fri, 16 Oct 2026 18:20:09 GMT",
       "source": "Reuters",
       "isLive": true,
-      "coverage": 2
+      "coverage": 1
     },
     {
       "title": "Gold Price Slides on Hot Inflation, but Schiff Says It’s a Gift",
