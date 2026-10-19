@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-19T12:35:18.991Z",
+  "generatedAt": "2026-10-19T16:29:40.617Z",
   "bias": {
-    "score": -21,
+    "score": -42,
     "label": "Bearish",
-    "bullWeight": 13,
-    "bearWeight": 20,
-    "driversCounted": 11
+    "bullWeight": 9,
+    "bearWeight": 22,
+    "driversCounted": 10
   },
   "market": {
     "gold": {
-      "price": 4164.200195,
-      "asOf": "2026-10-19T12:35:18.569Z"
+      "price": 4144,
+      "asOf": "2026-10-19T16:29:40.067Z"
     },
     "realYield10": {
       "value": 2.78,
@@ -109,6 +109,18 @@
   ],
   "live": [
     {
+      "title": "Gold Slips as Tech Stocks Rally from AI Sell-Off",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Strong equities reduce the relative appeal of safe-haven gold.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT1ZfMVBxVWQ1S3dtYXRrdVZUaFBiQVBDV1NVNmlLU0FZbVk0blFyOWI5VG5lN1BWbVRpRXpVZlU3SXdqa3Z5YVpYWGpNbHA2alRzMUoxZnRUT1BSNEplMVhuY0FKeVlCeFh1emZhdllnMFMzczNlLXlfZUltUDJjNDV0aw?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 13:51:31 GMT",
+      "source": "BullionVault",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Prices Rise Above $4,200 in Futures Trading as Fed Rate Hike Expectations Ease",
       "sentiment": "bull",
       "kind": "driver",
@@ -116,6 +128,30 @@
       "text": "Fading rate-hike expectations lower the odds of tighter policy, easing pressure on non-yielding gold.",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcm5BbXZGNHU2cUJrYkNmMlBpX21aaXFHY3dMZjFDZ0FUd0pVdmlHb2FmM3pmWHJmRzB3VkpITm0wOWNrT0hkWWxIdnEwVWlVLU9nb2psczFTYjl1OHpJd1FjQXNualZ2OGZEd0tUZjNPUkVGNXZwSVVvRUh0d1F1T2dfeFJ1MWhQaU9sZnlLemQ5aW1Rcnc3dndn?oc=5",
       "pubDate": "Mon, 19 Oct 2026 09:12:43 GMT",
+      "source": "Yahoo Finance",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold stalls below $4,200 as Fed rate-hike bets limit upside",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEg2bVBwaUxJLXZRNlNxa05zcS1ISzV6UEVJZWhrUFJxUVIzNjQwVHdXVVhmWVdYVTQtNktiMUxaWEhPcFQ4Rm1kenpoUnYxUkdzd0V4LUJzcGo2bUZ6Rml1WTJkbmE5TFdNT0QwMWhOMWREVmtQNzJBcDQzcTdsUDFkU3U4aENYOEdBT1lWUlJhOU04RHZkNkpQdFlDQkxUeGVJ?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 14:34:13 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold rises as Warsh remarks curb Fed hike bets",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2k1aEVHLU5ncGVhTjBIeV9FRUdYOTBxbF82dlBFRFJobHEyR1FSZi16OGZVd3FXNlpDLWwySGhJSHo5djk3Ymt2ZWJGMUJBVDVzbFItaFdLQTZQNnJjNGxUZWMxc3E5eWpGV3BSOHZtaEVYM1FjSkswc1oyY3NpU1VaRWpqS0xmeHRNaG9GZnlMSW50TUdkek1DVWlHUjU0?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 01:34:00 GMT",
       "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
@@ -133,50 +169,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold rises as Warsh remarks curb Fed hike bets",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2k1aEVHLU5ncGVhTjBIeV9FRUdYOTBxbF82dlBFRFJobHEyR1FSZi16OGZVd3FXNlpDLWwySGhJSHo5djk3Ymt2ZWJGMUJBVDVzbFItaFdLQTZQNnJjNGxUZWMxc3E5eWpGV3BSOHZtaEVYM1FjSkswc1oyY3NpU1VaRWpqS0xmeHRNaG9GZnlMSW50TUdkek1DVWlHUjU0?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 01:34:00 GMT",
-      "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 2
-    },
-    {
-      "title": "Gold stalls below $4,200 as Fed rate-hike bets limit upside",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEg2bVBwaUxJLXZRNlNxa05zcS1ISzV6UEVJZWhrUFJxUVIzNjQwVHdXVVhmWVdYVTQtNktiMUxaWEhPcFQ4Rm1kenpoUnYxUkdzd0V4LUJzcGo2bUZ6Rml1WTJkbmE5TFdNT0QwMWhOMWREVmtQNzJBcDQzcTdsUDFkU3U4aENYOEdBT1lWUlJhOU04RHZkNkpQdFlDQkxUeGVJ?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 11:04:32 GMT",
-      "source": "FXStreet",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Rises on Cautious Fed and Geopolitical Tensions",
+      "title": "Gold Rises Amid Falling Oil Prices",
       "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSUxEMTFBbU5VZ18xVEx3aDc0SVp0UF9ERm1jbFR0TVlGN1paNkRWUFQ2bFRMdXBxdklQRldQcFMzd25IYnIyb0JualJxVzY0TnZlVzZTdndFSzlSakdNUURZa3A1Qk1YTGxCVlk3QzVRTnI3ZXR1emxhampFZFpLRDd4WV9wSlJIMDFfdndGalduN1ZzdTZqdA?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 06:03:13 GMT",
-      "source": "TradingPedia",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Price Forecast: Oil Near $110 Tests Bullion’s Rebound as Fed Hike Bets Fade",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Fading rate-hike expectations lower the odds of tighter policy, easing pressure on non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM3FDb2gyRzhKcGlvQ2UwcWxfTW1jTC1CbVVnMHBwdkllX2g4d3pmU1ctOHlBVWRvWkFvUUg0NThBN01Rb3E1VFRPY0c0OE80QnBPU2JUODhJbjZGZGxWQTFoZU5Yd1lKeXZkTDF2R3N5V2hJcmlWVkNNNEprREg4SDFPcEdNdmxwamk2N2g2N0FoZ2c?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 05:17:28 GMT",
-      "source": "FXLeaders",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZU5uN1haS1FQQW82aVdiWmxlbDJrMkszT091U2xWR3dGOTdBeVZ6Z0gzSGpqQ2ZNTE96MG1kckxxY2NVV0I0THpteE9lWGZTdHUxa01OTzJkUndWcVVRWDVZWHVYeFZPcm5VckhaZFBVRDRjcmgyRDg5OUJ1WFBlTlotVGlnekE3SVFDVkpFMHBQbTVPWmd4WTNSSTd1X0ZJNDFlUmVWcGxlSE5oWG1ENmZoYk1oVTdKZlE?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 07:56:00 GMT",
+      "source": "WSJ",
       "isLive": true,
       "coverage": 1
     },
@@ -186,21 +186,9 @@
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHBoaXFtRmhELVpxR3BOYzNDX3IzS1Y1UHZaZUlWRnBiY0Y3WWxwa19vSlVRUENyTGtpZVJFSEFSLW9hVWhEaktYRTVhVWpObTFOYThBVXNRX19VY0phaUJjSkdSMjFZQ19FUFZGMm44UnNpZkZGSnNCeUc2SFZ4c1ZZUU9lV2tiUk1odm44Wmc2WGVjSG5pYUU3QnE2NGYx?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 03:11:00 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Rises Amid Falling Oil Prices",
-      "sentiment": "bull",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZU5uN1haS1FQQW82aVdiWmxlbDJrMkszT091U2xWR3dGOTdBeVZ6Z0gzSGpqQ2ZNTE96MG1kckxxY2NVV0I0THpteE9lWGZTdHUxa01OTzJkUndWcVVRWDVZWHVYeFZPcm5VckhaZFBVRDRjcmgyRDg5OUJ1WFBlTlotVGlnekE3SVFDVkpFMHBQbTVPWmd4WTNSSTd1X0ZJNDFlUmVWcGxlSE5oWG1ENmZoYk1oVTdKZlE?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 07:56:00 GMT",
-      "source": "WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXUxeVVHc0hZNU4zazIxT2JkM2Vxd3I3N0wyemRBd3M3dkVSY0hmSGhiS3JPTkhseEU5TlRqZWg4aXl5N0ZWRE01SjgwSXpBZXNyUFllbHdHNHd6SkYzNEMxTURyYkE5blNfLXU5V0N2RkRaS1B2cEtqMG03YWlqeDIyWlBhNHJPT2NpdTh0QXhGNl91UjgxZjhB0gGfAUFVX3lxTE1JMkc3czdPbDRmdlB2VENWaGU1SE5hVXY2WmM0QmNmNVlualhDQThsTnMwaEdhYVMtM2taemNfZmdWWEZXUjlTdTV2ZXlOWXQ5dTlyalBtc05SN0tHTlc4akpsY1psaHdvd0owMl81cXBJNUFRN0NheGoyTU54TVFkWDBXUkl0NHpTd3kzdlc3NnR0WlBqYi1LQ2hMVVlZWQ?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 04:23:04 GMT",
+      "source": "CNBC",
       "isLive": true,
       "coverage": 1
     }
