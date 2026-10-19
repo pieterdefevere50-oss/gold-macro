@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-19T00:31:42.636Z",
+  "generatedAt": "2026-10-19T04:30:31.634Z",
   "bias": {
-    "score": -12,
-    "label": "Mixed / Neutral",
-    "bullWeight": 11,
-    "bearWeight": 14,
-    "driversCounted": 7
+    "score": -26,
+    "label": "Bearish",
+    "bullWeight": 13,
+    "bearWeight": 22,
+    "driversCounted": 12
   },
   "market": {
     "gold": {
-      "price": 4175.799805,
-      "asOf": "2026-10-19T00:31:41.966Z"
+      "price": 4176,
+      "asOf": "2026-10-19T04:30:31.160Z"
     },
     "realYield10": {
       "value": 2.78,
@@ -109,14 +109,26 @@
   ],
   "live": [
     {
-      "title": "Gold News: Softer Dollar Fails as December Rate Risk Caps XAUUSD",
-      "sentiment": "bull",
+      "title": "Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech",
+      "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmRROXBZRU5HZ1NBSmQzenJKM2ExNE1OT2RCcnYyMjhKMC1fZTVQNWNXSlVIWXM2VlI1Umttd0tlbVZFLUVCVTNKaS1vVlZSNjJEYXJtZHB2cnV6bUtwTEVScU9KdEctS195Q0hmQVNWMlVaTUk0NzIxbkw4Tm9lUnJEU1k0SlQweWE4cG1LSDJYenljVWRzM2FGMHQ0WlVFSGwyMUN3eDlXMjF2akVZamZ5MXI?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 11:34:53 GMT",
-      "source": "FXEmpire",
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNTBLZU9TUTlSdFAyZmhkN1lsaVhYdk9nZVR0ak8tM1IzWi1Qa2tTa1pHcVBvcmFEazJIaF8waEVXLUdjSS0wUnlQR3FIMmhTOVRGcWR5UERxWmc5bmZmQldUNDJVVEFNc1VIcjlpU0lUSC1IYTVsenI2Unh4UDk3eElhVzBTMmtYTEhma0YyZjVnc3Vnb0k1V3ptMWlOdXBTc3c?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 23:47:43 GMT",
+      "source": "Yahoo Finance",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold rises as Warsh remarks curb Fed hike bets",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2k1aEVHLU5ncGVhTjBIeV9FRUdYOTBxbF82dlBFRFJobHEyR1FSZi16OGZVd3FXNlpDLWwySGhJSHo5djk3Ymt2ZWJGMUJBVDVzbFItaFdLQTZQNnJjNGxUZWMxc3E5eWpGV3BSOHZtaEVYM1FjSkswc1oyY3NpU1VaRWpqS0xmeHRNaG9GZnlMSW50TUdkek1DVWlHUjU0?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 01:34:00 GMT",
+      "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
     },
@@ -129,6 +141,54 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLWgtRWRFYW81U3JPY2RnOURIVlIwZXZkOTNvcXVsaUZjVkh1VFJ5QXFjMG4tQzJuWkk3cDdsYVp6dzdIUjBvbEZFVFQzYlZlOERGR204TFJZa1RaYm1JeHY5Z2ZfOEVPZzczekV5eTUyQ01Rbnh0RkpJMVJXYjI1azFvNFFITkNsVDdJZUY3UGNUNWI0Y3p5WDgzMkFsNnJidmxiRXRTaGtZT3d1TFJkQ3lEbUQwTE9SQjZyeG9FQXdvN0dWVkY0YnVXN3FEb3o1OUs2YU13?oc=5",
       "pubDate": "Sun, 18 Oct 2026 21:05:59 GMT",
       "source": "FXLeaders",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold gains ground above $4,150 as Fed avoids policy signals, geopolitical risks stay in focus",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNjZIQXdTSUlOV2Y0ZS15bjN3YjZISTlDQzFaMkM4MGRGN2FOOHVKaE4tZE8yT1FRMV9DZ2lXd3gzcDh0QkV6czdiQjl4M0FWLVBUZGJsM2Q4UnJ0M1hieXh4SjJRQUEzSVB2SWlXYXBjYzY1c0FXb1owNFdfTnRQMmduYkItR21ucl9ocnlhMUcyeEZvdG9wM0dzalFxd1g2SVg2Z0RyUENCaThJNzhDYXI4RUFXaXJ6b1U5T0V4SXhHYTNTSVpBOEl3bHZFcEk?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 01:29:38 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold News: Softer Dollar Fails as December Rate Risk Caps XAUUSD",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmRROXBZRU5HZ1NBSmQzenJKM2ExNE1OT2RCcnYyMjhKMC1fZTVQNWNXSlVIWXM2VlI1Umttd0tlbVZFLUVCVTNKaS1vVlZSNjJEYXJtZHB2cnV6bUtwTEVScU9KdEctS195Q0hmQVNWMlVaTUk0NzIxbkw4Tm9lUnJEU1k0SlQweWE4cG1LSDJYenljVWRzM2FGMHQ0WlVFSGwyMUN3eDlXMjF2akVZamZ5MXI?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 11:34:53 GMT",
+      "source": "FXEmpire",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Price Today: Yellow Metal Rate Rises As Investors Weigh Fed Rate Hike Prospects",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLVhDRXlmRDFPWW0xclNZdmNfZGlVUkZyd3Z5SG44V0UwOFM4cWhuYUNEZlVWWVYxSGI3MXZqWG1KeHlqRTBHTUlqb3dpVGNmY3BWUEljMHJKRHhoT1p6XzNTSXMxR21aNjFDa09PZm1QUGc5UTlyZHJZSldaZVJneG13bnlkOE15czQ1ODBYcHl1VmJYamE0aHd6Zm5LNHlmZWMyT1lGY2Q4eXlMeVp2Nk91bkhIQUhZUWY5bXdYdDljZEw1MTlyZXdrblRGZFNCcy1TTUFjblROQzExeGxBWWZsMGxoOS000gHuAUFVX3lxTE5kY052RWpuUDJKTEVQd0JUdXlHRGtJcVRRQTJUcDU5dmpBN1ppMXRiOVhDRTB5ZDVKVVJrSDRDMU9mek9ORUtkZnRjNUE2Rk53bFR1TS1QbnlOMGpvaG1CNmQyS2ZlR2F4YUtQSkVSenYzSEJuN2lPQ0M3U3lFeGhUTlJ5WGVEZ01zLVdjMzVnWGFTNmtuUS1iaHAxcXJHUkJCRjd3cmFsRnVtOGhDaU42ajljd1pkTl9WcS1SdzFNallHdWdZOXk2ZldGNFFXVXlmZndTNEpocElxODM1LTZWT01JYTFVUVNIS1ZQQ3c?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 03:31:18 GMT",
+      "source": "News18",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold edges higher as investors assess Fed rate-hike odds",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd09jR0g2X2ktWk14SXZ0TkpjU3NkR0t1bXZQOWJiSzNJZ2s0Ql9QVlNCX0ozY0FzOVdkVGkyNnFidTFHWnpMMkFWbTlWZm5aTWFKa1RYam1vcHplNW1uUDEzQWdLZVhiOFVPRVlBaWdWZzhWaG5qa2tZMTdpWjBmb0pnbmEyZDVtMklHR28zQUQ0QjF3c2FtcVBESk1fVEpNMjF5TnRxRVFUVVZKVWFDWG9jR3A5WHBvRFJQcmxIQWRfekQ0SkVSOE5XeGlzYnZt0gHWAUFVX3lxTE8ta2VDZ1UtOTN0NWtxYUtXS1hnNG5XeVNFU1NGT292Uk5UREVNeW1PbVFqbkc2NGJyS3EyV2V2amNpWEhfZGh6d21ZTmRhdzFncVRSNWNQeU9fQV9DMWFEVmN5VFd6WGpBSTRMd09WbVRhT3pxWUVBTWxhd2tVTENSWWxIdlR0M2ZmazVBZUpzVVV2aWxpWWIwR25XWG1fcm43RVlIOUZVSXUyZVM1bndlU3VLTDBIWkJTYk5rQ3ktSXk5VXVHWFVBMmxSdVpzRjF3MXl0d2c?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 02:09:14 GMT",
+      "source": "The Economic Times",
       "isLive": true,
       "coverage": 1
     },
@@ -154,7 +214,7 @@
       "pubDate": "Sun, 18 Oct 2026 10:07:21 GMT",
       "source": "شفق نيوز",
       "isLive": true,
-      "coverage": 2
+      "coverage": 1
     }
   ],
   "errors": []
