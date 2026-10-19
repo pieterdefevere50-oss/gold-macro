@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-18T20:19:08.457Z",
+  "generatedAt": "2026-10-19T00:31:42.636Z",
   "bias": {
-    "score": -28,
-    "label": "Bearish",
-    "bullWeight": 9,
-    "bearWeight": 16,
+    "score": -12,
+    "label": "Mixed / Neutral",
+    "bullWeight": 11,
+    "bearWeight": 14,
     "driversCounted": 7
   },
   "market": {
     "gold": {
-      "price": 4166.100098,
-      "asOf": "2026-10-18T20:19:07.995Z"
+      "price": 4175.799805,
+      "asOf": "2026-10-19T00:31:41.966Z"
     },
     "realYield10": {
       "value": 2.78,
@@ -121,26 +121,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Faces Year-End Downward Pressure...\"90% Odds of Fed Rate Hike in December\"",
-      "sentiment": "bear",
+      "title": "Gold Price Forecast: XAU/USD to Extend Rebound on Treasury Yields Retreat and Central Bank Demand",
+      "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zcTdreElPODI0OXM2eE13ZU1OejdjdjRzU1BlVWRCMVltZ2hGYlI4Ym5jQmpkS2w2Y3d6WElEbm9ENUFBZ3BkYmw0dGE4MjJkTnY1LU0zZUtHN1hlOXhQanZ0UXVpMHhQMWJLbGNybElJTThxMEE?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 11:35:00 GMT",
-      "source": "BigGo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold prices recover late week amid easing rate hike fears and geopolitical tensions.",
-      "sentiment": "neutral",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Headline mixes bullish and bearish signals that roughly offset: Rising geopolitical risk typically boosts safe-haven demand for gold. But: Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcUc2Q19EOXkxU2xHd0pUZWJOdlZXVkZtYnBBSHNTd1gxclFvY0dHSXFhY2YtcW9vQVU1Vy0tVzBJSDBtMndhMDdvT1VGVHNEV0ZKTUV5b1pTcGxwenY2NEZZMnFuQTRNa1FhTWZwVjBCUTV6THkzQnptZjdTeVh1VWhhSzVuNkFlNEtSLTB6ZDlLc29WV0VBQ2lJYi0?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 21:46:07 GMT",
-      "source": "Pluang",
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLWgtRWRFYW81U3JPY2RnOURIVlIwZXZkOTNvcXVsaUZjVkh1VFJ5QXFjMG4tQzJuWkk3cDdsYVp6dzdIUjBvbEZFVFQzYlZlOERGR204TFJZa1RaYm1JeHY5Z2ZfOEVPZzczekV5eTUyQ01Rbnh0RkpJMVJXYjI1azFvNFFITkNsVDdJZUY3UGNUNWI0Y3p5WDgzMkFsNnJidmxiRXRTaGtZT3d1TFJkQ3lEbUQwTE9SQjZyeG9FQXdvN0dWVkY0YnVXN3FEb3o1OUs2YU13?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 21:05:59 GMT",
+      "source": "FXLeaders",
       "isLive": true,
       "coverage": 1
     },
@@ -157,16 +145,16 @@
       "coverage": 2
     },
     {
-      "title": "Syrian gold prices rise as 21-karat gram reaches 16,450 pounds",
+      "title": "Shafaq News..Gold prices climb across Baghdad, Erbil",
       "sentiment": "bull",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qWmJsSmI5THkyVGF4WWo0TjBsbGYwdnFQdFptU08wS3ExRHc5M3FlMi0yN0QyVE9YclRNNWpqZ0NucDljdmVHaWlXdkU?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 12:43:07 GMT",
-      "source": "سانا",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PLTZ2Z3Nvb2tQckY3aWNJSlNVeFBkb2tDV0diczIwNUF5VzdTdm9NUktvMlN1QXVYLUdTRHZpMVY4T1R6TUh1UWlCX21FOFl2UGpXZ0Vnem1oSnJwQWVBbzBoRWk2X0MxNFJpQllwcE90Rm9adlVqX3FtNjFscGs?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 10:07:21 GMT",
+      "source": "شفق نيوز",
       "isLive": true,
-      "coverage": 1
+      "coverage": 2
     }
   ],
   "errors": []
