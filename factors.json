@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-20T12:32:33.724Z",
+  "generatedAt": "2026-10-20T16:29:32.872Z",
   "bias": {
-    "score": -18,
+    "score": 0,
     "label": "Mixed / Neutral",
-    "bullWeight": 9,
-    "bearWeight": 13,
+    "bullWeight": 11,
+    "bearWeight": 11,
     "driversCounted": 7
   },
   "market": {
     "gold": {
-      "price": 4118.799805,
-      "asOf": "2026-10-20T12:32:33.201Z"
+      "price": 4125.5,
+      "asOf": "2026-10-20T16:29:32.320Z"
     },
     "realYield10": {
       "value": 2.74,
@@ -109,14 +109,14 @@
   ],
   "live": [
     {
-      "title": "Gold inches up on softer dollar as investors assess Fed rate outlook",
+      "title": "Central Bank Buying Supports Gold’s Recovery Case Despite Higher Yields",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkxzNXF6RHlrU21HWHVwRG1IZmY4cE1uR3JJc2RmUkQzWVV6M0hobXlFeFVWN0tSbjcxaktSdXZER2FaTjJncDh2Vk1BUVZTZ1Z0cnVPWFBDQldGYkdreGFUVHhKUTlJVkZ2YV9FSHdKX3lNVmxPS1R4ZFI5U241TF9JLU5aYUxyQllPclIwQ0dLNEhSOF8xekl1dFUtTjJoU2M3TFJrbXfSAa4BQVVfeXFMTk5zclQzQ1BkcEtMczF1OGc5RkJMQkctRkF6dkJ2YUMtV09PVDNONkpIZ2VSMDVuTVVzdTBIMDBSZVgtNWJXeDlocWJmaW0zLUE5d2Q5WlVxNGw1YmZGUWd1ZEx1cDQ1Mk9MOUNpRnEzS2ZqVXNtaXc3TXprX0Z1N1NQR1dIYlM4S3d1WGZQb1pkNjI2MjJ4VVVzeGw0Qi1jMll4d1Y4LS1VdUdfZTd3?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 04:56:14 GMT",
-      "source": "CNBC",
+      "text": "Central-bank accumulation reinforces structural demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYTRlVm44OXZTZUh5eVlRTFhGTzMwdG1XY2x2cWpkcGI2SHhaUzd6UG5KWXRTYjVJVlgxbTE4Vmw1R0pFSjVJYXdCcHRLSndxRTJUOWVIRzJ1ZW1ITFhwQThaTk43LWw5RFMxdHNHbmxZc0lmR29rNnhaMVFtdWMzWV9yLUx5NkRVV19DTExwYzN4emNQYnV5dEdHU3MzclRCcFJLbjNickI?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 14:17:20 GMT",
+      "source": "Crux Investor",
       "isLive": true,
       "coverage": 1
     },
@@ -127,20 +127,20 @@
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1lWdldiOEJVbVE2UU82Mk5Mc1d1ZWFIZl9rSW83ME9YTTVzV2ZGSWNoVk5fUEpITG5qSk5qTkwzVTk3THhYUGNNYm9fRTVhd0kyb1pJSEo0c2k4V01JdFZWRS1rTzJPV0k5TTFyTXRmYndfTi1VMFZPVTFvenUwbVJ0WGpOdTFJRzRPTy0tWFduSmh0TFpYNXRuUVU0M21HQUNpY3NocXI1d3ZKUXVPX1pB?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 11:30:10 GMT",
+      "pubDate": "Tue, 20 Oct 2026 14:00:39 GMT",
       "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold Slips as Tech Stocks Rally from AI Sell-Off",
-      "sentiment": "bear",
+      "title": "Gold inches up on softer dollar as investors assess Fed rate outlook",
+      "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Strong equities reduce the relative appeal of safe-haven gold.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT1ZfMVBxVWQ1S3dtYXRrdVZUaFBiQVBDV1NVNmlLU0FZbVk0blFyOWI5VG5lN1BWbVRpRXpVZlU3SXdqa3Z5YVpYWGpNbHA2alRzMUoxZnRUT1BSNEplMVhuY0FKeVlCeFh1emZhdllnMFMzczNlLXlfZUltUDJjNDV0aw?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 13:51:31 GMT",
-      "source": "BullionVault",
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM09USHp5SG1hTHFYREFaTld3TUFJQ2RCUThZUzYxZ3E0bHlQbDVzNHFtV01sTDV3U2R4NlFYckhGZU52a0xaZVZuWnJjcFNHVGpQZUw1NEI1SjBtSl9KUFFhVUZ5SWNvY1B3S0FFVlZGbHpoRFFrdEFCckEwd0UzaXZPZWlPaENhUWdKd0gxS1V0RHhsRkdjMzNwWWJPUEIzbVJfUmlwZF8?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 04:16:00 GMT",
+      "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
     },
@@ -166,7 +166,7 @@
       "pubDate": "Tue, 20 Oct 2026 02:01:06 GMT",
       "source": "Hilton Head Island Packet",
       "isLive": true,
-      "coverage": 2
+      "coverage": 1
     }
   ],
   "errors": []
