@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-19T20:27:37.653Z",
+  "generatedAt": "2026-10-20T00:34:19.421Z",
   "bias": {
-    "score": -31,
-    "label": "Bearish",
+    "score": -18,
+    "label": "Mixed / Neutral",
     "bullWeight": 9,
-    "bearWeight": 17,
-    "driversCounted": 9
+    "bearWeight": 13,
+    "driversCounted": 7
   },
   "market": {
     "gold": {
-      "price": 4139.799805,
-      "asOf": "2026-10-19T20:27:37.143Z"
+      "price": 4133.600098,
+      "asOf": "2026-10-20T00:34:18.928Z"
     },
     "realYield10": {
       "value": 2.74,
@@ -145,50 +145,26 @@
       "coverage": 1
     },
     {
-      "title": "Gold rises as Warsh remarks curb Fed hike bets",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2k1aEVHLU5ncGVhTjBIeV9FRUdYOTBxbF82dlBFRFJobHEyR1FSZi16OGZVd3FXNlpDLWwySGhJSHo5djk3Ymt2ZWJGMUJBVDVzbFItaFdLQTZQNnJjNGxUZWMxc3E5eWpGV3BSOHZtaEVYM1FjSkswc1oyY3NpU1VaRWpqS0xmeHRNaG9GZnlMSW50TUdkek1DVWlHUjU0?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 01:34:00 GMT",
-      "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNTBLZU9TUTlSdFAyZmhkN1lsaVhYdk9nZVR0ak8tM1IzWi1Qa2tTa1pHcVBvcmFEazJIaF8waEVXLUdjSS0wUnlQR3FIMmhTOVRGcWR5UERxWmc5bmZmQldUNDJVVEFNc1VIcjlpU0lUSC1IYTVsenI2Unh4UDk3eElhVzBTMmtYTEhma0YyZjVnc3Vnb0k1V3ptMWlOdXBTc3c?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 23:47:43 GMT",
-      "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As Dollar Rebounds",
       "sentiment": "bull",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWnJoM3BOMXJpRUpvZ1N4SVF2a0J3Zk5DelY3UTRfN0l6VGw2Vl92NjRZRnpVWVVRX1Q3bTdFRFIwanRYZms4UWFYZW9PMDVhZEJFUlBmLXJvTmZRR3RQWDQ2Y2x5ZHdvcVZ2ZFVDR0hPZ19WMGpZdGVBTGp5MnVZQWMwQkdLcnRGLXlFNkxGMlhld2ZsQ0oxX1B3UUduY0xXZ0JycGJqLUd5TUswa2JrS3ZNclR5alQ3ZEVZVkFGUVhodVE?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 17:57:46 GMT",
+      "pubDate": "Mon, 19 Oct 2026 23:49:52 GMT",
       "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold edges up as oil retreat lends support; Fed decision in focus",
-      "sentiment": "bear",
+      "title": "Gold slips, silver gains as oil retreats and Fed-pause expectations hold - Kitco AM Report",
+      "sentiment": "neutral",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXUxeVVHc0hZNU4zazIxT2JkM2Vxd3I3N0wyemRBd3M3dkVSY0hmSGhiS3JPTkhseEU5TlRqZWg4aXl5N0ZWRE01SjgwSXpBZXNyUFllbHdHNHd6SkYzNEMxTURyYkE5blNfLXU5V0N2RkRaS1B2cEtqMG03YWlqeDIyWlBhNHJPT2NpdTh0QXhGNl91UjgxZjhB0gGfAUFVX3lxTE1JMkc3czdPbDRmdlB2VENWaGU1SE5hVXY2WmM0QmNmNVlualhDQThsTnMwaEdhYVMtM2taemNfZmdWWEZXUjlTdTV2ZXlOWXQ5dTlyalBtc05SN0tHTlc4akpsY1psaHdvd0owMl81cXBJNUFRN0NheGoyTU54TVFkWDBXUkl0NHpTd3kzdlc3NnR0WlBqYi1LQ2hMVVlZWQ?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 04:23:04 GMT",
-      "source": "CNBC",
+      "text": "Headline mixes bullish and bearish signals that roughly offset: Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score. But: Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHAxSkVNZzdnQVVURTNYaDRUNFB6VGJBaVpaMEtwUVBLZ2JKSWxMZTl6dHppb0hvNFJJb2hhY2tBdERYdzRWOWF3R2tUMDFubTFacEhBWldUaEh1WmRPTUpiemVVZUVWM3ppRnAzLWVhMkh0NnRzckd5MkZQZjdrZHlzSTZTV3FaOHphS1dzZVN5Zi1kVWpWVUpyZmJ2bHA2UjlhZ3ZyN0Nod2xmMFhQR1RUbXZEajZmSktZZQ?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 17:59:00 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     }
