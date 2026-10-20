@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-20T00:34:19.421Z",
+  "generatedAt": "2026-10-20T04:27:26.266Z",
   "bias": {
-    "score": -18,
-    "label": "Mixed / Neutral",
+    "score": -25,
+    "label": "Bearish",
     "bullWeight": 9,
-    "bearWeight": 13,
-    "driversCounted": 7
+    "bearWeight": 15,
+    "driversCounted": 8
   },
   "market": {
     "gold": {
-      "price": 4133.600098,
-      "asOf": "2026-10-20T00:34:18.928Z"
+      "price": 4145.200195,
+      "asOf": "2026-10-20T04:27:25.727Z"
     },
     "realYield10": {
       "value": 2.74,
@@ -133,14 +133,38 @@
       "coverage": 1
     },
     {
-      "title": "Gold stalls below $4,200 as Fed rate-hike bets limit upside",
+      "title": "Gold Slips as Treasury Yields Hold Firm, Fed Path Keeps Bullion Boxed In",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEg2bVBwaUxJLXZRNlNxa05zcS1ISzV6UEVJZWhrUFJxUVIzNjQwVHdXVVhmWVdYVTQtNktiMUxaWEhPcFQ4Rm1kenpoUnYxUkdzd0V4LUJzcGo2bUZ6Rml1WTJkbmE5TFdNT0QwMWhOMWREVmtQNzJBcDQzcTdsUDFkU3U4aENYOEdBT1lWUlJhOU04RHZkNkpQdFlDQkxUeGVJ?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 15:44:08 GMT",
-      "source": "FXStreet",
+      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1OEFFZGMtQzFFZVB0WEVFSTU3NFk1VUdWLWhLa2Q0dENSbC1fSkREYm5WSGt6c015MVZFdE5LZ0NnaktQWE12MldIY09JTG42VnFIa01vVEdMbjNKdC1EVEFkUlhHa180enJoSl93SlhFdnhIdmc?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 01:05:00 GMT",
+      "source": "BigGo Finance",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold falls as dollar, Treasury yields rise; silver holds modest gains - Kitco PM Report",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbGJUTVpVc09hbndpQTA5MmFxbVJ3QkpCa0lobmkzOG42QTFHRUctdEFTRGYtNHhqZ2czQWhXRGtHd3VGQk9MN1BrQXhlWmRrT1EzUlFZcnBQYlJjaGpEbUxFUHBXYloxMWRGY09KclVNbHlxbjBuVGJvMkJ1c0RzdVNuWWhEN2xNeEtrNU9faXFTX2ZWVlppRzdWR3k0VlFlc3BvVDZmRkYxcFg4UHpMSFNXVVlOMFJoNTc4?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 17:25:57 GMT",
+      "source": "Kitco",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold slips as investors weigh Fed rate outlook",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5xUkRSbl9FZVR4NlFJMEE2V1VYZ1hVRzk3SmpJMi1qelE?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 01:33:00 GMT",
+      "source": "Reuters",
       "isLive": true,
       "coverage": 1
     },
@@ -151,20 +175,8 @@
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWnJoM3BOMXJpRUpvZ1N4SVF2a0J3Zk5DelY3UTRfN0l6VGw2Vl92NjRZRnpVWVVRX1Q3bTdFRFIwanRYZms4UWFYZW9PMDVhZEJFUlBmLXJvTmZRR3RQWDQ2Y2x5ZHdvcVZ2ZFVDR0hPZ19WMGpZdGVBTGp5MnVZQWMwQkdLcnRGLXlFNkxGMlhld2ZsQ0oxX1B3UUduY0xXZ0JycGJqLUd5TUswa2JrS3ZNclR5alQ3ZEVZVkFGUVhodVE?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 23:49:52 GMT",
+      "pubDate": "Tue, 20 Oct 2026 00:47:00 GMT",
       "source": "FXEmpire",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold slips, silver gains as oil retreats and Fed-pause expectations hold - Kitco AM Report",
-      "sentiment": "neutral",
-      "kind": "price",
-      "impact": 1,
-      "text": "Headline mixes bullish and bearish signals that roughly offset: Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score. But: Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVHAxSkVNZzdnQVVURTNYaDRUNFB6VGJBaVpaMEtwUVBLZ2JKSWxMZTl6dHppb0hvNFJJb2hhY2tBdERYdzRWOWF3R2tUMDFubTFacEhBWldUaEh1WmRPTUpiemVVZUVWM3ppRnAzLWVhMkh0NnRzckd5MkZQZjdrZHlzSTZTV3FaOHphS1dzZVN5Zi1kVWpWVUpyZmJ2bHA2UjlhZ3ZyN0Nod2xmMFhQR1RUbXZEajZmSktZZQ?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 17:59:00 GMT",
-      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     }
