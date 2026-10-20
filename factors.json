@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-20T08:29:54.420Z",
+  "generatedAt": "2026-10-20T12:32:33.724Z",
   "bias": {
-    "score": 0,
+    "score": -18,
     "label": "Mixed / Neutral",
-    "bullWeight": 11,
-    "bearWeight": 11,
+    "bullWeight": 9,
+    "bearWeight": 13,
     "driversCounted": 7
   },
   "market": {
     "gold": {
-      "price": 4122.899902,
-      "asOf": "2026-10-20T08:29:48.900Z"
+      "price": 4118.799805,
+      "asOf": "2026-10-20T12:32:33.201Z"
     },
     "realYield10": {
       "value": 2.74,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-10-19"
+      "asOf": "2026-10-20"
     }
   },
   "evergreen": [
@@ -114,9 +114,21 @@
       "kind": "driver",
       "impact": 2,
       "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5xUkRSbl9FZVR4NlFJMEE2V1VYZ1hVRzk3SmpJMi1qelE?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 01:33:00 GMT",
-      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkxzNXF6RHlrU21HWHVwRG1IZmY4cE1uR3JJc2RmUkQzWVV6M0hobXlFeFVWN0tSbjcxaktSdXZER2FaTjJncDh2Vk1BUVZTZ1Z0cnVPWFBDQldGYkdreGFUVHhKUTlJVkZ2YV9FSHdKX3lNVmxPS1R4ZFI5U241TF9JLU5aYUxyQllPclIwQ0dLNEhSOF8xekl1dFUtTjJoU2M3TFJrbXfSAa4BQVVfeXFMTk5zclQzQ1BkcEtMczF1OGc5RkJMQkctRkF6dkJ2YUMtV09PVDNONkpIZ2VSMDVuTVVzdTBIMDBSZVgtNWJXeDlocWJmaW0zLUE5d2Q5WlVxNGw1YmZGUWd1ZEx1cDQ1Mk9MOUNpRnEzS2ZqVXNtaXc3TXprX0Z1N1NQR1dIYlM4S3d1WGZQb1pkNjI2MjJ4VVVzeGw0Qi1jMll4d1Y4LS1VdUdfZTd3?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 04:56:14 GMT",
+      "source": "CNBC",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold extends losses as rising Oil prices reinforce Fed rate hike bets",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1lWdldiOEJVbVE2UU82Mk5Mc1d1ZWFIZl9rSW83ME9YTTVzV2ZGSWNoVk5fUEpITG5qSk5qTkwzVTk3THhYUGNNYm9fRTVhd0kyb1pJSEo0c2k4V01JdFZWRS1rTzJPV0k5TTFyTXRmYndfTi1VMFZPVTFvenUwbVJ0WGpOdTFJRzRPTy0tWFduSmh0TFpYNXRuUVU0M21HQUNpY3NocXI1d3ZKUXVPX1pB?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 11:30:10 GMT",
+      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
@@ -133,13 +145,13 @@
       "coverage": 1
     },
     {
-      "title": "Gold Prices Rise Above $4,200 in Futures Trading as Fed Rate Hike Expectations Ease",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Fading rate-hike expectations lower the odds of tighter policy, easing pressure on non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcm5BbXZGNHU2cUJrYkNmMlBpX21aaXFHY3dMZjFDZ0FUd0pVdmlHb2FmM3pmWHJmRzB3VkpITm0wOWNrT0hkWWxIdnEwVWlVLU9nb2psczFTYjl1OHpJd1FjQXNualZ2OGZEd0tUZjNPUkVGNXZwSVVvRUh0d1F1T2dfeFJ1MWhQaU9sZnlLemQ5aW1Rcnc3dndn?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 09:12:43 GMT",
+      "title": "Gold Prices Fall for Third Session as Oil-Driven Inflation Concerns Shift Focus to Fed Rates",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1kzd3RhLXZ2MWc1b3JaaDFhbV9JcWZpdGNDaWVsRUZfdTJDWGlIaWUzbHQ5aHV1T2NWYVduTUF1RXF0eHAyRUExcTRqbGE2Q0Q5U2xJcVJGeFFQejFBMlJuNXFCYWdJWnpHdnpUSVptMXBjNTRGZU9WX1BENUY0ajNSZFNJR2M1SW85RG16aWtaNDNkNlhFYi14ZVRPLVg3NlE?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 09:53:52 GMT",
       "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
@@ -155,18 +167,6 @@
       "source": "Hilton Head Island Packet",
       "isLive": true,
       "coverage": 2
-    },
-    {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As Dollar Rebounds",
-      "sentiment": "bull",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWnJoM3BOMXJpRUpvZ1N4SVF2a0J3Zk5DelY3UTRfN0l6VGw2Vl92NjRZRnpVWVVRX1Q3bTdFRFIwanRYZms4UWFYZW9PMDVhZEJFUlBmLXJvTmZRR3RQWDQ2Y2x5ZHdvcVZ2ZFVDR0hPZ19WMGpZdGVBTGp5MnVZQWMwQkdLcnRGLXlFNkxGMlhld2ZsQ0oxX1B3UUduY0xXZ0JycGJqLUd5TUswa2JrS3ZNclR5alQ3ZEVZVkFGUVhodVE?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 00:47:00 GMT",
-      "source": "FXEmpire",
-      "isLive": true,
-      "coverage": 1
     }
   ],
   "errors": []
