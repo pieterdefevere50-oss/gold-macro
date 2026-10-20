@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-20T04:27:26.266Z",
+  "generatedAt": "2026-10-20T08:29:54.420Z",
   "bias": {
-    "score": -25,
-    "label": "Bearish",
-    "bullWeight": 9,
-    "bearWeight": 15,
-    "driversCounted": 8
+    "score": 0,
+    "label": "Mixed / Neutral",
+    "bullWeight": 11,
+    "bearWeight": 11,
+    "driversCounted": 7
   },
   "market": {
     "gold": {
-      "price": 4145.200195,
-      "asOf": "2026-10-20T04:27:25.727Z"
+      "price": 4122.899902,
+      "asOf": "2026-10-20T08:29:48.900Z"
     },
     "realYield10": {
       "value": 2.74,
@@ -109,6 +109,18 @@
   ],
   "live": [
     {
+      "title": "Gold inches up on softer dollar as investors assess Fed rate outlook",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5xUkRSbl9FZVR4NlFJMEE2V1VYZ1hVRzk3SmpJMi1qelE?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 01:33:00 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Slips as Tech Stocks Rally from AI Sell-Off",
       "sentiment": "bear",
       "kind": "driver",
@@ -133,40 +145,16 @@
       "coverage": 1
     },
     {
-      "title": "Gold Slips as Treasury Yields Hold Firm, Fed Path Keeps Bullion Boxed In",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1OEFFZGMtQzFFZVB0WEVFSTU3NFk1VUdWLWhLa2Q0dENSbC1fSkREYm5WSGt6c015MVZFdE5LZ0NnaktQWE12MldIY09JTG42VnFIa01vVEdMbjNKdC1EVEFkUlhHa180enJoSl93SlhFdnhIdmc?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 01:05:00 GMT",
-      "source": "BigGo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold falls as dollar, Treasury yields rise; silver holds modest gains - Kitco PM Report",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbGJUTVpVc09hbndpQTA5MmFxbVJ3QkpCa0lobmkzOG42QTFHRUctdEFTRGYtNHhqZ2czQWhXRGtHd3VGQk9MN1BrQXhlWmRrT1EzUlFZcnBQYlJjaGpEbUxFUHBXYloxMWRGY09KclVNbHlxbjBuVGJvMkJ1c0RzdVNuWWhEN2xNeEtrNU9faXFTX2ZWVlppRzdWR3k0VlFlc3BvVDZmRkYxcFg4UHpMSFNXVVlOMFJoNTc4?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 17:25:57 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold slips as investors weigh Fed rate outlook",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5xUkRSbl9FZVR4NlFJMEE2V1VYZ1hVRzk3SmpJMi1qelE?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 01:33:00 GMT",
-      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOXRyNTdPZ3VTaTRlcDR5cm1sTWI3dFJYc0xxd1ZCNzhzQUR3NkxndHh5bllmMFgxNTlBVkgyeUVSUW5tc2dUUm5pS0NtYTdGT3RJLThsNUlYZHFIYUNLSmwyRnU5RVJRZExZSVkwM2VzbHlGaV8zZUgtbkNtMVRMcEEyZw?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 02:01:06 GMT",
+      "source": "Hilton Head Island Packet",
       "isLive": true,
-      "coverage": 1
+      "coverage": 2
     },
     {
       "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Pulls Back As Dollar Rebounds",
