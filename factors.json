@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-20T20:25:38.353Z",
+  "generatedAt": "2026-10-21T00:32:13.084Z",
   "bias": {
-    "score": -10,
+    "score": -19,
     "label": "Mixed / Neutral",
-    "bullWeight": 13,
+    "bullWeight": 11,
     "bearWeight": 16,
-    "driversCounted": 9
+    "driversCounted": 8
   },
   "market": {
     "gold": {
-      "price": 4123.100098,
-      "asOf": "2026-10-20T20:25:37.807Z"
+      "price": 4120.399902,
+      "asOf": "2026-10-21T00:32:12.515Z"
     },
     "realYield10": {
       "value": 2.8,
@@ -141,18 +141,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQmhxR3pPa2EtR0ttRXZrR2hFYmpkS3BGbGFyRjFNUk5FSXhPX0F1ZDJkQmhRSVphdS1uVENWckVsZDctN1AyX1pRRGs4dnZvSmZhMnpKeWJaNzJWcDJUcjVwaFlYSnYtX1lWM2ZZaUF0aEEwUzFQSURHWkJLeUhxSlNCVHdmRW80X0tPRlh6VnB1d2ZHLWl2d3RR?oc=5",
       "pubDate": "Tue, 20 Oct 2026 19:26:24 GMT",
       "source": "FXStreet",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold inches up on softer dollar as investors assess Fed rate outlook",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnNyVDNDUGRwS0xzMXU4ZzlGQkxCRy1GQXp2QnZhQy1XT09UM042SkhnZVIwNW5NVXN1MEgwMFJlWC01Yld4OWhxYmZpbTMtQTl3ZDlaVXE0bDViZkZRZ3VkTHVwNDUyT0w5Q2lGcTNLZmpVc21pdzdNemtfRnU3U1BHV0hiUzhLd3VYZlBvWmQ2MjYyMnhVVXN4bDRCLWMyWXh3VjgtLVV1R19lN3fSAa4BQVVfeXFMTk5zclQzQ1BkcEtMczF1OGc5RkJMQkctRkF6dkJ2YUMtV09PVDNONkpIZ2VSMDVuTVVzdTBIMDBSZVgtNWJXeDlocWJmaW0zLUE5d2Q5WlVxNGw1YmZGUWd1ZEx1cDQ1Mk9MOUNpRnEzS2ZqVXNtaXc3TXprX0Z1N1NQR1dIYlM4S3d1WGZQb1pkNjI2MjJ4VVVzeGw0Qi1jMll4d1Y4LS1VdUdfZTd3?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 04:56:14 GMT",
-      "source": "CNBC",
       "isLive": true,
       "coverage": 1
     },
