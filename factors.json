@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-21T04:28:53.457Z",
+  "generatedAt": "2026-10-21T08:31:43.222Z",
   "bias": {
-    "score": -21,
+    "score": -24,
     "label": "Bearish",
-    "bullWeight": 13,
-    "bearWeight": 20,
-    "driversCounted": 11
+    "bullWeight": 11,
+    "bearWeight": 18,
+    "driversCounted": 9
   },
   "market": {
     "gold": {
-      "price": 4119.399902,
-      "asOf": "2026-10-21T04:28:52.942Z"
+      "price": 4122.600098,
+      "asOf": "2026-10-21T08:31:42.735Z"
     },
     "realYield10": {
       "value": 2.8,
@@ -109,6 +109,18 @@
   ],
   "live": [
     {
+      "title": "Gold Price Forecast: XAU/USD Slips Toward $4,076 as December Fed Hike Odds Hit 90%",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUt2d0tsRGxXQy1pNmFYMEloeTZTOWNFdTNyUTZtaXA0ajl6bTVHVjZqSC1USkZsSWZfcE1PYjVfRXFscUlKRml3STRBMjVILWhlc3ZyY0tRRURPNFUzV2xwWElTZjlpbzhXVGlYdzFlRzdEaFU2S2JaNWp3UGhNNzltNVpCeUh0cUZ0bUF2RnJNY3dLNlFnU08yNWpuOUk?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 07:34:17 GMT",
+      "source": "FXLeaders",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Vietnam CPI September 2026: Consumer Prices Up 0.62%, Gold Gains, Dollar Slips - News and Statistics",
       "sentiment": "bull",
       "kind": "driver",
@@ -133,50 +145,26 @@
       "coverage": 1
     },
     {
-      "title": "Gold bears await $4,100 break amid oil-driven Fed hike bets and USD uptick",
+      "title": "Silver Price Forecast: Recovery Stalls as Treasury Yields Rise",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWZWblVYYUdZZ09NcWdpaWxMcWNpYTdzYjNqUzI1Zjl3ay1KN1RWZUk4UHN6OGZnNEN6bHlSaTVxZDk2eHdSTFE4RF9hbzlYUVU0bGtvSk9vZ0RvMkJPLVBtUzMyYTNQWHZ3UWRKdENkSG5HdEdyYXhPYjFZTUNlOTQ0YWx0dVUwUS1VSU9CNl9WQnNpVFRhbUktUTMyZzBCQTEwb1UyOU14cFk3aTFVWlBPYUp1NTg?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 03:42:03 GMT",
-      "source": "FXStreet",
+      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkczcFFIeTJITnZCQXVvR2VzOGVmZ0xZR1ZpNlYxSV9rQUloZVRDZlpIVFYtTVhVcXpUbjdfazNoQXp2NHZaUlc2S1RBU3RWVHFTTUFBZDBvQ2JJT1lmNkdjeVVfVC1kQWVoVkw4SXpYNkV2SDd0NjFBeFkxR0gycmFTTjFqUHdDc2hGd3h0S1lYakdfVmxHei1Kdl96ZktiWjdMVmt6Sk9kTXd0NWx1S2xR?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 07:44:17 GMT",
+      "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "After US inflation data: Strong dollar weighs on gold and silver!",
+      "title": "Gold Futures Fall as Rising Oil Fuels Inflation Concerns",
       "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUElzdk5zeUZGS0VDMXJFTFlfTkl1dXcwSnpPQUN0dW43cmxrVkRhdFEtTU9SRlF4SThvUUppV2VfRkJ0N180NV82Y3JYUDhOZGV3ZHBsdUlsOUNkcjJkTHVjVzhnYklJMTRfT1QzbGY3NHh6d3A0WGhMS1lNYjl4OGdTTS1qbG9zZzhNOWZhTnJROHFRbjZKcEJqU3NWVzVzOVBvallIcTRrMmRP?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 03:05:00 GMT",
-      "source": "Shanghai Metals Market",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold struggles near $4,150 as global rate hike risks loom",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEJRVF9YVjNwSkg2cFBZMHVvZmVtWWhvalVsakhnZ2RzRzA2VjZRTVEwN1UzYzgySmduRTRQQnNMdmFVbVlWLXJrUmM0SjFCc0c5d01pc0RBaHEzVzRQWWZvRktVbGdjcTRfajEzSmE1VER5cWZVT2E5TWpaY0VtYzJLZmxleHNKbGpRaGx3bm5ZTzc3c1FPOTNLSWo3NmpW?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 20:13:00 GMT",
-      "source": "FXStreet",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Indian ETF inflows rise in September, imports fall further as seasonal demand gains momentum – WGC’s Chacko",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising ETF holdings show investment demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3Y0WDg3SXBrT3ZhcmMyeWpxNmFXdk9YU2NXb0pEbkdSRmR1NGkzS2JyZ182aTZiaWtYQTFPMV80VzJuY2tSbU1CaENLVUZYaWtNbnR5Rk9hTzM5X1JnSktHdDBmbTdubTBJck1JUjBkWGFvVnBuVHAzazZtczFkZVV0R2ZzaUh0UHRRdXM2QTJ3NGpHbGJVNDhzS0pINnItaWJzRkVKNEM4UTl4V3ZETm9vajlKejQ?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 14:50:41 GMT",
-      "source": "Kitco",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEZTVGxaNldEUzVrM09VSDcwRTJZNzlDV0Myc3hraFlSTWNtdlQ0T1pzMXh5amhPcmNrVGJwSjQ4WUZOcTlMaTU1MzNzZWJKdlM5emV3amJza2lSelR6N05ZMHkzMEVQQmlFU2Rid05ORENaeUlDSHJ2UTZIZktmYjhROFlfRXNwZE5nNFNJNU5uZy03U1o1Y0VEWU0tYXptVDVsWnVGUUJVUQ?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 08:03:45 GMT",
+      "source": "WSJ",
       "isLive": true,
       "coverage": 1
     },
@@ -189,18 +177,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
       "pubDate": "Wed, 21 Oct 2026 03:45:00 GMT",
       "source": "Reuters",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Rallies as China and India Prices Signal Stronger Demand",
-      "sentiment": "bull",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkZJdFJQVlFDSWVkSU42MzFCQk0xUVlmODByVXQ4UGx2VGxSaEk1NmR0dGI3NGQ5RGMybVJGYWl1LTBOaVV4OTc2ZGU3TDJuR1pGNXlQek95RTFoZXEtTUx4VGhjNTVnemV0NlhwdmlReExRYTFDVnU4R0J2RFFjekdEN2p0R01IQlE2WFhkOTVYOWc1WnM4WQ?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 15:23:41 GMT",
-      "source": "BullionVault",
       "isLive": true,
       "coverage": 1
     }
