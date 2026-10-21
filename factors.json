@@ -1,83 +1,83 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-21T12:33:56.564Z",
+  "generatedAt": "2026-10-21T16:28:22.158Z",
   "bias": {
-    "score": -24,
-    "label": "Bearish",
+    "score": 16,
+    "label": "Mixed / Neutral",
     "bullWeight": 11,
-    "bearWeight": 18,
-    "driversCounted": 9
+    "bearWeight": 8,
+    "driversCounted": 8
   },
   "market": {
     "gold": {
-      "price": 4130.600098,
-      "asOf": "2026-10-21T12:33:56.046Z"
+      "price": 4133.399902,
+      "asOf": "2026-10-21T16:28:21.644Z"
     },
     "realYield10": {
-      "value": 2.8,
-      "asOf": "2026-10-19",
-      "prior": 2.62,
-      "priorDate": "2026-09-21",
-      "change": 0.17999999999999972,
-      "changePct": 6.8702290076335775
+      "value": 400,
+      "asOf": "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300",
+      "prior": 400,
+      "priorDate": "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300",
+      "change": 0,
+      "changePct": 0
     },
     "y10": {
-      "value": 5.15,
-      "asOf": "2026-10-19",
-      "prior": 4.96,
-      "priorDate": "2026-09-21",
-      "change": 0.1900000000000004,
-      "changePct": 3.83064516129033
+      "value": 400,
+      "asOf": "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300",
+      "prior": 400,
+      "priorDate": "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300",
+      "change": 0,
+      "changePct": 0
     },
     "y2": {
-      "value": 4.77,
-      "asOf": "2026-10-19",
-      "prior": 4.76,
-      "priorDate": "2026-09-21",
-      "change": 0.009999999999999787,
-      "changePct": 0.2100840336134409
+      "value": 400,
+      "asOf": "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300",
+      "prior": 400,
+      "priorDate": "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300",
+      "change": 0,
+      "changePct": 0
     },
     "dollar": {
-      "value": 121.4048,
-      "asOf": "2026-10-16",
-      "prior": 119.5133,
-      "priorDate": "2026-09-18",
-      "change": 1.8914999999999935,
-      "changePct": 1.582669041855587
+      "value": 400,
+      "asOf": "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300",
+      "prior": 400,
+      "priorDate": "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300",
+      "change": 0,
+      "changePct": 0
     },
     "fedTarget": {
-      "low": 3.75,
-      "high": 4,
-      "asOf": "2026-10-21"
+      "low": 400,
+      "high": 400,
+      "asOf": "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300"
     }
   },
   "evergreen": [
     {
       "key": "fed_path",
       "title": "Fed Policy Path (market-implied)",
-      "sentiment": "bear",
+      "sentiment": "neutral",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-19",
-      "text": "The 2-year Treasury yield (4.77%) is 89bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
+      "asOf": "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300",
+      "text": "The 2-year Treasury yield (400.00%) is 0bp above the effective fed funds rate (400.00%): roughly in line with the policy rate, so markets price little net change. Target range: 400.00%–400.00%."
     },
     {
       "key": "real_yields",
       "title": "US Real Yields (10Y TIPS)",
-      "sentiment": "bear",
+      "sentiment": "neutral",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-19",
-      "text": "10Y real yield is 2.80%, up 18bp over 4 weeks (as of 2026-10-19): rising real yields raise the opportunity cost of holding non-yielding gold — bearish. Real yields are the most direct macro driver of gold."
+      "asOf": "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300",
+      "text": "10Y real yield is 400.00%, up 0bp over 4 weeks (as of     <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300): little changed, so no clear push either way. Real yields are the most direct macro driver of gold."
     },
     {
       "key": "dollar",
       "title": "US Dollar Trend (Fed Broad Index)",
-      "sentiment": "bear",
+      "sentiment": "neutral",
       "impact": 4,
       "dataDriven": true,
-      "asOf": "2026-10-16",
-      "text": "The Fed's broad trade-weighted dollar index is 121.4, up 1.6% over 4 weeks (as of 2026-10-16): a firmer dollar makes gold pricier for foreign buyers — bearish."
+      "asOf": "    <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300",
+      "text": "The Fed's broad trade-weighted dollar index is 400.0, up 0.0% over 4 weeks (as of     <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300): roughly flat, so no clear push either way."
     },
     {
       "key": "cb_buying",
@@ -109,18 +109,6 @@
   ],
   "live": [
     {
-      "title": "Gold Price Forecast: XAU/USD Slips Toward $4,076 as December Fed Hike Odds Hit 90%",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUt2d0tsRGxXQy1pNmFYMEloeTZTOWNFdTNyUTZtaXA0ajl6bTVHVjZqSC1USkZsSWZfcE1PYjVfRXFscUlKRml3STRBMjVILWhlc3ZyY0tRRURPNFUzV2xwWElTZjlpbzhXVGlYdzFlRzdEaFU2S2JaNWp3UGhNNzltNVpCeUh0cUZ0bUF2RnJNY3dLNlFnU08yNWpuOUk?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 07:24:33 GMT",
-      "source": "FXLeaders",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold Prices Slip Below $4,120 as Iran War Uncertainty and Fed Rate Expectations Persist",
       "sentiment": "bull",
       "kind": "driver",
@@ -129,6 +117,54 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MSzl5YkQ5cGF4X2lUTmU3Mjk2LXRuV3hGNlJQX2JPcXNFUUpGeUk1UFhvRU04T3VfSW8wUnhUV001clJhVUJIZDJmUHlmZW5BTmZyS1NIQm5KTlN2aUdhaGJ5Z1RxQlM5YTFteUJ1azZTcjBMRDlzQk5MczhwZw?oc=5",
       "pubDate": "Wed, 21 Oct 2026 09:54:12 GMT",
       "source": "Yahoo Finance UK",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMW5ZQ2drOU9mdFd1bE5NRGNWVFhHMVJORVpUMjlxVUUzcnlYckZlLUY4SnJTSnRGVFJlVHo5NEl5NWE1ZlJVQmxBZ2JOcHVpdHh4N3JGWWN3VzNxWTNLZ0ZiXzNrQllkcjRERFFJZFlfcDdnaElZSFRpT3JzOFdUZnNHM0x2VllSR0VQYzJqeTJ5NW5DYlpFTVh1eVVHMVNXcHlUbVh1cWJaMzBWTEJwcVltUzg5cVBhSWNySw?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 13:00:11 GMT",
+      "source": "Kitco",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold ETFs to Watch Amid Fed Rate Hike & Oil Risks",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WdnJJOGRiLUl2S25aWER1amp5THIzbVphMy03THhNenlpaExPX045LVpiTnNNTXgxbDZVRkVaRDJCYU9EYzhHNlhjdi1LNlNhcmNyZnlkQWFZaW9IOGg3VnZyTE5tOVJSQ0U4R0c4a21JRVFZYnRrRDkzVmp2QQ?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 14:21:00 GMT",
+      "source": "Yahoo Finance Singapore",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Price Forecast: XAU/USD Slips Toward $4,076 as December Fed Hike Odds Hit 90%",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUt2d0tsRGxXQy1pNmFYMEloeTZTOWNFdTNyUTZtaXA0ajl6bTVHVjZqSC1USkZsSWZfcE1PYjVfRXFscUlKRml3STRBMjVILWhlc3ZyY0tRRURPNFUzV2xwWElTZjlpbzhXVGlYdzFlRzdEaFU2S2JaNWp3UGhNNzltNVpCeUh0cUZ0bUF2RnJNY3dLNlFnU08yNWpuOUk?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 07:34:17 GMT",
+      "source": "FXLeaders",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Tests a Bottom as 10-Year Real Yields Ease to 2.77%",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Falling real yields lower the opportunity cost of holding gold — a direct tailwind.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHYxdDh0bWFSUjhRTFNQNmFTQThyUkl3OXZvRlo0SDU0REhHb2NkTk05UGhtMzFKaGxYb1BfRGNjT2c0UlBBWEFidVJRM2QtQW5sbEdvSWZsd0YwUHlJRUVIYUJaLWYzNV9HQ2RRV2dmbEpFbzRmQkR0MVBYejBJY2xpRDAta0hiSGJ2MjluYTVGTXlrbEc1WFlzNFVlQUlySXJ1WHJnSE93QQ?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 14:42:16 GMT",
+      "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     },
@@ -145,19 +181,7 @@
       "coverage": 1
     },
     {
-      "title": "Indian ETF inflows rise in September, imports fall further as seasonal demand gains momentum – WGC’s Chacko",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising ETF holdings show investment demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3Y0WDg3SXBrT3ZhcmMyeWpxNmFXdk9YU2NXb0pEbkdSRmR1NGkzS2JyZ182aTZiaWtYQTFPMV80VzJuY2tSbU1CaENLVUZYaWtNbnR5Rk9hTzM5X1JnSktHdDBmbTdubTBJck1JUjBkWGFvVnBuVHAzazZtczFkZVV0R2ZzaUh0UHRRdXM2QTJ3NGpHbGJVNDhzS0pINnItaWJzRkVKNEM4UTl4V3ZETm9vajlKejQ?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 23:53:03 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold hits near one-week low on elevated oil prices",
+      "title": "Gold steadies near one-week low as oil-driven inflation fears grow",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
@@ -166,17 +190,17 @@
       "pubDate": "Wed, 21 Oct 2026 03:45:00 GMT",
       "source": "Reuters",
       "isLive": true,
-      "coverage": 1
+      "coverage": 2
     },
     {
-      "title": "Gold dips for fourth session as oil rally fans inflation concerns",
-      "sentiment": "bear",
+      "title": "Gold Struggles to Rally as Russia's Central Bank Bullion Drops to 2019 Level",
+      "sentiment": "neutral",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2JnT3FMZnJMV0tnSk5uelg1LV80ZmVnMUlxZlY5UnRzXzFDa3V4M01KM2dXTzhXNXFDQ1ZueHRKeF81eF9JQlNJeWhXLWwwWGxHSGNFYVVETE9vUUVwVUVENHN3aEt5NFVHcWkzamxUbEVvRXVTOWRpSUJkaHZNT0xlTEZxS0pRek04SWlRT3RpMDZLUDRNaVhNMFhtaDI5b3B5eNIBqgFBVV95cUxPUkhsQlNkclM5NUFNcXJWd1paMmpwNFJKTEFEWlN4TTZ6X0JaS3RhMFRwWU01TjB6bzN2STh2azh2OHI5bHJ1Zk1qS1U3VTZkZXRZdGN0SUlyQkFvbEFPNURvbUlTcVBOVjdKQi01NGtFbVdTeFdSWS04MlR4Qm1fTDdMSjFjejdzR0xSeXExM2d2MUtCWm4yUDFnSUEtN2N5Y251OWJCb0xJUQ?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 03:54:00 GMT",
-      "source": "CNBC",
+      "text": "Headline mixes bullish and bearish signals that roughly offset: Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score. But: Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV1dCOG1HWXJZTGJnOV9NNEFiWGxBZ202NEI4dWpDb0NSVlpwYzVKR1JWQngyNno1WlFtdXdub2hwbTBTLVBua2R4UUxJTlU3WlAweWhOOV9mMTdEX00teUN6WFpyNVhvYTBtc0stWWRIaXFPNFhNck54OVRUSTRqRmJIUVZhX09vSEJvcHgwekU?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 14:59:47 GMT",
+      "source": "BullionVault",
       "isLive": true,
       "coverage": 1
     }
