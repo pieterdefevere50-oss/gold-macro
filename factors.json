@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-22T08:33:23.521Z",
+  "generatedAt": "2026-10-22T12:34:34.156Z",
   "bias": {
-    "score": -29,
+    "score": -38,
     "label": "Bearish",
-    "bullWeight": 11,
+    "bullWeight": 9,
     "bearWeight": 20,
-    "driversCounted": 10
+    "driversCounted": 9
   },
   "market": {
     "gold": {
-      "price": 4090,
-      "asOf": "2026-10-22T08:33:23.090Z"
+      "price": 4075.899902,
+      "asOf": "2026-10-22T12:34:33.676Z"
     },
     "realYield10": {
       "value": 2.77,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-10-21"
+      "asOf": "2026-10-22"
     }
   },
   "evergreen": [
@@ -109,14 +109,14 @@
   ],
   "live": [
     {
-      "title": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook",
+      "title": "Gold Price Forecast: XAU/USD Slips Below $4,076 as Saudi Oil Strike Lifts Fed Hike Bets",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWF1N1NOek9pQi1IYkRUMll1bHRXOFluVmtuYm9LR1dtMThlWlZDYXB5RlVwYko2MVFRS01SSnIwRGhMRnFULTZvdURKV0MxOHk1clF4NW1wTkJUOWkyMng4b2J5QjI4X2tLRkVMSGxDcTIxV0xXTThnZkxvQjVUajZBMmY4RURVTzQtcFN1T2gybVJWRkMwX0RCdkxGTVpLbUdlT0paVU80cWc0VS0xenk0QnZRYS1B?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 04:03:00 GMT",
-      "source": "Reuters",
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObm9wWFRSUUtrcTZxWVFVY29qWENOVnoxSGtQOEwwQlpTNXYxTDJQRjBaQUN1RnItUVJBeFVpUW1JMkVacWRtMWFnRUVtRE9GYlBTRk01ajVtaVA3NDJMYmdjT0Z4VEdONi0xQTlDcVFzN0NpUGFpN2dvWTQ5YU91WWdWMVhWWWgtSFJCRzhPT0N0VDZjQlVYa2c5Sm9OSllZWF9jTWtFc0pjRFk1aTA0WGp4MVNiWHJVeDBYTTUyNTFTbEU4VVE?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 11:48:14 GMT",
+      "source": "FXLeaders",
       "isLive": true,
       "coverage": 1
     },
@@ -133,38 +133,26 @@
       "coverage": 1
     },
     {
-      "title": "Gold bounces off monthly low as Fed hike bets cap recovery",
+      "title": "Gold slips below $4,100 as Middle East energy shock reinforces hawkish Fed outlook",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDVlQkk1SGRLNUFJckNVS2NxOXFNcUxEdVlIdWQzOUpFUHZkczlSaEdTX2JLMmZESjBkWmdPLV84UWNOMDFYM3h3VExabGpLcDdXNVNja00zYkZjTHJHOWpOZ0JMeFBzQm5lSTFCS3oyY0tyRW0zVmNKYVlwenRCM1NEbWxTWE5UZ1c4a05Ua0daSW9qTVdGQW1vRVQtVW9IcU5VYV9ja09ZNlNtN0xFQ0MwMDhrbEZfVjJWQjNqRGtWMm54N3J3bQ?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 07:25:44 GMT",
+      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUTZWNzctNWgwbFUyT2V3dWljbGRTT1ZxOEQ2NVVraFg2TEF0aExxRGtmR0hneHc1VThHaHJlcWlvNkJnVTNlR1Z4Z29zcmFscHZrX1NKMzkwNTA2ZC1JclJvTTQ0T2Q5RTN0MUJPejVYc3ppU2M0aE82Wm5EcVkzenU2NzU3S19ORGFjUG53bXVRcFJQZFFDa1phZEpLREtHTlpnVi1SaDlkVEl4VFJLRG0zT1hQMG9odFRwLTNvOGFJdw?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 11:04:42 GMT",
       "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold Price Forecast: XAU/USD Slides to Lows Near $4,110 as Oil and Yields Rise",
+      "title": "Gold sticks to intraday bearish tone below $4,100 amid Fed hike bets",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeFVTaC1MbkRwbkJfYzRFUlgyVHdLZDBRaHloRkxFME5xMU9yenJ4VGpFMEJTd1p5MmJGMHQ1QXU4cl8yYmlraXRnMnpzeWFCVEFYQjFUZDZkM01ESm5YdmlHZWpCQ3hvTXI2akpzb0JkYUlsYWFnM0lmamE5RWE3aGd6T0gyOWRma3ZlRTdOWU5TcDBuTUE5U0Rza1hrd2tHTGJMbUUtVHR5X1l0aHRIcmhic2FEMTRkbnpaWmh2SmszTzBjcWR5dllHaHVnb1ZIM2lXYTZn?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 18:15:50 GMT",
-      "source": "www.tmgm.com",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "BlackRock’s Hambro sees gold rising on debt and deficits",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Concerns about US fiscal health support gold as a hedge.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYTlTLWw5WUhReUtJVzJHS2xaS2Y1TzNsLURtLW1wVTFKWmFqaTBBOTdvZGlUZXYybHZLVHRlUlVwYjh3OF91VU5kQTZzQWNQZU5ieV9OUEN6UklvWldDODczUzlIMDZaMEp1cmZuUW9RSnEyUEVXYVhKeVBYOGhNNkxlRmNyZ21ZTDFFTVliaGxaSU14UEN0T0t0NA?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 22:37:25 GMT",
-      "source": "investingLive",
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDVlQkk1SGRLNUFJckNVS2NxOXFNcUxEdVlIdWQzOUpFUHZkczlSaEdTX2JLMmZESjBkWmdPLV84UWNOMDFYM3h3VExabGpLcDdXNVNja00zYkZjTHJHOWpOZ0JMeFBzQm5lSTFCS3oyY0tyRW0zVmNKYVlwenRCM1NEbWxTWE5UZ1c4a05Ua0daSW9qTVdGQW1vRVQtVW9IcU5VYV9ja09ZNlNtN0xFQ0MwMDhrbEZfVjJWQjNqRGtWMm54N3J3bQ?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 08:38:34 GMT",
+      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
@@ -187,7 +175,7 @@
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2p2LWNZaDcyMmxYUkhJX3BsNFZHcEl0UEpoZzRNRm04RG1PT082NmFXZHFGbi0xeGJHZnZRZ3lsYlJpY3hVQlFUMnZqdUM1eVhWdHRfei0xNV9VTmdDTFUtejJkQzh4RnFyVzhCQkRkUXNTREFaaXpSQXA0TlR1MUdMSzFxTXBFdkN4UlJNQjI3WTBMVk9YcVQyUWhuOElTT1hzNERvTGVvVEh1NGxyT2d1RjBXRlR1c3F0TFNIa1JaUGVGMUtFdw?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 05:18:04 GMT",
+      "pubDate": "Thu, 22 Oct 2026 05:20:05 GMT",
       "source": "investingLive",
       "isLive": true,
       "coverage": 1
