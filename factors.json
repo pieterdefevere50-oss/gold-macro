@@ -1,41 +1,41 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-22T16:31:47.636Z",
+  "generatedAt": "2026-10-22T20:26:08.497Z",
   "bias": {
-    "score": -21,
-    "label": "Bearish",
+    "score": 0,
+    "label": "Mixed / Neutral",
     "bullWeight": 13,
-    "bearWeight": 20,
-    "driversCounted": 11
+    "bearWeight": 13,
+    "driversCounted": 9
   },
   "market": {
     "gold": {
-      "price": 4047.800049,
-      "asOf": "2026-10-22T16:31:47.093Z"
+      "price": 4023.300049,
+      "asOf": "2026-10-22T20:26:07.950Z"
     },
     "realYield10": {
-      "value": 2.77,
-      "asOf": "2026-10-20",
-      "prior": 2.63,
-      "priorDate": "2026-09-22",
-      "change": 0.14000000000000012,
-      "changePct": 5.323193916349815
+      "value": 2.76,
+      "asOf": "2026-10-21",
+      "prior": 2.76,
+      "priorDate": "2026-09-23",
+      "change": 0,
+      "changePct": 0
     },
     "y10": {
-      "value": 5.12,
-      "asOf": "2026-10-20",
-      "prior": 4.96,
-      "priorDate": "2026-09-22",
-      "change": 0.16000000000000014,
-      "changePct": 3.2258064516129057
+      "value": 5.13,
+      "asOf": "2026-10-21",
+      "prior": 5.11,
+      "priorDate": "2026-09-23",
+      "change": 0.019999999999999574,
+      "changePct": 0.39138943248531455
     },
     "y2": {
-      "value": 4.79,
-      "asOf": "2026-10-20",
-      "prior": 4.71,
-      "priorDate": "2026-09-22",
-      "change": 0.08000000000000007,
-      "changePct": 1.6985138004246298
+      "value": 4.81,
+      "asOf": "2026-10-21",
+      "prior": 4.85,
+      "priorDate": "2026-09-23",
+      "change": -0.040000000000000036,
+      "changePct": -0.8247422680412378
     },
     "dollar": {
       "value": 121.4048,
@@ -58,17 +58,17 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-20",
-      "text": "The 2-year Treasury yield (4.79%) is 91bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
+      "asOf": "2026-10-21",
+      "text": "The 2-year Treasury yield (4.81%) is 93bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
     },
     {
       "key": "real_yields",
       "title": "US Real Yields (10Y TIPS)",
-      "sentiment": "bear",
+      "sentiment": "neutral",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-20",
-      "text": "10Y real yield is 2.77%, up 14bp over 4 weeks (as of 2026-10-20): rising real yields raise the opportunity cost of holding non-yielding gold — bearish. Real yields are the most direct macro driver of gold."
+      "asOf": "2026-10-21",
+      "text": "10Y real yield is 2.76%, up 0bp over 4 weeks (as of 2026-10-21): little changed, so no clear push either way. Real yields are the most direct macro driver of gold."
     },
     {
       "key": "dollar",
@@ -121,6 +121,18 @@
       "coverage": 1
     },
     {
+      "title": "Gold edges higher as yields retreat, Fed decision in focus",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 03:45:00 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Price Prediction: Central Banks Buy 79 Tonnes in One Month, but Prices Still Fall to $4,084",
       "sentiment": "bull",
       "kind": "driver",
@@ -133,14 +145,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold edges higher as yields retreat, Fed decision in focus",
+      "title": "Gold slides as safe-haven demand shifts to US Treasuries despite lower yields",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 03:45:00 GMT",
-      "source": "Reuters",
+      "text": "Points to safe-haven demand as investors seek protection from risk.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3R0a3pNU2ItV205c3pIcGlQQTA0VzRkVVh5VVpZV3pPanRCZ0FuNHhiZFdUeHpuNlE1RFBKbUtXSlYzemZPbTBWR2NVOHJnd0ppd05FbWdVNklDR2NHVi15OUpkNjBsTXg3eTdxN3hsZ3BlVnYwbEV3bDFnRXV6cmo2WVFzd2RLX0g3T3htYzNwVVRDMDl1X0d1eGV2OFZaeDJrMzBPLVlpTUlTclhZeDdHMHVpM3FKR0ZrYg?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 18:37:32 GMT",
+      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
@@ -157,30 +169,6 @@
       "coverage": 1
     },
     {
-      "title": "Gold sinks to over two-month low as higher-for-longer interest rate expectations weigh",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUTZWNzctNWgwbFUyT2V3dWljbGRTT1ZxOEQ2NVVraFg2TEF0aExxRGtmR0hneHc1VThHaHJlcWlvNkJnVTNlR1Z4Z29zcmFscHZrX1NKMzkwNTA2ZC1JclJvTTQ0T2Q5RTN0MUJPejVYc3ppU2M0aE82Wm5EcVkzenU2NzU3S19ORGFjUG53bXVRcFJQZFFDa1phZEpLREtHTlpnVi1SaDlkVEl4VFJLRG0zT1hQMG9odFRwLTNvOGFJdw?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 13:35:56 GMT",
-      "source": "FXStreet",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Faces Geopolitical Pressure Despite 10-Year Real Yield Drop to 2.77%",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling real yields lower the opportunity cost of holding gold — a direct tailwind.",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkR5MXRYM3AyT19nVlBBdU9xQVpYajFyREtPRnNhZXVSNDhBQ2hyMGhtazRBSWJPbVdoTlY3NVBPLXZ1d1dLenBtUThfZ25CYUVJZWsyRFFFMG1aQVRXVS1XR1BSakRGZmZ6RmZzVkNycVRQMXFBckN0YXpqbGdBVmNiSnYxcnc3N1Z2Znc0TEhreGZ6cHMtVFJmcThTa2J6aUxnQ29uVFZFMGJFLXVsMUxQUm9HX1p6TXJwclRnRGU?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 13:59:27 GMT",
-      "source": "FXEmpire",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold falls to more than two-month low as oil-fuelled inflation fears weigh",
       "sentiment": "bear",
       "kind": "price",
@@ -193,14 +181,14 @@
       "coverage": 2
     },
     {
-      "title": "Gold price today: Gold rate crashes to lowest in 2 months, silver price drops. Here's what to expect",
+      "title": "Chart of the day: Gold price falls below $4,100 as sellers threaten another breakdown",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWkQwSlRXWnByNUl0VnVNQ0JTbWdEQU1kRWtlUnhQTnVGT295eVZyblJDU1E5VTQxMjZRdnBUMU5mNzZhaTc3RFlsbXNQMHE3bEk4Q3JVSXBzNWtpR0VNY0cwY2k0dXhhaExyd0JNczRwdmpfRFRUR29XUjhYRWozNnM1bG85clExb2NUSE93TWxWOGk0dGJhVkpJYUtxZU10T0R6YzJ6c1dmV0NpWHJNYm9LUlVuQVFFZ2pyR3N5bVJ5SzE3QUJKdlJPRXVsWFAtOWFTeTl4WnlhYlB4eXZpUjNvZ3RqRllJNVI0c1UtVGJpeW9vQ3V2M1k5VHJSTVlUSHfSAYcCQVVfeXFMTjhmWkFMenNTanRReUY5UHY0alNxQnhNRzZQSm85TzM5N0JGTUc0WktKcDZtRVJaUV9pRUpLV3V3bVFoY0tpaDJQRDA4R3ZvMUxnZnhLNmJSRjZUcmtTV0x5bDkzNmNLN2xSVTVBdHRLekpWU0xscFlXTVcwUGJWR1lVcXRXQ0lDOHRsZGI2RFFoenlmbW5FZU5HREJCVjd3QVZpMlRtSTdlWGRCZi01dUFHaTNlVy1WV2ZacHdfOFREN2FZaGE0MTduQ3hoblJTZ3plT2xLRFpjeVpoYzV0Q1hVQXI3WENpMnoybklJNDVkUHlmVlZqa3VfNHdteDU3dXEzVkQxeHc?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 12:20:32 GMT",
-      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2p2LWNZaDcyMmxYUkhJX3BsNFZHcEl0UEpoZzRNRm04RG1PT082NmFXZHFGbi0xeGJHZnZRZ3lsYlJpY3hVQlFUMnZqdUM1eVhWdHRfei0xNV9VTmdDTFUtejJkQzh4RnFyVzhCQkRkUXNTREFaaXpSQXA0TlR1MUdMSzFxTXBFdkN4UlJNQjI3WTBMVk9YcVQyUWhuOElTT1hzNERvTGVvVEh1NGxyT2d1RjBXRlR1c3F0TFNIa1JaUGVGMUtFdw?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 05:20:05 GMT",
+      "source": "investingLive",
       "isLive": true,
       "coverage": 1
     }
