@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-22T00:32:47.217Z",
+  "generatedAt": "2026-10-22T04:29:05.955Z",
   "bias": {
-    "score": 73,
+    "score": 53,
     "label": "Bullish",
     "bullWeight": 13,
-    "bearWeight": 2,
-    "driversCounted": 6
+    "bearWeight": 4,
+    "driversCounted": 7
   },
   "market": {
     "gold": {
-      "price": 4117.700195,
-      "asOf": "2026-10-22T00:32:46.738Z"
+      "price": 4091.399902,
+      "asOf": "2026-10-22T04:29:05.373Z"
     },
     "realYield10": {
       "value": 400,
@@ -121,14 +121,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Prices Slip Below $4,120 as Iran War Uncertainty and Fed Rate Expectations Persist",
-      "sentiment": "bull",
+      "title": "Gold declines to one-week low, below $4,100 on Fed hike bets as bulls shrug off weak USD",
+      "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MSzl5YkQ5cGF4X2lUTmU3Mjk2LXRuV3hGNlJQX2JPcXNFUUpGeUk1UFhvRU04T3VfSW8wUnhUV001clJhVUJIZDJmUHlmZW5BTmZyS1NIQm5KTlN2aUdhaGJ5Z1RxQlM5YTFteUJ1azZTcjBMRDlzQk5MczhwZw?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 09:54:12 GMT",
-      "source": "Yahoo Finance UK",
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDVlQkk1SGRLNUFJckNVS2NxOXFNcUxEdVlIdWQzOUpFUHZkczlSaEdTX2JLMmZESjBkWmdPLV84UWNOMDFYM3h3VExabGpLcDdXNVNja00zYkZjTHJHOWpOZ0JMeFBzQm5lSTFCS3oyY0tyRW0zVmNKYVlwenRCM1NEbWxTWE5UZ1c4a05Ua0daSW9qTVdGQW1vRVQtVW9IcU5VYV9ja09ZNlNtN0xFQ0MwMDhrbEZfVjJWQjNqRGtWMm54N3J3bQ?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 04:23:32 GMT",
+      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
@@ -145,14 +145,38 @@
       "coverage": 1
     },
     {
-      "title": "BlackRock's Evy Hambro: Gold to Keep Rising on Debt, Deficits and Currency Depreciation - News and Statistics",
+      "title": "Gold Prices Slip Below $4,120 as Iran War Uncertainty and Fed Rate Expectations Persist",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MSzl5YkQ5cGF4X2lUTmU3Mjk2LXRuV3hGNlJQX2JPcXNFUUpGeUk1UFhvRU04T3VfSW8wUnhUV001clJhVUJIZDJmUHlmZW5BTmZyS1NIQm5KTlN2aUdhaGJ5Z1RxQlM5YTFteUJ1azZTcjBMRDlzQk5MczhwZw?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 09:54:12 GMT",
+      "source": "Yahoo Finance UK",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "BlackRock’s Hambro sees gold rising on debt and deficits",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
       "text": "Concerns about US fiscal health support gold as a hedge.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzQ5azNnUXlXcll6a0VhdEttVEpZaVo1aGp4T01CR3RwaG15alVKcWpuejhDajFUaFVWdjdLNjJhTTlQNkpmNi1kd0YzV2Z1Y2RmUkRFdm85VFZ2OXFoRkhuekFQOXNGLWVUTkNiOF8xQ0Z6SDhJYWZGbW0tcUNoWHRGUnZuc3dOc09TSTdGSGo5ajBEb0FRQnNfVzlKWjVaZS1GRmZsamtOWXRI?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 19:41:22 GMT",
-      "source": "IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYTlTLWw5WUhReUtJVzJHS2xaS2Y1TzNsLURtLW1wVTFKWmFqaTBBOTdvZGlUZXYybHZLVHRlUlVwYjh3OF91VU5kQTZzQWNQZU5ieV9OUEN6UklvWldDODczUzlIMDZaMEp1cmZuUW9RSnEyUEVXYVhKeVBYOGhNNkxlRmNyZ21ZTDFFTVliaGxaSU14UEN0T0t0NA?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 22:37:25 GMT",
+      "source": "investingLive",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back",
+      "sentiment": "bull",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJLLWd5ZC1NanczdGpOak9Nd01XWUtKZDROem1OZ2pQbUtOZTRXanY1VkZJOVhCb2x6Z0F3TlI1TmFXdllaUFNaR1VxdTN5cmhPOFowUFZWaGRKdHl1ak1IUzNJWnp6TlB2cUFvNGRLUmZ4Z3hRRk9ncWNfSGt4cDRtRFlHQlhOZUdpVVFaa3B1OENXQWlmZkEtR3V3SFVNQUFKR0NlUE1FYXkxVElrYkpUWmpsQVpoU29BcldyX21ENnBGTl9MYTJLajdiOTh5SXc?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 01:18:00 GMT",
+      "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     },
@@ -165,18 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM1VGdi1LRklkYzRpZDZvOEFZME1jeFQ2U2k3ZVBvQWhCeVNmaHJkWnB3UXVCMzBfREtGN1hrVE9iaVhibzA0RnBmazhUcElMZFZrVDlNQ2JRazJZa0UzRV9vTjRyR25Nb3E5MS1peDVNTnh4SmlnbE5DcDJYdkhvbkFlY1FWQVgxbnRUVW1KdFl1N2pwdzB1MVplYVRYWnpDSkE?oc=5",
       "pubDate": "Wed, 21 Oct 2026 17:19:12 GMT",
       "source": "Mining.com",
-      "isLive": true,
-      "coverage": 2
-    },
-    {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound As Dollar Pulls Back",
-      "sentiment": "bull",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJLLWd5ZC1NanczdGpOak9Nd01XWUtKZDROem1OZ2pQbUtOZTRXanY1VkZJOVhCb2x6Z0F3TlI1TmFXdllaUFNaR1VxdTN5cmhPOFowUFZWaGRKdHl1ak1IUzNJWnp6TlB2cUFvNGRLUmZ4Z3hRRk9ncWNfSGt4cDRtRFlHQlhOZUdpVVFaa3B1OENXQWlmZkEtR3V3SFVNQUFKR0NlUE1FYXkxVElrYkpUWmpsQVpoU29BcldyX21ENnBGTl9MYTJLajdiOTh5SXc?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 00:20:17 GMT",
-      "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     }
