@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-21T20:25:10.912Z",
+  "generatedAt": "2026-10-22T00:32:47.217Z",
   "bias": {
-    "score": 37,
+    "score": 73,
     "label": "Bullish",
     "bullWeight": 13,
-    "bearWeight": 6,
-    "driversCounted": 8
+    "bearWeight": 2,
+    "driversCounted": 6
   },
   "market": {
     "gold": {
-      "price": 4135.299805,
-      "asOf": "2026-10-21T20:25:10.259Z"
+      "price": 4117.700195,
+      "asOf": "2026-10-22T00:32:46.738Z"
     },
     "realYield10": {
       "value": 400,
@@ -133,14 +133,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold ETFs to Watch Amid Fed Rate Hike & Oil Risks",
+      "title": "Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVFpfOXZ5VEpEZUNDZDlSOUl1dURrUmUydnVXblJvSDFIZzlvSGZnN2hIWWp4UE4xVDczd3lyZEJlZUJlelp6d3Izb2FpNnhPOVZuZmZsQk1RckJZaWwwVzBXRHg3QTJ6TklLUWdNeFFMY24tV3ZnSm9lSUZOSVllcm1ySDFBS3ZCbjFMLUQ2ZkZmdw?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 14:33:45 GMT",
-      "source": "Zacks Investment Research",
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMW5ZQ2drOU9mdFd1bE5NRGNWVFhHMVJORVpUMjlxVUUzcnlYckZlLUY4SnJTSnRGVFJlVHo5NEl5NWE1ZlJVQmxBZ2JOcHVpdHh4N3JGWWN3VzNxWTNLZ0ZiXzNrQllkcjRERFFJZFlfcDdnaElZSFRpT3JzOFdUZnNHM0x2VllSR0VQYzJqeTJ5NW5DYlpFTVh1eVVHMVNXcHlUbVh1cWJaMzBWTEJwcVltUzg5cVBhSWNySw?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 12:45:04 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
@@ -153,30 +153,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzQ5azNnUXlXcll6a0VhdEttVEpZaVo1aGp4T01CR3RwaG15alVKcWpuejhDajFUaFVWdjdLNjJhTTlQNkpmNi1kd0YzV2Z1Y2RmUkRFdm85VFZ2OXFoRkhuekFQOXNGLWVUTkNiOF8xQ0Z6SDhJYWZGbW0tcUNoWHRGUnZuc3dOc09TSTdGSGo5ajBEb0FRQnNfVzlKWjVaZS1GRmZsamtOWXRI?oc=5",
       "pubDate": "Wed, 21 Oct 2026 19:41:22 GMT",
       "source": "IndexBox",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold gains, silver slips as oil prices rise, Fed rate hike expectations persist - Kitco AM Report",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMW5ZQ2drOU9mdFd1bE5NRGNWVFhHMVJORVpUMjlxVUUzcnlYckZlLUY4SnJTSnRGVFJlVHo5NEl5NWE1ZlJVQmxBZ2JOcHVpdHh4N3JGWWN3VzNxWTNLZ0ZiXzNrQllkcjRERFFJZFlfcDdnaElZSFRpT3JzOFdUZnNHM0x2VllSR0VQYzJqeTJ5NW5DYlpFTVh1eVVHMVNXcHlUbVh1cWJaMzBWTEJwcVltUzg5cVBhSWNySw?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 09:45:00 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Price Forecast: XAU/USD Slips Toward $4,076 as December Fed Hike Odds Hit 90%",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZUt2d0tsRGxXQy1pNmFYMEloeTZTOWNFdTNyUTZtaXA0ajl6bTVHVjZqSC1USkZsSWZfcE1PYjVfRXFscUlKRml3STRBMjVILWhlc3ZyY0tRRURPNFUzV2xwWElTZjlpbzhXVGlYdzFlRzdEaFU2S2JaNWp3UGhNNzltNVpCeUh0cUZ0bUF2RnJNY3dLNlFnU08yNWpuOUk?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 07:34:17 GMT",
-      "source": "FXLeaders",
       "isLive": true,
       "coverage": 1
     },
@@ -199,7 +175,7 @@
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORjJLLWd5ZC1NanczdGpOak9Nd01XWUtKZDROem1OZ2pQbUtOZTRXanY1VkZJOVhCb2x6Z0F3TlI1TmFXdllaUFNaR1VxdTN5cmhPOFowUFZWaGRKdHl1ak1IUzNJWnp6TlB2cUFvNGRLUmZ4Z3hRRk9ncWNfSGt4cDRtRFlHQlhOZUdpVVFaa3B1OENXQWlmZkEtR3V3SFVNQUFKR0NlUE1FYXkxVElrYkpUWmpsQVpoU29BcldyX21ENnBGTl9MYTJLajdiOTh5SXc?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 18:38:36 GMT",
+      "pubDate": "Thu, 22 Oct 2026 00:20:17 GMT",
       "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
