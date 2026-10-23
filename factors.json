@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-23T08:30:45.437Z",
+  "generatedAt": "2026-10-23T12:29:58.491Z",
   "bias": {
-    "score": -25,
-    "label": "Bearish",
+    "score": -10,
+    "label": "Mixed / Neutral",
     "bullWeight": 9,
-    "bearWeight": 15,
-    "driversCounted": 8
+    "bearWeight": 11,
+    "driversCounted": 6
   },
   "market": {
     "gold": {
-      "price": 4016.399902,
-      "asOf": "2026-10-23T08:30:44.971Z"
+      "price": 4028.100098,
+      "asOf": "2026-10-23T12:29:57.365Z"
     },
     "realYield10": {
       "value": 2.76,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-10-22"
+      "asOf": "2026-10-23"
     }
   },
   "evergreen": [
@@ -109,74 +109,50 @@
   ],
   "live": [
     {
+      "title": "Gold edges higher as yields retreat, Fed decision in focus",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 14:14:34 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Price Forecast: XAU/USD Tests $4,000 as Oil Surge Revives Fed Hike Fears",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblIzNmNZZVd1TDN4aFVaTVNpMG42Y19nTFhtdm5DNXFxYVhraTFIYTIzTHZ0RmlkQzlGcUxJODVDWl9XRmtXcWFERnc1VUtDaUtFT3dwQ1ZtNk9WOXZkQ0dFOVRwNzg3aHloellxc2lDSW5MOEVKMEoydXpFS3hlNE1qQmkzdTV3WmVEOFdUY00tLTBaSzM1eEpEZjgzS1FiS0ZRbVB5MVhXblBuSDNnX1ZpWTdMQzkw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 06:12:27 GMT",
-      "source": "FX Leaders",
+      "pubDate": "Fri, 23 Oct 2026 06:22:05 GMT",
+      "source": "FXLeaders",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "War in Iran, higher energy prices are only delaying gold's rally to $5,000; mining stocks remain undervalued – Gabelli",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNXy1KLUdfVklTU19ybkZVc3VVVy1JakVKZHB1SlNKR2NJNEg0cVpSR3VnTVZhSFZzaWNPbWR1Y0c3MVJZSGRSdTVwMGk2X1FBRTFRZjdReEpWbk1aSTJicnhlaFlQcG1TM3JNcnpQdDZQanRiTGd3cG9kUXVsZ0c3VnZ6Ujd3M1JFbW5nT0VYdktQaWdwNHIzdnZPMEFuUDVhTnRJbGt1WVEyQzk5SWRCM2QxelNYSmk2?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 20:49:15 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold struggles to extend recovery from three-month low amid Fed hike bets, firm USD",
+      "title": "Gold price today, Friday, October 23, 2026: Gold opens at 3-month lows as oil prices keep rising",
       "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXZUdHQxUjlmRkl1RXVmSDVZRnFwd0dFeTRxU3NaY0REVzdWampCTlVpZTZJTHhRNkZhZGhvRnpmbjN0OHlhaU5rN1ZaZ2NtUU1VY1UyZ3JyUWZ3cWZKUnU3Yl9fZXhxaXYxY19HTUI4R29HYndLOVhnTU9YcHNZZ01QdUoyTmktVThNY2ZQblhzdF93ZUYwaExFWS01aUpwWUFCQS03T09paGU2NDVta0FZVGo1Uy1VWS1QbXJ3?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 06:59:29 GMT",
-      "source": "FXStreet",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold is at a fresh low. This describes the price outcome, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZnp1ZFhreERCV0F0bEs4emx4WlVNdW40OGJhWThrY0pIazRJY1FiTkIxeTFIbVRQX1NmYWVSaktzbzhTdEhocjZMMzdMUHBmeXFJOXUyLXRBSm9OMkdDWnJuMmg0SXBuNUxsSEd4U2ZRbndoN243LVl4ZEFzc2JkdVRCWWFIell2SW5IdEFXZGZ4b3AzUjNQbU41bFBCNnhpNXFsUkUySU9FaUhXem8tTDJuU1pGakZYM3A1UzRTZHY0aDJiZlc1WTZpWWJ0ZW9MQml0Rkdta05KZTFQbFNqeGREQXlseVVhQXNmaDFnbzZMeFgzcHZzc0FTVXc?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 11:12:48 GMT",
+      "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "US Dollar Hits 274,000 Tomans in Iran as Gold and Coin Prices Surge",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDZUMkVON21ZX3BvMkw0MVd3aGRUWDNKYjRyNEd4bDBkU3cwbjc4bzVYVklnQXhBTmxhSGFnMUpMQmY3VGhfc2NBYVNLUzZhcTUyS1hfT3BHb0tTUDJiYmt3c2Z0ejBxOXVsM3ZzNC1XTFZKUVRUNk1MQ0RxMVVnYlU4V3JTMHJLOFQwQ2NZVVlRXy1vaC00dU9FQXBST3dUT1RyX0lR?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 14:36:36 GMT",
-      "source": "IranWire",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Falls as Oil Rallies, Testing Which Miners Can Absorb the Hit",
+      "title": "TSX futures drop amid gold price fall, AI anxieties",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlczTVlCLWhGR1ppdjJfR3BPeVVpOWNHWE1tVHhBZ0RMUEtzY2RVTDY5clZlYWxvU1ZqaUlVbjAyWTlIbEtScmIwT29JQkRiUDcxZFBvRGNOUnBSa0twbExUTXNhNVBHMHhGaUE4Yk8wcmlLS0pGTXdDT1J5TmtGMHVZaXZQOGRGY25ucE5LTG5VblJWZnp6endtb3g5VVI2WUE?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 07:48:18 GMT",
-      "source": "Crux Investor",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold prices fall 26% from peak: Should buyers expect further correction or a rebound?",
-      "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYjJlTnlNa1VHRWwyNWdzQkxlLTdINm9EblFRVzFaMUVSS3V4Y0dCMnQ3Z2dvZWhObFNJellxZVRnMmRtVEZGZXdtenJZa2ptay1rWmtLaGtfMXQydDRzR3RKX084cnNnZ29zSVNQMkZjYVprYmZrN0h6T2hyemhnRENDOUQxbjlkcEZYT1BtVzdTVWdPTWNBSFZ6cXZhN0xYdzdDMkxKdTJrRkdGYldyMHdOZmJKbXlSUEVmcFJDZGF5Mk8wWGg2YVptMVgybHlmeFhXSk1OMzhSXzlhSDNDTWdqWnUxbmd0QTk3btIB8gFBVV95cUxQU1V6UXFPUERPVHI3ZFRsdEpfTl95aDgwTklWazhqVERpV0dFcXlubFlFc2NqRU5UZHdEVm9yU0xCX0F4YmkwakFWTWVXbnVDMUFLZ09zTWx4aXRCTDNYVlR4WEpjQTlNUzVZWUpnbHBSTkZ6bXgwSnNlTWp1SWhvY0JFM3pGYUJzTUZJNlJHR0VHNjYyNUxmRHlmbW5pbFh0YzZjOEg4RHR4RVRXU3BDMzllbms0R0JRYktBNVQwRG9ENkNwTWhwcEtUbjBqbkpoVWRIQWxNUEQ1YmoyRFFfUl96YzNwYThsXzgzOUoyZmR3QQ?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 06:30:39 GMT",
-      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkR0N3E5ZGNCOFdrdWxoNFN3OGtVZ3owenJlenVZYW1TZHBrRV83VVQ0dV9mYnJ3c2Q4eGtodENtb2dnSDdBS3JveDFYci16c0ZlSWd1cTF3VFhmelpiM2czTHdmeXhiN0xRR3A5bGpoM0owYlpwZXBJVVJNdUdWaUgyQ1B0SVFDS0ZEdnRhYzJNVUdUa2xXSVMxUnRWNjMxZE1xVmNoS3FIX3M?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 11:05:29 GMT",
+      "source": "Investing.com",
       "isLive": true,
       "coverage": 1
     }
