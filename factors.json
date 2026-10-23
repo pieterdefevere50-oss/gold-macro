@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-23T04:28:27.280Z",
+  "generatedAt": "2026-10-23T08:30:45.437Z",
   "bias": {
-    "score": -18,
-    "label": "Mixed / Neutral",
+    "score": -25,
+    "label": "Bearish",
     "bullWeight": 9,
-    "bearWeight": 13,
-    "driversCounted": 7
+    "bearWeight": 15,
+    "driversCounted": 8
   },
   "market": {
     "gold": {
-      "price": 4007.399902,
-      "asOf": "2026-10-23T04:28:26.678Z"
+      "price": 4016.399902,
+      "asOf": "2026-10-23T08:30:44.971Z"
     },
     "realYield10": {
       "value": 2.76,
@@ -109,14 +109,14 @@
   ],
   "live": [
     {
-      "title": "US Dollar Hits 274,000 Tomans in Iran as Gold and Coin Prices Surge",
+      "title": "Gold Price Forecast: XAU/USD Tests $4,000 as Oil Surge Revives Fed Hike Fears",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDZUMkVON21ZX3BvMkw0MVd3aGRUWDNKYjRyNEd4bDBkU3cwbjc4bzVYVklnQXhBTmxhSGFnMUpMQmY3VGhfc2NBYVNLUzZhcTUyS1hfT3BHb0tTUDJiYmt3c2Z0ejBxOXVsM3ZzNC1XTFZKUVRUNk1MQ0RxMVVnYlU4V3JTMHJLOFQwQ2NZVVlRXy1vaC00dU9FQXBST3dUT1RyX0lR?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 14:36:36 GMT",
-      "source": "IranWire",
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblIzNmNZZVd1TDN4aFVaTVNpMG42Y19nTFhtdm5DNXFxYVhraTFIYTIzTHZ0RmlkQzlGcUxJODVDWl9XRmtXcWFERnc1VUtDaUtFT3dwQ1ZtNk9WOXZkQ0dFOVRwNzg3aHloellxc2lDSW5MOEVKMEoydXpFS3hlNE1qQmkzdTV3WmVEOFdUY00tLTBaSzM1eEpEZjgzS1FiS0ZRbVB5MVhXblBuSDNnX1ZpWTdMQzkw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 06:12:27 GMT",
+      "source": "FX Leaders",
       "isLive": true,
       "coverage": 1
     },
@@ -133,38 +133,50 @@
       "coverage": 1
     },
     {
-      "title": "Gold rebounds from three-month low; not out of the woods yet amid Fed hike bets",
+      "title": "Gold struggles to extend recovery from three-month low amid Fed hike bets, firm USD",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXZUdHQxUjlmRkl1RXVmSDVZRnFwd0dFeTRxU3NaY0REVzdWampCTlVpZTZJTHhRNkZhZGhvRnpmbjN0OHlhaU5rN1ZaZ2NtUU1VY1UyZ3JyUWZ3cWZKUnU3Yl9fZXhxaXYxY19HTUI4R29HYndLOVhnTU9YcHNZZ01QdUoyTmktVThNY2ZQblhzdF93ZUYwaExFWS01aUpwWUFCQS03T09paGU2NDVta0FZVGo1Uy1VWS1QbXJ3?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 03:41:35 GMT",
+      "pubDate": "Fri, 23 Oct 2026 06:59:29 GMT",
       "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold Hits 3-Month Low as Asian Tech Stocks Sink Again",
+      "title": "US Dollar Hits 274,000 Tomans in Iran as Gold and Coin Prices Surge",
       "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold is at a fresh low. This describes the price outcome, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS1hQWUVhV0k3Z2V4RWZiTFVla09haWszZnZUa1h1RjFsQU5JTDdKV0FSS2lRNzBxRHdjaEZpNVFPT3JKaXE1V3NaMlVKanl5NWZaNmYtZ0dPZEFYdVBXbEZGUUpHQUZKNEsydHpHd0VaZG9FZEw2Z0F0aUtfbTlQUHV3cTZaaDI4dkoyVVRFS1A?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 13:27:58 GMT",
-      "source": "BullionVault",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDZUMkVON21ZX3BvMkw0MVd3aGRUWDNKYjRyNEd4bDBkU3cwbjc4bzVYVklnQXhBTmxhSGFnMUpMQmY3VGhfc2NBYVNLUzZhcTUyS1hfT3BHb0tTUDJiYmt3c2Z0ejBxOXVsM3ZzNC1XTFZKUVRUNk1MQ0RxMVVnYlU4V3JTMHJLOFQwQ2NZVVlRXy1vaC00dU9FQXBST3dUT1RyX0lR?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 14:36:36 GMT",
+      "source": "IranWire",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold price today: Gold rate crashes to lowest in 2 months, silver price drops. Here's what to expect",
+      "title": "Gold Falls as Oil Rallies, Testing Which Miners Can Absorb the Hit",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWkQwSlRXWnByNUl0VnVNQ0JTbWdEQU1kRWtlUnhQTnVGT295eVZyblJDU1E5VTQxMjZRdnBUMU5mNzZhaTc3RFlsbXNQMHE3bEk4Q3JVSXBzNWtpR0VNY0cwY2k0dXhhaExyd0JNczRwdmpfRFRUR29XUjhYRWozNnM1bG85clExb2NUSE93TWxWOGk0dGJhVkpJYUtxZU10T0R6YzJ6c1dmV0NpWHJNYm9LUlVuQVFFZ2pyR3N5bVJ5SzE3QUJKdlJPRXVsWFAtOWFTeTl4WnlhYlB4eXZpUjNvZ3RqRllJNVI0c1UtVGJpeW9vQ3V2M1k5VHJSTVlUSHfSAYcCQVVfeXFMTjhmWkFMenNTanRReUY5UHY0alNxQnhNRzZQSm85TzM5N0JGTUc0WktKcDZtRVJaUV9pRUpLV3V3bVFoY0tpaDJQRDA4R3ZvMUxnZnhLNmJSRjZUcmtTV0x5bDkzNmNLN2xSVTVBdHRLekpWU0xscFlXTVcwUGJWR1lVcXRXQ0lDOHRsZGI2RFFoenlmbW5FZU5HREJCVjd3QVZpMlRtSTdlWGRCZi01dUFHaTNlVy1WV2ZacHdfOFREN2FZaGE0MTduQ3hoblJTZ3plT2xLRFpjeVpoYzV0Q1hVQXI3WENpMnoybklJNDVkUHlmVlZqa3VfNHdteDU3dXEzVkQxeHc?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 12:20:32 GMT",
-      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlczTVlCLWhGR1ppdjJfR3BPeVVpOWNHWE1tVHhBZ0RMUEtzY2RVTDY5clZlYWxvU1ZqaUlVbjAyWTlIbEtScmIwT29JQkRiUDcxZFBvRGNOUnBSa0twbExUTXNhNVBHMHhGaUE4Yk8wcmlLS0pGTXdDT1J5TmtGMHVZaXZQOGRGY25ucE5LTG5VblJWZnp6endtb3g5VVI2WUE?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 07:48:18 GMT",
+      "source": "Crux Investor",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold prices fall 26% from peak: Should buyers expect further correction or a rebound?",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYjJlTnlNa1VHRWwyNWdzQkxlLTdINm9EblFRVzFaMUVSS3V4Y0dCMnQ3Z2dvZWhObFNJellxZVRnMmRtVEZGZXdtenJZa2ptay1rWmtLaGtfMXQydDRzR3RKX084cnNnZ29zSVNQMkZjYVprYmZrN0h6T2hyemhnRENDOUQxbjlkcEZYT1BtVzdTVWdPTWNBSFZ6cXZhN0xYdzdDMkxKdTJrRkdGYldyMHdOZmJKbXlSUEVmcFJDZGF5Mk8wWGg2YVptMVgybHlmeFhXSk1OMzhSXzlhSDNDTWdqWnUxbmd0QTk3btIB8gFBVV95cUxQU1V6UXFPUERPVHI3ZFRsdEpfTl95aDgwTklWazhqVERpV0dFcXlubFlFc2NqRU5UZHdEVm9yU0xCX0F4YmkwakFWTWVXbnVDMUFLZ09zTWx4aXRCTDNYVlR4WEpjQTlNUzVZWUpnbHBSTkZ6bXgwSnNlTWp1SWhvY0JFM3pGYUJzTUZJNlJHR0VHNjYyNUxmRHlmbW5pbFh0YzZjOEg4RHR4RVRXU3BDMzllbms0R0JRYktBNVQwRG9ENkNwTWhwcEtUbjBqbkpoVWRIQWxNUEQ1YmoyRFFfUl96YzNwYThsXzgzOUoyZmR3QQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 06:30:39 GMT",
+      "source": "Moneycontrol.com",
       "isLive": true,
       "coverage": 1
     }
