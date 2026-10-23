@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-22T20:26:08.497Z",
+  "generatedAt": "2026-10-23T00:34:53.436Z",
   "bias": {
-    "score": 0,
+    "score": 8,
     "label": "Mixed / Neutral",
     "bullWeight": 13,
-    "bearWeight": 13,
-    "driversCounted": 9
+    "bearWeight": 11,
+    "driversCounted": 8
   },
   "market": {
     "gold": {
-      "price": 4023.300049,
-      "asOf": "2026-10-22T20:26:07.950Z"
+      "price": 4019.5,
+      "asOf": "2026-10-23T00:34:52.892Z"
     },
     "realYield10": {
       "value": 2.76,
@@ -109,18 +109,6 @@
   ],
   "live": [
     {
-      "title": "US Dollar Hits 274,000 Tomans in Iran as Gold and Coin Prices Surge",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDZUMkVON21ZX3BvMkw0MVd3aGRUWDNKYjRyNEd4bDBkU3cwbjc4bzVYVklnQXhBTmxhSGFnMUpMQmY3VGhfc2NBYVNLUzZhcTUyS1hfT3BHb0tTUDJiYmt3c2Z0ejBxOXVsM3ZzNC1XTFZKUVRUNk1MQ0RxMVVnYlU4V3JTMHJLOFQwQ2NZVVlRXy1vaC00dU9FQXBST3dUT1RyX0lR?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 14:33:36 GMT",
-      "source": "IranWire",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold edges higher as yields retreat, Fed decision in focus",
       "sentiment": "bull",
       "kind": "driver",
@@ -129,6 +117,30 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
       "pubDate": "Wed, 21 Oct 2026 03:45:00 GMT",
       "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "US Dollar Hits 274,000 Tomans in Iran as Gold and Coin Prices Surge",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVDZUMkVON21ZX3BvMkw0MVd3aGRUWDNKYjRyNEd4bDBkU3cwbjc4bzVYVklnQXhBTmxhSGFnMUpMQmY3VGhfc2NBYVNLUzZhcTUyS1hfT3BHb0tTUDJiYmt3c2Z0ejBxOXVsM3ZzNC1XTFZKUVRUNk1MQ0RxMVVnYlU4V3JTMHJLOFQwQ2NZVVlRXy1vaC00dU9FQXBST3dUT1RyX0lR?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 14:36:36 GMT",
+      "source": "IranWire",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "War in Iran, higher energy prices are only delaying gold's rally to $5,000; mining stocks remain undervalued – Gabelli",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNXy1KLUdfVklTU19ybkZVc3VVVy1JakVKZHB1SlNKR2NJNEg0cVpSR3VnTVZhSFZzaWNPbWR1Y0c3MVJZSGRSdTVwMGk2X1FBRTFRZjdReEpWbk1aSTJicnhlaFlQcG1TM3JNcnpQdDZQanRiTGd3cG9kUXVsZ0c3VnZ6Ujd3M1JFbW5nT0VYdktQaWdwNHIzdnZPMEFuUDVhTnRJbGt1WVEyQzk5SWRCM2QxelNYSmk2?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 20:49:15 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
@@ -145,42 +157,6 @@
       "coverage": 1
     },
     {
-      "title": "Gold slides as safe-haven demand shifts to US Treasuries despite lower yields",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Points to safe-haven demand as investors seek protection from risk.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3R0a3pNU2ItV205c3pIcGlQQTA0VzRkVVh5VVpZV3pPanRCZ0FuNHhiZFdUeHpuNlE1RFBKbUtXSlYzemZPbTBWR2NVOHJnd0ppd05FbWdVNklDR2NHVi15OUpkNjBsTXg3eTdxN3hsZ3BlVnYwbEV3bDFnRXV6cmo2WVFzd2RLX0g3T3htYzNwVVRDMDl1X0d1eGV2OFZaeDJrMzBPLVlpTUlTclhZeDdHMHVpM3FKR0ZrYg?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 18:37:32 GMT",
-      "source": "FXStreet",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Price Forecast: XAU/USD Slips Below $4,076 as Saudi Oil Strike Lifts Fed Hike Bets",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObm9wWFRSUUtrcTZxWVFVY29qWENOVnoxSGtQOEwwQlpTNXYxTDJQRjBaQUN1RnItUVJBeFVpUW1JMkVacWRtMWFnRUVtRE9GYlBTRk01ajVtaVA3NDJMYmdjT0Z4VEdONi0xQTlDcVFzN0NpUGFpN2dvWTQ5YU91WWdWMVhWWWgtSFJCRzhPT0N0VDZjQlVYa2c5Sm9OSllZWF9jTWtFc0pjRFk1aTA0WGp4MVNiWHJVeDBYTTUyNTFTbEU4VVE?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 11:48:14 GMT",
-      "source": "FXLeaders",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold falls to more than two-month low as oil-fuelled inflation fears weigh",
-      "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWF1N1NOek9pQi1IYkRUMll1bHRXOFluVmtuYm9LR1dtMThlWlZDYXB5RlVwYko2MVFRS01SSnIwRGhMRnFULTZvdURKV0MxOHk1clF4NW1wTkJUOWkyMng4b2J5QjI4X2tLRkVMSGxDcTIxV0xXTThnZkxvQjVUajZBMmY4RURVTzQtcFN1T2gybVJWRkMwX0RCdkxGTVpLbUdlT0paVU80cWc0VS0xenk0QnZRYS1B?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 04:03:00 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 2
-    },
-    {
       "title": "Chart of the day: Gold price falls below $4,100 as sellers threaten another breakdown",
       "sentiment": "bear",
       "kind": "price",
@@ -189,6 +165,18 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2p2LWNZaDcyMmxYUkhJX3BsNFZHcEl0UEpoZzRNRm04RG1PT082NmFXZHFGbi0xeGJHZnZRZ3lsYlJpY3hVQlFUMnZqdUM1eVhWdHRfei0xNV9VTmdDTFUtejJkQzh4RnFyVzhCQkRkUXNTREFaaXpSQXA0TlR1MUdMSzFxTXBFdkN4UlJNQjI3WTBMVk9YcVQyUWhuOElTT1hzNERvTGVvVEh1NGxyT2d1RjBXRlR1c3F0TFNIa1JaUGVGMUtFdw?oc=5",
       "pubDate": "Thu, 22 Oct 2026 05:20:05 GMT",
       "source": "investingLive",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold price today: Gold rate crashes to lowest in 2 months, silver price drops. Here's what to expect",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWkQwSlRXWnByNUl0VnVNQ0JTbWdEQU1kRWtlUnhQTnVGT295eVZyblJDU1E5VTQxMjZRdnBUMU5mNzZhaTc3RFlsbXNQMHE3bEk4Q3JVSXBzNWtpR0VNY0cwY2k0dXhhaExyd0JNczRwdmpfRFRUR29XUjhYRWozNnM1bG85clExb2NUSE93TWxWOGk0dGJhVkpJYUtxZU10T0R6YzJ6c1dmV0NpWHJNYm9LUlVuQVFFZ2pyR3N5bVJ5SzE3QUJKdlJPRXVsWFAtOWFTeTl4WnlhYlB4eXZpUjNvZ3RqRllJNVI0c1UtVGJpeW9vQ3V2M1k5VHJSTVlUSHfSAYcCQVVfeXFMTjhmWkFMenNTanRReUY5UHY0alNxQnhNRzZQSm85TzM5N0JGTUc0WktKcDZtRVJaUV9pRUpLV3V3bVFoY0tpaDJQRDA4R3ZvMUxnZnhLNmJSRjZUcmtTV0x5bDkzNmNLN2xSVTVBdHRLekpWU0xscFlXTVcwUGJWR1lVcXRXQ0lDOHRsZGI2RFFoenlmbW5FZU5HREJCVjd3QVZpMlRtSTdlWGRCZi01dUFHaTNlVy1WV2ZacHdfOFREN2FZaGE0MTduQ3hoblJTZ3plT2xLRFpjeVpoYzV0Q1hVQXI3WENpMnoybklJNDVkUHlmVlZqa3VfNHdteDU3dXEzVkQxeHc?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 12:20:32 GMT",
+      "source": "The Economic Times",
       "isLive": true,
       "coverage": 1
     }
