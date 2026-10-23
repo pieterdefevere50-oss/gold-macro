@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-23T00:34:53.436Z",
+  "generatedAt": "2026-10-23T04:28:27.280Z",
   "bias": {
-    "score": 8,
+    "score": -18,
     "label": "Mixed / Neutral",
-    "bullWeight": 13,
-    "bearWeight": 11,
-    "driversCounted": 8
+    "bullWeight": 9,
+    "bearWeight": 13,
+    "driversCounted": 7
   },
   "market": {
     "gold": {
-      "price": 4019.5,
-      "asOf": "2026-10-23T00:34:52.892Z"
+      "price": 4007.399902,
+      "asOf": "2026-10-23T04:28:26.678Z"
     },
     "realYield10": {
       "value": 2.76,
@@ -109,18 +109,6 @@
   ],
   "live": [
     {
-      "title": "Gold edges higher as yields retreat, Fed decision in focus",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2dJZXdfdnptbDVvajUtNHBONy13T1Z5aEtVc3d2d2VDYUNpUEpTM1JxNGVZRFhiQmh1b1U2RWpOaW0zVndyQk9uSFZ6b0pQXzVvNUhRMFVXeEMzS3BrU1FkdE9tNEYxY21PdDFEWGplNkkwMkJ2Rkk5VVg2VUVDcXFIUmp4cUR4SnhqQ2h6b3hYTExtTkhCNGtqZWt6WUtUYURrc3owUUptdw?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 03:45:00 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "US Dollar Hits 274,000 Tomans in Iran as Gold and Coin Prices Surge",
       "sentiment": "bear",
       "kind": "driver",
@@ -145,26 +133,26 @@
       "coverage": 1
     },
     {
-      "title": "Gold Price Prediction: Central Banks Buy 79 Tonnes in One Month, but Prices Still Fall to $4,084",
-      "sentiment": "bull",
+      "title": "Gold rebounds from three-month low; not out of the woods yet amid Fed hike bets",
+      "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Central-bank accumulation reinforces structural demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOazhkdEkxM1RudUpFa19DdWVPNUNYWEYzSlU5Z1Z6MTNQQ3Q5RkU2MDI1b0FFeW9WZHRBLTFycnRhSFFSMm1teGtPRnZZaVZUczJXc1ZHTVRna0hNd1JGaldTMS1sU2lIT0dEWGExYlE4STNKelY5RmVKc3NqLWRSVEgtbUVFOFRudUVuc1pjQUpOLU5oRXVjeVVvTnlISS1vblEtcEZiZm9GRXBOQi1QR3N0aW10ZndWS2g0M0R6aUcwTi16NXdDSkFvSQ?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 15:02:17 GMT",
-      "source": "CryptoRank",
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXZUdHQxUjlmRkl1RXVmSDVZRnFwd0dFeTRxU3NaY0REVzdWampCTlVpZTZJTHhRNkZhZGhvRnpmbjN0OHlhaU5rN1ZaZ2NtUU1VY1UyZ3JyUWZ3cWZKUnU3Yl9fZXhxaXYxY19HTUI4R29HYndLOVhnTU9YcHNZZ01QdUoyTmktVThNY2ZQblhzdF93ZUYwaExFWS01aUpwWUFCQS03T09paGU2NDVta0FZVGo1Uy1VWS1QbXJ3?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 03:41:35 GMT",
+      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Chart of the day: Gold price falls below $4,100 as sellers threaten another breakdown",
+      "title": "Gold Hits 3-Month Low as Asian Tech Stocks Sink Again",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2p2LWNZaDcyMmxYUkhJX3BsNFZHcEl0UEpoZzRNRm04RG1PT082NmFXZHFGbi0xeGJHZnZRZ3lsYlJpY3hVQlFUMnZqdUM1eVhWdHRfei0xNV9VTmdDTFUtejJkQzh4RnFyVzhCQkRkUXNTREFaaXpSQXA0TlR1MUdMSzFxTXBFdkN4UlJNQjI3WTBMVk9YcVQyUWhuOElTT1hzNERvTGVvVEh1NGxyT2d1RjBXRlR1c3F0TFNIa1JaUGVGMUtFdw?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 05:20:05 GMT",
-      "source": "investingLive",
+      "text": "Gold is at a fresh low. This describes the price outcome, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS1hQWUVhV0k3Z2V4RWZiTFVla09haWszZnZUa1h1RjFsQU5JTDdKV0FSS2lRNzBxRHdjaEZpNVFPT3JKaXE1V3NaMlVKanl5NWZaNmYtZ0dPZEFYdVBXbEZGUUpHQUZKNEsydHpHd0VaZG9FZEw2Z0F0aUtfbTlQUHV3cTZaaDI4dkoyVVRFS1A?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 13:27:58 GMT",
+      "source": "BullionVault",
       "isLive": true,
       "coverage": 1
     },
