@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-23T20:24:03.779Z",
+  "generatedAt": "2026-10-24T00:37:44.854Z",
   "bias": {
-    "score": 4,
+    "score": -3,
     "label": "Mixed / Neutral",
     "bullWeight": 14,
-    "bearWeight": 13,
-    "driversCounted": 8
+    "bearWeight": 15,
+    "driversCounted": 9
   },
   "market": {
     "gold": {
-      "price": 3997,
-      "asOf": "2026-10-23T20:24:03.256Z"
+      "price": 3996.899902,
+      "asOf": "2026-10-24T00:37:44.329Z"
     },
     "realYield10": {
       "value": 2.64,
@@ -145,14 +145,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off",
+      "title": "Gold Stocks Could Rally 20% to 30% as Winter Seasonality Turns Bullish",
       "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREJiUTlBN3JzcUxxMzV0ZkI2Qkc3UjlydG5yRWtzTDZGZzJnMHF3ampSSW1YblM1aEQxck9vMjF5dFBZdUpBWDVNY2Y1cEZXMk5td09NclZ1T0E3eG1KY2JLZG83SE14TUtSWTJmeGRwSzNIYjBkRDJqaXFXSVhvSmhsUy0?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 14:37:46 GMT",
-      "source": "Financial Times",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Strong equities reduce the relative appeal of safe-haven gold.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2hvRS1zajB6SkRtQzNZYlVqeWNiVzRaMGwybnAzbmwxOTZrNEZ2OGtRR21MZzBOQkxBeDVaRHhJMnc0eDIwazd6ZnRLZTlOcjlPTFBnSG9WZV8tWmZMWTNMemdHRkg3ZHBhYWw4WVZXbTBwVk05S1VvWlM0dFlxOEhzdkh3cEZOdktDVGxlWUtuNVc3dUwtcmxZMlZEZWU1LUlYb1pJVUp5Vml5cTVUc0xDbw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 17:08:04 GMT",
+      "source": "Investing.com",
       "isLive": true,
       "coverage": 1
     },
@@ -165,6 +165,18 @@
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZnp1ZFhreERCV0F0bEs4emx4WlVNdW40OGJhWThrY0pIazRJY1FiTkIxeTFIbVRQX1NmYWVSaktzbzhTdEhocjZMMzdMUHBmeXFJOXUyLXRBSm9OMkdDWnJuMmg0SXBuNUxsSEd4U2ZRbndoN243LVl4ZEFzc2JkdVRCWWFIell2SW5IdEFXZGZ4b3AzUjNQbU41bFBCNnhpNXFsUkUySU9FaUhXem8tTDJuU1pGakZYM3A1UzRTZHY0aDJiZlc1WTZpWWJ0ZW9MQml0Rkdta05KZTFQbFNqeGREQXlseVVhQXNmaDFnbzZMeFgzcHZzc0FTVXc?oc=5",
       "pubDate": "Fri, 23 Oct 2026 11:12:48 GMT",
       "source": "Yahoo Finance",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREJiUTlBN3JzcUxxMzV0ZkI2Qkc3UjlydG5yRWtzTDZGZzJnMHF3ampSSW1YblM1aEQxck9vMjF5dFBZdUpBWDVNY2Y1cEZXMk5td09NclZ1T0E3eG1KY2JLZG83SE14TUtSWTJmeGRwSzNIYjBkRDJqaXFXSVhvSmhsUy0?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 14:37:46 GMT",
+      "source": "Financial Times",
       "isLive": true,
       "coverage": 1
     }
