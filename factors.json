@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-24T08:24:19.428Z",
+  "generatedAt": "2026-10-24T12:26:47.760Z",
   "bias": {
     "score": 4,
     "label": "Mixed / Neutral",
@@ -11,7 +11,7 @@
   "market": {
     "gold": {
       "price": 3996.899902,
-      "asOf": "2026-10-24T08:24:18.932Z"
+      "asOf": "2026-10-24T12:26:47.219Z"
     },
     "realYield10": {
       "value": 2.64,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-10-23"
+      "asOf": "2026-10-24"
     }
   },
   "evergreen": [
