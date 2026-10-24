@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-24T04:24:54.305Z",
+  "generatedAt": "2026-10-24T08:24:19.428Z",
   "bias": {
-    "score": -3,
+    "score": 4,
     "label": "Mixed / Neutral",
     "bullWeight": 14,
-    "bearWeight": 15,
-    "driversCounted": 9
+    "bearWeight": 13,
+    "driversCounted": 8
   },
   "market": {
     "gold": {
       "price": 3996.899902,
-      "asOf": "2026-10-24T04:24:53.784Z"
+      "asOf": "2026-10-24T08:24:18.932Z"
     },
     "realYield10": {
       "value": 2.64,
@@ -121,14 +121,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets",
+      "title": "Gold price set for steep weekly loss as rising oil prices bolster Fed rate hike bets",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 04:14:00 GMT",
-      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkRMRnR4aHc0aXgwWW5qZnU3ZlVrMzFHdE90dDh1YzFfeUp1ZmI4SmRrUEtveVNsbnRyczNveG5GaEtYRjk1NTkwODRoQkJuMzgtbVpHRzVLZ0ZpUkhmTnVqeWIySnRJbng1UDVmYXZkRm1ac0xnQ25KNFFNRE5odm9SSTlzWDAtUVR4RWllZ0N2aTRrNjlPUG03b2xQLWl1b1EteGRhTzd0b3EwYk9YYk53?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 20:08:51 GMT",
+      "source": "Mining.com",
       "isLive": true,
       "coverage": 1
     },
@@ -141,18 +141,6 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92RFc2eG5MU3duSW9PZTVzM3FlbWZVUkd1cGNvSWtsU2M4OVhsc2g0b0NYdDFEYUNsLW9mSFdfQlNzcVhjZUFuQnJvTnN3U09HV3N0djF0eG56T1M1UHpJLWxUOA?oc=5",
       "pubDate": "Fri, 23 Oct 2026 17:56:00 GMT",
       "source": "Investing News Network",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Stocks Could Rally 20% to 30% as Winter Seasonality Turns Bullish",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Strong equities reduce the relative appeal of safe-haven gold.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2hvRS1zajB6SkRtQzNZYlVqeWNiVzRaMGwybnAzbmwxOTZrNEZ2OGtRR21MZzBOQkxBeDVaRHhJMnc0eDIwazd6ZnRLZTlOcjlPTFBnSG9WZV8tWmZMWTNMemdHRkg3ZHBhYWw4WVZXbTBwVk05S1VvWlM0dFlxOEhzdkh3cEZOdktDVGxlWUtuNVc3dUwtcmxZMlZEZWU1LUlYb1pJVUp5Vml5cTVUc0xDbw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 17:08:04 GMT",
-      "source": "Investing.com",
       "isLive": true,
       "coverage": 1
     },
