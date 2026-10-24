@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-24T00:37:44.854Z",
+  "generatedAt": "2026-10-24T04:24:54.305Z",
   "bias": {
     "score": -3,
     "label": "Mixed / Neutral",
@@ -11,7 +11,7 @@
   "market": {
     "gold": {
       "price": 3996.899902,
-      "asOf": "2026-10-24T00:37:44.329Z"
+      "asOf": "2026-10-24T04:24:53.784Z"
     },
     "realYield10": {
       "value": 2.64,
