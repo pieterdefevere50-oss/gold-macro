@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-24T12:26:47.760Z",
+  "generatedAt": "2026-10-24T16:23:10.816Z",
   "bias": {
-    "score": 4,
+    "score": -4,
     "label": "Mixed / Neutral",
-    "bullWeight": 14,
+    "bullWeight": 12,
     "bearWeight": 13,
-    "driversCounted": 8
+    "driversCounted": 7
   },
   "market": {
     "gold": {
       "price": 3996.899902,
-      "asOf": "2026-10-24T12:26:47.219Z"
+      "asOf": "2026-10-24T16:23:10.309Z"
     },
     "realYield10": {
       "value": 2.64,
@@ -129,18 +129,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkRMRnR4aHc0aXgwWW5qZnU3ZlVrMzFHdE90dDh1YzFfeUp1ZmI4SmRrUEtveVNsbnRyczNveG5GaEtYRjk1NTkwODRoQkJuMzgtbVpHRzVLZ0ZpUkhmTnVqeWIySnRJbng1UDVmYXZkRm1ac0xnQ25KNFFNRE5odm9SSTlzWDAtUVR4RWllZ0N2aTRrNjlPUG03b2xQLWl1b1EteGRhTzd0b3EwYk9YYk53?oc=5",
       "pubDate": "Fri, 23 Oct 2026 20:08:51 GMT",
       "source": "Mining.com",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Russia's Gold Reserves Dip to 2019 Low, Deficit Grows",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Concerns about US fiscal health support gold as a hedge.",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92RFc2eG5MU3duSW9PZTVzM3FlbWZVUkd1cGNvSWtsU2M4OVhsc2g0b0NYdDFEYUNsLW9mSFdfQlNzcVhjZUFuQnJvTnN3U09HV3N0djF0eG56T1M1UHpJLWxUOA?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 17:56:00 GMT",
-      "source": "Investing News Network",
       "isLive": true,
       "coverage": 1
     },
