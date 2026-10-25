@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-25T16:23:40.642Z",
+  "generatedAt": "2026-10-25T20:19:27.869Z",
   "bias": {
-    "score": -4,
+    "score": 4,
     "label": "Mixed / Neutral",
     "bullWeight": 12,
-    "bearWeight": 13,
-    "driversCounted": 7
+    "bearWeight": 11,
+    "driversCounted": 6
   },
   "market": {
     "gold": {
       "price": 3996.899902,
-      "asOf": "2026-10-25T16:23:40.005Z"
+      "asOf": "2026-10-25T20:19:27.356Z"
     },
     "realYield10": {
       "value": 2.64,
@@ -117,18 +117,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTV2U3h4MGhEYTdwN09jMG9zTlRjdHBOb1JIOEJZMEdrMmF3bVg1UjRQVGdaZkxYY2lRdEZ2SkpjUTdXcG1GaHIwQ3V5TElEU1J2c1ZVX0wybHZtUGw0bEZabDM0SW1wV1VlNHptcXhqSHVUNjVXdHNPSkpmYjl0c1FDRl9GTERkQVJvdmExM2kxTE9HTFpQSGdrLXFnbFVMS0syNHVFU3V2d1ZjekV4YXpfNk1LQUE2akYwSVkwM3NhUQ?oc=5",
       "pubDate": "Sun, 25 Oct 2026 15:15:15 GMT",
       "source": "Benzinga",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold price set for steep weekly loss as rising oil prices bolster Fed rate hike bets",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkRMRnR4aHc0aXgwWW5qZnU3ZlVrMzFHdE90dDh1YzFfeUp1ZmI4SmRrUEtveVNsbnRyczNveG5GaEtYRjk1NTkwODRoQkJuMzgtbVpHRzVLZ0ZpUkhmTnVqeWIySnRJbng1UDVmYXZkRm1ac0xnQ25KNFFNRE5odm9SSTlzWDAtUVR4RWllZ0N2aTRrNjlPUG03b2xQLWl1b1EteGRhTzd0b3EwYk9YYk53?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 20:08:51 GMT",
-      "source": "Mining.com",
       "isLive": true,
       "coverage": 1
     },
