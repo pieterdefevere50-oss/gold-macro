@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-24T20:19:51.479Z",
+  "generatedAt": "2026-10-25T00:28:01.480Z",
   "bias": {
     "score": -4,
     "label": "Mixed / Neutral",
@@ -11,7 +11,7 @@
   "market": {
     "gold": {
       "price": 3996.899902,
-      "asOf": "2026-10-24T20:19:50.978Z"
+      "asOf": "2026-10-25T00:28:00.946Z"
     },
     "realYield10": {
       "value": 2.64,
@@ -121,16 +121,16 @@
       "coverage": 1
     },
     {
-      "title": "Gold price set for steep weekly loss as rising oil prices bolster Fed rate hike bets",
+      "title": "Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkRMRnR4aHc0aXgwWW5qZnU3ZlVrMzFHdE90dDh1YzFfeUp1ZmI4SmRrUEtveVNsbnRyczNveG5GaEtYRjk1NTkwODRoQkJuMzgtbVpHRzVLZ0ZpUkhmTnVqeWIySnRJbng1UDVmYXZkRm1ac0xnQ25KNFFNRE5odm9SSTlzWDAtUVR4RWllZ0N2aTRrNjlPUG03b2xQLWl1b1EteGRhTzd0b3EwYk9YYk53?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 20:08:51 GMT",
-      "source": "Mining.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 04:14:00 GMT",
+      "source": "Reuters",
       "isLive": true,
-      "coverage": 1
+      "coverage": 2
     },
     {
       "title": "Gold price today, Friday, October 23, 2026: Gold opens at 3-month lows as oil prices keep rising",
