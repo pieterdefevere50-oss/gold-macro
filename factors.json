@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-25T12:26:59.695Z",
+  "generatedAt": "2026-10-25T16:23:40.642Z",
   "bias": {
     "score": -4,
     "label": "Mixed / Neutral",
@@ -11,7 +11,7 @@
   "market": {
     "gold": {
       "price": 3996.899902,
-      "asOf": "2026-10-25T12:26:59.175Z"
+      "asOf": "2026-10-25T16:23:40.005Z"
     },
     "realYield10": {
       "value": 2.64,
@@ -109,38 +109,38 @@
   ],
   "live": [
     {
-      "title": "Gold price trades near $4,000/oz after final Consumer Sentiment holds steady at 48, inflation expectations rise",
+      "title": "Gold Price Outlook as US Bond Yields Rise Ahead of FOMC Decision",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Hotter inflation raises the odds the Fed stays restrictive for longer — a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUUtZHJuN3lDVDVOWHVqbFRoZEFHckp0UDI3MUpHN2ZJMVpXMTdROTJQX29yMHgteWFYZDdXVUVOMXp6c3FLVzFLc2V2NTctMzBGTnlJSmJyQWxhWGs2azVqQ0JjUGx2M3BUNVFjNFY0cTgtMlc0NXpxYy1NZGdVRlNsaVU5Ump4cWFlRU9Fd2R3NVFvaGpDem9kT2xLSFc0YklVb2FQcE1ObGp6ek9NMUNVN1BfYndmb3BN?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 14:01:13 GMT",
-      "source": "Kitco",
+      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTV2U3h4MGhEYTdwN09jMG9zTlRjdHBOb1JIOEJZMEdrMmF3bVg1UjRQVGdaZkxYY2lRdEZ2SkpjUTdXcG1GaHIwQ3V5TElEU1J2c1ZVX0wybHZtUGw0bEZabDM0SW1wV1VlNHptcXhqSHVUNjVXdHNPSkpmYjl0c1FDRl9GTERkQVJvdmExM2kxTE9HTFpQSGdrLXFnbFVMS0syNHVFU3V2d1ZjekV4YXpfNk1LQUE2akYwSVkwM3NhUQ?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 15:15:15 GMT",
+      "source": "Benzinga",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets",
+      "title": "Gold price set for steep weekly loss as rising oil prices bolster Fed rate hike bets",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 14:57:51 GMT",
-      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkRMRnR4aHc0aXgwWW5qZnU3ZlVrMzFHdE90dDh1YzFfeUp1ZmI4SmRrUEtveVNsbnRyczNveG5GaEtYRjk1NTkwODRoQkJuMzgtbVpHRzVLZ0ZpUkhmTnVqeWIySnRJbng1UDVmYXZkRm1ac0xnQ25KNFFNRE5odm9SSTlzWDAtUVR4RWllZ0N2aTRrNjlPUG03b2xQLWl1b1EteGRhTzd0b3EwYk9YYk53?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 20:08:51 GMT",
+      "source": "Mining.com",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off",
+      "title": "Gold Royalty Fell While It Turned A Profit",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREJiUTlBN3JzcUxxMzV0ZkI2Qkc3UjlydG5yRWtzTDZGZzJnMHF3ampSSW1YblM1aEQxck9vMjF5dFBZdUpBWDVNY2Y1cEZXMk5td09NclZ1T0E3eG1KY2JLZG83SE14TUtSWTJmeGRwSzNIYjBkRDJqaXFXSVhvSmhsUy0?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 14:37:46 GMT",
-      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHFEelh5RU11dmEtR251VXk1U2pRMC1XRnJ0bEt6QktZaks0emwtZ1ZsaEwyT3owcEtOaldqTzBmTG1CSGZGeFNsdmxUNGYyYlM1bzhDaXVtcGRYMlNZSmpsRlJMLUlHQnBia083NzdhMXQtRjllOGtweDJCSEdNZFpTU0ZJQWxVNFJPWkZVNmxlREppUk1yTjNURDlJeWVrU3c?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 14:09:57 GMT",
+      "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
     },
