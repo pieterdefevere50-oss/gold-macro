@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-25T04:26:40.545Z",
+  "generatedAt": "2026-10-25T08:23:44.003Z",
   "bias": {
     "score": -4,
     "label": "Mixed / Neutral",
@@ -11,7 +11,7 @@
   "market": {
     "gold": {
       "price": 3996.899902,
-      "asOf": "2026-10-25T04:26:40.042Z"
+      "asOf": "2026-10-25T08:23:43.517Z"
     },
     "realYield10": {
       "value": 2.64,
@@ -126,9 +126,9 @@
       "kind": "driver",
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0x2VHNBWkt6RWNETndlR0p1eDd4UnhlZFFFbWpaYWdocUl2MnRCQm16RFpYbHQ3dF9jOEtLMENKOHUySjNmaW03YkhFRmR3WXRnbWtIaGZwbVVQNHJMMC11aklCdlBNcjMySDZsOU16WVBaZl8zR2ttZkgxMXVVWldnY25RRjJzbks3WFJwZWpnUE9maFdseVAwcmlmRHFJYUxCTEJ4RmN5QdIBrwFBVV95cUxNUEhSek0wcnlJbXhsZ0NkYmVoNEJmSUF5NEdCRElnZUVtNEcyY1hJSUloNEVtV3RRcDNXazdBUzc5a0V5OS1JXzFZMkROWVU2VHE3dUZmUExCMzdiRkNXZ0ZTY3pwUEJXR2RGaWY2QXVJOEtxV3lCWmV6OGdkZEE2NmJxcGZpSUYzZUhFNnRCVkotekVpY3BrWEVudnJkckF6dmVVZl9qNUtwN193MVV3?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 04:29:38 GMT",
-      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 14:57:51 GMT",
+      "source": "Reuters",
       "isLive": true,
       "coverage": 1
     },
@@ -145,14 +145,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold drops below $4,000 as ‘haven’ asset joins market sell-off",
+      "title": "Gold price falls by Tk 3,325 per bhari",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREJiUTlBN3JzcUxxMzV0ZkI2Qkc3UjlydG5yRWtzTDZGZzJnMHF3ampSSW1YblM1aEQxck9vMjF5dFBZdUpBWDVNY2Y1cEZXMk5td09NclZ1T0E3eG1KY2JLZG83SE14TUtSWTJmeGRwSzNIYjBkRDJqaXFXSVhvSmhsUy0?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 14:37:46 GMT",
-      "source": "Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWTZGa0RUaFo5SjdjcWR6bmxiQXJMbHVSa2FzVnk3SEw3LVI5UGhkSnpmTGRpc3c0ay1rd1ctSkdYUkpWTnViT3hZbjRQYk9TMDlMVzkzMkdUNm1xSFFJM2V1M1haV0lBa09qVHV6N2Q1azZxSW1uVWhJazQtNmdMeC1NRkg2eXRIMUs2bWN3R3FnMmZhOGpabUd3?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 06:42:00 GMT",
+      "source": "New Age BD",
       "isLive": true,
       "coverage": 1
     }
