@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-25T20:19:27.869Z",
+  "generatedAt": "2026-10-26T00:40:04.799Z",
   "bias": {
-    "score": 4,
+    "score": -4,
     "label": "Mixed / Neutral",
     "bullWeight": 12,
-    "bearWeight": 11,
-    "driversCounted": 6
+    "bearWeight": 13,
+    "driversCounted": 7
   },
   "market": {
     "gold": {
-      "price": 3996.899902,
-      "asOf": "2026-10-25T20:19:27.356Z"
+      "price": 3986.800049,
+      "asOf": "2026-10-26T00:40:04.329Z"
     },
     "realYield10": {
       "value": 2.64,
@@ -121,6 +121,18 @@
       "coverage": 1
     },
     {
+      "title": "Gold declines below $4,000 as higher oil prices reinforce Fed rate-hike expectations",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenkzWHJESUR3b3dVVTA2QzZkUlB6VmRRaVJzT2xvemEwakRCU3dDLThobUtKQmx6MUdBQVRNREw5TUgzdHNSLUVaR3JmRTZTeVA1VjJuWVpOS1pMWG5zbjg0M0RESlRzalROOUlKSDdNYjZZTW12YWM3TWtsYTJGTTZRSFFPa3kzYS00TG1NQTYzTVlJSXVETkh6dzh4aXZOUmNaeHZ0MkZXc2xNal9DaU1fakV3VjV6TlFsaDlpRjF4NjBY?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 23:24:52 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Royalty Fell While It Turned A Profit",
       "sentiment": "bear",
       "kind": "price",
@@ -133,14 +145,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold price falls by Tk 3,325 per bhari",
-      "sentiment": "bear",
+      "title": "Gold prices rise EGP 30 last week despite global decline",
+      "sentiment": "bull",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWTZGa0RUaFo5SjdjcWR6bmxiQXJMbHVSa2FzVnk3SEw3LVI5UGhkSnpmTGRpc3c0ay1rd1ctSkdYUkpWTnViT3hZbjRQYk9TMDlMVzkzMkdUNm1xSFFJM2V1M1haV0lBa09qVHV6N2Q1azZxSW1uVWhJazQtNmdMeC1NRkg2eXRIMUs2bWN3R3FnMmZhOGpabUd3?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 06:42:00 GMT",
-      "source": "New Age BD",
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHRrellRR3U1enAzdE8zMGRxLVp5aVhWQ1lpMU5qVzhfOEQ3d2pieXFTeDFyaFU2SGdkQ0E1czdUeTE4bzdKZGc5ajJSLTlBbHFyLTNXUG9PZ19pNV9nYjFJdnFXZGZpZE1qcVVBVk9BQ2RKTFc5dHllVlBkUDVybTN1cHB0S1lfY25tazh4aS1zSHl6OVhSb1p3REpENzRq?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 21:18:00 GMT",
+      "source": "Daily News Egypt",
       "isLive": true,
       "coverage": 1
     }
