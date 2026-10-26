@@ -1,49 +1,49 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-26T14:39:58.502Z",
+  "generatedAt": "2026-10-26T20:56:36.595Z",
   "bias": {
-    "score": 22,
+    "score": 26,
     "label": "Bullish",
-    "bullWeight": 14,
-    "bearWeight": 9,
-    "driversCounted": 6
+    "bullWeight": 12,
+    "bearWeight": 7,
+    "driversCounted": 5
   },
   "market": {
     "gold": {
-      "price": 4018.399902,
-      "asOf": "2026-10-26T14:39:58.072Z"
+      "price": 4018.199951,
+      "asOf": "2026-10-26T20:56:36.144Z"
     },
     "realYield10": {
-      "value": 2.64,
-      "asOf": "2026-10-22",
-      "prior": 2.85,
-      "priorDate": "2026-09-24",
-      "change": -0.20999999999999996,
-      "changePct": -7.368421052631577
+      "value": 2.66,
+      "asOf": "2026-10-23",
+      "prior": 2.83,
+      "priorDate": "2026-09-25",
+      "change": -0.16999999999999993,
+      "changePct": -6.007067137809185
     },
     "y10": {
-      "value": 4.96,
-      "asOf": "2026-10-22",
-      "prior": 5.18,
-      "priorDate": "2026-09-24",
-      "change": -0.21999999999999975,
-      "changePct": -4.247104247104243
+      "value": 5,
+      "asOf": "2026-10-23",
+      "prior": 5.17,
+      "priorDate": "2026-09-25",
+      "change": -0.16999999999999993,
+      "changePct": -3.2882011605415844
     },
     "y2": {
-      "value": 4.65,
-      "asOf": "2026-10-22",
-      "prior": 4.87,
-      "priorDate": "2026-09-24",
-      "change": -0.21999999999999975,
-      "changePct": -4.517453798767962
+      "value": 4.69,
+      "asOf": "2026-10-23",
+      "prior": 4.81,
+      "priorDate": "2026-09-25",
+      "change": -0.11999999999999922,
+      "changePct": -2.4948024948024785
     },
     "dollar": {
-      "value": 121.4048,
-      "asOf": "2026-10-16",
-      "prior": 119.5133,
-      "priorDate": "2026-09-18",
-      "change": 1.8914999999999935,
-      "changePct": 1.582669041855587
+      "value": 121.3202,
+      "asOf": "2026-10-23",
+      "prior": 120.33,
+      "priorDate": "2026-09-25",
+      "change": 0.9902000000000015,
+      "changePct": 0.8229036815424263
     },
     "fedTarget": {
       "low": 3.75,
@@ -58,8 +58,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-22",
-      "text": "The 2-year Treasury yield (4.65%) is 77bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
+      "asOf": "2026-10-23",
+      "text": "The 2-year Treasury yield (4.69%) is 81bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
     },
     {
       "key": "real_yields",
@@ -67,17 +67,17 @@
       "sentiment": "bull",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-22",
-      "text": "10Y real yield is 2.64%, down 21bp over 4 weeks (as of 2026-10-22): falling real yields lower the opportunity cost of holding gold — bullish. Real yields are the most direct macro driver of gold."
+      "asOf": "2026-10-23",
+      "text": "10Y real yield is 2.66%, down 17bp over 4 weeks (as of 2026-10-23): falling real yields lower the opportunity cost of holding gold — bullish. Real yields are the most direct macro driver of gold."
     },
     {
       "key": "dollar",
       "title": "US Dollar Trend (Fed Broad Index)",
-      "sentiment": "bear",
+      "sentiment": "neutral",
       "impact": 4,
       "dataDriven": true,
-      "asOf": "2026-10-16",
-      "text": "The Fed's broad trade-weighted dollar index is 121.4, up 1.6% over 4 weeks (as of 2026-10-16): a firmer dollar makes gold pricier for foreign buyers — bearish."
+      "asOf": "2026-10-23",
+      "text": "The Fed's broad trade-weighted dollar index is 121.3, up 0.8% over 4 weeks (as of 2026-10-23): roughly flat, so no clear push either way."
     },
     {
       "key": "cb_buying",
@@ -109,38 +109,38 @@
   ],
   "live": [
     {
-      "title": "Gold Prices Drop Back to 4000: Institutional Investors Exit Market Amid Massive Central Bank Purchases – Who Should You Trust?",
-      "sentiment": "bull",
+      "title": "Fed Rate Decision This Week: Will the US Dollar Strengthen and Gold Prices Fall? (26 October 2026)",
+      "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Central-bank accumulation reinforces structural demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14WDlsUVJGYnN2a3MyTlU3WGdhQy1OYWRFc29ZQ0dsQzZHakE2MkVSSEVFT1p0d3VNeE1YZS02Qnhkek9RckQ5aEV0eGpXNTFXanAw?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 01:04:50 GMT",
-      "source": "eu.36kr.com",
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3EtUWZLbjQ3TTBmaEZyQWlCT1VaTGp1Y2lrMTM2MW9wOUsxUUVfUmM4T1ZhN1RSdnRkaGxrX25vZmxMaHJsbTdnQ2xvLVlOcnR2M0R0LVl0QUZGamRJUEVYWlpwRzUtTm5UY0JMSFFuSUlkZTFHMHVPdEVqdTlYel9ZVm41eF9vWmlKcnNB?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 09:47:02 GMT",
+      "source": "Mitrade",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold gains as oil price slide cools some inflation concerns",
-      "sentiment": "bear",
+      "title": "Gold rises as lower oil prices ease inflation fears ahead of Fed meeting",
+      "sentiment": "bull",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
       "pubDate": "Mon, 26 Oct 2026 05:56:00 GMT",
       "source": "Reuters",
       "isLive": true,
-      "coverage": 2
+      "coverage": 1
     },
     {
-      "title": "Gold prices today, Monday, October 26, 2026: Gold opens at 3-month lows at the start of Fed week",
+      "title": "Gold prices squeezed between rising oil and falling yields, Fresnillo silver output declines in 2026 – Heraeus",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold is at a fresh low. This describes the price outcome, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUUVBTXJ0WUFrQkcxUEJKRlJVeGhURDlYTFd0MzJRZ045bUwwb1N1MzBOOHB3Wk0wOC1saURvVEVRMm9SNGpCYzQ5cmZFaUZubnJkY19sa3dtQ0Q0ZkV4Q0ludmgyeEk4QW9BaXY5Rm1famlDNWMzVHFwN2gzUzdBVGp3X093WXpNOXcyZi1JVnNOMXRlODJhVXd0S3dmTkM4Vm45c1hXelJ2WDZnOGVSMWNwbDNfdE1tdG15Tk5yMnpWTHg4c3cyVW5xNlJhbDR6YlZRWjhDdjNhWS1CbHpsaHF3TXlCSDRFWFpBUE1kakpOWGpOcVA2SzBWbGo?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 11:17:04 GMT",
-      "source": "Yahoo Finance",
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcVNMQnZQS3ZmcmtSNElycE9ZX21HblVQbGlDdTI3czFYaGcydnFqV0lmbG9sYTBxMzdXbFlmV01oVUg3alZxcE5UZl9lVVZUN25idXNPNGxWekZPenktaTNiR0xKVW5PT2djQVdsX3hMQUc4TWhhZEtqa0szQjU3aVNJaVVtV05JN1o3UmdkcWhoY2Z2bmdnVl9SY2NfaUxwakJhSDRtZkZVYWNkVV9UaFg4WktLVFItRllRM2NB?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 13:26:55 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     }
