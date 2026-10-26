@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-26T04:30:41.452Z",
+  "generatedAt": "2026-10-26T08:40:27.293Z",
   "bias": {
-    "score": 4,
+    "score": -3,
     "label": "Mixed / Neutral",
     "bullWeight": 14,
-    "bearWeight": 13,
-    "driversCounted": 8
+    "bearWeight": 15,
+    "driversCounted": 9
   },
   "market": {
     "gold": {
-      "price": 4011.600098,
-      "asOf": "2026-10-26T04:30:40.890Z"
+      "price": 4016.899902,
+      "asOf": "2026-10-26T08:40:26.698Z"
     },
     "realYield10": {
       "value": 2.64,
@@ -115,10 +115,34 @@
       "impact": 2,
       "text": "Central-bank accumulation reinforces structural demand for gold.",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14WDlsUVJGYnN2a3MyTlU3WGdhQy1OYWRFc29ZQ0dsQzZHakE2MkVSSEVFT1p0d3VNeE1YZS02Qnhkek9RckQ5aEV0eGpXNTFXanAw?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 01:04:54 GMT",
+      "pubDate": "Mon, 26 Oct 2026 01:04:50 GMT",
       "source": "36Kr",
       "isLive": true,
       "coverage": 1
+    },
+    {
+      "title": "Gold struggles to extend recovery as hawkish Fed bets and Iran risks support USD",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1VFckNUaUtDNkpsb2NmeG9GZG9LX1NITzRxVGd2cHl5YnNBNlBYYUIxYkpaVUZFMXFKU0N2ZVVRZzBvSGZCaWNpb25hdmg4LXJ1Yi1oTlktOHVPaURKUWt1RFJhYkdCcFMzdVVTdVlEQUkxZ0JFNU41Yzg4bHhpejhhZEFnbHhucVRxdDVoWDhNVllWMzlMandteGN6RVp3bTBUYllpUHF5cWpwYnNFYkh4MnJOeTVNNS1MV01kRkRoMTRkLXF6ag?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 07:40:49 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold declines below $4,000 as higher oil prices reinforce Fed rate-hike expectations",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenkzWHJESUR3b3dVVTA2QzZkUlB6VmRRaVJzT2xvemEwakRCU3dDLThobUtKQmx6MUdBQVRNREw5TUgzdHNSLUVaR3JmRTZTeVA1VjJuWVpOS1pMWG5zbjg0M0RESlRzalROOUlKSDdNYjZZTW12YWM3TWtsYTJGTTZRSFFPa3kzYS00TG1NQTYzTVlJSXVETkh6dzh4aXZOUmNaeHZ0MkZXc2xNal9DaU1fakV3VjV6TlFsaDlpRjF4NjBY?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 23:24:52 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 2
     },
     {
       "title": "Gold Price Outlook as US Bond Yields Rise Ahead of FOMC Decision",
@@ -133,38 +157,26 @@
       "coverage": 1
     },
     {
-      "title": "Gold declines below $4,000 as higher oil prices reinforce Fed rate-hike expectations",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenkzWHJESUR3b3dVVTA2QzZkUlB6VmRRaVJzT2xvemEwakRCU3dDLThobUtKQmx6MUdBQVRNREw5TUgzdHNSLUVaR3JmRTZTeVA1VjJuWVpOS1pMWG5zbjg0M0RESlRzalROOUlKSDdNYjZZTW12YWM3TWtsYTJGTTZRSFFPa3kzYS00TG1NQTYzTVlJSXVETkh6dzh4aXZOUmNaeHZ0MkZXc2xNal9DaU1fakV3VjV6TlFsaDlpRjF4NjBY?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 23:24:52 GMT",
-      "source": "FXStreet",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Trading Alert: Gold Prices Fall Below the $4,000 Mark! Super Central Bank Week Approaches—Can Bulls Hold the Last Line of Defense?",
-      "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTThZTjB2TGdCY1NtRVhQVWJYV29IQlotMFd5VE9ITEJTdWFhZllkeXhyb3AxNHdiX0t3Q2NvMW1xNVB3QmZlWmZkRkQyeVJXV1M5ejdSLUpWcGI3aE9xdlA0MjdpYTBvOEFfdUlRMlB1V3EwUDI0WFQ0SmQxRFRuZmxvNWZ4cTFod18tV0ZpczhpWm9LcW1tdW5jVUFzVmFx?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 01:08:05 GMT",
-      "source": "Moomoo",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold prices rise EGP 30 last week despite global decline",
+      "title": "Gold gains on softer oil prices; Fed decision in focus",
       "sentiment": "bull",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHRrellRR3U1enAzdE8zMGRxLVp5aVhWQ1lpMU5qVzhfOEQ3d2pieXFTeDFyaFU2SGdkQ0E1czdUeTE4bzdKZGc5ajJSLTlBbHFyLTNXUG9PZ19pNV9nYjFJdnFXZGZpZE1qcVVBVk9BQ2RKTFc5dHllVlBkUDVybTN1cHB0S1lfY25tazh4aS1zSHl6OVhSb1p3REpENzRq?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 21:18:00 GMT",
-      "source": "Daily News Egypt",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 05:56:00 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 2
+    },
+    {
+      "title": "XAUUSD: Gold Reclaims $4,000 as Fed Week Begins. Silver Sinks to 2026 Lows",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeUVtb3BMSE5yUnY2MzB3Rmloa1dmQm9DVTFiZmdhc21KcWE1eGZ4cTFkaFVPN21EQUYxVHJnRDVMT05pLWZjMC1ReTNQazJaWjhSUm1UemdHdXowVUlhcUctclcwRkFEQnlscEhUYXk5WlY4elljLWJ3bmNmeWt2YTV0elBPMlRwWEVsaVpEa2RpX0l3U2NrS3VNNzV2d05EdWlQX0N2SWxVV1ZpcU9rNjhhRXQtb0J0aXRoMlJXWWUzM3daSFBPODRFbkNnQQ?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 07:50:48 GMT",
+      "source": "TradingView",
       "isLive": true,
       "coverage": 1
     }
