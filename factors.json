@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-26T00:40:04.799Z",
+  "generatedAt": "2026-10-26T04:30:41.452Z",
   "bias": {
-    "score": -4,
+    "score": 4,
     "label": "Mixed / Neutral",
-    "bullWeight": 12,
+    "bullWeight": 14,
     "bearWeight": 13,
-    "driversCounted": 7
+    "driversCounted": 8
   },
   "market": {
     "gold": {
-      "price": 3986.800049,
-      "asOf": "2026-10-26T00:40:04.329Z"
+      "price": 4011.600098,
+      "asOf": "2026-10-26T04:30:40.890Z"
     },
     "realYield10": {
       "value": 2.64,
@@ -109,6 +109,18 @@
   ],
   "live": [
     {
+      "title": "Gold Prices Drop Back to 4000: Institutional Investors Exit Market Amid Massive Central Bank Purchases – Who Should You Trust?",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Central-bank accumulation reinforces structural demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14WDlsUVJGYnN2a3MyTlU3WGdhQy1OYWRFc29ZQ0dsQzZHakE2MkVSSEVFT1p0d3VNeE1YZS02Qnhkek9RckQ5aEV0eGpXNTFXanAw?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 01:04:54 GMT",
+      "source": "36Kr",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Price Outlook as US Bond Yields Rise Ahead of FOMC Decision",
       "sentiment": "bear",
       "kind": "driver",
@@ -133,14 +145,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Royalty Fell While It Turned A Profit",
+      "title": "Gold Trading Alert: Gold Prices Fall Below the $4,000 Mark! Super Central Bank Week Approaches—Can Bulls Hold the Last Line of Defense?",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHFEelh5RU11dmEtR251VXk1U2pRMC1XRnJ0bEt6QktZaks0emwtZ1ZsaEwyT3owcEtOaldqTzBmTG1CSGZGeFNsdmxUNGYyYlM1bzhDaXVtcGRYMlNZSmpsRlJMLUlHQnBia083NzdhMXQtRjllOGtweDJCSEdNZFpTU0ZJQWxVNFJPWkZVNmxlREppUk1yTjNURDlJeWVrU3c?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 14:09:57 GMT",
-      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTThZTjB2TGdCY1NtRVhQVWJYV29IQlotMFd5VE9ITEJTdWFhZllkeXhyb3AxNHdiX0t3Q2NvMW1xNVB3QmZlWmZkRkQyeVJXV1M5ejdSLUpWcGI3aE9xdlA0MjdpYTBvOEFfdUlRMlB1V3EwUDI0WFQ0SmQxRFRuZmxvNWZ4cTFod18tV0ZpczhpWm9LcW1tdW5jVUFzVmFx?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 01:08:05 GMT",
+      "source": "Moomoo",
       "isLive": true,
       "coverage": 1
     },
