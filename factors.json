@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-26T20:56:36.595Z",
+  "generatedAt": "2026-10-27T04:24:15.598Z",
   "bias": {
-    "score": 26,
+    "score": 39,
     "label": "Bullish",
-    "bullWeight": 12,
+    "bullWeight": 16,
     "bearWeight": 7,
-    "driversCounted": 5
+    "driversCounted": 7
   },
   "market": {
     "gold": {
-      "price": 4018.199951,
-      "asOf": "2026-10-26T20:56:36.144Z"
+      "price": 4024.899902,
+      "asOf": "2026-10-27T04:24:15.191Z"
     },
     "realYield10": {
       "value": 2.66,
@@ -109,14 +109,38 @@
   ],
   "live": [
     {
-      "title": "Fed Rate Decision This Week: Will the US Dollar Strengthen and Gold Prices Fall? (26 October 2026)",
+      "title": "Geopolitical tensions complicate the gold bull case, says AHG president",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjk1R2hDSmNkRkNWODBHX1JSWFVuX1hoZlprcHljQW9SLTQzUzMwdEZHRzVXT1JtNWR6b2pUOXV1N0tkNG1RQlpjWjZ1SU12b2pndkdTNkR1M3JkX2hNXzR6QjFSY0M5RGdienRGMTlDNnBnOTVFTGU3Y0JMOFNHT1hqMWdMQlUxQmpxckZHZFlSUkRuM1E?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 18:26:14 GMT",
+      "source": "Yahoo Finance UK",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Has Oil Replaced Gold As 2026’s Most Compelling Safe Haven Trade?",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Points to safe-haven demand as investors seek protection from risk.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFM0TUtUb3A2NkZRRHR0UWFpSGxpQVAzQmV1bDJkZ0h4Zm13VjBJcndpVVdzT0llaUlCVTZleGtHWWJzTzVmb0l0Wkd4bFh4TTJTVnJUaFZRdDVueHRUdnRsTGNxOXJEcHlvQml3VG1xNGplT09vZHhzZTRZeTdkaDNZRW0yYlFvdFA2TWVuXzExdHRlWXR5NGZ4dzVPcEMtb1NPTE12bXRxSkRCNmp1RkxETDE?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 03:16:43 GMT",
+      "source": "FXEmpire",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold eases as stronger US dollar weighs, Fed meeting in focus",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3EtUWZLbjQ3TTBmaEZyQWlCT1VaTGp1Y2lrMTM2MW9wOUsxUUVfUmM4T1ZhN1RSdnRkaGxrX25vZmxMaHJsbTdnQ2xvLVlOcnR2M0R0LVl0QUZGamRJUEVYWlpwRzUtTm5UY0JMSFFuSUlkZTFHMHVPdEVqdTlYel9ZVm41eF9vWmlKcnNB?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 09:47:02 GMT",
-      "source": "Mitrade",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY05GYjdwRHNNOHlPaU8wT0NHcGVucXA5VEIzYU5tRzdEUERtMHFsZmtGaGdaS2JtXy0tak1lVWtRclZRUkRPcmJfSzdDa1FKU2N3RTVpOFJfVjNwcktNaXNZazdRR2VucEVCazBjR3d0SEpkbWFhZVZIa0dxdDg0Rngyazc3Y1hUNi1NSDh1Z2tyUXpDTTVsSThwMXFyT21KV29aeW5nQTFMV1FXLUZHM1Z3YzBWTFhQaDdvUjc1OHhIZw?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 01:26:00 GMT",
+      "source": "The Business Times",
       "isLive": true,
       "coverage": 1
     },
