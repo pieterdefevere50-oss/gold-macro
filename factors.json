@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-27T04:24:15.598Z",
+  "generatedAt": "2026-10-27T14:13:17.231Z",
   "bias": {
-    "score": 39,
-    "label": "Bullish",
-    "bullWeight": 16,
-    "bearWeight": 7,
-    "driversCounted": 7
+    "score": -11,
+    "label": "Mixed / Neutral",
+    "bullWeight": 12,
+    "bearWeight": 15,
+    "driversCounted": 9
   },
   "market": {
     "gold": {
-      "price": 4024.899902,
-      "asOf": "2026-10-27T04:24:15.191Z"
+      "price": 4040.300049,
+      "asOf": "2026-10-27T14:13:16.740Z"
     },
     "realYield10": {
       "value": 2.66,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-10-26"
+      "asOf": "2026-10-27"
     }
   },
   "evergreen": [
@@ -109,38 +109,74 @@
   ],
   "live": [
     {
-      "title": "Geopolitical tensions complicate the gold bull case, says AHG president",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjk1R2hDSmNkRkNWODBHX1JSWFVuX1hoZlprcHljQW9SLTQzUzMwdEZHRzVXT1JtNWR6b2pUOXV1N0tkNG1RQlpjWjZ1SU12b2pndkdTNkR1M3JkX2hNXzR6QjFSY0M5RGdienRGMTlDNnBnOTVFTGU3Y0JMOFNHT1hqMWdMQlUxQmpxckZHZFlSUkRuM1E?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 18:26:14 GMT",
-      "source": "Yahoo Finance UK",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Has Oil Replaced Gold As 2026’s Most Compelling Safe Haven Trade?",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Points to safe-haven demand as investors seek protection from risk.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFM0TUtUb3A2NkZRRHR0UWFpSGxpQVAzQmV1bDJkZ0h4Zm13VjBJcndpVVdzT0llaUlCVTZleGtHWWJzTzVmb0l0Wkd4bFh4TTJTVnJUaFZRdDVueHRUdnRsTGNxOXJEcHlvQml3VG1xNGplT09vZHhzZTRZeTdkaDNZRW0yYlFvdFA2TWVuXzExdHRlWXR5NGZ4dzVPcEMtb1NPTE12bXRxSkRCNmp1RkxETDE?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 03:16:43 GMT",
-      "source": "FXEmpire",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold eases as stronger US dollar weighs, Fed meeting in focus",
+      "title": "Gold retreats on stronger dollar; traders brace for Fed",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY05GYjdwRHNNOHlPaU8wT0NHcGVucXA5VEIzYU5tRzdEUERtMHFsZmtGaGdaS2JtXy0tak1lVWtRclZRUkRPcmJfSzdDa1FKU2N3RTVpOFJfVjNwcktNaXNZazdRR2VucEVCazBjR3d0SEpkbWFhZVZIa0dxdDg0Rngyazc3Y1hUNi1NSDh1Z2tyUXpDTTVsSThwMXFyT21KV29aeW5nQTFMV1FXLUZHM1Z3YzBWTFhQaDdvUjc1OHhIZw?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 01:26:00 GMT",
-      "source": "The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWIyeWVhRnVBaHZfV05HanpZVFJzZDZiaC1MTEFVX0JEbWc5RVhRV3htMnJFMDNCVjBPWTJISkhha3ZWc3otaXBCTGloREJidmlqOWtXMTQ4Zks2aTA5czBzNC1OdGNuVXlqLVZ4TTk3M1VUSEZvdVdCLXV3bHJsZXBHSktGcXR0dk1wS2VYdWYxTm9ueGc?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 05:46:00 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 2
+    },
+    {
+      "title": "Strong dollar, high yields drag on gold outlook, but central-bank demand lends support",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR2V1T052bmoyUU83OWg5RG9qQXdRbUdtVVR2Q19GWFEwQklPUE1ZWXFWTDF5WEQtNk5BOG9XLUc4YnZTb0EwejB6N0Fna3V6S3M1X3BKYlFtZWR0eFNvbjB0UFBXUW5mUGR5aHBJbkFTZWpHUGdZcVI2T19UZXBXZlJ3Z2hVYlJIMGVONzdHUTVYQ2FyRFVjR1J3RzBITHQ0ZlE?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 13:29:41 GMT",
+      "source": "Yahoo Finance",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold awaits Fed decision as rate hike concerns limit demand",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHZwSnhZdUJYaFZfV3JLam4zVTdjbC1YUll5bGRleFBEaGE2MWFaTmlZbGdaUl85Z2RGWDRQTjZyZlRoX1cwU1NBZGFtVV82SVdIaEc0eEc1U0t5R29SOV9MNmhzRGVCMHlGMTdKVTVSQlVMRkNHa25mZ2Y0VkRvWkkzR0R0N0ZTcW5hcGwySVZzTU9nTk5HOUxVZTNqN19ESWdYYTRTOERNQQ?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 08:35:04 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Oil prices ease on de-escalation hopes, gold slips as dollar strengthens",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD. De-escalation reduces the safe-haven risk premium in gold.",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MU3ZFVi1PTnRXSDJieFIzSHEwaENaZElFWXVOOThBcFRhNE9UeWZnanZ3akFxWVBLS1g2b3JLblN2RHFTemVpdUNUSjU?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 07:37:58 GMT",
+      "source": "سانا",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold prices edge lower amid a stronger dollar and anticipation of the US Federal Reserve's decision",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMmRsd3J0WEMyWTB5NjdJMjhna1ZrSHlYR1dpSWlLakY3RE00STJVSVpncEJMQ3hPeGFzY1YyeXZSV2ZQNmFCMlJ5bHRlQ0p4d056aE8zRVdiMFk2VFQ3R1FPekVDUlNMMzlYS2ZfWGlpaW1Oelk2TFZWSnZ2aU5OV29kVEh1NzNUcjd5TnJMV2Jma1Z3ampPQy1GN1VDOXl3Z200QUF5b3BjQlhTaGdPRWJRMG1YX0dNdnAzYUo3RFBRU3JzZ21aRTJYS1h1RTZUNlhKVEw1YmdqbkJ2TUU3ZWJXUXQ0N3JHS0E?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 06:51:09 GMT",
+      "source": "صوت الإمارات",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Silver Falls, Gold Rallies as China Retail Investing Jumps, ETFs Sell",
+      "sentiment": "neutral",
+      "kind": "price",
+      "impact": 1,
+      "text": "Headline mixes bullish and bearish signals that roughly offset: Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score. But: Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMXF2c0ZsV29ibmM3eUtKa3laV3lRbzVERG9aV3U5Zk9RTmxnQzU5MXNmVmFONzdMSC1Ic1pMVl9RRXR4dU5pRWFNajhpTnc4VW5GOXlMUkdGTHFmTGYxNEcyY29jTHpTYm41NWdJMnp2a3E0QVhPMnc5RG9ZX0QxX2ppVzMyeHByVnJpMy1qUVg?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 13:59:57 GMT",
+      "source": "BullionVault",
       "isLive": true,
       "coverage": 1
     },
@@ -153,18 +189,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
       "pubDate": "Mon, 26 Oct 2026 05:56:00 GMT",
       "source": "Reuters",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold prices squeezed between rising oil and falling yields, Fresnillo silver output declines in 2026 – Heraeus",
-      "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcVNMQnZQS3ZmcmtSNElycE9ZX21HblVQbGlDdTI3czFYaGcydnFqV0lmbG9sYTBxMzdXbFlmV01oVUg3alZxcE5UZl9lVVZUN25idXNPNGxWekZPenktaTNiR0xKVW5PT2djQVdsX3hMQUc4TWhhZEtqa0szQjU3aVNJaVVtV05JN1o3UmdkcWhoY2Z2bmdnVl9SY2NfaUxwakJhSDRtZkZVYWNkVV9UaFg4WktLVFItRllRM2NB?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 13:26:55 GMT",
-      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     }
