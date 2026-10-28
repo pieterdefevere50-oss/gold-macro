@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-27T20:31:17.944Z",
+  "generatedAt": "2026-10-28T04:54:52.878Z",
   "bias": {
-    "score": 14,
-    "label": "Mixed / Neutral",
+    "score": 26,
+    "label": "Bullish",
     "bullWeight": 12,
-    "bearWeight": 9,
-    "driversCounted": 6
+    "bearWeight": 7,
+    "driversCounted": 5
   },
   "market": {
     "gold": {
-      "price": 4060.199951,
-      "asOf": "2026-10-27T20:31:17.342Z"
+      "price": 4038.800049,
+      "asOf": "2026-10-28T04:54:52.338Z"
     },
     "realYield10": {
       "value": 2.66,
@@ -121,30 +121,6 @@
       "coverage": 1
     },
     {
-      "title": "Gold retreats on stronger dollar; traders brace for Fed",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLS1MR2t0WUl3R2ZRb3NsSzF3d3FIMDUweXFUZFFhbUtWSS1BcHJ6N0xyT1RxcWJJMVZqRGFKTmR6ZjNaOVBodm1waW44SnpsRndUbllhVHpoN2FMZ2tnQkRGX3g0enhXb201ZlFrRnFGWmVjZGp1Tkc1d2ZzLVU1Q2ZvM1h2aFFHWXJGQlZNSjlKdV9iSldEQ2ViVFBvQjA?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 11:38:04 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Silver Falls, Gold Rallies as China Retail Investing Jumps, ETFs Sell",
-      "sentiment": "neutral",
-      "kind": "price",
-      "impact": 1,
-      "text": "Headline mixes bullish and bearish signals that roughly offset: Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score. But: Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMXF2c0ZsV29ibmM3eUtKa3laV3lRbzVERG9aV3U5Zk9RTmxnQzU5MXNmVmFONzdMSC1Ic1pMVl9RRXR4dU5pRWFNajhpTnc4VW5GOXlMUkdGTHFmTGYxNEcyY29jTHpTYm41NWdJMnp2a3E0QVhPMnc5RG9ZX0QxX2ppVzMyeHByVnJpMy1qUVg?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 13:59:57 GMT",
-      "source": "BullionVault",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold gains on softer oil prices ahead of Fed meeting",
       "sentiment": "bull",
       "kind": "price",
@@ -152,6 +128,18 @@
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWIyeWVhRnVBaHZfV05HanpZVFJzZDZiaC1MTEFVX0JEbWc5RVhRV3htMnJFMDNCVjBPWTJISkhha3ZWc3otaXBCTGloREJidmlqOWtXMTQ4Zks2aTA5czBzNC1OdGNuVXlqLVZ4TTk3M1VUSEZvdVdCLXV3bHJsZXBHSktGcXR0dk1wS2VYdWYxTm9ueGc?oc=5",
       "pubDate": "Tue, 27 Oct 2026 05:46:00 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold rises as lower oil prices ease inflation fears ahead of Fed meeting",
+      "sentiment": "bull",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 14:39:48 GMT",
       "source": "Reuters",
       "isLive": true,
       "coverage": 1
