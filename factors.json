@@ -1,41 +1,41 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-28T14:57:47.325Z",
+  "generatedAt": "2026-10-28T20:52:08.341Z",
   "bias": {
-    "score": 26,
-    "label": "Bullish",
+    "score": 14,
+    "label": "Mixed / Neutral",
     "bullWeight": 12,
-    "bearWeight": 7,
-    "driversCounted": 5
+    "bearWeight": 9,
+    "driversCounted": 6
   },
   "market": {
     "gold": {
-      "price": 4041.899902,
-      "asOf": "2026-10-28T14:57:46.889Z"
+      "price": 4070.5,
+      "asOf": "2026-10-28T20:52:07.837Z"
     },
     "realYield10": {
-      "value": 2.66,
-      "asOf": "2026-10-26",
-      "prior": 2.9,
-      "priorDate": "2026-09-28",
-      "change": -0.23999999999999977,
-      "changePct": -8.27586206896551
+      "value": 2.64,
+      "asOf": "2026-10-27",
+      "prior": 2.91,
+      "priorDate": "2026-09-29",
+      "change": -0.27,
+      "changePct": -9.278350515463918
     },
     "y10": {
-      "value": 5,
-      "asOf": "2026-10-26",
-      "prior": 5.24,
-      "priorDate": "2026-09-28",
-      "change": -0.2400000000000002,
-      "changePct": -4.580152671755729
+      "value": 4.99,
+      "asOf": "2026-10-27",
+      "prior": 5.26,
+      "priorDate": "2026-09-29",
+      "change": -0.2699999999999996,
+      "changePct": -5.133079847908737
     },
     "y2": {
-      "value": 4.68,
-      "asOf": "2026-10-26",
-      "prior": 4.92,
-      "priorDate": "2026-09-28",
-      "change": -0.2400000000000002,
-      "changePct": -4.878048780487809
+      "value": 4.7,
+      "asOf": "2026-10-27",
+      "prior": 4.89,
+      "priorDate": "2026-09-29",
+      "change": -0.1899999999999995,
+      "changePct": -3.885480572597127
     },
     "dollar": {
       "value": 121.3202,
@@ -58,8 +58,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-26",
-      "text": "The 2-year Treasury yield (4.68%) is 80bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
+      "asOf": "2026-10-27",
+      "text": "The 2-year Treasury yield (4.70%) is 82bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
     },
     {
       "key": "real_yields",
@@ -67,8 +67,8 @@
       "sentiment": "bull",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-26",
-      "text": "10Y real yield is 2.66%, down 24bp over 4 weeks (as of 2026-10-26): falling real yields lower the opportunity cost of holding gold — bullish. Real yields are the most direct macro driver of gold."
+      "asOf": "2026-10-27",
+      "text": "10Y real yield is 2.64%, down 27bp over 4 weeks (as of 2026-10-27): falling real yields lower the opportunity cost of holding gold — bullish. Real yields are the most direct macro driver of gold."
     },
     {
       "key": "dollar",
@@ -121,26 +121,38 @@
       "coverage": 1
     },
     {
-      "title": "Gold slips on higher oil prices ahead of Fed decision",
+      "title": "Gold Slips to $4,051 as Oil Rally Fuels Fed Hike Fears",
       "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUczTDEtcklEQks1UTM3TlZhanpWZ19RUUVMTnkzQTFXWHpmeEF0YWVST0gzamNJNG5KVFJIcUZMOUxnZnBRMkhXYjBkaGdER1Vkc2hQWmplZmluYkQ4YWNsbkwwY0N5ZzFDQldCTDJucHRZY3lOVHdPWEt0RnJmQVprXzBoQnFEZHM3OS13cGNrRFp6MjBuMXJrVTRpcGs3UkpN?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 06:16:00 GMT",
-      "source": "Reuters",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSThMSDdZOWlfMDJUOUNSNlFGUTFCSGxCX3VOcjBFREVBX0lWRmpTLWZMTWVRZVBJWXpUMFdWZkkweWZLOUU2ME1lUmFpdk85YnRVYnEwVlRuN3lUVFZnU3IzZzR0dUhQSmd0NVpweGNRQUJ2WHl3ZEN2SVlyQ0lzQ0ZWWXlQU05kWUhCNTYxNUF4UQ?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 15:55:44 GMT",
+      "source": "Crux Investor",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Will Gold Prices Fall Further? Why Shoppers Are Holding Back Ahead Of Diwali",
+      "title": "Gold prices could fall to $3,900, silver to $50 as Fed tightening pressures precious metals – Sucden Financial",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUhwS2UwWGU1QVhRMjZGb3RhdnloQ3hZYklLM3ZjaW0tWXBWZjhGRHBZOHhJbS1DUDZ4eUFPc0dOTDczWkRLQUZmVVY4QmFKS0Q2OHFoX3Vvbmc4TVE2d19xZ0lvN1lnLWNNam5reW80R2gydGxpcFlSZmJnRm9wZXcwczRHZGptZjg0TUhVVU9PVjdDd1Q1Y3d6TUNMR0lWZFBrQWJCSzBwbnJfSG5kU1lyLVo2N1hwQWdV0gHDAUFVX3lxTE50bnV2ZTZnT19oYXVSbG5fQ0VsWFdUeFlVTFB1UlVGMFRtSUc0d3RxLWViclFjNm5BRFV4SUhFdWd5b0ZMNzVkdXBmVmkzYTJ6cjZScnpoa01aMFJwUjM2VEJ5cVFvYVhHV19WVm9WdzlIZ0ZHTTl5VzBKdHNjNWFWWGNyampMQ1lKUS1pNGw2NDd5VUZHTFNINFdMU1YtQUhvWlJUVXhrVEUxZ3BZYldYUlZ6WDVVdXJfOVFCcGV5QlRBMA?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 03:21:04 GMT",
-      "source": "NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWnF0bG92emZOM0VGZEhBbjRnLXkwTGpvbm9mU3ZHcXBqeVpkUmMxb2cxcVd6UWc1dENEMUtXaGphakxjTmtQY3lBVUFsZDdRY3E0UHBna1BYdl9QajFQLXJndzl5ZUttaWtISTZIbGhORE1kMGJ4UVZfQ19Ya1FHZVkxTU1rRXZiVEdvMUtBdGl5Q0ZMWFZRcEQwTGRkT09VbmQ5MjI0TEs1V0NXZUZ5eldURXBpenpr?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 16:05:04 GMT",
+      "source": "Kitco",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold price drops to $4,035/oz as Fed votes 10-2 in favor of rate hold",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTkVadUVFNW9aUUZEM1BhNnZBQ0k3M004YUdlemlZbldkZmN2ZXRaWjNnalI0VzZ3aC0tTERhWWxRR1RWZTlpaGZvTnFndnJxUEk1OUgyU3lKWkE3SVZFeUJNX2NCTWZ3WDA5TS01VTd0dmVIVFJ5akl0UHR4b3BVUzVnbVR4Sl90clRuY3FNdGF4Zmx3SnNpWVU5WHFVRGhqMFE?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 18:01:20 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     }
