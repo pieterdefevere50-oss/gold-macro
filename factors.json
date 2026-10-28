@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-28T04:54:52.878Z",
+  "generatedAt": "2026-10-28T14:57:47.325Z",
   "bias": {
     "score": 26,
     "label": "Bullish",
@@ -10,8 +10,8 @@
   },
   "market": {
     "gold": {
-      "price": 4038.800049,
-      "asOf": "2026-10-28T04:54:52.338Z"
+      "price": 4041.899902,
+      "asOf": "2026-10-28T14:57:46.889Z"
     },
     "realYield10": {
       "value": 2.66,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-10-27"
+      "asOf": "2026-10-28"
     }
   },
   "evergreen": [
@@ -121,26 +121,26 @@
       "coverage": 1
     },
     {
-      "title": "Gold gains on softer oil prices ahead of Fed meeting",
-      "sentiment": "bull",
+      "title": "Gold slips on higher oil prices ahead of Fed decision",
+      "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWIyeWVhRnVBaHZfV05HanpZVFJzZDZiaC1MTEFVX0JEbWc5RVhRV3htMnJFMDNCVjBPWTJISkhha3ZWc3otaXBCTGloREJidmlqOWtXMTQ4Zks2aTA5czBzNC1OdGNuVXlqLVZ4TTk3M1VUSEZvdVdCLXV3bHJsZXBHSktGcXR0dk1wS2VYdWYxTm9ueGc?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 05:46:00 GMT",
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUczTDEtcklEQks1UTM3TlZhanpWZ19RUUVMTnkzQTFXWHpmeEF0YWVST0gzamNJNG5KVFJIcUZMOUxnZnBRMkhXYjBkaGdER1Vkc2hQWmplZmluYkQ4YWNsbkwwY0N5ZzFDQldCTDJucHRZY3lOVHdPWEt0RnJmQVprXzBoQnFEZHM3OS13cGNrRFp6MjBuMXJrVTRpcGs3UkpN?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 06:16:00 GMT",
       "source": "Reuters",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold rises as lower oil prices ease inflation fears ahead of Fed meeting",
-      "sentiment": "bull",
+      "title": "Will Gold Prices Fall Further? Why Shoppers Are Holding Back Ahead Of Diwali",
+      "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 14:39:48 GMT",
-      "source": "Reuters",
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUhwS2UwWGU1QVhRMjZGb3RhdnloQ3hZYklLM3ZjaW0tWXBWZjhGRHBZOHhJbS1DUDZ4eUFPc0dOTDczWkRLQUZmVVY4QmFKS0Q2OHFoX3Vvbmc4TVE2d19xZ0lvN1lnLWNNam5reW80R2gydGxpcFlSZmJnRm9wZXcwczRHZGptZjg0TUhVVU9PVjdDd1Q1Y3d6TUNMR0lWZFBrQWJCSzBwbnJfSG5kU1lyLVo2N1hwQWdV0gHDAUFVX3lxTE50bnV2ZTZnT19oYXVSbG5fQ0VsWFdUeFlVTFB1UlVGMFRtSUc0d3RxLWViclFjNm5BRFV4SUhFdWd5b0ZMNzVkdXBmVmkzYTJ6cjZScnpoa01aMFJwUjM2VEJ5cVFvYVhHV19WVm9WdzlIZ0ZHTTl5VzBKdHNjNWFWWGNyampMQ1lKUS1pNGw2NDd5VUZHTFNINFdMU1YtQUhvWlJUVXhrVEUxZ3BZYldYUlZ6WDVVdXJfOVFCcGV5QlRBMA?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 03:21:04 GMT",
+      "source": "NDTV",
       "isLive": true,
       "coverage": 1
     }
