@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-29T05:06:12.527Z",
+  "generatedAt": "2026-10-29T15:03:46.682Z",
   "bias": {
-    "score": 14,
+    "score": -17,
     "label": "Mixed / Neutral",
     "bullWeight": 12,
-    "bearWeight": 9,
-    "driversCounted": 6
+    "bearWeight": 17,
+    "driversCounted": 10
   },
   "market": {
     "gold": {
-      "price": 4044.300049,
-      "asOf": "2026-10-29T05:06:11.997Z"
+      "price": 4026.600098,
+      "asOf": "2026-10-29T15:03:46.092Z"
     },
     "realYield10": {
       "value": 2.64,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-10-28"
+      "asOf": "2026-10-29"
     }
   },
   "evergreen": [
@@ -109,26 +109,74 @@
   ],
   "live": [
     {
-      "title": "POLL Strong dollar, high yields drag on gold outlook, but central-bank demand lends support",
+      "title": "Gold slips as Fed hike bets linger ahead of US inflation data",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2N0dGg4Q1VsMUJXaTJYb1J4cjJiQjRGYS16djR0Nnh5VGVsQmFRZXctU0w3UUpfclljaFp4ZW5DVFZTLVYzTUlSWDY5Q0JsQ0JLYjF5aFJoVDBpOGhrWnkxdEZKdUtpQzNPc1kxRGdGRkdTZENtM25LLUNYNTdlMjNnMHdUcU52VVlFTkNXRUJKMDFhWEhFalptcGZvQ0FZeUl1UHF5T3Z2UmpWOUR6ekJmMnlHblRWQU1MUzFUaXZiUzA?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 13:30:00 GMT",
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlhrT3hjaWJ0VXJlcHYxRUdvdVJsVEpGN2lzQXA4a1pLNW5SdklwTFpMYmRNTGRNQ2w2MTRTR2g0UUJfMkx0c21Ja1Fqbzd4eVk1U1gySHF5cnYwQ0FqUzFWWVVMVXpWaUMtQ3d2VGs1TERHQ0dtbFpMWWgxbVpoVS13bGRORTByVkZaS0piSjNxYTk0eUtoZ0ItV2wxbzNnOXhCM2R1bW1Sa1laZUE?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 04:25:00 GMT",
       "source": "Reuters",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold Slips to $4,051 as Oil Rally Fuels Fed Hike Fears",
+      "title": "Gold drops 1% as US PCE inflation strengthens case for December Fed rate hike",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSThMSDdZOWlfMDJUOUNSNlFGUTFCSGxCX3VOcjBFREVBX0lWRmpTLWZMTWVRZVBJWXpUMFdWZkkweWZLOUU2ME1lUmFpdk85YnRVYnEwVlRuN3lUVFZnU3IzZzR0dUhQSmd0NVpweGNRQUJ2WHl3ZEN2SVlyQ0lzQ0ZWWXlQU05kWUhCNTYxNUF4UQ?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 00:00:04 GMT",
-      "source": "Crux Investor",
+      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFNOVzAtejhZWTl2QlFRUG1kYkN5SzI3ZDZsZU1MS1dveGFKaW9vczFvZHF2REFGQ0JHX3hranA0eXJWR3paN1NQU21uZ3hXRV9HSDd2dVFfLTZnaWk5RUI2QkxSWVlvMXNla2luVXM5TTdIVHVhRklSbFNrMmFNRDJ0RkhRVGsyVDZaWGtPTEc3dWlzNmMyemR4MlBacFNqeGhXcTlxMmZZdw?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 13:04:37 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Price Forecast: Dow Ratio Warns of More Downside as Yields Rise",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmlXb2NPU2NsUlNBSmR4dnBLN3BXeXFXX2JFempMa1dPSXNSZDJONTFvUld0cm5BVTFMZWRFNm93b3A2el9GREtiUWtpUkFldTJjN2JHeFZSOGJxNU1xc1YwU0lvTkU0MmtEdVlrQlJ6ZnlVd2tuSUdvX2l6UnFNS3JPanVmOE93WUxjc1lvSnYtMjFLZExXbllsclE3aEhIcVgxQ0FrWGxuc3VNaldGajkzTVRsTXotYVZLNmkwajhqS0Rj?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 10:10:03 GMT",
+      "source": "FXEmpire",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Stalls as Firm Dollar Caps Gains Ahead of US Data",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNWZZOUNXbFpzQ3lOMlBqTHRpR29sMGo2LXd0cWtmbXFCZVZMc1p6SkU0MlM4M3R5ejJkc3NYeXJnNW0xMlUwNk9ibTdsR18xWlkzWFUtWGkwSVZzNmRha29BTmtQOUdZbGIxMVpzT19Qc1U5RVh1d1FUT2RMR05DdGFkdkd3VTduY1dxSVRTVl9sRjRJRDY0cDRscw?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 08:02:26 GMT",
+      "source": "TradingPedia",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "US Fed decides no interest rate hike: Outcome impact on gold prices in India and your investments; experts weigh in",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUGtuTzBhbHdvS1FhN3JpaVV6TnZHMHhEYVpzekFwV0ZPd3NGR3MtRjdpMl9PQjBBbVNBdHdoRkZjTTNYZTBtYUZkbnZHRUQ4SWNTTlVWVDN0SmxKd3REVlNyRllUeUlOM2ZHalNsOUhrcURLT3BVTHoyVXVUVnNHY1pzWTVITEthR2NveDdscFlJZmNjODlwVXdYSWZOV2JXUDg1RW04MjhFb0pnR2xBeV8wQzFWNmdfQ0l3MHhqUllPdlRpbVh6YW9sV21wVENXVjNQbi1XVU1GU1M5dkNlNFFibEk1MHdRTVRsdy1qUXdRQkpfQkdibHJleWMzQllFUTdyUTMtQW02M2FHc2fSAZMCQVVfeXFMTjExVXFobkRfd0lNU1RfN29pR1ZUSExBQllXN1FNbEl6NjdXaDlDZ0JwZklJVnMxNWxYWTlqc3A3MFBGMGE4YzJXYnk0V1l2WVl2N0VpTkVjWEVONTFRQkFwZjdpWmRkSmZIZGw3NHNMakp0d0E4dEY4c3ZkaHZ5MWVHTFR5SVV1TW9mUGQ4WWJGYTg2Rk41cHhGRDUzNGJRUENVRHRRbGYtS2NHUVg4dEpLT0RqWTdYSXRwQjNvcXpRUTZzNWU3ekwxVkNTRVh0dmsxejNqVVhYWjFvVmQyd0E1RnNVU21LZFdOVzNOblF2eElIbmgxdGdlNXRXcFY0MkxWUGxmS2JHMEhrM3QyOW1sTVk?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 09:31:51 GMT",
+      "source": "Livemint",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Price Forecast: XAU/USD Rejected at $4,074 Ahead of PCE After Hawkish Fed Hold",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWE1tbUxVeXpzVGtlaGFmMjNROVpCVzlTcW5JVVZ6Z3Z0UDAtWkQ4NDdCNGF0TUljT3QxZzFaNDRyV1hnWWVEc0R2T3JMVUx6Rlctb055SkNvY2hpUjVfT1RzXzFOYWREY1h5UzNLX0V3Y1VnamtpS1Z0Z29ycjdOQ2lwZ25QXzl4NWVDa2VaQjJQcUNWbm5Jemw3dzVZQ3NWUjNSUHVhUUt6eG5vTGdPaHFTYmdUWTZkaGljMUVnUXA?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 06:14:43 GMT",
+      "source": "FXLeaders",
       "isLive": true,
       "coverage": 1
     },
@@ -145,14 +193,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold slips as markets assess Fed signals, await US inflation data",
+      "title": "Gold Prices Fall to $4,038 as Investors Await US Inflation Data Following Fed Rate Decision",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlhrT3hjaWJ0VXJlcHYxRUdvdVJsVEpGN2lzQXA4a1pLNW5SdklwTFpMYmRNTGRNQ2w2MTRTR2g0UUJfMkx0c21Ja1Fqbzd4eVk1U1gySHF5cnYwQ0FqUzFWWVVMVXpWaUMtQ3d2VGs1TERHQ0dtbFpMWWgxbVpoVS13bGRORTByVkZaS0piSjNxYTk0eUtoZ0ItV2wxbzNnOXhCM2R1bW1Sa1laZUE?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 04:25:00 GMT",
-      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQXy1Cb2pBZmdDRVRZYU5xOGlPQTdoOEptRG1NN3E3UkJzNjJiNjAyODQ2NWRxZ1VrRW5Eemk3XzJveEZ6djBLalVKR2xXMTk3Z1dpNDNCVGpMVTZ5U3BpZ0lUZXlZVnZnSlFYYTI1VzJzMTVoOG5PRzgwVGxMOGZjRWQxbkxOaUFOM2FZVzN1TS1tQkU3TU9V?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 11:36:42 GMT",
+      "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
     }
