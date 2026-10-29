@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-28T20:52:08.341Z",
+  "generatedAt": "2026-10-29T05:06:12.527Z",
   "bias": {
     "score": 14,
     "label": "Mixed / Neutral",
@@ -10,8 +10,8 @@
   },
   "market": {
     "gold": {
-      "price": 4070.5,
-      "asOf": "2026-10-28T20:52:07.837Z"
+      "price": 4044.300049,
+      "asOf": "2026-10-29T05:06:11.997Z"
     },
     "realYield10": {
       "value": 2.64,
@@ -127,20 +127,8 @@
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSThMSDdZOWlfMDJUOUNSNlFGUTFCSGxCX3VOcjBFREVBX0lWRmpTLWZMTWVRZVBJWXpUMFdWZkkweWZLOUU2ME1lUmFpdk85YnRVYnEwVlRuN3lUVFZnU3IzZzR0dUhQSmd0NVpweGNRQUJ2WHl3ZEN2SVlyQ0lzQ0ZWWXlQU05kWUhCNTYxNUF4UQ?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 15:55:44 GMT",
+      "pubDate": "Thu, 29 Oct 2026 00:00:04 GMT",
       "source": "Crux Investor",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold prices could fall to $3,900, silver to $50 as Fed tightening pressures precious metals – Sucden Financial",
-      "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWnF0bG92emZOM0VGZEhBbjRnLXkwTGpvbm9mU3ZHcXBqeVpkUmMxb2cxcVd6UWc1dENEMUtXaGphakxjTmtQY3lBVUFsZDdRY3E0UHBna1BYdl9QajFQLXJndzl5ZUttaWtISTZIbGhORE1kMGJ4UVZfQ19Ya1FHZVkxTU1rRXZiVEdvMUtBdGl5Q0ZMWFZRcEQwTGRkT09VbmQ5MjI0TEs1V0NXZUZ5eldURXBpenpr?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 16:05:04 GMT",
-      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
@@ -153,6 +141,18 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTkVadUVFNW9aUUZEM1BhNnZBQ0k3M004YUdlemlZbldkZmN2ZXRaWjNnalI0VzZ3aC0tTERhWWxRR1RWZTlpaGZvTnFndnJxUEk1OUgyU3lKWkE3SVZFeUJNX2NCTWZ3WDA5TS01VTd0dmVIVFJ5akl0UHR4b3BVUzVnbVR4Sl90clRuY3FNdGF4Zmx3SnNpWVU5WHFVRGhqMFE?oc=5",
       "pubDate": "Wed, 28 Oct 2026 18:01:20 GMT",
       "source": "Kitco",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold slips as markets assess Fed signals, await US inflation data",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlhrT3hjaWJ0VXJlcHYxRUdvdVJsVEpGN2lzQXA4a1pLNW5SdklwTFpMYmRNTGRNQ2w2MTRTR2g0UUJfMkx0c21Ja1Fqbzd4eVk1U1gySHF5cnYwQ0FqUzFWWVVMVXpWaUMtQ3d2VGs1TERHQ0dtbFpMWWgxbVpoVS13bGRORTByVkZaS0piSjNxYTk0eUtoZ0ItV2wxbzNnOXhCM2R1bW1Sa1laZUE?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 04:25:00 GMT",
+      "source": "Reuters",
       "isLive": true,
       "coverage": 1
     }
