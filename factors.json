@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-30T14:56:15.230Z",
+  "generatedAt": "2026-10-30T20:35:44.833Z",
   "bias": {
     "score": -3,
     "label": "Mixed / Neutral",
@@ -10,32 +10,32 @@
   },
   "market": {
     "gold": {
-      "price": 3915.199951,
-      "asOf": "2026-10-30T14:56:14.806Z"
+      "price": 3877.199951,
+      "asOf": "2026-10-30T20:35:44.226Z"
     },
     "realYield10": {
-      "value": 2.67,
-      "asOf": "2026-10-28",
-      "prior": 2.93,
-      "priorDate": "2026-09-30",
-      "change": -0.26000000000000023,
-      "changePct": -8.873720136518779
+      "value": 2.63,
+      "asOf": "2026-10-29",
+      "prior": 2.88,
+      "priorDate": "2026-10-01",
+      "change": -0.25,
+      "changePct": -8.680555555555555
     },
     "y10": {
-      "value": 5.05,
-      "asOf": "2026-10-28",
-      "prior": 5.29,
-      "priorDate": "2026-09-30",
-      "change": -0.2400000000000002,
-      "changePct": -4.536862003780722
+      "value": 4.98,
+      "asOf": "2026-10-29",
+      "prior": 5.24,
+      "priorDate": "2026-10-01",
+      "change": -0.2599999999999998,
+      "changePct": -4.961832061068698
     },
     "y2": {
-      "value": 4.67,
-      "asOf": "2026-10-28",
-      "prior": 4.88,
-      "priorDate": "2026-09-30",
-      "change": -0.20999999999999996,
-      "changePct": -4.303278688524589
+      "value": 4.61,
+      "asOf": "2026-10-29",
+      "prior": 4.78,
+      "priorDate": "2026-10-01",
+      "change": -0.16999999999999993,
+      "changePct": -3.5564853556485336
     },
     "dollar": {
       "value": 121.3202,
@@ -58,8 +58,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-28",
-      "text": "The 2-year Treasury yield (4.67%) is 79bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
+      "asOf": "2026-10-29",
+      "text": "The 2-year Treasury yield (4.61%) is 73bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
     },
     {
       "key": "real_yields",
@@ -67,8 +67,8 @@
       "sentiment": "bull",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-28",
-      "text": "10Y real yield is 2.67%, down 26bp over 4 weeks (as of 2026-10-28): falling real yields lower the opportunity cost of holding gold — bullish. Real yields are the most direct macro driver of gold."
+      "asOf": "2026-10-29",
+      "text": "10Y real yield is 2.63%, down 25bp over 4 weeks (as of 2026-10-29): falling real yields lower the opportunity cost of holding gold — bullish. Real yields are the most direct macro driver of gold."
     },
     {
       "key": "dollar",
@@ -109,16 +109,16 @@
   ],
   "live": [
     {
-      "title": "Gold hits four-month low, silver falls below $50/oz on Fed hike fears",
-      "sentiment": "bear",
+      "title": "Gold prices drop sharply at the end of October. The collapse of the safe-haven myth or a search for liquidity?",
+      "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 03:24:00 GMT",
-      "source": "Reuters",
+      "text": "Points to safe-haven demand as investors seek protection from risk.",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcWh6TGR5aUlDd04yYWhxN2pMRUJGRVdIcUN3aWpHRFFDSUZ0WFFfb1VDV2hfejlWVjk5a3B1NWJLT09Hbjk0NEltaVJxTHpweFg3cDYwMndaVFpvRk5NZTlPSE9BWVdxb1o2NWE1UXNDNWhGSWNtS0lmZk5vMkhObXlfSEs5MHVUcUhZTHFwWUpRVHVTNHZVMXl6eE83VkFNV09fVHlIT2RqVWM1RE1Nb2d4MUI1ZHhxYVRYaFRYZnFwLXY0X296eXJyaWx6VjFYQUJscDRNcDNKNlA3WDdURFNORFJmVllta3lnWlVhYndGcl82bDhBMQ?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 15:56:30 GMT",
+      "source": "XTB.com",
       "isLive": true,
-      "coverage": 2
+      "coverage": 1
     },
     {
       "title": "Gold Price Forecast: XAU/USD falls below $4,000 as strong US data strengthen case for Fed rate hike",
@@ -157,26 +157,26 @@
       "coverage": 1
     },
     {
-      "title": "Gold Slips Below $4,000 as US Inflation Data Strengthens Fed Rate Hike Expectations",
+      "title": "Gold hits one-year low, silver drops below $50 as higher-for-longer rate view firms",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sUWJNTWdJWVZLMklEamZpRm5WYkdBRjlYOWlzMjlpTHdpQzUwbWhfLU8wSjcyU2YzazhTV0VJNUVYMzlkMTlaa3c1b3V6Z3dDN184MTk4Rm1hZVV4djQ5VllqYWNvOTFWWktmcVFuY25abnNTMWRtT0o0SQ?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 10:07:00 GMT",
-      "source": "Yahoo Finance UK",
+      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYzFrQTVVSEVjZTloUV9YZGo2a09PdUZwblU3RkhwRGR4M1ZtcDB4WUhHSnRJZ2lFMFZRdm5oR1NlaFlVMWlYQlBTTFhLNGJyTFJTM3IzS1lBbUF6d1F4RWRBSjBJWjlvMG9zSG5mR2ZQeG5CSUNYMVpoaElfbmJWckJncDNmTkhzaV9sR3ZVZUswa0hSQzJPUTNEcTVIa21ReEdZ0gGoAUFVX3lxTE5pN0NzSHh5TjRZbjNoZ2wwR1J1bDdCOWdBaENFVGQ1U0NjeTBLTWlKY21pa2twRXdQTjhmQW84bUJ1amVWWGg3elJ5T2dINEdQZHkwcmxVb1ZZMHcxajE4ZHlIU3hrRDR6d1RURmVwY0RCQllidHc4RkxyUFFkSDBjVm9wWmdsTGRmMUlxNi1nMGphcEdBSl9mN1RSRmhjdWdRcmdIOVlNSg?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 04:49:03 GMT",
+      "source": "CNBC",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold Falls Below $4,000 as the Safe-Haven Trade Turns Upside Down",
-      "sentiment": "bull",
+      "title": "Gold hits 3-1/2-month low on Fed hike fears, set for monthly loss",
+      "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Points to safe-haven demand as investors seek protection from risk.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHpaam9tcHowUVpuNWtEVGlJVHAzaXpGX2tJbHdnN0F4dVByQTlQaXNwXzU3SGtETXpSWjN1RXBfdjk4RG5MbG9HQUMxbEFBR25fZllTWm1nZ2lER2h6Vy0wTC00dE5DcGdyaWtVRkJwZnZ2ZzgzQmd5a2NudlhjWXJ3cF9aOXozaTh3aUF3?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 13:01:50 GMT",
-      "source": "CoinWeek",
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFpGbkZMNi1YLW9ZejM4SWZiYlFmcFJFM09RMHpWWHU3ZXZLSmJXemd1aFhxcTNZODBvbTR3VjczMlVWOWRUbENvTjA3d3g5aWxmdEtqeEdDbC1ZdjBJRVZnYjh1ZENWSUhFU2F2aEtsTjVfalkwSmdlZlhZbExXTUNUTWhOQUJ2al96blBsREFrU1RtdDFyTmZCZkVnM1JPWFJjZGstOXJrSkk?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 12:18:19 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
@@ -193,14 +193,14 @@
       "coverage": 1
     },
     {
-      "title": "Silver Falls Thru' 1980 and 2011 Peak at $50 as Gold Sinks",
+      "title": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUZjdXh3dUNCbmMxWGhNRzBsQlpzdDBnWGNXcHNPVndRVGFqbDNNVEFWTjlBUWZZVzQ1c3QzTGdwN1NlV1V1a0dFcm5NdG5QVjFVWFVmNUY0TG5ob1VaaWhVOE50bmh5ZW9ZdjBzNEdrek5SQ1M0OUlEZjJnYTlQcWItV0Q2MHp4LXpDU2E1bnlmR1U?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 13:20:33 GMT",
-      "source": "BullionVault",
+      "text": "Gold is at a fresh low. This describes the price outcome, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWJnbS1JeHBpOHJBSFRHSk5wZ2stdmFPblE5YTdvUmVsbUpna0JQdm5NNTdDVEVVLWp3ZUJVb0RxUGhKc2V1MU1xOG5vRnZMMHktZElrSGJwbnJ5U2tBZTlmenlkMGp6OTdaRTBsZkZCX0hmWHdLSGZ3TUZnOVNWdkFZU2pDSzdUMDVxODJ1Mkd1UEx5S1czS2xMWnRTUzRnM1RKaQ?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 16:30:49 GMT",
+      "source": "Mining.com",
       "isLive": true,
       "coverage": 1
     }
