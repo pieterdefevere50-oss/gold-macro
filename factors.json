@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-30T05:05:43.838Z",
+  "generatedAt": "2026-10-30T14:56:15.230Z",
   "bias": {
-    "score": -23,
-    "label": "Bearish",
-    "bullWeight": 12,
-    "bearWeight": 19,
-    "driversCounted": 11
+    "score": -3,
+    "label": "Mixed / Neutral",
+    "bullWeight": 14,
+    "bearWeight": 15,
+    "driversCounted": 10
   },
   "market": {
     "gold": {
-      "price": 3998.800049,
-      "asOf": "2026-10-30T05:05:43.378Z"
+      "price": 3915.199951,
+      "asOf": "2026-10-30T14:56:14.806Z"
     },
     "realYield10": {
       "value": 2.67,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-10-29"
+      "asOf": "2026-10-30"
     }
   },
   "evergreen": [
@@ -109,7 +109,7 @@
   ],
   "live": [
     {
-      "title": "Gold slips as higher oil, US inflation data bolster Fed hike bets",
+      "title": "Gold hits four-month low, silver falls below $50/oz on Fed hike fears",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
@@ -118,7 +118,7 @@
       "pubDate": "Fri, 30 Oct 2026 03:24:00 GMT",
       "source": "Reuters",
       "isLive": true,
-      "coverage": 1
+      "coverage": 2
     },
     {
       "title": "Gold Price Forecast: XAU/USD falls below $4,000 as strong US data strengthen case for Fed rate hike",
@@ -133,85 +133,73 @@
       "coverage": 1
     },
     {
+      "title": "Fed Hike Bets Lower Gold’s Entry Price as Custody Shapes Digital Demand",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1RsdGdpc3ZmZzJzdnhpTW1Kaml4bElhRU5IY1EwRG4zdXdTV04zakMzR0h3Y0ZXTjZGQVQ1Mi1jUERHOVMxLV9TNVp4bHJJN1hsQjktUWFoOTNHTDFkSkRhSzlFeHlCMnlNZ05wS2dpSkl1b0pmV0c0dUtJckxNN201bkVDZWFDX1J1NEdNN0hnRGJjX1FPWmd4cmtzMEIzbnpmV1ZNa3A?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 11:51:24 GMT",
+      "source": "Crux Investor",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold and Silver Price Forecast: Silver Lags as Fed Hike Fears Grow",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGZOS0VFblE5RVJPNTBlb3k5Y25fWldYX21abE5pYmJpUmVHdS1NSDExX29ZWnZKSkx1c1Y4WHdoVFpYYnpuR2JxLTM5Q2YwS2NCT2F0bTJGT2pSR2Excng4UXg4ZU1pRkdtR2dZemVMSWtIRkd4ODlTbFpJRFpBM3dwVGxVUUwxR3FrT1JGUHZEVEYwWkJEWXBrSGMxRWNlU3hMVTBidVFRU1dBWVM3NENOS0JtMTg?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 03:44:48 GMT",
+      "pubDate": "Fri, 30 Oct 2026 06:36:44 GMT",
       "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Can gold hold $4,000 as strong US GDP and a cautious ECB squeeze the bulls?",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Strong growth data reduces the relative appeal of safe-haven gold.",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZDZJVk9jZFJ6TEN2aWhXT2tLYVdBUHZyS0FLRkd6QjQ5N3FVaDN5RDZjX3J2ZmFsSVdGamlzYjJQdFZ0ZzhpcmFoN0NqNHRpcWJDVW5yQ0ZOekt3WFpac3Z0dTkzdW4zZHQ5Zy1TSHV5YVBwR3JhT0RtVFNyb1ZQUGxScTE4djRHd0RQR3Bnekl2VWtHNElvRFZWU0t1cG1LUmllRVhJUQ?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 18:44:06 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold remains stuck as the Fed takes a hawkish pause - TDS’ Melek",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXc0WmY1cTBwYXd0OVhjejV6em9BWjc3VzBzQkc2cVVYamJ6MkVxNHN3ZzI5YWJkN2x0MkJocXk4LWtVRUVrdm9UaUJQbi1YWDg4ZjRLdVNiZWF0UFN6SGNrLWl0ZDB3MG1HWjNkbUxkcXFKV2ktUVV0ZXNPOWl3bmRGRlNrTzhrNy1qMFV1RGRwcFJCT0dYMGJoY08tUU0?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 17:25:02 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold falls to near $4,000 as US PCE data reinforces December Fed hike odds",
+      "title": "Gold Slips Below $4,000 as US Inflation Data Strengthens Fed Rate Hike Expectations",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV21WSjl6c1BWTC1UTmtKbkhXNXJHdlhTSEFqZmhxM1JvUFFiWS1YNlRWdlh3cGFLTFVleWIyTmJlZ0hza1dPNHBwT0FvbmxycS1FczVIbThueVVhVWYxeFJNdlBPZ2NTZE52Q1MzbE9ZQjJjU1JNZjgxbjFGY3BMSU82dm5kdndzTFdhdnJleEVoZmtPQTc0TWpEczVOZGVBeXl1aFJsdGEweDFLRXFvT2wwUFlnbkk?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 23:18:51 GMT",
-      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sUWJNTWdJWVZLMklEamZpRm5WYkdBRjlYOWlzMjlpTHdpQzUwbWhfLU8wSjcyU2YzazhTV0VJNUVYMzlkMTlaa3c1b3V6Z3dDN184MTk4Rm1hZVV4djQ5VllqYWNvOTFWWktmcVFuY25abnNTMWRtT0o0SQ?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 10:07:00 GMT",
+      "source": "Yahoo Finance UK",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold and silver sink as strong US GDP revives Fed rate hike bets",
-      "sentiment": "bear",
+      "title": "Gold Falls Below $4,000 as the Safe-Haven Trade Turns Upside Down",
+      "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish. Strong growth data reduces the relative appeal of safe-haven gold.",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONmo1dlpvbkppTm1lR185WnZ6c1BfaTBFVjd2Wk15ZDdLNFd2YU5vSlVvaTktQ2JhQmtUMHJBdGpRMkJWSzhZajhnbHZlZ2VEeG5EYTctVDk1VGZ2bmN3b1RRY0l0Zm42N1pObW1nb25qRk5SNzRHUUtEQmxsY093Z2ljcnoxYXl6VUYzbzBNMFBxQU1DX0U4?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 02:49:52 GMT",
-      "source": "Startup Fortune",
+      "text": "Points to safe-haven demand as investors seek protection from risk.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHpaam9tcHowUVpuNWtEVGlJVHAzaXpGX2tJbHdnN0F4dVByQTlQaXNwXzU3SGtETXpSWjN1RXBfdjk4RG5MbG9HQUMxbEFBR25fZllTWm1nZ2lER2h6Vy0wTC00dE5DcGdyaWtVRkJwZnZ2ZzgzQmd5a2NudlhjWXJ3cF9aOXozaTh3aUF3?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 13:01:50 GMT",
+      "source": "CoinWeek",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold slides as higher U.S. inflation reinforces Fed tightening bets",
+      "title": "Gold price today, Friday, October 30, 2026: Gold slips below $4,000 as Mid-East concerns mount",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYzFrQTVVSEVjZTloUV9YZGo2a09PdUZwblU3RkhwRGR4M1ZtcDB4WUhHSnRJZ2lFMFZRdm5oR1NlaFlVMWlYQlBTTFhLNGJyTFJTM3IzS1lBbUF6d1F4RWRBSjBJWjlvMG9zSG5mR2ZQeG5CSUNYMVpoaElfbmJWckJncDNmTkhzaV9sR3ZVZUswa0hSQzJPUTNEcTVIa21ReEdZ0gGoAUFVX3lxTE5pN0NzSHh5TjRZbjNoZ2wwR1J1bDdCOWdBaENFVGQ1U0NjeTBLTWlKY21pa2twRXdQTjhmQW84bUJ1amVWWGg3elJ5T2dINEdQZHkwcmxVb1ZZMHcxajE4ZHlIU3hrRDR6d1RURmVwY0RCQllidHc4RkxyUFFkSDBjVm9wWmdsTGRmMUlxNi1nMGphcEdBSl9mN1RSRmhjdWdRcmdIOVlNSg?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 04:49:03 GMT",
-      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONDZKVXFEUEtkWm8xRm1EWDNURkFBdjdQX212NzZGZk1lbHJwWEFUTkZFVWxnOG53MmstWTBwMmk1eUg3XzRMeXBpNFhKVUVMYmF5QWNwdFo4a3AwaWxkVXg4TmltM0QwSDMwTWJad2JBUnJaRXE1Qk5wTEI0OWNEQi1kZDFJRzRObHhLcVB5U3hXZ2czalI4a3BwLW43LVpDeEFpZ0tBRVNuMEE1Rk82RUtialg5aHc3UTctNzBPbmxTTkFOWFFLU1ByazNjLTBRSkR0Z0IyMjVteEktT1RJQVNQamttTHpPbDJjc0xWYlhodWxSZ3RB?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 11:14:51 GMT",
+      "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold Prices Slip as Fed Rate Outlook Shifts; Silver Hits 11-Month Low",
+      "title": "Silver Falls Thru' 1980 and 2011 Peak at $50 as Gold Sinks",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold is at a fresh low. This describes the price outcome, so it is not counted in the bias score. Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSlEzUVl0alVzMldGRGc3MlRENDhKQUp1V0R2cndFYWVCRTktQzJaMFNKdldCZXkya2RLV1BuUEdjUWR6Qnp5M2h4NVJzSlltNkF5X2Z6ZG8yckM1bFgtRGNIMGc3SjVHbktXd1JONFFEeTYydldLNDVqajRZRW1waDFKaEpXc3F3U29KRlhLcVJuaDRNVkZzTw?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 15:26:14 GMT",
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUZjdXh3dUNCbmMxWGhNRzBsQlpzdDBnWGNXcHNPVndRVGFqbDNNVEFWTjlBUWZZVzQ1c3QzTGdwN1NlV1V1a0dFcm5NdG5QVjFVWFVmNUY0TG5ob1VaaWhVOE50bmh5ZW9ZdjBzNEdrek5SQ1M0OUlEZjJnYTlQcWItV0Q2MHp4LXpDU2E1bnlmR1U?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 13:20:33 GMT",
       "source": "BullionVault",
       "isLive": true,
       "coverage": 1
