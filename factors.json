@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-31T14:25:12.569Z",
+  "generatedAt": "2026-10-31T19:48:35.715Z",
   "bias": {
-    "score": 33,
+    "score": 22,
     "label": "Bullish",
     "bullWeight": 14,
-    "bearWeight": 7,
-    "driversCounted": 6
+    "bearWeight": 9,
+    "driversCounted": 7
   },
   "market": {
     "gold": {
       "price": 3876.399902,
-      "asOf": "2026-10-31T14:25:12.051Z"
+      "asOf": "2026-10-31T19:48:35.213Z"
     },
     "realYield10": {
       "value": 2.63,
@@ -109,6 +109,18 @@
   ],
   "live": [
     {
+      "title": "Gold Price Drops Below Key Support as GLD ETF Outflows Jump as NFP Loom",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "ETF outflows show investors reducing gold exposure.",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONmlJeHZyaXRzNmFFSW5iX0ZPMHBINFpuU1BtZGIyQlF6djRvUFlBT2F4eThQN3gxcUNSRjJlRjBab2xkV0dleU0zeExjOFFUdFVybC14ajJHYUJvNU94RnY4QkVPUTRldmt6blVOV3hzZGllUG5RUEdQNVIwNE14MGMteGtFaElIM0RQaG4wNjVEU2xuQUUtVVpma1l2OHVyOEE1LWM3cVJqTnhWNVE5czFBaDdwOUJnY0ZGa19IR0hDcmg2eVctdUNuMA?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 19:15:06 GMT",
+      "source": "Benzinga",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold prices drop sharply at the end of October. The collapse of the safe-haven myth or a search for liquidity?",
       "sentiment": "bull",
       "kind": "driver",
@@ -133,26 +145,26 @@
       "coverage": 1
     },
     {
-      "title": "Why Is Gold Going Down? Gold Falls 27% From Its Record",
-      "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95SmdKTzFiWjhtTFlFMzUyd3dSWXdua08wcGItOTVEOTVTM1NYUGRQdjF1WGhncFVYMHcweDVfVkd0aFJqMVRHSVJBakhsOUNOa25zTFJlekFmTkhuREU2M3ExRFdtSUxQOERUeG5rdHE4eE1i?oc=5",
-      "pubDate": "Sat, 31 Oct 2026 00:04:58 GMT",
-      "source": "CryptoTicker.io",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold prices plunge to one-year low below $3,900 as higher oil prices fuel fears of more pain ahead",
+      "title": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold is at a fresh low. This describes the price outcome, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUZmdmJRRFN3bUxiblBxRUVkd3o3SmRSRjd3ZUt3Rm5DVlNUQ201LW9BOHZyMnVBUEtZaGlNRFk5dTJKTzNHVjNkWGdWU3YtdVVPU0txb1pFZWJ5ZVhUaDRaTERzV2h5QzJzYWM3TExZRWRxQlNJbFlrWTQwbU8tbjA4Sm5JTWxqWVlFTUVZZjNvTVZXblN3SVVmMVVyVF9iQk5GS1RWcjRrRHdNRXRnV0VhYmtLRTE2?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 18:18:01 GMT",
-      "source": "Kitco",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 19:03:39 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold price today, Friday, October 30, 2026: Gold slips below $4,000 as Mid-East concerns mount",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONDZKVXFEUEtkWm8xRm1EWDNURkFBdjdQX212NzZGZk1lbHJwWEFUTkZFVWxnOG53MmstWTBwMmk1eUg3XzRMeXBpNFhKVUVMYmF5QWNwdFo4a3AwaWxkVXg4TmltM0QwSDMwTWJad2JBUnJaRXE1Qk5wTEI0OWNEQi1kZDFJRzRObHhLcVB5U3hXZ2czalI4a3BwLW43LVpDeEFpZ0tBRVNuMEE1Rk82RUtialg5aHc3UTctNzBPbmxTTkFOWFFLU1ByazNjLTBRSkR0Z0IyMjVteEktT1RJQVNQamttTHpPbDJjc0xWYlhodWxSZ3RB?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 11:14:51 GMT",
+      "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
     }
