@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-31T19:48:35.715Z",
+  "generatedAt": "2026-10-31T23:14:12.272Z",
   "bias": {
-    "score": 22,
-    "label": "Bullish",
+    "score": 4,
+    "label": "Mixed / Neutral",
     "bullWeight": 14,
-    "bearWeight": 9,
-    "driversCounted": 7
+    "bearWeight": 13,
+    "driversCounted": 9
   },
   "market": {
     "gold": {
       "price": 3876.399902,
-      "asOf": "2026-10-31T19:48:35.213Z"
+      "asOf": "2026-10-31T23:14:11.760Z"
     },
     "realYield10": {
       "value": 2.63,
@@ -141,6 +141,30 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONVpsdmwzb2toRUctX3ZYeWV3bU82aXo3VjltX1M0c1ZZenVGUkI4a1l5RW0yUEp5R2h1RWlvMEtlZ1RvVV92WmxLMVpsU3ZfUHVNcTlDUlhtenY1ZldFdmhzTzc0V0owRWRUWGNBUlRlaHlLbGtrbW52d29QYS1uV2c1MWxZVEVWUWJITmNfYlJXRXdYT2VQaFJFYUh6aWZtNTI4SjF0S3hDLWNESnFUWFl5TXdWeTdRelkxUGIxckFkQ3c3M0xjYmlwZlRmN2pWdmZkVmxyc1h4OE9o?oc=5",
       "pubDate": "Fri, 30 Oct 2026 04:25:31 GMT",
       "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold and Silver Price Forecast: Silver Lags as Fed Hike Fears Grow",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGZOS0VFblE5RVJPNTBlb3k5Y25fWldYX21abE5pYmJpUmVHdS1NSDExX29ZWnZKSkx1c1Y4WHdoVFpYYnpuR2JxLTM5Q2YwS2NCT2F0bTJGT2pSR2Excng4UXg4ZU1pRkdtR2dZemVMSWtIRkd4ODlTbFpJRFpBM3dwVGxVUUwxR3FrT1JGUHZEVEYwWkJEWXBrSGMxRWNlU3hMVTBidVFRU1dBWVM3NENOS0JtMTg?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 06:36:44 GMT",
+      "source": "FXEmpire",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Fed Hike Bets Lower Gold’s Entry Price as Custody Shapes Digital Demand",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1RsdGdpc3ZmZzJzdnhpTW1Kaml4bElhRU5IY1EwRG4zdXdTV04zakMzR0h3Y0ZXTjZGQVQ1Mi1jUERHOVMxLV9TNVp4bHJJN1hsQjktUWFoOTNHTDFkSkRhSzlFeHlCMnlNZ05wS2dpSkl1b0pmV0c0dUtJckxNN201bkVDZWFDX1J1NEdNN0hnRGJjX1FPWmd4cmtzMEIzbnpmV1ZNa3A?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 12:19:48 GMT",
+      "source": "Crux Investor",
       "isLive": true,
       "coverage": 1
     },
