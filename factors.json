@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-01T05:18:08.358Z",
+  "generatedAt": "2026-11-01T14:51:26.916Z",
   "bias": {
-    "score": 4,
-    "label": "Mixed / Neutral",
-    "bullWeight": 14,
-    "bearWeight": 13,
-    "driversCounted": 9
+    "score": 39,
+    "label": "Bullish",
+    "bullWeight": 16,
+    "bearWeight": 7,
+    "driversCounted": 7
   },
   "market": {
     "gold": {
       "price": 3876.399902,
-      "asOf": "2026-11-01T05:18:07.849Z"
+      "asOf": "2026-11-01T14:51:26.390Z"
     },
     "realYield10": {
       "value": 2.63,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-10-31"
+      "asOf": "2026-11-01"
     }
   },
   "evergreen": [
@@ -109,18 +109,6 @@
   ],
   "live": [
     {
-      "title": "Gold Price Drops Below Key Support as GLD ETF Outflows Jump as NFP Loom",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "ETF outflows show investors reducing gold exposure.",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONmlJeHZyaXRzNmFFSW5iX0ZPMHBINFpuU1BtZGIyQlF6djRvUFlBT2F4eThQN3gxcUNSRjJlRjBab2xkV0dleU0zeExjOFFUdFVybC14ajJHYUJvNU94RnY4QkVPUTRldmt6blVOV3hzZGllUG5RUEdQNVIwNE14MGMteGtFaElIM0RQaG4wNjVEU2xuQUUtVVpma1l2OHVyOEE1LWM3cVJqTnhWNVE5czFBaDdwOUJnY0ZGa19IR0hDcmg2eVctdUNuMA?oc=5",
-      "pubDate": "Sat, 31 Oct 2026 19:15:06 GMT",
-      "source": "Benzinga",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold prices drop sharply at the end of October. The collapse of the safe-haven myth or a search for liquidity?",
       "sentiment": "bull",
       "kind": "driver",
@@ -133,38 +121,26 @@
       "coverage": 1
     },
     {
-      "title": "Gold and Silver Price Forecast: Silver Lags as Fed Hike Fears Grow",
+      "title": "Gold Price Drops Below Key Support as GLD ETF Outflows Jump as NFP Loom",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGZOS0VFblE5RVJPNTBlb3k5Y25fWldYX21abE5pYmJpUmVHdS1NSDExX29ZWnZKSkx1c1Y4WHdoVFpYYnpuR2JxLTM5Q2YwS2NCT2F0bTJGT2pSR2Excng4UXg4ZU1pRkdtR2dZemVMSWtIRkd4ODlTbFpJRFpBM3dwVGxVUUwxR3FrT1JGUHZEVEYwWkJEWXBrSGMxRWNlU3hMVTBidVFRU1dBWVM3NENOS0JtMTg?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 06:36:44 GMT",
-      "source": "FXEmpire",
+      "text": "ETF outflows show investors reducing gold exposure.",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONmlJeHZyaXRzNmFFSW5iX0ZPMHBINFpuU1BtZGIyQlF6djRvUFlBT2F4eThQN3gxcUNSRjJlRjBab2xkV0dleU0zeExjOFFUdFVybC14ajJHYUJvNU94RnY4QkVPUTRldmt6blVOV3hzZGllUG5RUEdQNVIwNE14MGMteGtFaElIM0RQaG4wNjVEU2xuQUUtVVpma1l2OHVyOEE1LWM3cVJqTnhWNVE5czFBaDdwOUJnY0ZGa19IR0hDcmg2eVctdUNuMA?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 19:15:06 GMT",
+      "source": "Benzinga",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Fed Hike Bets Lower Gold’s Entry Price as Custody Shapes Digital Demand",
-      "sentiment": "bear",
+      "title": "Gold's frustrating paradox: Falling yields and a weaker dollar can't stop the selloff",
+      "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1RsdGdpc3ZmZzJzdnhpTW1Kaml4bElhRU5IY1EwRG4zdXdTV04zakMzR0h3Y0ZXTjZGQVQ1Mi1jUERHOVMxLV9TNVp4bHJJN1hsQjktUWFoOTNHTDFkSkRhSzlFeHlCMnlNZ05wS2dpSkl1b0pmV0c0dUtJckxNN201bkVDZWFDX1J1NEdNN0hnRGJjX1FPWmd4cmtzMEIzbnpmV1ZNa3A?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 12:19:48 GMT",
-      "source": "Crux Investor",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold hits a 4-month low as inflation fuels Fed rate hike fears",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oVzNmMTNiWlJGZDJ4VkpnbDQyNndXc2VWN3E3dGVUOGNpQ1Q1OFNyWkNTbzlLMHNJbU1jdC1wUV9kdFI1YzFTekZrQUNnTWhLLUttY0VIX1RlTUN4X2lUVVk0ZTlQTllXODFDeU9rdmFHd1k?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 13:40:59 GMT",
-      "source": "Quartz",
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOXAteVc1blkzdXBVYV80T2hILVRfYUp1TXJzZGhSYmZ2LWRJTVlVWVdWbHpYaXdlaW1LclZhV3dyYTcya0R5TXF3MEo3RnJ6N0R6UVl0SURCNTNkVGRyTnlYc2VsSHhOMWhqRmFKN2tqOWNja2p2aHh5TmxrVEs2V0c0dTVvLUJfcWJ0UDZBUk9ZZnJzY0k5cF8tYklETDVmSjh5X2tHNUZfbFotcEFNb0FsbEE?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 21:20:39 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
