@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-03T02:06:21.620Z",
+  "generatedAt": "2026-11-03T11:45:14.109Z",
   "bias": {
-    "score": 4,
-    "label": "Mixed / Neutral",
-    "bullWeight": 12,
-    "bearWeight": 11,
+    "score": 57,
+    "label": "Bullish",
+    "bullWeight": 18,
+    "bearWeight": 5,
     "driversCounted": 7
   },
   "market": {
     "gold": {
-      "price": 3945.199951,
-      "asOf": "2026-11-03T02:06:21.057Z"
+      "price": 3907.699951,
+      "asOf": "2026-11-03T11:45:13.605Z"
     },
     "realYield10": {
       "value": 2.6,
@@ -109,38 +109,38 @@
   ],
   "live": [
     {
-      "title": "Gold News: XAUUSD Rebounds as Oil Plunge Pressures Fed Hike Expectations",
-      "sentiment": "bear",
+      "title": "Central bank buying and ETF inflows support gold demand in Q3",
+      "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMlVybm1Yd1dUTzRLLWpJRU5fdmZaX3F4bmQwUWVsSlNuelZDMVYyMTZtREtKV3dRRGdSREc4OWQzQlJUdG1zMnNwUEVMRkpGZC1JYUhaZ2tPT3VQanlyZWZjQ1pURDR0d0h3Y3RQSVlfdlJqMGFoV3lMem5GdU5pNWpxXzBIRHlLTlljYzBpclNNbEdWaXlYNnd4ZXJKQWFSSVpRczIwOWhJR0kyUkt4SWwwMnhfbHhISDNqXzRvaw?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 00:44:00 GMT",
-      "source": "FXEmpire",
+      "text": "Central-bank accumulation reinforces structural demand for gold. Rising ETF holdings show investment demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblIwcVI4MUo2VFVvTTZxWmZBT1JrRmIxVHhHQTk4WXQwQmNhU1RUNnJ6QURFZ3BqNkUwTVh2U1JEY1pKN2xEZmdiNkhIM2p1bzJJTDU5REFwUEZHSExqUTduazdBUnhaZ1FmcEwxT0I2UjJtRDRqQ3d2VjFFS3BjVTJfUF9wWVBPd0NkUkhPWWFBRzNqQ0VqWDlrUFJIYjgxQUhzUXhTMjZUbU5KUDQ0?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 06:15:55 GMT",
+      "source": "World Gold Council",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold prices rebound as plunging oil prices dampen expectations of a Federal Reserve rate hike",
-      "sentiment": "bear",
+      "title": "Central Banks Buy Gold at Fastest Pace Since 2024, WGC Says",
+      "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdk9CSDl1VVF5eldQcDRUeGtrbHlLMjZlZkhOZ2VzMXF0Vm9Kc3hVX085bVBzOWFramhoRmNLM2EzaFZFc1lsVGRIMTlfQzROR0o3aUtaNUFidjZNemhtS0tPZzdmbmk3QXV6Yklselk2b2hMRGdIdHhoalFQRloxeDUxQzBHN0huRGg1bDQxd1RhSExWUXZKeTVWUFNHMU54ckdMaVlPeU9wY1BYdkE?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 17:16:13 GMT",
-      "source": "Moomoo",
+      "text": "Central-bank accumulation reinforces structural demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3BSNldqaHNPTVQxNkdDVlo0RUo4WUJFTzA0MEtaOGZDeHp4LXN6X0pXeHFEOFZmSXZSNjNidzVrSksxLVRKc1lfWVA4NE9QSWpOQjY2OFlmZElaTDZVX2pIZmM2MXJmd2d1SmJqcUVfVEZIaG1GOEFuY3c3WXRVZlJXZXQwUQ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 06:00:00 GMT",
+      "source": "Yahoo Finance UK",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold’s Selloff Puts Low-Cost Producers in Focus Amid Oil-Driven Fed Hike Bets",
-      "sentiment": "bear",
+      "title": "Only central banks are buying gold aggressively",
+      "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1VoLVkwam9kZ0xmUUc3R2RrSFVhMW03cEJwVUlpNEJvWlhrYlVDRXVGYS1YcFR1bjR4TkZENmtRNXVNZUZSMGJhbDdzR3lRVE5KdDhxdjMybFMwYnJEZ1Rkdkx2M19nQ0I5ekgxSVFzakxESHNfdUprc3Eyc2d2ZWJxWm42N0NzM2tSSm84RFd4MzFmVEozc0xqcUUyV180WmxLWW1aOFNyb0FFeEt3UA?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 14:42:03 GMT",
-      "source": "Crux Investor",
+      "text": "Central-bank accumulation reinforces structural demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHhWMUxwYWEzOWdoY3FtTDh5VFBKMGVHMVo1ckNwYWF2aW9CTUE5aU5uSW1wcWpZY3dQZzBRbnpidHpaZkhURTRFOG1uSWV6ZWVkaF9oc1AwUXY5S2hhSnNpYWN4UGlXa2lrMkQwR3FHdTNDNVlUX3h4ODMwU0xLWTNFLVN5YlZSUDBTZ0twdDR4aTJSazBUSFQ0RWVzcmdjZ3FMZ0YwLUw3Y2lMS2JjQXZERGVQM0NQWnptSEx1UkctdURBN1A5aHZRZlBKMDN4ZmxQTWk5MWNmdlZLUW14a0Q0MmM?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 08:29:54 GMT",
+      "source": "finews.com",
       "isLive": true,
       "coverage": 1
     },
@@ -151,7 +151,7 @@
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWE56dlU0X1ctNkFUYWNtMmotQ2g4b3lxUUlTbDRmOW5YZ2lGZk83OVlwZHBqdzdOaUw5aVpWcHlKUXJZazBUOTZpWlVvbk0wRlZyeWM5ZHlmRlc0cmZwT19Bb1hVM0x6dTNiNlBORkZzYjNrR0Z5WnNUSnpCOVVDLWFjZ3V2MFRjbm5yb1BWclAxemg2MEd3R0VtWGNlVGFTdTU2SHVMMWpDMVJwVEhOMm12N2x4MzNn?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 01:10:11 GMT",
+      "pubDate": "Tue, 03 Nov 2026 01:52:00 GMT",
       "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
