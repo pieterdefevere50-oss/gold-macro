@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-03T11:45:14.109Z",
+  "generatedAt": "2026-11-03T19:17:33.854Z",
   "bias": {
-    "score": 57,
+    "score": 47,
     "label": "Bullish",
-    "bullWeight": 18,
+    "bullWeight": 14,
     "bearWeight": 5,
-    "driversCounted": 7
+    "driversCounted": 5
   },
   "market": {
     "gold": {
-      "price": 3907.699951,
-      "asOf": "2026-11-03T11:45:13.605Z"
+      "price": 3926.300049,
+      "asOf": "2026-11-03T19:17:33.295Z"
     },
     "realYield10": {
       "value": 2.6,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-11-02"
+      "asOf": "2026-11-03"
     }
   },
   "evergreen": [
@@ -115,56 +115,32 @@
       "impact": 2,
       "text": "Central-bank accumulation reinforces structural demand for gold. Rising ETF holdings show investment demand for gold.",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblIwcVI4MUo2VFVvTTZxWmZBT1JrRmIxVHhHQTk4WXQwQmNhU1RUNnJ6QURFZ3BqNkUwTVh2U1JEY1pKN2xEZmdiNkhIM2p1bzJJTDU5REFwUEZHSExqUTduazdBUnhaZ1FmcEwxT0I2UjJtRDRqQ3d2VjFFS3BjVTJfUF9wWVBPd0NkUkhPWWFBRzNqQ0VqWDlrUFJIYjgxQUhzUXhTMjZUbU5KUDQ0?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 06:15:55 GMT",
+      "pubDate": "Tue, 03 Nov 2026 12:00:00 GMT",
       "source": "World Gold Council",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Central Banks Buy Gold at Fastest Pace Since 2024, WGC Says",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Central-bank accumulation reinforces structural demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3BSNldqaHNPTVQxNkdDVlo0RUo4WUJFTzA0MEtaOGZDeHp4LXN6X0pXeHFEOFZmSXZSNjNidzVrSksxLVRKc1lfWVA4NE9QSWpOQjY2OFlmZElaTDZVX2pIZmM2MXJmd2d1SmJqcUVfVEZIaG1GOEFuY3c3WXRVZlJXZXQwUQ?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 06:00:00 GMT",
-      "source": "Yahoo Finance UK",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Only central banks are buying gold aggressively",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Central-bank accumulation reinforces structural demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcHhWMUxwYWEzOWdoY3FtTDh5VFBKMGVHMVo1ckNwYWF2aW9CTUE5aU5uSW1wcWpZY3dQZzBRbnpidHpaZkhURTRFOG1uSWV6ZWVkaF9oc1AwUXY5S2hhSnNpYWN4UGlXa2lrMkQwR3FHdTNDNVlUX3h4ODMwU0xLWTNFLVN5YlZSUDBTZ0twdDR4aTJSazBUSFQ0RWVzcmdjZ3FMZ0YwLUw3Y2lMS2JjQXZERGVQM0NQWnptSEx1UkctdURBN1A5aHZRZlBKMDN4ZmxQTWk5MWNmdlZLUW14a0Q0MmM?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 08:29:54 GMT",
-      "source": "finews.com",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Rebounds As Oil Tumbles",
+      "title": "Posthaste: If you think this gold price plunge is bad — just wait",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWE56dlU0X1ctNkFUYWNtMmotQ2g4b3lxUUlTbDRmOW5YZ2lGZk83OVlwZHBqdzdOaUw5aVpWcHlKUXJZazBUOTZpWlVvbk0wRlZyeWM5ZHlmRlc0cmZwT19Bb1hVM0x6dTNiNlBORkZzYjNrR0Z5WnNUSnpCOVVDLWFjZ3V2MFRjbm5yb1BWclAxemg2MEd3R0VtWGNlVGFTdTU2SHVMMWpDMVJwVEhOMm12N2x4MzNn?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 01:52:00 GMT",
-      "source": "FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lMER4cmo0c2R0R254VjFyM2h6SWRVQmtGQktGQjNyTEQ3aldIRzlYUFVTSlFGeGtvZkpXOHVOdlB2c0F2WEFTUy10dGRHWEc3ZkhaVVRiXzIwaGdZMlE0OW93Ui1zU0ktV1hLQ01ZZk5rQQ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 13:04:03 GMT",
+      "source": "Financial Post",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold and silver prices surge after sharp selloff, India set to ramp up silver imports into 2027 – Heraeus",
-      "sentiment": "bull",
+      "title": "Gold price crashes on Election Day, Silver drops: Will Gold rate fall further after US midterm elections 2",
+      "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSW8yekFiaVlpY0t1QllHd3hxZW5YNk0weU9CU0dqZ01YWHVXV01RWlluZUtFR080TzhLd3AyMFdpSlI0bzBQVFhmMVJuUE1ycUd4X0d1Wk5oaEJVU29kT2dVMUpUNlhNSlA4eHdKNnRSODM3Z3Z3aVAtTmNhUlBXSTBCNHFiR3Eya2dzYnQxM3ZsN3RaenZyb2s2Z18wUUphSWJOSEUwZU1DSEZQejhEZG5PMjFhYXM?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 16:12:03 GMT",
-      "source": "Kitco",
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPaG1DajFOTDlXM2w4MThDajcyXzlZbzVRUkdENGFJOTA3NGxJNGR1R2lmdENwSU00V0ZYLV9TeHpWTjNjNlFGOWc4TnFybkF3SGUzekFoU0pZQ2tzdlkxR0piRldBWThEVUtHRFZvbktIdzFtVzZIaFczbWd6dHVzQm5ncmV2WnA3S1ZYMmFRYk9IZVhGV0djOWwwUUVXTlpBOTV2N2otSnpUbk1WbXNUVUZCSEtuSUdGaEQ2aWRmN2dFUTNaaWdCQzlDR0dxQUI3N1pIcHFGWjFyWm5mWHpmRDJfOFN3QWMzekI2eDlBVDBhUHg3Y2IxckdGZUxMLWVPQmRab3oyOUszRDRIbFhRc2FScC14OWI4N0Jj0gGgAkFVX3lxTE1oMnl2OTBoenJUNGdPQjBpRFVGLWh0TUFpOVJaelhtLVFvVDZzcllFcXlIZjJ2U1pvZWJJc3dLV2FqeE9vWTBIbEFCTzF0S3RCNU5oX2xueHlZOFlnX1hYQmozV21rdzdJN2lDRHE1ZHZYMkp5dmd0YmNRUGRYYllEY3YwSGF5TWhXU2QzV1FPcTd0cnlLRXFDSWZfa3lvckxHbDZjRjVXY1lhMGY2eFZHV1VjMlhtS3ZtbndySUhBT2ZpWDhZbnFFcGJfRmlGVkVVOTBYaXRyM2ExTFprcnh5S1pyUTFITFk0VG1Ocmc5U2psenRleVpZNkFmVk4xeTcxT0kwX0N0WHhYOFgtSDdQTlJ6YjhJMExXeDVha1ZSNw?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 13:45:47 GMT",
+      "source": "The Economic Times",
       "isLive": true,
       "coverage": 1
     }
