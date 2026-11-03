@@ -1,49 +1,49 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-02T18:02:11.501Z",
+  "generatedAt": "2026-11-03T02:06:21.620Z",
   "bias": {
-    "score": 22,
-    "label": "Bullish",
-    "bullWeight": 14,
-    "bearWeight": 9,
+    "score": 4,
+    "label": "Mixed / Neutral",
+    "bullWeight": 12,
+    "bearWeight": 11,
     "driversCounted": 7
   },
   "market": {
     "gold": {
-      "price": 3958.699951,
-      "asOf": "2026-11-02T18:02:10.873Z"
+      "price": 3945.199951,
+      "asOf": "2026-11-03T02:06:21.057Z"
     },
     "realYield10": {
-      "value": 2.63,
-      "asOf": "2026-10-29",
-      "prior": 2.88,
-      "priorDate": "2026-10-01",
-      "change": -0.25,
-      "changePct": -8.680555555555555
+      "value": 2.6,
+      "asOf": "2026-10-30",
+      "prior": 2.92,
+      "priorDate": "2026-10-02",
+      "change": -0.31999999999999984,
+      "changePct": -10.958904109589037
     },
     "y10": {
-      "value": 4.98,
-      "asOf": "2026-10-29",
-      "prior": 5.24,
-      "priorDate": "2026-10-01",
-      "change": -0.2599999999999998,
-      "changePct": -4.961832061068698
+      "value": 4.94,
+      "asOf": "2026-10-30",
+      "prior": 5.28,
+      "priorDate": "2026-10-02",
+      "change": -0.33999999999999986,
+      "changePct": -6.439393939393937
     },
     "y2": {
-      "value": 4.61,
-      "asOf": "2026-10-29",
-      "prior": 4.78,
-      "priorDate": "2026-10-01",
-      "change": -0.16999999999999993,
-      "changePct": -3.5564853556485336
+      "value": 4.56,
+      "asOf": "2026-10-30",
+      "prior": 4.83,
+      "priorDate": "2026-10-02",
+      "change": -0.27000000000000046,
+      "changePct": -5.5900621118012515
     },
     "dollar": {
-      "value": 121.3202,
-      "asOf": "2026-10-23",
-      "prior": 120.33,
-      "priorDate": "2026-09-25",
-      "change": 0.9902000000000015,
-      "changePct": 0.8229036815424263
+      "value": 121.6656,
+      "asOf": "2026-10-30",
+      "prior": 121.3848,
+      "priorDate": "2026-10-02",
+      "change": 0.2807999999999993,
+      "changePct": 0.2313304466457079
     },
     "fedTarget": {
       "low": 3.75,
@@ -58,8 +58,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-29",
-      "text": "The 2-year Treasury yield (4.61%) is 73bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
+      "asOf": "2026-10-30",
+      "text": "The 2-year Treasury yield (4.56%) is 68bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
     },
     {
       "key": "real_yields",
@@ -67,8 +67,8 @@
       "sentiment": "bull",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-10-29",
-      "text": "10Y real yield is 2.63%, down 25bp over 4 weeks (as of 2026-10-29): falling real yields lower the opportunity cost of holding gold — bullish. Real yields are the most direct macro driver of gold."
+      "asOf": "2026-10-30",
+      "text": "10Y real yield is 2.60%, down 32bp over 4 weeks (as of 2026-10-30): falling real yields lower the opportunity cost of holding gold — bullish. Real yields are the most direct macro driver of gold."
     },
     {
       "key": "dollar",
@@ -76,8 +76,8 @@
       "sentiment": "neutral",
       "impact": 4,
       "dataDriven": true,
-      "asOf": "2026-10-23",
-      "text": "The Fed's broad trade-weighted dollar index is 121.3, up 0.8% over 4 weeks (as of 2026-10-23): roughly flat, so no clear push either way."
+      "asOf": "2026-10-30",
+      "text": "The Fed's broad trade-weighted dollar index is 121.7, up 0.2% over 4 weeks (as of 2026-10-30): roughly flat, so no clear push either way."
     },
     {
       "key": "cb_buying",
@@ -115,8 +115,20 @@
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMlVybm1Yd1dUTzRLLWpJRU5fdmZaX3F4bmQwUWVsSlNuelZDMVYyMTZtREtKV3dRRGdSREc4OWQzQlJUdG1zMnNwUEVMRkpGZC1JYUhaZ2tPT3VQanlyZWZjQ1pURDR0d0h3Y3RQSVlfdlJqMGFoV3lMem5GdU5pNWpxXzBIRHlLTlljYzBpclNNbEdWaXlYNnd4ZXJKQWFSSVpRczIwOWhJR0kyUkt4SWwwMnhfbHhISDNqXzRvaw?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 17:15:22 GMT",
+      "pubDate": "Tue, 03 Nov 2026 00:44:00 GMT",
       "source": "FXEmpire",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold prices rebound as plunging oil prices dampen expectations of a Federal Reserve rate hike",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdk9CSDl1VVF5eldQcDRUeGtrbHlLMjZlZkhOZ2VzMXF0Vm9Kc3hVX085bVBzOWFramhoRmNLM2EzaFZFc1lsVGRIMTlfQzROR0o3aUtaNUFidjZNemhtS0tPZzdmbmk3QXV6Yklselk2b2hMRGdIdHhoalFQRloxeDUxQzBHN0huRGg1bDQxd1RhSExWUXZKeTVWUFNHMU54ckdMaVlPeU9wY1BYdkE?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 17:16:13 GMT",
+      "source": "Moomoo",
       "isLive": true,
       "coverage": 1
     },
@@ -133,38 +145,26 @@
       "coverage": 1
     },
     {
-      "title": "Gold Rebounds Above $3,900 After October Slump as Weaker Dollar Supports Prices",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0M0pIWFB5ZmZzVXhIblkyUFpDU2xIY0dnUnpqajdHREo5dmJFV2JOQjEyRXU5RzdKeXJyZHJmN1Rzckh6TVhPbjNiQ0kxYUswQmczZTBFSUt0NENnRUE2bkdlMXd5UEZRMHpnWXM0bUp5MHJGcndCeUxLeWRyR1E?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 10:28:18 GMT",
-      "source": "Yahoo Finance UK",
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Rebounds As Oil Tumbles",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWE56dlU0X1ctNkFUYWNtMmotQ2g4b3lxUUlTbDRmOW5YZ2lGZk83OVlwZHBqdzdOaUw5aVpWcHlKUXJZazBUOTZpWlVvbk0wRlZyeWM5ZHlmRlc0cmZwT19Bb1hVM0x6dTNiNlBORkZzYjNrR0Z5WnNUSnpCOVVDLWFjZ3V2MFRjbm5yb1BWclAxemg2MEd3R0VtWGNlVGFTdTU2SHVMMWpDMVJwVEhOMm12N2x4MzNn?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 01:10:11 GMT",
+      "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold rises over 2% from one-year low on softer oil prices; US midterms in focus",
+      "title": "Gold and silver prices surge after sharp selloff, India set to ramp up silver imports into 2027 – Heraeus",
       "sentiment": "bull",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXFkdElkaE5fVGZ6eUVZUFZnZjNuaUFoM2pPZ1ZJeEY4bmN0Wm9zSTRwLWpHcjNjLWRLRklsOV95a21mWjZWckhUam5qTVZVUzVDdWEwQXVOVWlpaHpCMktPLU41TGNkZjI3MFM1azNvSEtUai1pUGFpNi1mZFhISlB3TXFUSWtseGlhYmRISUpuWXdlVU5mLTJPRQ?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 05:04:00 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 3
-    },
-    {
-      "title": "Gold Rallies Nearly $75 After 11% Pre-Midterm Plunge; Silver Rebounds",
-      "sentiment": "bull",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaDdqTXpvMUhqdGpTWlpfSzNLMkg1UEVULWFLM05LOWRmaVFvb1pJdUdBZlpVZ3doaHBLQlJrR01sM0pIQmtIajkyVTR3WGZ2SmlkRUhULVZ4bkVHVEFBMTJkX0QzU0diRmNzVFhUZlMzVTNXSUQ5MC1uVmV5NWJ3U05vN2JTYVpRUmVMUU5VMWg?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 15:04:46 GMT",
-      "source": "BullionVault",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSW8yekFiaVlpY0t1QllHd3hxZW5YNk0weU9CU0dqZ01YWHVXV01RWlluZUtFR080TzhLd3AyMFdpSlI0bzBQVFhmMVJuUE1ycUd4X0d1Wk5oaEJVU29kT2dVMUpUNlhNSlA4eHdKNnRSODM3Z3Z3aVAtTmNhUlBXSTBCNHFiR3Eya2dzYnQxM3ZsN3RaenZyb2s2Z18wUUphSWJOSEUwZU1DSEZQejhEZG5PMjFhYXM?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 16:12:03 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     }
