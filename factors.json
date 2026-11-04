@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-04T00:29:57.544Z",
+  "generatedAt": "2026-11-04T11:57:17.100Z",
   "bias": {
-    "score": 28,
+    "score": 58,
     "label": "Bullish",
-    "bullWeight": 16,
-    "bearWeight": 9,
-    "driversCounted": 8
+    "bullWeight": 26,
+    "bearWeight": 7,
+    "driversCounted": 12
   },
   "market": {
     "gold": {
-      "price": 3933.399902,
-      "asOf": "2026-11-04T00:29:57.057Z"
+      "price": 4041.699951,
+      "asOf": "2026-11-04T11:57:16.673Z"
     },
     "realYield10": {
       "value": 2.62,
@@ -109,37 +109,73 @@
   ],
   "live": [
     {
-      "title": "Gold edges lower again as dollar, yields strengthen; US midterms in focus",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORmVXQnJ1T1AybkRsWGxtd2JKdjNHZGNaRGExRmpPckg4LW9HRkZjS2V4RXhEM1hjSjJLS3FHeGVvMEJydXY2ZDZzb0JnZWdjejNvLXVLTkNzcTFIajRpODF3bE55ci04SENUN3pYMVVKNmlfX2tNOXlLZ3ZndEVla2VsZ9IBiAFBVV95cUxNQXNhZ21PY1RSSEFPM2thRVlGamhxZWFfTkY0V3BjTVNEWXJBMTlZeDlxYzVKcEtLd3JGblBMMlRQeG14bEdaeDdZUFVWMmEtZUZDeWhzYXlZMlg1TG9lQUdrbFlqUnFvX1NOWFJ2ekp5MmdRazRoU0hpRW54QWlBVG9wUFZ4OUZf?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 04:23:00 GMT",
-      "source": "CNBC",
-      "isLive": true,
-      "coverage": 2
-    },
-    {
-      "title": "Central bank buying and ETF inflows support gold demand in Q3",
+      "title": "Gold Climbs on Softer Dollar, Falling Treasury Yields After U.S. Midterms",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Central-bank accumulation reinforces structural demand for gold. Rising ETF holdings show investment demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblIwcVI4MUo2VFVvTTZxWmZBT1JrRmIxVHhHQTk4WXQwQmNhU1RUNnJ6QURFZ3BqNkUwTVh2U1JEY1pKN2xEZmdiNkhIM2p1bzJJTDU5REFwUEZHSExqUTduazdBUnhaZ1FmcEwxT0I2UjJtRDRqQ3d2VjFFS3BjVTJfUF9wWVBPd0NkUkhPWWFBRzNqQ0VqWDlrUFJIYjgxQUhzUXhTMjZUbU5KUDQ0?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 12:00:00 GMT",
-      "source": "World Gold Council",
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY2pqVFU0QUVHeU9sRWtncjlGa1RWNVQya0VLb3FxcWdDQ3pmSGVkbmJCUWV6WW1HODhFeWVGY0dqVTh2LTRTTk5ZRVVSbDROMzR5ZDc5dlZRbjdHeXd3N3FOcmx5bDliX0Nlblkzd0U5dzd2NTc0MjFraFh4WXN0aFhQTE90RUtPZXg2Nml5SG4zOXdrc3RZQmtsaDI5VVhGLVNPUWlhZnBIQjB0a2VpM0VxTDU3dTMydzdzbm9OeWZ3LWR4SUlZ?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 10:41:00 GMT",
+      "source": "WSJ",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold declines below $3,950 on stronger US Dollar, US midterm elections in focus",
-      "sentiment": "bear",
+      "title": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
+      "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaE5NX2Q4QzNJNHlPdHNWOWNnT0VxdFE4dTdQLUg5UGQ5elNCbHVkb2ZpQXZjNGlDYnVUMHRsVFRkYk1fQW1hVWYwWlAtTmpHQUVsdVFmNGZuUHRtbTRmZUV1dDdDUE04OVlMMGFkdl82QzFrLXNKV3U5eGxwZEozMjBwZFJWVkdQamcyNXVwNGVPLUoyZEdvV05KVC1ySXRFS2gwTExHcEdxZkF5Qk1EbGJ0aDgyZXMwN1Z0Rw?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 23:31:46 GMT",
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vZWlTQ2F2aWtGb012RVY2UHM5WlgtMDhpWU5FVFRtQTQ0Yld1NURka05Zd054LWFveWFJV3JwSThqNzg5NTR5Z0RhTUVDWkhQOXFNNVNJb29vSHFLMmZNUnB4TF9rVldRRG9VQ2MzTEJNRUdrcHZyN014aFNaZ9IBgwFBVV95cUxNUExBejVyMG8zamR1cjA4VXpSbkc1UE41dXMwd1JKLTVpSTRVNDJFUDRFWWc3U1FuT2tPV05qMUlMMDRUNnJwRlBxYXRHLVBLTW44RTc2Vzcta1BHZ19BWnNPY0kzcEp2LW5iMzN3ZUJKM19vRE8wZjVlUEgtb3ZaSENiNA?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 07:43:43 GMT",
+      "source": "CNBC",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold gains 3% as dollar slides after Democratic midterm gains",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0lHOUFsbExIR3lscDNTRy14T012UWd6UlBSLUtySlpjSTdFaEtYLW1hbnpOTHdrSm1fM1RGU2V0WmxNSWJGU3AxeV9PUDVRVm1BRjBBNXQxZVVacElvaE5IbGJFU2FZbnN1Tmg4dlVTZ3prY0U0SEh5X1VzWmxUYnQ3VWhtZGpGOXloc1R6X3BvNlprVmw0UGppaFE2VFcyYkl3SzJ3?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 00:58:00 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold rises as dollar weakens; Democrats score early wins in US midterm elections",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNGNxbE5BdEZ5OFdQRjdJZjV1Z1AxOGRvakNsaTByZDZzcXdQSVJoU0xoMTFJTXBUN20tZ3pkaVo3bEFSY3FUODFTNGlVSEd3V0RwcVVWb0xVOVVUWFh3REpGbzl5UzlPbnhSbjYyb2tzSFhVS3hjN1ozTW9GaFQxbGF0TGxXcGo0Nl95aW0tSWN4TkE?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 05:31:40 GMT",
+      "source": "WTVB",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold jumps above $3,975 as dollar retreats, Iran diplomacy in focus",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRzJOUVNUYkl2V09lRXhERWtMLVFvVkx5TGFrcFl2MHowMEwzdVNrYi1BWHdOZGE1T1p1dGxzWlowR2xTRi1aRDQxUkRFZ2NCMVJPS2s5dzdBbmFmV0s2RDRSTEoyMGJzNl9SQ2dMSzdka3pXNzM3TkE3WnlNZUNiNmxjVU1UeHB6SXlnU1BMdFRzaWxHNGc?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 01:32:00 GMT",
+      "source": "Yahoo Finance",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold rises as Dollar weakens ahead of US jobs data",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTlBZDFqd1MzQWt3SjNMSUFFQklGY0w3ZXA5dFlNZnhYSkhBOTFFdzRlN3ZERkZEQTZGaG40Y1BvMDdiRi1GYWphN04xRHdsRkdlQVVFcGNtTVNDUDdWcnRHRzFONTBzb0J6eHBnRkZDWHVDTUcwRWRURFNIa1ROZU9NaW9QWEpyekhrWmJKNmlBZmw1c3FsSEozU3NYQQ?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 10:44:51 GMT",
       "source": "FXStreet",
       "isLive": true,
       "coverage": 1
@@ -157,26 +193,38 @@
       "coverage": 1
     },
     {
-      "title": "Gold Slides to a One-Year Low as Rally Unwinds",
+      "title": "Gold edges lower again as dollar, yields strengthen; US midterms in focus",
       "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold is at a fresh low. This describes the price outcome, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlNiZGg5RmlGdUpvUXZSNlFVSXhyVTJLc08yOUVPTVhacmdBMUhaMDNXRVVDVE5EMm5XSE9STk1tMUdUMjhfb09PVzdYWjI4MmhEd1BDcEc3RFp4MHAzQ1RFcWIteEpqYm54TmxTZVZFYjdpamQ4Y2hHYjJiVmNZTEh3?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 23:33:22 GMT",
-      "source": "ETF.com",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObE01SnNzQnotYkNRamJYejZ1LXh6N0Z0ck5Uc2xfbWFZVmg0MTZSdEhIT2RUNE85bjJUallIcEZIb3l4QVpPeVhoeDVLVjBrNWhWaGxzcy1vdmJVSHI4b0xKRzlvRzdhWWVRZlJBM055cnZQWjUyZnZBRlBrN1ZieFVJV3pOYjktNHNnelBR?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 04:16:00 GMT",
+      "source": "Reuters",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Posthaste: If you think this gold price plunge is bad — just wait",
-      "sentiment": "bear",
+      "title": "Gold price jumps after US midterms: $4,050 is the key test",
+      "sentiment": "bull",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lMER4cmo0c2R0R254VjFyM2h6SWRVQmtGQktGQjNyTEQ3aldIRzlYUFVTSlFGeGtvZkpXOHVOdlB2c0F2WEFTUy10dGRHWEc3ZkhaVVRiXzIwaGdZMlE0OW93Ui1zU0ktV1hLQ01ZZk5rQQ?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 13:04:03 GMT",
-      "source": "Financial Post",
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdVlxSEZ3QjY1bURLTTFsekxGOVdnZ1dCSGVOaGRmVzVyQlpmLWRDRkl2QjMxUm8tRkdPTmJtX3U2WkszZWNnU09PLWxncml3bjB1RFotUm45OVV4d0twMndPLWpUNnNYbzhiVEF1MWNVTnpxdmhuQkVHeW92dkZBcFRBSXcwT3YtbjY2WEVmWVVrZw?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 08:48:04 GMT",
+      "source": "IG Bank",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold extends weekly rally toward $4,050 as US election hits USD",
+      "sentiment": "bull",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTjNUTTR4aUpBdHhDODREZ1pfVUNDREVhb1BpZ25nN1RrTS1va2c2Y3BvdE1QZF9xb2VZb28tblg4akQxRGVRUVBEMm9qVGRENUNRMTVVdFVqWXVsX2ZBblpRSG10Zmp2b3VleEViNW9ubzBuMXp5V1RFZHlGM2tDMzdWTnZwVDZ5WWRmRVRoQ21lQmpiOXFFTHNnOGJ3U09OelppUXV6dzhZVGthNllNdEstTVozdw?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 09:00:41 GMT",
+      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     }
