@@ -1,41 +1,41 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-04T19:40:08.576Z",
+  "generatedAt": "2026-11-05T00:47:54.449Z",
   "bias": {
-    "score": 66,
+    "score": 63,
     "label": "Bullish",
-    "bullWeight": 24,
+    "bullWeight": 22,
     "bearWeight": 5,
-    "driversCounted": 10
+    "driversCounted": 9
   },
   "market": {
     "gold": {
-      "price": 4059.5,
-      "asOf": "2026-11-04T19:40:08.094Z"
+      "price": 4093.699951,
+      "asOf": "2026-11-05T00:47:53.898Z"
     },
     "realYield10": {
-      "value": 2.62,
-      "asOf": "2026-11-02",
-      "prior": 2.95,
-      "priorDate": "2026-10-05",
-      "change": -0.33000000000000007,
-      "changePct": -11.186440677966104
+      "value": 2.65,
+      "asOf": "2026-11-03",
+      "prior": 2.91,
+      "priorDate": "2026-10-06",
+      "change": -0.26000000000000023,
+      "changePct": -8.934707903780076
     },
     "y10": {
-      "value": 4.91,
-      "asOf": "2026-11-02",
-      "prior": 5.31,
-      "priorDate": "2026-10-05",
-      "change": -0.39999999999999947,
-      "changePct": -7.53295668549905
+      "value": 4.95,
+      "asOf": "2026-11-03",
+      "prior": 5.27,
+      "priorDate": "2026-10-06",
+      "change": -0.3199999999999994,
+      "changePct": -6.072106261859571
     },
     "y2": {
-      "value": 4.59,
-      "asOf": "2026-11-02",
-      "prior": 4.84,
-      "priorDate": "2026-10-05",
-      "change": -0.25,
-      "changePct": -5.1652892561983474
+      "value": 4.61,
+      "asOf": "2026-11-03",
+      "prior": 4.79,
+      "priorDate": "2026-10-06",
+      "change": -0.17999999999999972,
+      "changePct": -3.757828810020871
     },
     "dollar": {
       "value": 121.6656,
@@ -58,8 +58,8 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-11-02",
-      "text": "The 2-year Treasury yield (4.59%) is 71bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
+      "asOf": "2026-11-03",
+      "text": "The 2-year Treasury yield (4.61%) is 73bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
     },
     {
       "key": "real_yields",
@@ -67,8 +67,8 @@
       "sentiment": "bull",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-11-02",
-      "text": "10Y real yield is 2.62%, down 33bp over 4 weeks (as of 2026-11-02): falling real yields lower the opportunity cost of holding gold — bullish. Real yields are the most direct macro driver of gold."
+      "asOf": "2026-11-03",
+      "text": "10Y real yield is 2.65%, down 26bp over 4 weeks (as of 2026-11-03): falling real yields lower the opportunity cost of holding gold — bullish. Real yields are the most direct macro driver of gold."
     },
     {
       "key": "dollar",
@@ -115,13 +115,13 @@
       "impact": 2,
       "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY2pqVFU0QUVHeU9sRWtncjlGa1RWNVQya0VLb3FxcWdDQ3pmSGVkbmJCUWV6WW1HODhFeWVGY0dqVTh2LTRTTk5ZRVVSbDROMzR5ZDc5dlZRbjdHeXd3N3FOcmx5bDliX0Nlblkzd0U5dzd2NTc0MjFraFh4WXN0aFhQTE90RUtPZXg2Nml5SG4zOXdrc3RZQmtsaDI5VVhGLVNPUWlhZnBIQjB0a2VpM0VxTDU3dTMydzdzbm9OeWZ3LWR4SUlZ?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 11:29:22 GMT",
+      "pubDate": "Wed, 04 Nov 2026 10:41:00 GMT",
       "source": "WSJ",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
+      "title": "Gold and silver prices jump, dollar dips as Democrats take control of Congress",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
@@ -133,14 +133,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold heads for biggest daily gain since August as dollar weakens",
+      "title": "Gold price heads for biggest daily gain since August as dollar weakens",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
       "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0lHOUFsbExIR3lscDNTRy14T012UWd6UlBSLUtySlpjSTdFaEtYLW1hbnpOTHdrSm1fM1RGU2V0WmxNSWJGU3AxeV9PUDVRVm1BRjBBNXQxZVVacElvaE5IbGJFU2FZbnN1Tmg4dlVTZ3prY0U0SEh5X1VzWmxUYnQ3VWhtZGpGOXloc1R6X3BvNlprVmw0UGppaFE2VFcyYkl3SzJ3?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 00:58:00 GMT",
-      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbThtaVVIT29jZTZWaEFYRS1DbmE3MkFDY1RZRGx6LWtWal9Nd0RWZE5OdHdaazRnRnpDN1lSRVBEVHg4Y1NyQlJvYWk3S3FMOFJFS0Rpby1faEkxMlJPZEctVUNacWdpVkFrZ0FtTnFZeHlXS2VMdGY3YTBuelNsMnNZemNmVjNydi1KVWJJankzRklvZTU4?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 18:32:40 GMT",
+      "source": "Mining.com",
       "isLive": true,
       "coverage": 1
     },
@@ -157,26 +157,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Rallies Towards $4,000 as Dollar Weakens and Investors Monitor US-Iran Talks",
+      "title": "Gold shines as dollar slips to 5-week low, investors await U.S. midterm election results",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
       "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNmxYYlVIbDJkTEtYNWpoYUNiVVNaUk9vWVN0TmRYRDdMWU5FZUVlUWxoSHB0RUQxcV93eDJEVjBUZGstN2xDUkFibWdubXpYUG1VYy1mM19XTEtMalV3YUw2NGp0QktUSGFNZUV5WThweV80QU12aVl5dFBQT3U4Rg?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 11:01:21 GMT",
-      "source": "Yahoo Finance UK",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold gains 3% as dollar slides after Democratic midterm gains",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbzRWTXI2NTNMaWNCNUZnV2pudThfcnFJMU12b0tiZmFiOFd6TFd3bHUxVXhYNWlieFBZV0trdndEbnlpZnFILU1xN2V6bmI0V0J5UmU4TDNhcHZXQWtKcWQ0a28zNHZEeFF6blEyenFfTzN3eXdHdURmUE5kZFl2VldMWTRQYXM2S3NXQjdSVXl1WENvNnBQdlpyYVlsR1NIVmJqRFNLY2p5UHJXUXlhODF6VXlfTGs0QUlZNjZYcFVUa2dGUGotZzI4SXpKbUk0b2FaSHhoS1NWZ1AyNVJ4Xzk1eFNLc3htU0lLU256djk?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 09:42:05 GMT",
-      "source": "Central Oregon Daily",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbnYtdnRYT2pQak84eV8wVWpYZG12cVRzYjU4V1VvNmhKVVpCZnQ0aUU5b3c2b0prblRuUUZyWXdIOGZEa1NqNms1ZEc5SVlRVHJBZkxMa3VLdE1nT1lteVVUUXhsR3N1SmtfV2JYNWxxTTUzVGExRnBzc1pVcHZCUFhJM1dZWFBBMGNsUGswelNFUWVjTDFoQm5SSDZmcG14VlJrNHRPalJmQkZjLURlNG5aMG9FVG8zOTZjOVZocTdlYnR5ZURFRk5BbzFMRHFxZDBXdFhUMzFHZk9lRDlHM9IB5wFBVV95cUxQLWNQX3lCY0pRTHo3Z25nMlkta3FKMzE2WDNDX2xJcTdhajhnUUpDczNabHpfVzZXdmRsTjM5YjdGakJBTTBuLXlJekVab2N6Y3pPN3NvQmIzQkYyckxuTm1nVlR3SmdnMXpRVnpVRjU4S203dWQyR3E5ZElZQzJfc3ZONDlXakxuZG84dWFPWmlxc18yWjRSem9MUERNcFZ6Q2RCSTFKdVR3ZkpfbnZOc2ZLTUQwSERBa3l1Um9NRVVhRnRYUWp2TENQSVV1Q1hveW5PYTRnTEJIWUZqaW9DRXNLRThoaVk?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 13:12:57 GMT",
+      "source": "The Hindu",
       "isLive": true,
       "coverage": 1
     },
@@ -193,14 +181,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold and silver surge as Democratic midterm sweep drives dollar, yields lower - Kitco AM Report",
+      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Soars 3.5% After Democrats’ Victory In Midterm Elections",
       "sentiment": "bull",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTIzc1F2ZWpzTG5Va1ZsY0RIMEVabFJBSlY0ZFBDb2RDYW5mNW5iTXZRb0owR2xINi1uNTUxakhDeHdvYjBLSWc2U281RlE4eXlTZVVGLUtTWHAyX2NXMUVEVXhzUzdMdXppUTF4dkRCZzBhREx6YVhtcUd5M1d0Z3M3VzZTRkFOWTRGU0RxWUZpZ3EzaUpwcXZ3UG82NmN4bk5lRzZObDZta2dMS1hfMDRxWUZXWGFFUl9F?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 13:55:41 GMT",
-      "source": "Kitco",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcUwxekY2RHRIcXlsNkNwOFBheWVZeFlhV3dYVjRPWS1rN1hoUXI1VVd6bEwyUy1WV2NyU1JBWTZMalVCWVo5ZVZ1c1ZZV3FDbFVleXBEN2ZEOTFlMnBfQllEVmJ4NkQzdnpOR00yNXRjU3Fld3Z1OVVJeHRCXy1DVFNfRWxRc0hKTHZDcjNXRUR2bktHNlBtZGFkY2VDMnNJX3ItY2JxVkFBWmstN2xzRlE3N1RGLWdLS3gybG41dzNHTkFQMmNIZ29tV0hSZW9DY3RDd2psdm5RSHoxZF9iNm1n?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 23:46:09 GMT",
+      "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     }
