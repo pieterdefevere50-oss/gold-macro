@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-06T05:52:07.430Z",
+  "generatedAt": "2026-11-06T15:47:40.222Z",
   "bias": {
-    "score": 52,
-    "label": "Bullish",
-    "bullWeight": 22,
-    "bearWeight": 7,
-    "driversCounted": 10
+    "score": -3,
+    "label": "Mixed / Neutral",
+    "bullWeight": 16,
+    "bearWeight": 17,
+    "driversCounted": 12
   },
   "market": {
     "gold": {
-      "price": 4049.800049,
-      "asOf": "2026-11-06T05:52:06.986Z"
+      "price": 4051.800049,
+      "asOf": "2026-11-06T15:47:39.770Z"
     },
     "realYield10": {
       "value": 2.64,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-11-05"
+      "asOf": "2026-11-06"
     }
   },
   "evergreen": [
@@ -109,16 +109,88 @@
   ],
   "live": [
     {
-      "title": "Goldman Sachs lowers gold price forecasts on hawkish Fed outlook",
+      "title": "Gold drops 1% as strong US payrolls boost dollar, yields",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Strong labour data cuts the odds of near-term rate cuts, typically pressuring gold.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 03:46:00 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Goldman Sachs lowered its gold price forecast as Fed turns hawkish",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVnJRdHpSOG9OUTk4dnJhM1NWT0JJLTZsUTRmREZaanNPVUxEdHVBVUtjT2NmelJiNzRnT3ZjN0xDYWNFNVgxa05kNkllbWdWbkFLeEg1QVA0dmtGbWVFcUFFTG1Hal9rWG10R1owU0c3c1RVMWFrZWozWng3ZVAxY1lqaXd5Z2ZrOGhOOU11V2p5Tm9iQmxoWm5GM3hzT1ctanBVZ3Rla0ttOHVLdE5XRi1Tb1NHZWFta0VnTUdObnpDRDE3Rm9GYk50SFIybU0?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 22:12:40 GMT",
-      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jbzZUZEJtOTV0ZktIQmdLbU11eTNyLWRSNGJnbXF3RHJ0aXRtV21ZX010Ri1wTEJfMjNwWkM3cDZfNjNRVG5ISUVpSXpyOHJWdjEwcmx4SW56ekEzaS1KQjFFODA3QlJuVWVDTEZhSWoxWG9MZmRZ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 13:18:40 GMT",
+      "source": "Quartz",
       "isLive": true,
-      "coverage": 2
+      "coverage": 1
+    },
+    {
+      "title": "Gold price trades near $4,050/oz after preliminary Consumer Sentiment rises to 51, inflation expectations ease",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Cooling inflation raises the odds of rate cuts, typically supportive for gold.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYjhxOEY3ZkZleHZYYWktQVBVVVlnb2N3UFNibGhvVnlIXzBYdHN6MjJreFdKOWNYU3NrWGRDMENLQUk4LVV2OEM4SDFPcWJyMzBUd1RMNFVmMWpJclBWV01Rai1hME9pNi1SVW9jSmRURV9ha3VYQ0VKemVfVWdicXU5N2cyM19wNWlueVNzZ2JYNGZMSDA4NWJtdTZlSTY2WEFGemxMbEwwcl9jWU5QX0Y4YmZHOXNqZ3ZqTnd3?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 15:00:16 GMT",
+      "source": "Kitco",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Goldman lowers year-end gold price forecast on hawkish Fed shift",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzl2eThFLVlBWHhOSl9FVk51Z0h2NXhZNXNRTVNlMi0takFQNThCYmY2ekl0dzRXdkU3MkVmcTdPdDBlRWE5N2Y3bG01SFE0dG43LW1CMGlmYmJDSkphX21EZ0M2SlBBUU9PNU81LWk0MXdlR013dGdZakVrUERvWi1SekhhbE10dGhrVW50OTk5d2pCWmRBcFpxMWZaM3Z3OG5KYmhVWV80YzJpSzBkZ2tEbVhKTjEwR3Zv?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 08:36:57 GMT",
+      "source": "Investing.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Goldman Sachs Lowers Gold Price Forecasts Amid Federal Reserve’s Hawkish Stance",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WR1JUallsNjN4VE1TdmVoWHg5VGlvRmV2NU54SV82eEREY0NRQ1hDb012QkI0RTN0ME50c3psT2tKbU9wdkdvQXRpNkRUX01BU0VGQVZGODRPcWp6N3I0ZldTQmdIRWE1TF9UZw?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 14:38:01 GMT",
+      "source": "صحيفة مال",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Retreats Below $4,050 as Dollar Strengthens Ahead of US Employment Report",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VYVlzbmluS3NYdnY5cUNRM3Nkc3RqblNkSlZTZnB5UmRIaVg3X1VkZ2lqcGFPSFBpRlp1VU9VQWJlX0tOdVI2c091UzQzRVdMSGh0VG45cmN3ZG1CZWMwUUhTVDlsQmVXTFFtT0VGS0dkNkpfTGcyQ3ZDWWF5WTg?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 10:28:22 GMT",
+      "source": "Yahoo Finance UK",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Faces Risk to $4,000 Support After Strong US Payrolls Report",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Strong labour data cuts the odds of near-term rate cuts, typically pressuring gold.",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLTJnVExtUVZYaXVoSWhEYWo0SjFOSXIxQWM1cjBJLXZLbEVlZERoaVNiRXcxNUNWVkFFSFdid1g0Wk9rOWpzelJTbHpEUlJQNkYxcmdnanF3NjF5Z00tTnVuMndHekliaWdDNzctR21QbmNtMGVVT1RjTzAyS0dyLW41cEpCWUpqU2ZMNnBYUVp0NW9jdGFZZUhRa0dzMEltbFB5RlZ1OG9mOFgycWQ3eURldjk?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 15:32:07 GMT",
+      "source": "FXEmpire",
+      "isLive": true,
+      "coverage": 1
     },
     {
       "title": "Gold at over two-week high as dollar, yields weaken; US payrolls data awaited",
@@ -133,74 +205,26 @@
       "coverage": 1
     },
     {
-      "title": "Gold holds gains, silver slips as Wall Street plunges, Fed hike bets ease - Kitco PM Report",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Fading rate-hike expectations lower the odds of tighter policy, easing pressure on non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdktNV1ItcEw3anlLMXJFSHJGbk9tQ01jMFV1a2tJTVRxZDRlejVEWmFTMWw3T1ZvLWc1LVpNYk9jSHRtcEh6MWJHU0lOZE5PVkpPNm1oYzRUeTdrOUc0U1hKeXg0MWdvUDNwTjJKb09XQV9ZX0QteXl3Z2VnTUhsQUZtRE5abzV1dll3QURpdHZkajVfVFUyWnktNFl2dGdoSlozNk1Xby14Nk1fczlpakEtTlpKTVhKdHFPdQ?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 22:12:40 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Rebounds Above $4,100 as Dollar Weakens and Treasury Yields Fall",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds. A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15dVJGYnRRM0VMVjdrRXdFelhnZUpoeGFGQ1U1cFlBRnNJV3R6RWtMd2pVZW9aRzVkMVNVSW9LR3Jpb2tWLVcteWZIRXE1MGlWYVBmUDJsVklETXJGMmRPTTF4V09CSHBqdEIteVhVSWk1M3pI?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 01:02:57 GMT",
-      "source": "Businesskorea",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Climbs on Softer Dollar, Falling Treasury Yields After U.S. Midterms",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY2pqVFU0QUVHeU9sRWtncjlGa1RWNVQya0VLb3FxcWdDQ3pmSGVkbmJCUWV6WW1HODhFeWVGY0dqVTh2LTRTTk5ZRVVSbDROMzR5ZDc5dlZRbjdHeXd3N3FOcmx5bDliX0Nlblkzd0U5dzd2NTc0MjFraFh4WXN0aFhQTE90RUtPZXg2Nml5SG4zOXdrc3RZQmtsaDI5VVhGLVNPUWlhZnBIQjB0a2VpM0VxTDU3dTMydzdzbm9OeWZ3LWR4SUlZ?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 10:41:00 GMT",
-      "source": "WSJ",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold and silver prices jump, dollar dips as Democrats take control of Congress",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vZWlTQ2F2aWtGb012RVY2UHM5WlgtMDhpWU5FVFRtQTQ0Yld1NURka05Zd054LWFveWFJV3JwSThqNzg5NTR5Z0RhTUVDWkhQOXFNNVNJb29vSHFLMmZNUnB4TF9rVldRRG9VQ2MzTEJNRUdrcHZyN014aFNaZ9IBgwFBVV95cUxNUExBejVyMG8zamR1cjA4VXpSbkc1UE41dXMwd1JKLTVpSTRVNDJFUDRFWWc3U1FuT2tPV05qMUlMMDRUNnJwRlBxYXRHLVBLTW44RTc2Vzcta1BHZ19BWnNPY0kzcEp2LW5iMzN3ZUJKM19vRE8wZjVlUEgtb3ZaSENiNA?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 07:43:43 GMT",
+      "title": "Gold drops, on track for best week in over 2 months before U.S. payrolls",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVdNVmUyT0ZSU0FWcFd6by11bjExUWl4SVp3M04ySXNJaElHLXEzbzBxbkY4cHlLbUxaNFFQenFaQWhDM1pkQm5iemlTejhkYWtRVEhmZm5SLWdlNHczMUs4TG1zbzJzUHhmRm9JNFBkd3J6UGpPTDg3UnlVRF9ldVZMT3hUeUI4eXA4OEs3ODRTUk41Qm1lSGRLU0dGWFhuaTBYX3B0Y3dteDJHNUFr0gG0AUFVX3lxTE5YYjlweVZndF95ZnBFbkw3b2pENzZjOVRPcVNyM1pleEt5czdSMXBRXzV3bXJZWmZEVkNqekltR0dvVEg2eXo3d2lOSjZFWU9mTzdCc3hiaHJvU0lyOUJiM2NRTVMtaTYxVGRPT0JCR01WVHZJeXRackVrTk9Ea0tPY25wTGVDc0duM3k4UHVGLU04ZW9qdXhRSy1lX3lxenpXcmk5NnZhbDRQVFAzV0pYVVlXaQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 05:03:22 GMT",
       "source": "CNBC",
       "isLive": true,
-      "coverage": 1
+      "coverage": 2
     },
     {
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "title": "Private Investing Jumps on Gold and Silver Price Drop",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZGs5eDJTX3NNQTE0WFZBRHc1QnlMQlBJVGZWV20yZmkyaFZwM3A0dGw5aXJlWmFORXMzeUJweWI5ZjJYUUZHOWVMbk1pM0JXSE1qSTF4VEFSNndkaWRxSGthR0d1YWQ4WXdBU0JiVkVlR2pLYkh2cnN4MHc2enVFYzJWUzZYRFpsNGZtNk5CcjNpRzFDaXF4Zm1tdHhaVlZiMFJIMkIyQkxOa3dGQzNWWU9QYnVycUMzeEdqWDFpMFQ1Tjh3?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 05:32:22 GMT",
-      "source": "www.tmgm.com",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Lower Costs Would Cushion Gold Miners in a Drop Below US$4,000",
-      "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUkxzZ3FReVBSOW9MVG5VYmtOaGdYdk5TajdPWk1Ka0owUHEwcHZFRFBYWVdVdTU0Zm1PYlZ5ZTFrekRieUE4U2RLbzlsOFMtZGUtVVJYNnVzZ3NlcktHcXE5Q1d5bktVNDVrakJqUDBrN1ltVURlTHowamRzc3VEMXhkdGpRRm1mUVRtbjhZMW1mQ0NMUmpmRFVfVVJOUQ?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 01:53:08 GMT",
-      "source": "Crux Investor",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaW4yZlBlVkNZbkFQS3VTTzl2SXd3aWR5U1dQNHVRS1VUaXN4TDNqWlc4cjBfbG1mU204d3JNY2NVZGY4TE1nZDRwUUUyM2llYUQxVEV3Z2Z4Yzg3QnZZX3RfZXNubDZmTmVkZGVSWERVOHhpWUpidGpudXV1V092bnFhWldZd2d1MVkzV3pWNmpsN1UxTDZVZHhXVUdLTHBEeFZJ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 12:38:06 GMT",
+      "source": "BullionVault",
       "isLive": true,
       "coverage": 1
     }
