@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-07T14:47:24.703Z",
+  "generatedAt": "2026-11-07T20:01:22.047Z",
   "bias": {
-    "score": 4,
+    "score": -3,
     "label": "Mixed / Neutral",
     "bullWeight": 14,
-    "bearWeight": 13,
-    "driversCounted": 9
+    "bearWeight": 15,
+    "driversCounted": 10
   },
   "market": {
     "gold": {
       "price": 4072.100098,
-      "asOf": "2026-11-07T14:47:24.183Z"
+      "asOf": "2026-11-07T20:01:21.500Z"
     },
     "realYield10": {
       "value": 2.6,
@@ -141,6 +141,18 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzl2eThFLVlBWHhOSl9FVk51Z0h2NXhZNXNRTVNlMi0takFQNThCYmY2ekl0dzRXdkU3MkVmcTdPdDBlRWE5N2Y3bG01SFE0dG43LW1CMGlmYmJDSkphX21EZ0M2SlBBUU9PNU81LWk0MXdlR013dGdZakVrUERvWi1SekhhbE10dGhrVW50OTk5d2pCWmRBcFpxMWZaM3Z3OG5KYmhVWV80YzJpSzBkZ2tEbVhKTjEwR3Zv?oc=5",
       "pubDate": "Fri, 06 Nov 2026 08:36:57 GMT",
       "source": "Investing.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 14:51:46 GMT",
+      "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
     },
