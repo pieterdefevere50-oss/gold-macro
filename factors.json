@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-08T05:22:31.188Z",
+  "generatedAt": "2026-11-08T14:53:52.483Z",
   "bias": {
-    "score": 10,
-    "label": "Mixed / Neutral",
+    "score": 28,
+    "label": "Bullish",
     "bullWeight": 16,
-    "bearWeight": 13,
-    "driversCounted": 10
+    "bearWeight": 9,
+    "driversCounted": 8
   },
   "market": {
     "gold": {
       "price": 4072.100098,
-      "asOf": "2026-11-08T05:22:30.714Z"
+      "asOf": "2026-11-08T14:53:52.037Z"
     },
     "realYield10": {
       "value": 2.6,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-11-07"
+      "asOf": "2026-11-08"
     }
   },
   "evergreen": [
@@ -121,30 +121,6 @@
       "coverage": 1
     },
     {
-      "title": "Goldman Sachs lowered its gold price forecast as Fed turns hawkish",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jbzZUZEJtOTV0ZktIQmdLbU11eTNyLWRSNGJnbXF3RHJ0aXRtV21ZX010Ri1wTEJfMjNwWkM3cDZfNjNRVG5ISUVpSXpyOHJWdjEwcmx4SW56ekEzaS1KQjFFODA3QlJuVWVDTEZhSWoxWG9MZmRZ?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 13:18:40 GMT",
-      "source": "Quartz",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Goldman lowers year-end gold price forecast on hawkish Fed shift",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzl2eThFLVlBWHhOSl9FVk51Z0h2NXhZNXNRTVNlMi0takFQNThCYmY2ekl0dzRXdkU3MkVmcTdPdDBlRWE5N2Y3bG01SFE0dG43LW1CMGlmYmJDSkphX21EZ0M2SlBBUU9PNU81LWk0MXdlR013dGdZakVrUERvWi1SekhhbE10dGhrVW50OTk5d2pCWmRBcFpxMWZaM3Z3OG5KYmhVWV80YzJpSzBkZ2tEbVhKTjEwR3Zv?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 08:36:57 GMT",
-      "source": "Investing.com",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold price trades near $4,050/oz after preliminary Consumer Sentiment rises to 51, inflation expectations ease",
       "sentiment": "bull",
       "kind": "driver",
@@ -169,26 +145,14 @@
       "coverage": 1
     },
     {
-      "title": "Central bank buying and ETF inflows support gold demand in Q3 2026",
+      "title": "Bullion may remain under pressure as markets track US-Iran war, inflation",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Central-bank accumulation reinforces structural demand for gold. Rising ETF holdings show investment demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObmlIYlJRMGtZbGlLMFFEMExtN3NQeDg2MEJpeVNxQlM4bnhxSkZBWEhjN1lTeFJjTVNvdGJlekNxUnpMYl9DdlBvY2s0cy1KZVNyUjhmSG5DTU1RY3NUemR4YjhIdV84OHlCQ2dHZ3lEMnprYThRaUtxbEhqVTIycmVSaGd3VXB1MkdEV1JFQU9sZENWYXp2NW9ROEVJV2w5SVlrak9sN09VdUtlLWNudWNCbllicnpnU1E?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 05:00:05 GMT",
-      "source": "Prop News Time",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Private Investing Jumps on Gold and Silver Price Drop",
-      "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaW4yZlBlVkNZbkFQS3VTTzl2SXd3aWR5U1dQNHVRS1VUaXN4TDNqWlc4cjBfbG1mU204d3JNY2NVZGY4TE1nZDRwUUUyM2llYUQxVEV3Z2Z4Yzg3QnZZX3RfZXNubDZmTmVkZGVSWERVOHhpWUpidGpudXV1V092bnFhWldZd2d1MVkzV3pWNmpsN1UxTDZVZHhXVUdLTHBEeFZJ?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 12:38:06 GMT",
-      "source": "BullionVault",
+      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR2xDbjRHR19fS3lpV3FKNnNVSmYtdk4tYVVSSFJvb1lTeTJPTlNJOWJqV3ZfTmowbEZGUjBNSk9aV2JHbjMxRWtmbkhidHk2dlRkQzNoNzB4TDF1Z05WbFc2WkZWcHoxUzMtY1kzbmJtZHhRWnlhd0tfZ0tRWWN2NDZPQUU1SGgzVXlTbEV5dkFfSmNIVEVFRlJwejZMaEdmT2FlanlMLVhibzk5c2hWUndHd3lpWk11RUQtN2RkMzc1Z3JyNS1aZF9LNnhrTVdlV2pFNW4wWFU0Ync5MUpz0gHkAUFVX3lxTE9uRkhMRUloQ2hjYWMzUmZuaXVqa3dXcjFGUjZEbVFJVnNaWlUwS2kya3lubGpuOFdSLWdBQmYtNDNXZ3V5Q2hEdjVvRm5RSEQ0RWVVOWFncXdEdVNlSlp1ZFd4emVCTThjdExJZEtJMGhvSDlfQjZGSWdPWHZFUzFZcE1qaVVXVEh6SFZUUXZQVHJTMS1FUDlzTjVOQ3JCX3liQlNPR0hXQ21MOWttZTRQWS1XUmtqVml5VHE2bHZJRVE0NENKV3o4T3JJLUdtNjBxTXJRb2VvajZkVnFyNlFvVGtmQQ?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 06:17:09 GMT",
+      "source": "Business Standard",
       "isLive": true,
       "coverage": 1
     },
@@ -199,8 +163,20 @@
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5RHptOFZrYnBULVRIYTUxVnVTY1NrUThKTTVHNFhxdDdoc3VxSUw0NmRNaHpFOHF3azdqd0QwSUFxc05hZ21jQ043MTBIaTJWenJ3YzNxZ3VzM0VMTl9PUk5VaUpCZTQ1S0UwMmVNMmplbXRYblE?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 23:58:51 GMT",
+      "pubDate": "Sat, 07 Nov 2026 23:55:00 GMT",
       "source": "BigGo Finance",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold and Silver Rise for the Week as Tech, Crude and Copper Fall",
+      "sentiment": "bull",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdnVNVnN2bjJPUXlteXJiYV9BRXA5Nk1oTlFxUDlCeTkzSEFzWXdCd2pmUlVzUzVrUHp0aW5xR2gzU05sTGstcTNhRl9iUEFGc0hZTjkxRF9oWlFKOU9CYmtSMG50Wmo3TmtLM1ROUnZyS191ajFYOTh5a1hoQnU5cmxWbWlGSXB3eDI5TXBnam5Ec2s?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 15:52:27 GMT",
+      "source": "BullionVault",
       "isLive": true,
       "coverage": 1
     }
