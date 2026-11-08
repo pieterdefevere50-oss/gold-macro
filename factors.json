@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-07T20:01:22.047Z",
+  "generatedAt": "2026-11-08T05:22:31.188Z",
   "bias": {
-    "score": -3,
+    "score": 10,
     "label": "Mixed / Neutral",
-    "bullWeight": 14,
-    "bearWeight": 15,
+    "bullWeight": 16,
+    "bearWeight": 13,
     "driversCounted": 10
   },
   "market": {
     "gold": {
       "price": 4072.100098,
-      "asOf": "2026-11-07T20:01:21.500Z"
+      "asOf": "2026-11-08T05:22:30.714Z"
     },
     "realYield10": {
       "value": 2.6,
@@ -109,14 +109,14 @@
   ],
   "live": [
     {
-      "title": "Gold drops as strong US payrolls boost dollar, yields",
+      "title": "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Strong labour data cuts the odds of near-term rate cuts, typically pressuring gold.",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQVNBUlY0RkQ3Vm5qcDFmbS12Nlo0Wjd4RWNEWkROOFRSX0hha1VobWJkTW82YTM1QzNMUXlzX1V5bktiSHJDYklFR2ZDUnN4aEhGM3U0UmlRT3pDcjVFRkR5ak9IZ1NVbG4wempaX1Y0R2JXb0U2THRLcE80d0l1NFppQ3l5b2M4c3RQZU1sS1RNRHdiYmFsYmw0czRoUnVJRVJLNTl0VmVNODg3NWVR?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 03:46:00 GMT",
-      "source": "Reuters",
+      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 14:51:46 GMT",
+      "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
     },
@@ -145,18 +145,6 @@
       "coverage": 1
     },
     {
-      "title": "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 14:51:46 GMT",
-      "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold price trades near $4,050/oz after preliminary Consumer Sentiment rises to 51, inflation expectations ease",
       "sentiment": "bull",
       "kind": "driver",
@@ -181,6 +169,18 @@
       "coverage": 1
     },
     {
+      "title": "Central bank buying and ETF inflows support gold demand in Q3 2026",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Central-bank accumulation reinforces structural demand for gold. Rising ETF holdings show investment demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObmlIYlJRMGtZbGlLMFFEMExtN3NQeDg2MEJpeVNxQlM4bnhxSkZBWEhjN1lTeFJjTVNvdGJlekNxUnpMYl9DdlBvY2s0cy1KZVNyUjhmSG5DTU1RY3NUemR4YjhIdV84OHlCQ2dHZ3lEMnprYThRaUtxbEhqVTIycmVSaGd3VXB1MkdEV1JFQU9sZENWYXp2NW9ROEVJV2w5SVlrak9sN09VdUtlLWNudWNCbllicnpnU1E?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 05:00:05 GMT",
+      "source": "Prop News Time",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Private Investing Jumps on Gold and Silver Price Drop",
       "sentiment": "bear",
       "kind": "price",
@@ -193,14 +193,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold and Silver Rise for the Week as Tech, Crude and Copper Fall",
-      "sentiment": "bull",
+      "title": "Gold Retreats to Around $4,000; LS Securities Says Year-End Is Best Buying Opportunity Since 2022",
+      "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdnVNVnN2bjJPUXlteXJiYV9BRXA5Nk1oTlFxUDlCeTkzSEFzWXdCd2pmUlVzUzVrUHp0aW5xR2gzU05sTGstcTNhRl9iUEFGc0hZTjkxRF9oWlFKOU9CYmtSMG50Wmo3TmtLM1ROUnZyS191ajFYOTh5a1hoQnU5cmxWbWlGSXB3eDI5TXBnam5Ec2s?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 15:52:27 GMT",
-      "source": "BullionVault",
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5RHptOFZrYnBULVRIYTUxVnVTY1NrUThKTTVHNFhxdDdoc3VxSUw0NmRNaHpFOHF3azdqd0QwSUFxc05hZ21jQ043MTBIaTJWenJ3YzNxZ3VzM0VMTl9PUk5VaUpCZTQ1S0UwMmVNMmplbXRYblE?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 23:58:51 GMT",
+      "source": "BigGo Finance",
       "isLive": true,
       "coverage": 1
     }
