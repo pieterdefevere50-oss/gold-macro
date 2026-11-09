@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-09T05:32:58.642Z",
+  "generatedAt": "2026-11-09T18:32:48.410Z",
   "bias": {
-    "score": 3,
-    "label": "Mixed / Neutral",
-    "bullWeight": 16,
-    "bearWeight": 15,
-    "driversCounted": 11
+    "score": 38,
+    "label": "Bullish",
+    "bullWeight": 20,
+    "bearWeight": 9,
+    "driversCounted": 10
   },
   "market": {
     "gold": {
-      "price": 4126.100098,
-      "asOf": "2026-11-09T05:32:58.081Z"
+      "price": 4107.600098,
+      "asOf": "2026-11-09T18:32:47.950Z"
     },
     "realYield10": {
       "value": 2.6,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-11-08"
+      "asOf": "2026-11-09"
     }
   },
   "evergreen": [
@@ -109,110 +109,98 @@
   ],
   "live": [
     {
-      "title": "Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets",
-      "sentiment": "bear",
+      "title": "Gold climbs more than 1% as inflation fears ease on lower crude prices",
+      "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalBuZXBLSkx6bEJtdVU0djlRbHRwdlVRNWdTbWJDM2NrRmZVcGg4SV9mdEVONXVWeml3OFgxZWRKMEoxenRCLXVaSXhDdUdRNG55V3ZWS0drMzJwaUJYN3A5cFlpWEt5anBMMEtoa0R1LTIxa3BnS3luNUdPWFIweTY0NEJhS2thcnpqY0YyVEJwZHhxclFyQ3c0OTNETy1aQlFaeHN2R1A3dXg1T0NDU21ycw?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 01:53:00 GMT",
-      "source": "Bloomberg.com",
+      "text": "Cooling inflation raises the odds of rate cuts, typically supportive for gold.",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 03:01:00 GMT",
+      "source": "Reuters",
       "isLive": true,
-      "coverage": 2
+      "coverage": 1
     },
     {
-      "title": "Gold jumps as soft US Dollar counters Fed rate hike expectations",
+      "title": "Gold Slips as Strong Dollar, Yields Surge Post-Jobs Data",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ2FaV1pieGFhUlJfajAwMzlfLW5mVFRjTzNqaVVrT2drZmFDUnVla3hNMzljY3htaVRQbURvTERSdkktZHVMb25SWXVCVE5EYVhyVWxab0NwZE5XZkZLWV9RODN6bTdIbzRQWHFGQktxbXlMakIzTno5cEtQYWpFcFQ1U09qVVNvS3Rub1dFVl9ZYnEzU0plTDNVaw?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 03:44:52 GMT",
+      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold. A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tSzJ0TnhCTzBlSWtReTYweVZkZ1ZOYUlwbDNLVURuWWlUUnVNR3hQSUE5RS1FMnNha3hNNWFLbDg1NjM2WGg4YzZYcDVNRnFMNlBfMnR4XzQySEk4NzBmWU5NUFJrTlE?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 13:29:00 GMT",
+      "source": "Investing News Network",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold SWOT: Central bank gold buying remains strong in 2026",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Central-bank accumulation reinforces structural demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUsxVTBXQzNxLTE5V05PMGpBdTU0VmhHQjhXUTdUWjlBcDlwQUxrTWJFVVZNN0F4NTNWOVlvWVJZZXcyeUxFb2xmYml6eHRfaTlGb0dJcFYySUR4QmxRTGM2Y2xFU1lRaENONHNPejUycHVYUEF3YU11LW4taU1QNkwzR3lNNHZjZVM1Y0gxdHdSZl9LeUo2eEJpdw?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 14:12:27 GMT",
+      "source": "Kitco",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Rises Toward $4,100 as Weaker Dollar Offsets Expectations of December Fed Rate Increase",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSDY0ZmlIelNKcGtfaEx5Q0VBN3VNTm9QbXhyQmh3SVJsbUE3bFpBdldWTFZocVdsVVR2LUFyTjB2MVloTW1EeUF1SFZBak5QOC1lZzNvZXZta1c2SkJXNWQ0dUk4SmpFWnBJNy1NMTJLRGY5RDdhdEdUVmc3SG8yb3kwdjFYRl9lZS10Xy1NRW9ONXFBMDVCbQ?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 10:07:11 GMT",
+      "source": "Yahoo Finance",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Advances Toward $4,100 as Dollar Weakens Ahead of US Inflation Report",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A softer dollar makes gold cheaper for foreign buyers and tends to lift XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWm1SQjRIY1VOUURsSjI0dU1OUGtZRlp3RG9KVVN0REpLRm5DVFVHWXdJRnM1ZHM4TlVQOEpmNG1pVUs5T2ExbkpNRmlReWVjZDNqa2NzRjlkVkNLT0lWUUZ6ZFFOZzJ2Wlo2RWNaSXpaX0lSWDhzbndKMkwtTDBQSA?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 10:08:36 GMT",
+      "source": "Yahoo Finance UK",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold gains over 1% as as US Dollar pares post-NFP gains, US CPI in focus",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaGtxdFc5Z2EzT2ZqUlhJQXM2alBIaFVxS0lZbVMwQ2l0aVE5eFdlVmVEal8xTVRGR2R0RkI3dUNFN1htekptY0NCM1FvYUxiWUd6U3lYQ25pbG9nWnA2YmZ2eXY2eVdIVnl5QlBPS1AzaXJXWXdLeE5IekFmNjVpUUFjWUdpa1FYTU5sd3ZuMmRZUXdnaTRKb3VvdFZFdkVhN19VbXhKOFBXckwteFY3b1p6Yw?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 15:30:48 GMT",
       "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Strong US Jobs Data Weighs on Gold, Prices Retreat to Around $4,070",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Strong labour data cuts the odds of near-term rate cuts, typically pressuring gold.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCbUdLSWFFblYwd2ZIRWFNaFJWNDk0RkkyWml2NklSUDR6eGN4RXJzY1BVWUliQ2c3ZmJ1SWxYZkFrdGJUMkdQeUZvZUdCQlBtNHFrZll0WW5xaTVOejlLWl9LcG81YkhRYl85dVlLTHlwMThwWnc?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 03:55:00 GMT",
-      "source": "BigGo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Why gold prices are plunging amid the Iran war, despite being a supposedly safe asset",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising geopolitical risk typically boosts safe-haven demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWtMTnVJTkNTczRrcS1UbEJXamtuaUZfTTR4c1hxUnMyNHBITXgxZkJQd0p3MURWUDNQMEU1TVNuM3BKS0VIamNtejRFMmhXMTlvZzhIYU9vLUVtTnNVNUZaeERKVlREN1FKX1dtSGJRWGRQYXhrLXJhR2g5MGt0Q2JPTFkyb0ZPQmtaeGhVTEE1MVg0eDJIQVE5UTQtcTZlcTNJ0gGoAUFVX3lxTE82UTlMeHVybWpIMy0tM2dHNFJXNklZTTR0cjlaSTUyZmNMTTgzNDVRTG5nVTQwbXhxZEI4TUhwRFBaOHk5LUM4cF9IZ05hUFV2TTFWeWphbEcxUzRsRGhJRllxSFg2VUg3TE9HU1Bja2dmUDBmY0pvZTRwY3dtZUg5b0V4M3NwaGlMbV9jbm9EZllBN2w2VlhsTGZ6UGIzRkF1RUczd0VVag?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 01:21:32 GMT",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Silver Price Forecast: Rally Faces US CPI Test After Dollar Jump",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmJEbTZkTzFqMndWbXN3ZTRUX1RFZGpBNks1RC1WaUhTRjZYVHZBY0FEdnQ0UWMxVlE4cV9ZdXB3NnZhV3hNRGdVOFdrTFhITEhrWmI1OFp3dzlTRngyWjAxNVpnbjVWU3M4WjZGTW56NGNyLWlmcEhiNHBFb0ktdUttZ2w3WVhlRWluRWozaGVTb3hwU0s5RXl0RktKQnktZlVIcUhKeTZnWlNwN1Y0MUJQd1M?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 04:13:42 GMT",
-      "source": "FXEmpire",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 14:51:46 GMT",
-      "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Rises 1.6% as Oil Prices and Inflation Fears Ease...",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Cooling inflation raises the odds of rate cuts, typically supportive for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXE0WFVyYzRjcFBsWWY0OERISm1qUG9pdmZtZ2d3Y0xPR3Z3TkN1bHVwcVdyZi1RYi02eDlUOFJiSnRRSS1FbUJRNnNzV3lWaHp6MVg5c2hPa0pSSDBLVmI3bFZjOGViWllkUlFMdUxKc2JERldUUm1aa1h6MDF2WjVmWXhxWFBoYklzYlUzQlJDTVBSY2NYWWlUOUNPLXYzejkyTy1YbDE?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 04:41:23 GMT",
-      "source": "www.jordannews.jo",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold rises over 1% as softer oil prices ease inflation worries",
+      "title": "Gold and silver prices extend post-election rebound, central banks on pace to beat 2025 purchases – Heraeus",
       "sentiment": "bull",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 03:01:00 GMT",
-      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbjlfT0RwLTdkTFh2ZFY2TklJYUFHZ2JFYjZtR1JaQldGOFJrSXVFUS1hUXFyMVEwaUhSRm1mdzEyMm1NeUhVQjUtTEZobWFtQ0FoUkxWMHE1WDFFOVVLQlM2c1FXMHhCSU83QWxVUkM2UU1XdnZ6THMtNmtudGlNajBEb1VNczdZUmdZRERfWWROUkJYaTNoeDhheFd6cHBnX0toOUVuS2pDNXZxVXJPdnBFMkNCUG5SMG1iX0NR?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 15:02:11 GMT",
+      "source": "Kitco",
       "isLive": true,
-      "coverage": 2
+      "coverage": 1
     },
     {
-      "title": "Gold rebounds above $4,100 as traders await U.S. inflation data after jobs beat",
+      "title": "Gold Gains as NVDA 'Spy' Scandal Extends Nasdaq Tech Stock Sell-Off",
       "sentiment": "bull",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMUpFaVpEbWh2dlJiOG81V1dYR3o3MVpzMXVUV3R3T2ZFajB0cXdNRkxEZUVkLWJnYVAwT0tBM01TdGlULWsxcWtnWTRNTmJNS2VLY01zZjhXUHhFMUhTT185dkFTMHZnNjc3Yk4xNTZKOXFoakFiaUVsQ2gtZnU4dzkxT1pKY3BSa3lqc1RBNFYxeHp2eS15cXB3OA?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 01:46:00 GMT",
-      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWhwcVM5LTBSLWtBOERoSjRDSUZBdkpReEtuakJ4eUFqX2VlcE9qZXZoMlBfVUhjOXBZSG5fVWktVXMwd0gybllnb2RhYlloallDZlRnME5xeHE1cXNBNjVQSHBvQ0FreUNuVmRTeUU4cHdRNzBndUloYldweWhwOXU3VFBHZFl5?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 13:22:31 GMT",
+      "source": "BullionVault",
       "isLive": true,
       "coverage": 1
     }
