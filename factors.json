@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-14T11:17:23.225Z",
+  "generatedAt": "2026-11-14T17:49:23.492Z",
   "bias": {
     "score": -25,
     "label": "Bearish",
@@ -11,7 +11,7 @@
   "market": {
     "gold": {
       "price": 3887.600098,
-      "asOf": "2026-11-14T11:17:22.730Z"
+      "asOf": "2026-11-14T17:49:23.093Z"
     },
     "realYield10": {
       "value": 2.86,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-11-13"
+      "asOf": "2026-11-14"
     }
   },
   "evergreen": [
@@ -109,6 +109,18 @@
   ],
   "live": [
     {
+      "title": "Gold Price Slips to Key Support as Fed Rate Risks and GLD ETF Outflows Build",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "ETF outflows show investors reducing gold exposure.",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSGM3TWZaYlNGVlJHRnV4OXNWNG5iWU9SN3hQYzRibnprTldmMU9oVXlwYVBXWWlfSTd3MXZsMXFZZGw2Ui05Y0xxTGVqRUhLSThyUWg3RDA2LU1SUFVxRVR4OWVWN0lZQmRMbjBRWXpQdTc5UzhMVDRRTHdxVGVINGhwRzdzS1hhQS1IaWxnYTZYN1NDRGRfN3NEVWhlclRRY2VfQ0Q4SDlGVnUxa0NDWEdfbVJWQXY1dGFDN3VYaTNYOEliTFl2SFRyZ2dLYVF4YlE?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 15:30:05 GMT",
+      "source": "Benzinga",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Rate-hike bets keep gold on track for worst week in four months",
       "sentiment": "bear",
       "kind": "driver",
@@ -118,7 +130,7 @@
       "pubDate": "Fri, 13 Nov 2026 03:43:00 GMT",
       "source": "Reuters",
       "isLive": true,
-      "coverage": 1
+      "coverage": 2
     },
     {
       "title": "Central Bank Gold Buying Surges 42% as Prices Dip Below US$4,000",
@@ -127,7 +139,7 @@
       "impact": 2,
       "text": "Central-bank accumulation reinforces structural demand for gold.",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORklGZ0xpd2dxTXk1bW5aRnNpOEVmeU5pZ3lYZ0JJUWdTQkwwMWl2eVJtWEdFcGZHcWx6VG9BcnE0QlJuem1pWXhLenNNZURERDFzdWZtY1FqMEw5THo4S1oxZHBrSGxkWmNQeFNheWtjUGdWUm1PakQ4NjBaQWpNM0E0dVVTZE5jRkxaV2V5RVZfN09lZUYxblFrSzB6c2l2bUJzUUhDY1ZaOWR4NnJhS0dfdW94c21PT2N2UXlR?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 10:30:00 GMT",
+      "pubDate": "Sat, 14 Nov 2026 10:30:36 GMT",
       "source": "Streetwise Reports",
       "isLive": true,
       "coverage": 1
@@ -165,18 +177,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVTRSTldzM0ZRZjRNM2ktRnZjenYwSG5nUkFCdzZQNFlBcDlqcUxJalBxOFJwaGZaX1RldkJrMFl1VUxFdU5iV2RFN2xqMTlqQlk4UGtpVklxVDVYT0VXTHhCTUN0cTFOWXVJcTNqa3ZETnprRXJpQ0lDTXpjUzdBV0t4WUstWDZwRTgtV0NsMGNMRVZWcEJQM2JfVE9oU29OZERJOHR3a3dmVV9nU0ZhUnFKb3ZGRXM?oc=5",
       "pubDate": "Fri, 13 Nov 2026 20:45:15 GMT",
       "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold faces weekly rout as high US yields fuel Fed rate hike bets",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkZkMHgwOHYxaW1lNy00SV94aTBhLXZXaEp1YXgwXzNVVWJQRXB4TVVVZEQzRm9QUGRoVVhEWmpOQzM5UEpvbENRVUpvOEFkUzZhNzZWY0hseTk2UTA4NDZYOUY2aUFHLWlYeXdoRUhIajdxM1hPcDVIZVZGeEx4LXJmN1JzMGE2SHd5LV9DaU05UFY1RUxra21LOFc1WFJGVWpvQmIyTlVuU3M?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 20:23:53 GMT",
-      "source": "FXStreet",
       "isLive": true,
       "coverage": 1
     },
