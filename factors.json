@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-14T17:49:23.492Z",
+  "generatedAt": "2026-11-14T23:45:29.139Z",
   "bias": {
-    "score": -25,
+    "score": -28,
     "label": "Bearish",
     "bullWeight": 9,
-    "bearWeight": 15,
+    "bearWeight": 16,
     "driversCounted": 9
   },
   "market": {
     "gold": {
       "price": 3887.600098,
-      "asOf": "2026-11-14T17:49:23.093Z"
+      "asOf": "2026-11-14T23:45:28.668Z"
     },
     "realYield10": {
       "value": 2.86,
@@ -124,13 +124,13 @@
       "title": "Rate-hike bets keep gold on track for worst week in four months",
       "sentiment": "bear",
       "kind": "driver",
-      "impact": 2,
+      "impact": 3,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmtMVVBHZGEyX3I4eWRfOFQwaW8zUHZDNXg1N0UxbW9jX1lhdmpuRkpZZ2hDZUEyNzZCTktodzFxUEt3NWJtN0JkU2NUa1VRLUJwVGR1bjVDR0Npak1lbk9xLXhOVmI3Y1BMRGkwTXBRb3lNVE1wMFdFb1JQWXBucV9tbF8tclNrRm1FTTNhVnpjSTlfVndYbVdqaw?oc=5",
       "pubDate": "Fri, 13 Nov 2026 03:43:00 GMT",
       "source": "Reuters",
       "isLive": true,
-      "coverage": 2
+      "coverage": 3
     },
     {
       "title": "Central Bank Gold Buying Surges 42% as Prices Dip Below US$4,000",
@@ -157,18 +157,6 @@
       "coverage": 1
     },
     {
-      "title": "Gold posts steep weekly loss as Treasury yields rise, Fed tightening bets persist - Kitco PM Report",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX0k2NHE2ZjJka2ltRGxrN2ZDN1JKQ1FBZnRxT240TTRqcmp5Qlp4UWkwQWtVM3dFTXBtYU5vNkpYQXFQRi1vQ3FYRG5fd1J5YTdrUjc1RjMwRGhVeHZJdEoyYmdQTGdTbW1QWVFiQVkwXzVELU9mOFBXdEdBbnZ1M0VaODNDckVvb2hfanpQMXJRdWVBOGdiWldtM0xlYWxUaEM3NFVPMnJaLTdlYlFEN2o2dzNuUQ?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 22:46:15 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Price bounces may be traps as Fed rate hikes could drive gold down to $3,200/oz – StoneX’s Pavilonis",
       "sentiment": "bear",
       "kind": "driver",
@@ -176,6 +164,18 @@
       "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVTRSTldzM0ZRZjRNM2ktRnZjenYwSG5nUkFCdzZQNFlBcDlqcUxJalBxOFJwaGZaX1RldkJrMFl1VUxFdU5iV2RFN2xqMTlqQlk4UGtpVklxVDVYT0VXTHhCTUN0cTFOWXVJcTNqa3ZETnprRXJpQ0lDTXpjUzdBV0t4WUstWDZwRTgtV0NsMGNMRVZWcEJQM2JfVE9oU29OZERJOHR3a3dmVV9nU0ZhUnFKb3ZGRXM?oc=5",
       "pubDate": "Fri, 13 Nov 2026 20:45:15 GMT",
+      "source": "Kitco",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold posts steep weekly loss as Treasury yields rise, Fed tightening bets persist - Kitco PM Report",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX0k2NHE2ZjJka2ltRGxrN2ZDN1JKQ1FBZnRxT240TTRqcmp5Qlp4UWkwQWtVM3dFTXBtYU5vNkpYQXFQRi1vQ3FYRG5fd1J5YTdrUjc1RjMwRGhVeHZJdEoyYmdQTGdTbW1QWVFiQVkwXzVELU9mOFBXdEdBbnZ1M0VaODNDckVvb2hfanpQMXJRdWVBOGdiWldtM0xlYWxUaEM3NFVPMnJaLTdlYlFEN2o2dzNuUQ?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 22:46:15 GMT",
       "source": "Kitco",
       "isLive": true,
       "coverage": 1
@@ -193,14 +193,14 @@
       "coverage": 1
     },
     {
-      "title": "International Gold Price Plunges 4.9% in a Single Week; Chinese Jewelry Prices Fall 77 Yuan per Gram in Four Days, Saving About 10,000 Yuan on a 20-Gram Gold Bracelet",
+      "title": "Gold prices fall EGP 260 in Egypt in one week",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43bGpDb0ZIaXBIb2hlVFN0VjktSzVkMHdTeVg3MkttdUk1X2hFcVFsRHZHTlRERlVxZVRoWXROdHVjYklXc2s1MWZNcC00U1pyOTV0M08xY2FiaG9oaEdaVnlmYWhjNDhRU01xNl82QmlHRVp2Tmc?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 07:25:00 GMT",
-      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWhVa1ZNaFFXWFhXcHNZWHlma1hwRGNqd0ZTUDVfOUFoNEY4b2dtc1ZTUEJqMDdiVVB6Z2s1b3liY3NmNnd0OHk4V1F6M09KNmNxRFdaWm5qSmgxcVZleWdtWVprNDM0MTN2aFhoVWJ1NkRSYWJjQ0dxb1NMQ3Yzc1ZJd0hJME5jR3RiUw?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 18:24:01 GMT",
+      "source": "Daily News Egypt",
       "isLive": true,
       "coverage": 1
     }
