@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-14T23:45:29.139Z",
+  "generatedAt": "2026-11-15T05:42:30.740Z",
   "bias": {
-    "score": -28,
-    "label": "Bearish",
-    "bullWeight": 9,
-    "bearWeight": 16,
-    "driversCounted": 9
+    "score": -15,
+    "label": "Mixed / Neutral",
+    "bullWeight": 11,
+    "bearWeight": 15,
+    "driversCounted": 10
   },
   "market": {
     "gold": {
       "price": 3887.600098,
-      "asOf": "2026-11-14T23:45:28.668Z"
+      "asOf": "2026-11-15T05:42:30.325Z"
     },
     "realYield10": {
       "value": 2.86,
@@ -109,6 +109,18 @@
   ],
   "live": [
     {
+      "title": "Rate-hike bets keep gold on track for worst week in four months",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmtMVVBHZGEyX3I4eWRfOFQwaW8zUHZDNXg1N0UxbW9jX1lhdmpuRkpZZ2hDZUEyNzZCTktodzFxUEt3NWJtN0JkU2NUa1VRLUJwVGR1bjVDR0Npak1lbk9xLXhOVmI3Y1BMRGkwTXBRb3lNVE1wMFdFb1JQWXBucV9tbF8tclNrRm1FTTNhVnpjSTlfVndYbVdqaw?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 17:30:34 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 2
+    },
+    {
       "title": "Gold Price Slips to Key Support as Fed Rate Risks and GLD ETF Outflows Build",
       "sentiment": "bear",
       "kind": "driver",
@@ -121,16 +133,16 @@
       "coverage": 1
     },
     {
-      "title": "Rate-hike bets keep gold on track for worst week in four months",
-      "sentiment": "bear",
+      "title": "Bank of Korea's Q3 Gold ETF Buying Loses approximately $23.9 Million in Value as Gold Prices Slump",
+      "sentiment": "bull",
       "kind": "driver",
-      "impact": 3,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmtMVVBHZGEyX3I4eWRfOFQwaW8zUHZDNXg1N0UxbW9jX1lhdmpuRkpZZ2hDZUEyNzZCTktodzFxUEt3NWJtN0JkU2NUa1VRLUJwVGR1bjVDR0Npak1lbk9xLXhOVmI3Y1BMRGkwTXBRb3lNVE1wMFdFb1JQWXBucV9tbF8tclNrRm1FTTNhVnpjSTlfVndYbVdqaw?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 03:43:00 GMT",
-      "source": "Reuters",
+      "impact": 2,
+      "text": "Rising ETF holdings show investment demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xLUh6a1gweVI4OWFBNXNhNjU0bS1DZWs1RDNCdEM2WlZMYmVhVS0yREdYOGpBYkhLelN6d3pYV1Y5WEp5T0Z2OC10QkRtNW9VemYzZ2NELXlwd0VEbzViTE9tQUswcVhaR19QdV9uOFUtX0J2eFE?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 03:35:00 GMT",
+      "source": "BigGo Finance",
       "isLive": true,
-      "coverage": 3
+      "coverage": 1
     },
     {
       "title": "Central Bank Gold Buying Surges 42% as Prices Dip Below US$4,000",
@@ -181,18 +193,6 @@
       "coverage": 1
     },
     {
-      "title": "Gold futures rose Friday, but the rally failed. What I’m watching next week",
-      "sentiment": "bull",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS3JGTTlrR2tPcTdQTGQzRGJMU2ZGOVhNZGlCLXZCbENMNUktdm5XQy1ZOVFwS1FPYVhHamVnUkNiQTJWOVgxVV9qdE1tUDl2Nmp1a0hDTWJvR0FhZDg2a2Q5ZDFqcDZITFFCUDgwRU1QYXlWRGx4S1ptYmIta0F3OEpoOW1jTTByVDQ2alBocGVCOWhjdWprdWNybWVvSnpoamxpZXl0SElQcTBnN0RYMWN3?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 07:43:20 GMT",
-      "source": "investingLive",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold prices fall EGP 260 in Egypt in one week",
       "sentiment": "bear",
       "kind": "price",
@@ -201,6 +201,18 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWhVa1ZNaFFXWFhXcHNZWHlma1hwRGNqd0ZTUDVfOUFoNEY4b2dtc1ZTUEJqMDdiVVB6Z2s1b3liY3NmNnd0OHk4V1F6M09KNmNxRFdaWm5qSmgxcVZleWdtWVprNDM0MTN2aFhoVWJ1NkRSYWJjQ0dxb1NMQ3Yzc1ZJd0hJME5jR3RiUw?oc=5",
       "pubDate": "Sat, 14 Nov 2026 18:24:01 GMT",
       "source": "Daily News Egypt",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold futures rose Friday, but the rally failed. What I’m watching next week",
+      "sentiment": "bull",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS3JGTTlrR2tPcTdQTGQzRGJMU2ZGOVhNZGlCLXZCbENMNUktdm5XQy1ZOVFwS1FPYVhHamVnUkNiQTJWOVgxVV9qdE1tUDl2Nmp1a0hDTWJvR0FhZDg2a2Q5ZDFqcDZITFFCUDgwRU1QYXlWRGx4S1ptYmIta0F3OEpoOW1jTTByVDQ2alBocGVCOWhjdWprdWNybWVvSnpoamxpZXl0SElQcTBnN0RYMWN3?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 07:43:20 GMT",
+      "source": "investingLive",
       "isLive": true,
       "coverage": 1
     }
