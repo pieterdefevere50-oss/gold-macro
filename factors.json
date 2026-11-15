@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-15T05:42:30.740Z",
+  "generatedAt": "2026-11-15T15:29:31.158Z",
   "bias": {
-    "score": -15,
-    "label": "Mixed / Neutral",
-    "bullWeight": 11,
-    "bearWeight": 15,
+    "score": -31,
+    "label": "Bearish",
+    "bullWeight": 9,
+    "bearWeight": 17,
     "driversCounted": 10
   },
   "market": {
     "gold": {
       "price": 3887.600098,
-      "asOf": "2026-11-15T05:42:30.325Z"
+      "asOf": "2026-11-15T15:29:30.731Z"
     },
     "realYield10": {
       "value": 2.86,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-11-14"
+      "asOf": "2026-11-15"
     }
   },
   "evergreen": [
@@ -145,18 +145,6 @@
       "coverage": 1
     },
     {
-      "title": "Central Bank Gold Buying Surges 42% as Prices Dip Below US$4,000",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Central-bank accumulation reinforces structural demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORklGZ0xpd2dxTXk1bW5aRnNpOEVmeU5pZ3lYZ0JJUWdTQkwwMWl2eVJtWEdFcGZHcWx6VG9BcnE0QlJuem1pWXhLenNNZURERDFzdWZtY1FqMEw5THo4S1oxZHBrSGxkWmNQeFNheWtjUGdWUm1PakQ4NjBaQWpNM0E0dVVTZE5jRkxaV2V5RVZfN09lZUYxblFrSzB6c2l2bUJzUUhDY1ZaOWR4NnJhS0dfdW94c21PT2N2UXlR?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 10:30:36 GMT",
-      "source": "Streetwise Reports",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound Despite Strong Dollar",
       "sentiment": "bear",
       "kind": "driver",
@@ -165,18 +153,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTDlXZ2k1X1dnTzA4WnZaSWh6NTV3c3lLUmhhcF93V1lSZ2xfTDRHZFVQZzgxajU3U2U3QWhDTnhvWFJBQ0YzQTdHb2hjTDh5VFZ3cFlMNWNmSUZ2MndEa3lFOUxET2Zfdk1yMnY4eGZHX2NCWHBlTzgxR2RjYUpJYTZ6TnIwTGFmUk1ZRUJqNVl0dDBWNEdfVldYclZ4Mlk5Mm5lekJfVkpteWVhVEZPY2QwaXpLOVdMSXRMNmlzMW1VQkFiQXJSQWJyTmUteWFDbXFV?oc=5",
       "pubDate": "Sat, 14 Nov 2026 02:07:00 GMT",
       "source": "FXEmpire",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Price bounces may be traps as Fed rate hikes could drive gold down to $3,200/oz – StoneX’s Pavilonis",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVTRSTldzM0ZRZjRNM2ktRnZjenYwSG5nUkFCdzZQNFlBcDlqcUxJalBxOFJwaGZaX1RldkJrMFl1VUxFdU5iV2RFN2xqMTlqQlk4UGtpVklxVDVYT0VXTHhCTUN0cTFOWXVJcTNqa3ZETnprRXJpQ0lDTXpjUzdBV0t4WUstWDZwRTgtV0NsMGNMRVZWcEJQM2JfVE9oU29OZERJOHR3a3dmVV9nU0ZhUnFKb3ZGRXM?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 20:45:15 GMT",
-      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
@@ -193,26 +169,50 @@
       "coverage": 1
     },
     {
-      "title": "Gold prices fall EGP 260 in Egypt in one week",
+      "title": "Price bounces may be traps as Fed rate hikes could drive gold down to $3,200/oz – StoneX’s Pavilonis",
       "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWhVa1ZNaFFXWFhXcHNZWHlma1hwRGNqd0ZTUDVfOUFoNEY4b2dtc1ZTUEJqMDdiVVB6Z2s1b3liY3NmNnd0OHk4V1F6M09KNmNxRFdaWm5qSmgxcVZleWdtWVprNDM0MTN2aFhoVWJ1NkRSYWJjQ0dxb1NMQ3Yzc1ZJd0hJME5jR3RiUw?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 18:24:01 GMT",
-      "source": "Daily News Egypt",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVTRSTldzM0ZRZjRNM2ktRnZjenYwSG5nUkFCdzZQNFlBcDlqcUxJalBxOFJwaGZaX1RldkJrMFl1VUxFdU5iV2RFN2xqMTlqQlk4UGtpVklxVDVYT0VXTHhCTUN0cTFOWXVJcTNqa3ZETnprRXJpQ0lDTXpjUzdBV0t4WUstWDZwRTgtV0NsMGNMRVZWcEJQM2JfVE9oU29OZERJOHR3a3dmVV9nU0ZhUnFKb3ZGRXM?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 20:45:15 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold futures rose Friday, but the rally failed. What I’m watching next week",
-      "sentiment": "bull",
+      "title": "Gold faces weekly rout as high US yields fuel Fed rate hike bets",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkZkMHgwOHYxaW1lNy00SV94aTBhLXZXaEp1YXgwXzNVVWJQRXB4TVVVZEQzRm9QUGRoVVhEWmpOQzM5UEpvbENRVUpvOEFkUzZhNzZWY0hseTk2UTA4NDZYOUY2aUFHLWlYeXdoRUhIajdxM1hPcDVIZVZGeEx4LXJmN1JzMGE2SHd5LV9DaU05UFY1RUxra21LOFc1WFJGVWpvQmIyTlVuU3M?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 20:23:53 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold prices drop 4.1% to Rs 1.36 lakh, silver slides nearly 5% to Rs 1.76 lakh on MCX; inflation data, Fe",
+      "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS3JGTTlrR2tPcTdQTGQzRGJMU2ZGOVhNZGlCLXZCbENMNUktdm5XQy1ZOVFwS1FPYVhHamVnUkNiQTJWOVgxVV9qdE1tUDl2Nmp1a0hDTWJvR0FhZDg2a2Q5ZDFqcDZITFFCUDgwRU1QYXlWRGx4S1ptYmIta0F3OEpoOW1jTTByVDQ2alBocGVCOWhjdWprdWNybWVvSnpoamxpZXl0SElQcTBnN0RYMWN3?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 07:43:20 GMT",
-      "source": "investingLive",
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxObm1CaXhjRzFVN0tFVVljWURZem96bXo4MDJlVi1TNHU3WU1rWFhZb2ZqLW5hN2FkSTIzcE9qRVA1Wm14ZzdSaFZFWF9rVFNCNzJVNVpfMVBENkl1SGZ5bms0YlJvaFhBR2o2WlhjbmNlS0k0VktmYkxvQ0QtM3NzaUl5c1Z2OWNNX0o3YkRDUVB4ZFg5S1Z3S2hibHhiOHJWQzZUb2tzSE1FTS1vSk1XVjNaS0Vyc3B4VU9QRW5oWVpZdTBHZllMY1FPcjZYakxSaTU2NnFfd1JQcGtpcml3SW5hbG1KWVZNRk1oU2VEWDJmNllZYU52MEZVQ1JPR3BmUXNOWmxvcUctQVFCUVQ2ZTN1ekNXRGFSamRBaVU4VTJzLVFNOVp6bmplc3V2bEVLdWM5eDdBNWJPdnpERkRUMXN6VTJtdFhXd1RPSzZzT21SRk1TY2l3RHNJREdBa1pheXJUNDlhUHhORm_SAfACQVVfeXFMTi10ZVNUb0N4Y2tOeERWalV6OWFXTlpxUmt1U0l0ZlBnSWU3Zy1VX1g0Yy1fUE5lal96Q0t6RUlyWnV6d0c3WE9qdjZPakVubmVYNHdCamtVNy0zTkxxOGd4Yk9MVnFXU003WEliQS1GNjBYVkdLWk5kUUh1SjJIbnlfR056d2dwYVhJd3ljRjZxMWpxMFEzYmJhMGdwNV9aeWlIN0RPeWxoNVJTc1RKc0puc2Z2NHVqRUtlZTJWMGVocnBQS1pNa0d5SFJvYmhkLTI1VVhEQnNhd2pQb0s3VURmTHY5S1hWZDg0YlV2WThXTUZCUWFCZVpUMERLeEVjMDdLa2gwWkVrUUFuV3lWSWZSUU8yYkdtZ2ZIN1BKUFhoOXNLNmlYUkFJLU52UElkVi16UldNTmpDaERJWnhDS29ZNTBSdDZROUdzc3VQdTFXYy1ydnlBUUJCeXRJRzdtdGQ0VXBtcExZdFA2Z3I0TG4?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 13:34:00 GMT",
+      "source": "The Times of India",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Retreats from Record Highs: Bulls Pause as Fed Decision and Dollar Strength Loom",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONVNKM1lIM3hMYnN2SXRxcGpLYUZxZmVPdVFHWFY1alFOX1RVMG05T3RZMjVrbE5NX0RCc25BcC1iYWlkSlRkMnRIZlh2d3Z4aXdIMVFVNzJ5ZUZjYVk3SWRvaXMxekdMdUhwSlhJc0NXcTV6d0d5bmpaa2hqd0hsamxoU2t1aGdjdndEWldzbDhyRmxTWjRfVnJHLXlFQXhVUzd4ZnFyMEZHOGY4VVJXenpR?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 12:56:28 GMT",
+      "source": "Vocal",
       "isLive": true,
       "coverage": 1
     }
