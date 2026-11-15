@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-15T15:29:31.158Z",
+  "generatedAt": "2026-11-15T20:54:36.621Z",
   "bias": {
-    "score": -31,
-    "label": "Bearish",
-    "bullWeight": 9,
-    "bearWeight": 17,
+    "score": -15,
+    "label": "Mixed / Neutral",
+    "bullWeight": 11,
+    "bearWeight": 15,
     "driversCounted": 10
   },
   "market": {
     "gold": {
       "price": 3887.600098,
-      "asOf": "2026-11-15T15:29:30.731Z"
+      "asOf": "2026-11-15T20:54:36.178Z"
     },
     "realYield10": {
       "value": 2.86,
@@ -109,18 +109,6 @@
   ],
   "live": [
     {
-      "title": "Rate-hike bets keep gold on track for worst week in four months",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmtMVVBHZGEyX3I4eWRfOFQwaW8zUHZDNXg1N0UxbW9jX1lhdmpuRkpZZ2hDZUEyNzZCTktodzFxUEt3NWJtN0JkU2NUa1VRLUJwVGR1bjVDR0Npak1lbk9xLXhOVmI3Y1BMRGkwTXBRb3lNVE1wMFdFb1JQWXBucV9tbF8tclNrRm1FTTNhVnpjSTlfVndYbVdqaw?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 17:30:34 GMT",
-      "source": "Reuters",
-      "isLive": true,
-      "coverage": 2
-    },
-    {
       "title": "Gold Price Slips to Key Support as Fed Rate Risks and GLD ETF Outflows Build",
       "sentiment": "bear",
       "kind": "driver",
@@ -133,14 +121,14 @@
       "coverage": 1
     },
     {
-      "title": "Bank of Korea's Q3 Gold ETF Buying Loses approximately $23.9 Million in Value as Gold Prices Slump",
+      "title": "Central Bank Gold Buying Surges 42% as Prices Dip Below US$4,000",
       "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising ETF holdings show investment demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xLUh6a1gweVI4OWFBNXNhNjU0bS1DZWs1RDNCdEM2WlZMYmVhVS0yREdYOGpBYkhLelN6d3pYV1Y5WEp5T0Z2OC10QkRtNW9VemYzZ2NELXlwd0VEbzViTE9tQUswcVhaR19QdV9uOFUtX0J2eFE?oc=5",
-      "pubDate": "Sun, 15 Nov 2026 03:35:00 GMT",
-      "source": "BigGo Finance",
+      "text": "Central-bank accumulation reinforces structural demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORklGZ0xpd2dxTXk1bW5aRnNpOEVmeU5pZ3lYZ0JJUWdTQkwwMWl2eVJtWEdFcGZHcWx6VG9BcnE0QlJuem1pWXhLenNNZURERDFzdWZtY1FqMEw5THo4S1oxZHBrSGxkWmNQeFNheWtjUGdWUm1PakQ4NjBaQWpNM0E0dVVTZE5jRkxaV2V5RVZfN09lZUYxblFrSzB6c2l2bUJzUUhDY1ZaOWR4NnJhS0dfdW94c21PT2N2UXlR?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 10:30:36 GMT",
+      "source": "Streetwise Reports",
       "isLive": true,
       "coverage": 1
     },
@@ -157,6 +145,18 @@
       "coverage": 1
     },
     {
+      "title": "Bank of Korea's Q3 Gold ETF Buying Loses approximately $23.9 Million in Value as Gold Prices Slump",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising ETF holdings show investment demand for gold.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xLUh6a1gweVI4OWFBNXNhNjU0bS1DZWs1RDNCdEM2WlZMYmVhVS0yREdYOGpBYkhLelN6d3pYV1Y5WEp5T0Z2OC10QkRtNW9VemYzZ2NELXlwd0VEbzViTE9tQUswcVhaR19QdV9uOFUtX0J2eFE?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 03:35:00 GMT",
+      "source": "BigGo Finance",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold posts steep weekly loss as Treasury yields rise, Fed tightening bets persist - Kitco PM Report",
       "sentiment": "bear",
       "kind": "driver",
@@ -169,26 +169,26 @@
       "coverage": 1
     },
     {
-      "title": "Price bounces may be traps as Fed rate hikes could drive gold down to $3,200/oz – StoneX’s Pavilonis",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVTRSTldzM0ZRZjRNM2ktRnZjenYwSG5nUkFCdzZQNFlBcDlqcUxJalBxOFJwaGZaX1RldkJrMFl1VUxFdU5iV2RFN2xqMTlqQlk4UGtpVklxVDVYT0VXTHhCTUN0cTFOWXVJcTNqa3ZETnprRXJpQ0lDTXpjUzdBV0t4WUstWDZwRTgtV0NsMGNMRVZWcEJQM2JfVE9oU29OZERJOHR3a3dmVV9nU0ZhUnFKb3ZGRXM?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 20:45:15 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold faces weekly rout as high US yields fuel Fed rate hike bets",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkZkMHgwOHYxaW1lNy00SV94aTBhLXZXaEp1YXgwXzNVVWJQRXB4TVVVZEQzRm9QUGRoVVhEWmpOQzM5UEpvbENRVUpvOEFkUzZhNzZWY0hseTk2UTA4NDZYOUY2aUFHLWlYeXdoRUhIajdxM1hPcDVIZVZGeEx4LXJmN1JzMGE2SHd5LV9DaU05UFY1RUxra21LOFc1WFJGVWpvQmIyTlVuU3M?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 20:23:53 GMT",
-      "source": "FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0V6RjhsdTZwRXA4SW9ScTZyUWFveGFsbXJIbE1sS2VFV1F4QW5CUUtvaGMtYXpFQkRLYXRtMjAzVEFyYVh2SGNadUI1LTYyNG51ZHNwWk9aSklBX3RkUlVBajcxMFpWb3NSM25WWnc1TzRDR3BZendvVmhIcVpGMlRnRlU4RjQweXNjdWdfU2hQbEkwSjhBaUJBSzh1dHlRWlI3OElLdHBUZzVmLUJaeUF2MGlteTRGVlRMRjV5S3Y2eTF0eE1lQ09B?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 21:22:22 GMT",
+      "source": "www.tmgm.com",
+      "isLive": true,
+      "coverage": 2
+    },
+    {
+      "title": "Rate-hike bets keep gold on track for its worst week in four months",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMUgtamdtX2o1dDdpTUdObHFRNU5rdjZsekhPZTNCOV96bTNOVW5TOGpJenVsel91VjVMcjJBamJuTzF1U29JQ1FiTXlseG5xaF9TVFVNby1LTDJjUDlOYlRKRlRuVkFvdWwybDlTMEh2UU1mVVk1TXBSZWREMUo4cDRpY2RONWt6eVl30gGQAUFVX3lxTE9SV2JWck5QY081YTFhVE85TERuVEQwWnV3U2hOVTloYmwzb21PSExFUE9RdWx6Nk9YLUJJUkhaYmJHNkxidVJFMkRGX1FCamNqX3VldXlWTkJnSG1ZUWc4T05FMVo3SldYcTRpZTJ6azZubVJFVzdUcnNkYV9yR0NZRUhja045MG9NOG9VRFpfZA?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 07:03:00 GMT",
+      "source": "Forex Factory",
       "isLive": true,
       "coverage": 1
     },
