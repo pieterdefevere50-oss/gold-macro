@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-15T20:54:36.621Z",
+  "generatedAt": "2026-11-16T05:42:03.017Z",
   "bias": {
-    "score": -15,
-    "label": "Mixed / Neutral",
-    "bullWeight": 11,
-    "bearWeight": 15,
-    "driversCounted": 10
+    "score": -42,
+    "label": "Bearish",
+    "bullWeight": 7,
+    "bearWeight": 17,
+    "driversCounted": 9
   },
   "market": {
     "gold": {
-      "price": 3887.600098,
-      "asOf": "2026-11-15T20:54:36.178Z"
+      "price": 3869.5,
+      "asOf": "2026-11-16T05:42:02.574Z"
     },
     "realYield10": {
       "value": 2.86,
@@ -109,6 +109,66 @@
   ],
   "live": [
     {
+      "title": "Gold and Silver Price Forecast: Strong Dollar Puts Key Support at Risk",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWlFILUdjbC1JcGQwbGFHVk5MYXNiODczb2RNS0hRVDdTMEhZNkdGTmVxaVR4MUJPbnMzcTduUkpuWjJqUWIyUERSYnlFV1MxM3VaTDZteGN0MU5YZi10LTZSWVl2bktiT3FoeTE0VUQyX1lNdnhmR2tNRGRoQlVJdXZJLUIyWjRQTDFScU9qbGJoQlVRSWgxRnV6M3ZFaEE4VkIxOTd0NWdVb0ZWR3d6RVpKXzlWYlJxemFGaA?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 03:30:20 GMT",
+      "source": "FXEmpire",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold falls below $3,900 as December Fed hike bets build, Warsh in focus",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQjNWeUI1OEM0UXd1V1k0UHdleXk1UlZGVGZEYlJCSTBPbmtxYnNOb3k1a20yaHdzY2t5Ml9SSDhSNVNLSWg5dm95UTBLYWw3QTVCb3NFTlZ3Tm9fajI1TWRMZnNpLXhfVHhTUnhTb1BnQVZmbWo3cndTdjJpeU5vZHhwTDRGYU41cEtIZmhIRlZJVkhFTWVqT0d2aDY5WllNNFpNQkdwd3o2b2FwNTQ4eXVqczg1eS1FdGljcUotNGZhdw?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 01:47:59 GMT",
+      "source": "Investing.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Slides Below $3,900 as Hot Inflation Data Fuels Fed Rate Hike Bets",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0R2Rll3WnVlQXVqdUJMZGJ1WGxvQXZKMWgxZGR0YmpCM0xRd3dBYUJudmo5djlRbUhmUDJ4Z0FmV01icnB1LWlkakRmdHU3NkFiX2Q5MllkNHNkN2NkbEtNdW1YQ3ZMdDNrNnlwblR6WTZHZ2RqWGJBUURta094N040US1fVUVUeVN0RUxTV3g0MlVTYkdCVw?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 02:12:17 GMT",
+      "source": "the deep dive",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold stays near YTD low as USD gains support from Fed rate hike bets and Middle East tensions",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVjFWWUFUbjZYX3l3M0hZcEJIX3kwMHpqQWZqT2tDd0kxeXY0blFlWE1RNEZzQkgyR2JYRzlmNEJEQXp5c3VIeUhLZGNTQmJvNXpUZ2M2SGk0Zmx5NWNSRUNyZnVSWWE0WGExZ1BLenp4dzZLZTh0aUxSd2h1LXg2aTVKYkt4bzk2Q2hvSEUzblFKVHN4YkFSMDN4NV9RdXcxMmJsMWhTT1NmVVVZczV3aURsQVpjdXVQN2Z0RjVxd2lQU0dJN0JPZExWR1d5YVhNN3h2Vkx1YUNTQWJpaldLSnFTbFZBZw?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 04:09:36 GMT",
+      "source": "www.tmgm.com",
+      "isLive": true,
+      "coverage": 2
+    },
+    {
+      "title": "Silver Price Forecast: Why has XAG/USD hit yearly lows below $47.50 amid hawkish Fed sentiment?",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdFlQUGg5MjdNZGVYU1RyX0wwS0kwV085cjFQcEhjdWgzNmt1TVJVZW9oa2Fib0tnYTY0NkpKc042ZnlrUWJaVnQ2QlRNdGt1bTA0T0wtbEZUaU5mSzdHWFRLWDBzQV95TmF3R2RpNWlKa3ZNME9ULU1BRF92Sll3WWdTZE5VWk1UMFlQX1h2X1FXM2dGNjBjRzVMSzFnWlMyNkowN0JidGZkcU54S2VMU2hIVS01VjYyQXFUdWZIUE13NHlhMGk5Vm5rSzluQ2xUQWViNHZmSDNPVjhpSWNDX01hWWQwbzhh?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 04:09:36 GMT",
+      "source": "www.tmgm.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Price Slips to Key Support as Fed Rate Risks and GLD ETF Outflows Build",
       "sentiment": "bear",
       "kind": "driver",
@@ -117,78 +177,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSGM3TWZaYlNGVlJHRnV4OXNWNG5iWU9SN3hQYzRibnprTldmMU9oVXlwYVBXWWlfSTd3MXZsMXFZZGw2Ui05Y0xxTGVqRUhLSThyUWg3RDA2LU1SUFVxRVR4OWVWN0lZQmRMbjBRWXpQdTc5UzhMVDRRTHdxVGVINGhwRzdzS1hhQS1IaWxnYTZYN1NDRGRfN3NEVWhlclRRY2VfQ0Q4SDlGVnUxa0NDWEdfbVJWQXY1dGFDN3VYaTNYOEliTFl2SFRyZ2dLYVF4YlE?oc=5",
       "pubDate": "Sat, 14 Nov 2026 15:30:05 GMT",
       "source": "Benzinga",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Central Bank Gold Buying Surges 42% as Prices Dip Below US$4,000",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Central-bank accumulation reinforces structural demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORklGZ0xpd2dxTXk1bW5aRnNpOEVmeU5pZ3lYZ0JJUWdTQkwwMWl2eVJtWEdFcGZHcWx6VG9BcnE0QlJuem1pWXhLenNNZURERDFzdWZtY1FqMEw5THo4S1oxZHBrSGxkWmNQeFNheWtjUGdWUm1PakQ4NjBaQWpNM0E0dVVTZE5jRkxaV2V5RVZfN09lZUYxblFrSzB6c2l2bUJzUUhDY1ZaOWR4NnJhS0dfdW94c21PT2N2UXlR?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 10:30:36 GMT",
-      "source": "Streetwise Reports",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold (XAUUSD), Silver, Platinum Forecasts – Gold Attempts To Rebound Despite Strong Dollar",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTDlXZ2k1X1dnTzA4WnZaSWh6NTV3c3lLUmhhcF93V1lSZ2xfTDRHZFVQZzgxajU3U2U3QWhDTnhvWFJBQ0YzQTdHb2hjTDh5VFZ3cFlMNWNmSUZ2MndEa3lFOUxET2Zfdk1yMnY4eGZHX2NCWHBlTzgxR2RjYUpJYTZ6TnIwTGFmUk1ZRUJqNVl0dDBWNEdfVldYclZ4Mlk5Mm5lekJfVkpteWVhVEZPY2QwaXpLOVdMSXRMNmlzMW1VQkFiQXJSQWJyTmUteWFDbXFV?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 02:07:00 GMT",
-      "source": "FXEmpire",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Bank of Korea's Q3 Gold ETF Buying Loses approximately $23.9 Million in Value as Gold Prices Slump",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising ETF holdings show investment demand for gold.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xLUh6a1gweVI4OWFBNXNhNjU0bS1DZWs1RDNCdEM2WlZMYmVhVS0yREdYOGpBYkhLelN6d3pYV1Y5WEp5T0Z2OC10QkRtNW9VemYzZ2NELXlwd0VEbzViTE9tQUswcVhaR19QdV9uOFUtX0J2eFE?oc=5",
-      "pubDate": "Sun, 15 Nov 2026 03:35:00 GMT",
-      "source": "BigGo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold posts steep weekly loss as Treasury yields rise, Fed tightening bets persist - Kitco PM Report",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising Treasury yields increase the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX0k2NHE2ZjJka2ltRGxrN2ZDN1JKQ1FBZnRxT240TTRqcmp5Qlp4UWkwQWtVM3dFTXBtYU5vNkpYQXFQRi1vQ3FYRG5fd1J5YTdrUjc1RjMwRGhVeHZJdEoyYmdQTGdTbW1QWVFiQVkwXzVELU9mOFBXdEdBbnZ1M0VaODNDckVvb2hfanpQMXJRdWVBOGdiWldtM0xlYWxUaEM3NFVPMnJaLTdlYlFEN2o2dzNuUQ?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 22:46:15 GMT",
-      "source": "Kitco",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold faces weekly rout as high US yields fuel Fed rate hike bets",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ0V6RjhsdTZwRXA4SW9ScTZyUWFveGFsbXJIbE1sS2VFV1F4QW5CUUtvaGMtYXpFQkRLYXRtMjAzVEFyYVh2SGNadUI1LTYyNG51ZHNwWk9aSklBX3RkUlVBajcxMFpWb3NSM25WWnc1TzRDR3BZendvVmhIcVpGMlRnRlU4RjQweXNjdWdfU2hQbEkwSjhBaUJBSzh1dHlRWlI3OElLdHBUZzVmLUJaeUF2MGlteTRGVlRMRjV5S3Y2eTF0eE1lQ09B?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 21:22:22 GMT",
-      "source": "www.tmgm.com",
-      "isLive": true,
-      "coverage": 2
-    },
-    {
-      "title": "Rate-hike bets keep gold on track for its worst week in four months",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMUgtamdtX2o1dDdpTUdObHFRNU5rdjZsekhPZTNCOV96bTNOVW5TOGpJenVsel91VjVMcjJBamJuTzF1U29JQ1FiTXlseG5xaF9TVFVNby1LTDJjUDlOYlRKRlRuVkFvdWwybDlTMEh2UU1mVVk1TXBSZWREMUo4cDRpY2RONWt6eVl30gGQAUFVX3lxTE9SV2JWck5QY081YTFhVE85TERuVEQwWnV3U2hOVTloYmwzb21PSExFUE9RdWx6Nk9YLUJJUkhaYmJHNkxidVJFMkRGX1FCamNqX3VldXlWTkJnSG1ZUWc4T05FMVo3SldYcTRpZTJ6azZubVJFVzdUcnNkYV9yR0NZRUhja045MG9NOG9VRFpfZA?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 07:03:00 GMT",
-      "source": "Forex Factory",
       "isLive": true,
       "coverage": 1
     },
@@ -205,14 +193,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Retreats from Record Highs: Bulls Pause as Fed Decision and Dollar Strength Loom",
+      "title": "Gold Rate Today: 24K Gold Falls to Rs 1,36,800",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONVNKM1lIM3hMYnN2SXRxcGpLYUZxZmVPdVFHWFY1alFOX1RVMG05T3RZMjVrbE5NX0RCc25BcC1iYWlkSlRkMnRIZlh2d3Z4aXdIMVFVNzJ5ZUZjYVk3SWRvaXMxekdMdUhwSlhJc0NXcTV6d0d5bmpaa2hqd0hsamxoU2t1aGdjdndEWldzbDhyRmxTWjRfVnJHLXlFQXhVUzd4ZnFyMEZHOGY4VVJXenpR?oc=5",
-      "pubDate": "Sun, 15 Nov 2026 12:56:28 GMT",
-      "source": "Vocal",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOY1hRSzU3SFAycUtJZllfemczOW9IdGxVUHJYakhtSjVTSDVHU2RpaW1jaDl4QTdXelFKVE9rTkt6eWxWWGlIa1F2RVU2cTR6aGFyOFA3SEw4OHUtbWw4ak1aXzV0LUw2VVdWYmM1cERfMThEMkRsdy1MU08tV3pvQTVQNWJKa2tTRUxnS3VpQ0Q0SEJNNld1X25fSzN5YktuZHg2SHI5QVE5OFFaUFluSG9PM29FVU5UdEV6ZVZYWVlZblVoVVZVdm9SZ0xpWnNYeExSSVo2eGEwcWtOWkd4YXNnWVl6ZTRqbXd6bHBZUkxsUzZQa3JpWGpKX0g?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 04:46:50 GMT",
+      "source": "HDFC Sky",
       "isLive": true,
       "coverage": 1
     }
