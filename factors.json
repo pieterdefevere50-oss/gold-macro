@@ -1,49 +1,49 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-16T18:10:10.117Z",
+  "generatedAt": "2026-11-17T02:50:49.018Z",
   "bias": {
-    "score": -50,
+    "score": -62,
     "label": "Bearish",
     "bullWeight": 7,
-    "bearWeight": 21,
-    "driversCounted": 11
+    "bearWeight": 30,
+    "driversCounted": 13
   },
   "market": {
     "gold": {
-      "price": 3850.300049,
-      "asOf": "2026-11-16T18:10:09.708Z"
+      "price": 3867.550049,
+      "asOf": "2026-11-17T02:50:29.061Z"
     },
     "realYield10": {
-      "value": 2.86,
-      "asOf": "2026-11-12",
-      "prior": 2.78,
-      "priorDate": "2026-10-15",
-      "change": 0.08000000000000007,
-      "changePct": 2.8776978417266217
+      "value": 2.91,
+      "asOf": "2026-11-13",
+      "prior": 2.74,
+      "priorDate": "2026-10-16",
+      "change": 0.16999999999999993,
+      "changePct": 6.204379562043792
     },
     "y10": {
-      "value": 5.1,
-      "asOf": "2026-11-12",
-      "prior": 5.1,
-      "priorDate": "2026-10-15",
-      "change": 0,
-      "changePct": 0
+      "value": 5.15,
+      "asOf": "2026-11-13",
+      "prior": 5.09,
+      "priorDate": "2026-10-16",
+      "change": 0.0600000000000005,
+      "changePct": 1.1787819253438212
     },
     "y2": {
-      "value": 4.86,
-      "asOf": "2026-11-12",
-      "prior": 4.77,
-      "priorDate": "2026-10-15",
-      "change": 0.09000000000000075,
-      "changePct": 1.8867924528302045
+      "value": 4.88,
+      "asOf": "2026-11-13",
+      "prior": 4.74,
+      "priorDate": "2026-10-16",
+      "change": 0.13999999999999968,
+      "changePct": 2.9535864978902886
     },
     "dollar": {
-      "value": 121.8803,
-      "asOf": "2026-11-06",
-      "prior": 121.6023,
-      "priorDate": "2026-10-09",
-      "change": 0.2780000000000058,
-      "changePct": 0.22861409693731596
+      "value": 122.6503,
+      "asOf": "2026-11-13",
+      "prior": 121.4048,
+      "priorDate": "2026-10-16",
+      "change": 1.245500000000007,
+      "changePct": 1.0259067186799922
     },
     "fedTarget": {
       "low": 3.75,
@@ -58,26 +58,26 @@
       "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-11-12",
-      "text": "The 2-year Treasury yield (4.86%) is 98bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
+      "asOf": "2026-11-13",
+      "text": "The 2-year Treasury yield (4.88%) is 100bp above the effective fed funds rate (3.88%): above the policy rate, meaning markets are pricing higher-for-longer or further hikes — bearish. Target range: 3.75%–4.00%."
     },
     {
       "key": "real_yields",
       "title": "US Real Yields (10Y TIPS)",
-      "sentiment": "neutral",
+      "sentiment": "bear",
       "impact": 5,
       "dataDriven": true,
-      "asOf": "2026-11-12",
-      "text": "10Y real yield is 2.86%, up 8bp over 4 weeks (as of 2026-11-12): little changed, so no clear push either way. Real yields are the most direct macro driver of gold."
+      "asOf": "2026-11-13",
+      "text": "10Y real yield is 2.91%, up 17bp over 4 weeks (as of 2026-11-13): rising real yields raise the opportunity cost of holding non-yielding gold — bearish. Real yields are the most direct macro driver of gold."
     },
     {
       "key": "dollar",
       "title": "US Dollar Trend (Fed Broad Index)",
-      "sentiment": "neutral",
+      "sentiment": "bear",
       "impact": 4,
       "dataDriven": true,
-      "asOf": "2026-11-06",
-      "text": "The Fed's broad trade-weighted dollar index is 121.9, up 0.2% over 4 weeks (as of 2026-11-06): roughly flat, so no clear push either way."
+      "asOf": "2026-11-13",
+      "text": "The Fed's broad trade-weighted dollar index is 122.7, up 1.0% over 4 weeks (as of 2026-11-13): a firmer dollar makes gold pricier for foreign buyers — bearish."
     },
     {
       "key": "cb_buying",
@@ -118,7 +118,8 @@
       "pubDate": "Mon, 16 Nov 2026 05:24:13 GMT",
       "source": "CNBC",
       "isLive": true,
-      "coverage": 1
+      "coverage": 1,
+      "stale": true
     },
     {
       "title": "Gold Price Forecast: Hawkish Fed Signals Keep Rallies Vulnerable",
@@ -130,7 +131,8 @@
       "pubDate": "Mon, 16 Nov 2026 15:26:07 GMT",
       "source": "FXEmpire",
       "isLive": true,
-      "coverage": 1
+      "coverage": 1,
+      "stale": true
     },
     {
       "title": "Gold price slides as Fed hike bets rise, silver bar and coin sales drop despite lower prices – Heraeus",
@@ -142,7 +144,8 @@
       "pubDate": "Mon, 16 Nov 2026 15:01:33 GMT",
       "source": "Kitco",
       "isLive": true,
-      "coverage": 1
+      "coverage": 1,
+      "stale": true
     },
     {
       "title": "Gold and Silver Price Forecast: Strong Dollar Puts Key Support at Risk",
@@ -154,7 +157,8 @@
       "pubDate": "Mon, 16 Nov 2026 03:30:43 GMT",
       "source": "FXEmpire",
       "isLive": true,
-      "coverage": 1
+      "coverage": 1,
+      "stale": true
     },
     {
       "title": "Gold Falls Below $3,900 as Stronger Dollar and Fed Rate Expectations Pressure Precious Metals",
@@ -166,7 +170,8 @@
       "pubDate": "Mon, 16 Nov 2026 10:02:52 GMT",
       "source": "Yahoo Finance",
       "isLive": true,
-      "coverage": 1
+      "coverage": 1,
+      "stale": true
     },
     {
       "title": "Gold holds near 13-month low as hawkish Fed outlook caps upside",
@@ -178,7 +183,8 @@
       "pubDate": "Mon, 16 Nov 2026 15:26:40 GMT",
       "source": "FXStreet",
       "isLive": true,
-      "coverage": 1
+      "coverage": 1,
+      "stale": true
     },
     {
       "title": "Will gold price avoid deeper losses amid stronger dollar and elevated Treasury yields?",
@@ -190,7 +196,8 @@
       "pubDate": "Mon, 16 Nov 2026 09:07:27 GMT",
       "source": "Traders Union",
       "isLive": true,
-      "coverage": 1
+      "coverage": 1,
+      "stale": true
     },
     {
       "title": "Gold hits one-year low as dollar strengthens, Fed rate bets rise",
@@ -202,7 +209,8 @@
       "pubDate": "Mon, 16 Nov 2026 14:55:20 GMT",
       "source": "سانا",
       "isLive": true,
-      "coverage": 1
+      "coverage": 1,
+      "stale": true
     },
     {
       "title": "'Plenty of Reasons to Sell' as Gold Sinks 15% in 12 Weeks",
@@ -214,7 +222,8 @@
       "pubDate": "Mon, 16 Nov 2026 13:29:28 GMT",
       "source": "BullionVault",
       "isLive": true,
-      "coverage": 1
+      "coverage": 1,
+      "stale": true
     },
     {
       "title": "Gold drops to more than one-year low as US dollar marches higher",
@@ -226,8 +235,11 @@
       "pubDate": "Mon, 16 Nov 2026 01:25:00 GMT",
       "source": "Reuters",
       "isLive": true,
-      "coverage": 1
+      "coverage": 1,
+      "stale": true
     }
   ],
-  "errors": []
+  "errors": [
+    "news: HTTP 503"
+  ]
 }
