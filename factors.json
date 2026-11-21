@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-21T12:19:42.432Z",
+  "generatedAt": "2026-11-21T21:30:56.535Z",
   "bias": {
-    "score": -52,
+    "score": -29,
     "label": "Bearish",
-    "bullWeight": 7,
-    "bearWeight": 22,
-    "driversCounted": 9
+    "bullWeight": 11,
+    "bearWeight": 20,
+    "driversCounted": 10
   },
   "market": {
     "gold": {
       "price": 3539,
-      "asOf": "2026-11-21T12:19:41.975Z"
+      "asOf": "2026-11-21T21:30:56.077Z"
     },
     "realYield10": {
       "value": 2.88,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-11-20"
+      "asOf": "2026-11-21"
     }
   },
   "evergreen": [
@@ -133,6 +133,30 @@
       "coverage": 1
     },
     {
+      "title": "Gold's Safe Haven Status In Doubt As GLD, IAU Outflows Jump And Price Falls",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Points to safe-haven demand as investors seek protection from risk.",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMVJ5Y3B3ZFBLV0RVTGhoYUlWOGU0WjVDREJLaXNINHF1bHJqUW5xUFdpWHZUQTNRUERkM0VfdVFWcEFsQUNyTFF1S0dRaEV6OWo2M2hmR3l2REJZZWRpejRFa29BQlpKdUFQcHhzRFRkSWQxMGs5bmhRcmNaYTdRVG9QNjNZcGE3SkFWMlBGdGJ3cFUyZzJraVNBWWpkUTZ5UHRPWHlJVnhKc2VOdHhtNGoydlZDR3hnSGNLaWJGRVNiNmpYTDBTc2hvTFBCUQ?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 18:45:05 GMT",
+      "source": "Benzinga",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "UBS flags further gold weakness before Fed rate-cut expectations return",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Growing rate-cut expectations lower the opportunity cost of holding non-yielding gold — bullish.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUlo5dHE1SWxqV19SaFYxVEl2OFZ0a0lsTEw2Tjc5anRmZHBxaWp6QUEybWpnTk1Kci01YkJrWkpxb2VVaEFCWG1uaU9zY1J5eDh1UHdzai1TdVlNYm44TldXOFdHTFk3YVhrVGFrcmJSeWpWd0Zic1pIanRZVmpIcDlCQVkxZUZEeUlPZXpZQXFoOHlNd21uWEF3OWFhUExjSVk2VFdDS2QtU2JVR05BSGZ1Ymt2UkpsbHQ4eGc0MGw5d0oz?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 17:52:10 GMT",
+      "source": "Investing.com",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Takes a Beating as Hawkish Fed Sparks Worst Week in Eight Months",
       "sentiment": "bear",
       "kind": "driver",
@@ -141,18 +165,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdHRqR1J2alFiOXd3Y2tteUlQenZGRXhiVlR2Tk4xSEVSTUd5Q2pwV2lMcmpvYm1uWFAzTWZ1T2lsYkZEczNGZlVsOGhTZW5zMXl6Wkg0Q1ZtcV9sd2t6YzQ3Ri1tejZtbUlFYVdObWNJZUU1N19GR3V6RkxTWi1QbXNnVHVuUmdtLU5hQjdyeklTSTB0cUludHFvWGtod2RvaXc?oc=5",
       "pubDate": "Fri, 20 Nov 2026 22:56:19 GMT",
       "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold hits 14-month low as strong dollar, rate bets weigh",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0RVRVVhd0g1djYyRGpzbTcyZXFtSXd3cTV1T0REekJaYm9FOTlzblJzU3hlMmsxSkF0UmtzZ1gwWVFiUzI3VXdGNzJLTndoZC1oVkpXSnRmZ0ZmNkEybVRFSnhIVzFCNnlTS2hQRGV2bnNGTHVsaUZ5RmllU0otWWcxV2wwejMwcXpTOWFxam1xb2dRMXMyQ1c0T0RkZy1SX09YR3lYdmxkQQ?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 18:51:30 GMT",
-      "source": "Reuters",
       "isLive": true,
       "coverage": 1
     },
@@ -169,14 +181,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold price could drop $300 if $3,500/oz fails, and buyers might hold off until the Fed – Walsh Trading’s Lusk",
+      "title": "Gold Price Today: Gold Falls 2.33% on November 20, 2026",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1gxakxUOS1VZGh6VUEwdDhhdDAySkdGT3JQU2pUMnVXN2RiNFRHV3g1MEtsaEtfQUVVNGNPRnJTSVJiSGdVTmRFVVVGLTZhcG1jenZPb2JKYWtweUltNi1fLWlFSXVlVWFPNEU2aHlPSkNkUFQyaDEyZlAwVy1waVFZY0dtSGtGTUVUOWw4eUFTRTJ5RENUVUw4Qk9nMFJKbGNTamNHU3F6NDEydHZHU3RLMUhXb2NGd2Jz?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 20:12:13 GMT",
-      "source": "Kitco",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUtnZGVIdmJYekQ1VmF3aWRJREx5aGNEcVpiOEhNc3U5bFNHeUd5eGl4MV9iZXI0dEdhd0tRTV91WkpQdzA0ZVlZVDc5LXViZlZnVXFJczhnTFBmYTZ2QUxiTDhyWXpQRk1wbUZ6aUlKN0xJeDFYUERyeFJ4T3FvSzVfb2twZEg3bjRYTmtOZXV4U2xRVmNEUHc1Z0N3d21zaUx3?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 21:04:00 GMT",
+      "source": "USA Today",
       "isLive": true,
       "coverage": 1
     }
