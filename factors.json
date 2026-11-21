@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-21T01:13:41.832Z",
+  "generatedAt": "2026-11-21T12:19:42.432Z",
   "bias": {
-    "score": -55,
+    "score": -52,
     "label": "Bearish",
     "bullWeight": 7,
-    "bearWeight": 24,
-    "driversCounted": 10
+    "bearWeight": 22,
+    "driversCounted": 9
   },
   "market": {
     "gold": {
       "price": 3539,
-      "asOf": "2026-11-21T01:13:41.339Z"
+      "asOf": "2026-11-21T12:19:41.975Z"
     },
     "realYield10": {
       "value": 2.88,
@@ -145,28 +145,16 @@
       "coverage": 1
     },
     {
-      "title": "Gold and Silver Slide as Fed Eyes Rate Hikes at Dec. 9 Meeting",
+      "title": "Gold hits 14-month low as strong dollar, rate bets weigh",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mNWFoeVE3YlRUWGU3dTFzNzVoYWFJMmRaM0UtVGtoYmtlZGtvUFZ4RXJDU1JDRGNncERzQ25Cc215SXpQVXZsU2x2OE1NQXFIazk0dUZSR3FVUDZmZ1lYSTVwLVhSd3JTYXNaOUJVNmRHekpt?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 18:34:46 GMT",
-      "source": "JCK",
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0RVRVVhd0g1djYyRGpzbTcyZXFtSXd3cTV1T0REekJaYm9FOTlzblJzU3hlMmsxSkF0UmtzZ1gwWVFiUzI3VXdGNzJLTndoZC1oVkpXSnRmZ0ZmNkEybVRFSnhIVzFCNnlTS2hQRGV2bnNGTHVsaUZ5RmllU0otWWcxV2wwejMwcXpTOWFxam1xb2dRMXMyQ1c0T0RkZy1SX09YR3lYdmxkQQ?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 18:51:30 GMT",
+      "source": "Reuters",
       "isLive": true,
       "coverage": 1
-    },
-    {
-      "title": "Gold Price Hits 14 Month Low as Fed Rate Hike Fears Strengthen US Dollar",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11NzllaXVoVklUY3hXdWNpNGZYNUh1Q2NsMVpPdGxGWDBHOEZJTEdmdlZ6V1JhY3hSbXVlN3ZIbDYyMEgwNk9ISldEdlFwbzRwZXZMN09rNjBsaFlCMlkw?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 20:50:00 GMT",
-      "source": "Investing News Network",
-      "isLive": true,
-      "coverage": 2
     },
     {
       "title": "'Everything Crash' Sees Gold Price Extend Longest Slump Since 1970",
@@ -181,14 +169,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Price Today: Gold Falls 2.33% on November 20, 2026",
+      "title": "Gold price could drop $300 if $3,500/oz fails, and buyers might hold off until the Fed – Walsh Trading’s Lusk",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUtnZGVIdmJYekQ1VmF3aWRJREx5aGNEcVpiOEhNc3U5bFNHeUd5eGl4MV9iZXI0dEdhd0tRTV91WkpQdzA0ZVlZVDc5LXViZlZnVXFJczhnTFBmYTZ2QUxiTDhyWXpQRk1wbUZ6aUlKN0xJeDFYUERyeFJ4T3FvSzVfb2twZEg3bjRYTmtOZXV4U2xRVmNEUHc1Z0N3d21zaUx3?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 21:04:00 GMT",
-      "source": "USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1gxakxUOS1VZGh6VUEwdDhhdDAySkdGT3JQU2pUMnVXN2RiNFRHV3g1MEtsaEtfQUVVNGNPRnJTSVJiSGdVTmRFVVVGLTZhcG1jenZPb2JKYWtweUltNi1fLWlFSXVlVWFPNEU2aHlPSkNkUFQyaDEyZlAwVy1waVFZY0dtSGtGTUVUOWw4eUFTRTJ5RENUVUw4Qk9nMFJKbGNTamNHU3F6NDEydHZHU3RLMUhXb2NGd2Jz?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 20:12:13 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     }
