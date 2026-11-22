@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-21T21:30:56.535Z",
+  "generatedAt": "2026-11-22T05:55:40.800Z",
   "bias": {
-    "score": -29,
-    "label": "Bearish",
-    "bullWeight": 11,
-    "bearWeight": 20,
+    "score": -16,
+    "label": "Mixed / Neutral",
+    "bullWeight": 13,
+    "bearWeight": 18,
     "driversCounted": 10
   },
   "market": {
     "gold": {
       "price": 3539,
-      "asOf": "2026-11-21T21:30:56.077Z"
+      "asOf": "2026-11-22T05:55:40.315Z"
     },
     "realYield10": {
       "value": 2.88,
@@ -109,6 +109,18 @@
   ],
   "live": [
     {
+      "title": "Gold's slide deepens as AI rout, rate-hike bets hurt bullion",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFFjdnZJUDZiUXhKNUdPUWMtQ2tkd0ZKdmN4TTZ3bnQyb09SQ3cxSS1hNVYtcmF5WGpNSlJzS1dWYkdBUzBJZ2s5TnhLQ29mNWNIUy10MGJkN294UndsTmRmOF9GelkyVkdWRl8wcVJQNnRaRGp0a3NIMWNHT1dJSHhZRk1BT3FRV2pFcHVGa3ozS1ZCdjJXenJvSXlBOEdxLUp2MVVVTVBDY0NGX3ZRRUN3?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 20:13:40 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold price today, Friday, November 20, 2026: Gold prices continue to fall as rate hike expectations crystallize",
       "sentiment": "bear",
       "kind": "driver",
@@ -121,14 +133,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold's slide deepens as AI rout, rate-hike bets hurt bullion",
-      "sentiment": "bear",
+      "title": "Goldman Sachs: Gold's $600 Collapse — When the Safe Haven Becomes the Source of Cash",
+      "sentiment": "bull",
       "kind": "driver",
       "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFFjdnZJUDZiUXhKNUdPUWMtQ2tkd0ZKdmN4TTZ3bnQyb09SQ3cxSS1hNVYtcmF5WGpNSlJzS1dWYkdBUzBJZ2s5TnhLQ29mNWNIUy10MGJkN294UndsTmRmOF9GelkyVkdWRl8wcVJQNnRaRGp0a3NIMWNHT1dJSHhZRk1BT3FRV2pFcHVGa3ozS1ZCdjJXenJvSXlBOEdxLUp2MVVVTVBDY0NGX3ZRRUN3?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 03:24:00 GMT",
-      "source": "Reuters",
+      "text": "Points to safe-haven demand as investors seek protection from risk.",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMDRRUk1RWERXUTVJVDFmd3BhUkpwZjBKRnQyNEVQMW5BZC05enRpOFpnQUYtZDBYNnF3ckpsS3J0Tm4zQlVoUklseGpYTGZjS1FTTHprUUJ1Q0pQMFpEX3BLN2R1VDF6RE5sRmFjb1pubEcyZ3NqLVp2QWI0eEJWNnln?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 23:01:55 GMT",
+      "source": "The Dark Side Of The Boom",
       "isLive": true,
       "coverage": 1
     },
@@ -157,18 +169,6 @@
       "coverage": 1
     },
     {
-      "title": "Gold Takes a Beating as Hawkish Fed Sparks Worst Week in Eight Months",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdHRqR1J2alFiOXd3Y2tteUlQenZGRXhiVlR2Tk4xSEVSTUd5Q2pwV2lMcmpvYm1uWFAzTWZ1T2lsYkZEczNGZlVsOGhTZW5zMXl6Wkg0Q1ZtcV9sd2t6YzQ3Ri1tejZtbUlFYVdObWNJZUU1N19GR3V6RkxTWi1QbXNnVHVuUmdtLU5hQjdyeklTSTB0cUludHFvWGtod2RvaXc?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 22:56:19 GMT",
-      "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "'Everything Crash' Sees Gold Price Extend Longest Slump Since 1970",
       "sentiment": "bear",
       "kind": "price",
@@ -181,14 +181,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Price Today: Gold Falls 2.33% on November 20, 2026",
+      "title": "Gold price could drop $300 if $3,500/oz fails, and buyers might hold off until the Fed – Walsh Trading’s Lusk",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUtnZGVIdmJYekQ1VmF3aWRJREx5aGNEcVpiOEhNc3U5bFNHeUd5eGl4MV9iZXI0dEdhd0tRTV91WkpQdzA0ZVlZVDc5LXViZlZnVXFJczhnTFBmYTZ2QUxiTDhyWXpQRk1wbUZ6aUlKN0xJeDFYUERyeFJ4T3FvSzVfb2twZEg3bjRYTmtOZXV4U2xRVmNEUHc1Z0N3d21zaUx3?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 21:04:00 GMT",
-      "source": "USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1gxakxUOS1VZGh6VUEwdDhhdDAySkdGT3JQU2pUMnVXN2RiNFRHV3g1MEtsaEtfQUVVNGNPRnJTSVJiSGdVTmRFVVVGLTZhcG1jenZPb2JKYWtweUltNi1fLWlFSXVlVWFPNEU2aHlPSkNkUFQyaDEyZlAwVy1waVFZY0dtSGtGTUVUOWw4eUFTRTJ5RENUVUw4Qk9nMFJKbGNTamNHU3F6NDEydHZHU3RLMUhXb2NGd2Jz?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 20:12:13 GMT",
+      "source": "Kitco",
       "isLive": true,
       "coverage": 1
     }
