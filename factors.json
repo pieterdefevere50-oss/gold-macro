@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-22T05:55:40.800Z",
+  "generatedAt": "2026-11-22T16:04:33.149Z",
   "bias": {
-    "score": -16,
-    "label": "Mixed / Neutral",
-    "bullWeight": 13,
+    "score": -33,
+    "label": "Bearish",
+    "bullWeight": 9,
     "bearWeight": 18,
-    "driversCounted": 10
+    "driversCounted": 8
   },
   "market": {
     "gold": {
       "price": 3539,
-      "asOf": "2026-11-22T05:55:40.315Z"
+      "asOf": "2026-11-22T16:04:32.685Z"
     },
     "realYield10": {
       "value": 2.88,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-11-21"
+      "asOf": "2026-11-22"
     }
   },
   "evergreen": [
@@ -121,18 +121,6 @@
       "coverage": 1
     },
     {
-      "title": "Gold price today, Friday, November 20, 2026: Gold prices continue to fall as rate hike expectations crystallize",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTWVucXBjLXNwR3NFaDRBOEtsSTVNUnFfeXRCb3hndUlvT0V4VGpuV0ZLbnI1dzEzZmtOTnNMMlFZdVVkaFFTQ0M2aXY1S3dFOFRja1FwRFpYUFpXM0J4dGxCV0pMcEhoclJfa0NxR1loR2NEalljdjNMZEpVdkNzeS1QWUtZS1laRHYydWRGTFQwNi01MDdaNmhpZzlDTGZtUExVUURYWHJ0bTNiY3R5ZXhhbThvQmtadWtOOGxmc1EzeTdVSl9keGJxdGxvTzZkNHVTQjhZQWtlY0w0M1gtOFd1VlhLRXo0aFNTdEszb0ltQ0NZOXJfVXRqdE43TERBR0U2bWUzb3U4TVRwQ3hOdw?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 12:11:16 GMT",
-      "source": "Yahoo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Goldman Sachs: Gold's $600 Collapse — When the Safe Haven Becomes the Source of Cash",
       "sentiment": "bull",
       "kind": "driver",
@@ -145,26 +133,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold's Safe Haven Status In Doubt As GLD, IAU Outflows Jump And Price Falls",
-      "sentiment": "bull",
+      "title": "Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff",
+      "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "Points to safe-haven demand as investors seek protection from risk.",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMVJ5Y3B3ZFBLV0RVTGhoYUlWOGU0WjVDREJLaXNINHF1bHJqUW5xUFdpWHZUQTNRUERkM0VfdVFWcEFsQUNyTFF1S0dRaEV6OWo2M2hmR3l2REJZZWRpejRFa29BQlpKdUFQcHhzRFRkSWQxMGs5bmhRcmNaYTdRVG9QNjNZcGE3SkFWMlBGdGJ3cFUyZzJraVNBWWpkUTZ5UHRPWHlJVnhKc2VOdHhtNGoydlZDR3hnSGNLaWJGRVNiNmpYTDBTc2hvTFBCUQ?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 18:45:05 GMT",
-      "source": "Benzinga",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "UBS flags further gold weakness before Fed rate-cut expectations return",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Growing rate-cut expectations lower the opportunity cost of holding non-yielding gold — bullish.",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUlo5dHE1SWxqV19SaFYxVEl2OFZ0a0lsTEw2Tjc5anRmZHBxaWp6QUEybWpnTk1Kci01YkJrWkpxb2VVaEFCWG1uaU9zY1J5eDh1UHdzai1TdVlNYm44TldXOFdHTFk3YVhrVGFrcmJSeWpWd0Zic1pIanRZVmpIcDlCQVkxZUZEeUlPZXpZQXFoOHlNd21uWEF3OWFhUExjSVk2VFdDS2QtU2JVR05BSGZ1Ymt2UkpsbHQ4eGc0MGw5d0oz?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 17:52:10 GMT",
-      "source": "Investing.com",
+      "text": "A hawkish stance points to tighter-for-longer policy, typically a headwind for gold.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkRDQWZYNXlObXhXM0Q1TEFtSXhxV24ySVdMUnNCVWRRSnJDTkVBLWtJR1lTWEliYzRIbWhWeEFRYzUySHFObzRJajNFWW5wd2lmZ0tIeXpQaFZfdlRZaFJEUTdRVkFKUW1HNDZ1dWhXU1QzSFpIOF80MUJkSWJsdTY1ME9CRUVVYVY0SllFVFYzR0pVVER4YjVSNGp6Y2tIR0ZSRW5yS1VHSHV2OU9MU2lB?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 22:12:39 GMT",
+      "source": "Bloomberg.com",
       "isLive": true,
       "coverage": 1
     },
