@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-23T00:39:06.070Z",
+  "generatedAt": "2026-11-23T14:14:01.775Z",
   "bias": {
-    "score": -39,
-    "label": "Bearish",
-    "bullWeight": 7,
-    "bearWeight": 16,
-    "driversCounted": 6
+    "score": -19,
+    "label": "Mixed / Neutral",
+    "bullWeight": 15,
+    "bearWeight": 22,
+    "driversCounted": 13
   },
   "market": {
     "gold": {
-      "price": 3569.800049,
-      "asOf": "2026-11-23T00:39:05.651Z"
+      "price": 3665.699951,
+      "asOf": "2026-11-23T14:14:01.366Z"
     },
     "realYield10": {
       "value": 2.88,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-11-22"
+      "asOf": "2026-11-23"
     }
   },
   "evergreen": [
@@ -109,38 +109,122 @@
   ],
   "live": [
     {
+      "title": "Gold and Silver Price Forecast: Strong Dollar Caps Rebound Before PCE",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFYwUF85MUc1TlkxNWxTOW1DYjFSc2pJcGZIOTBMY19taHAwMjI3d3NJaEtOVUdTYU8wYkNodUpXeTFOMDFBZGtRZTExdDFvcUljZ05WQ2pTTE91R2hadDBvMmk3TjNDNjZvdDNDUk9GWlRCNXZFZzBnbzgzaEpmWWRFWDBGVk5tdy1jUDJGdDZhVWNVX2JGdGpTQUtJMUFnaTdYLUp2UXhqdUwydno2U2hJODkySExVYjJj?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 10:27:01 GMT",
+      "source": "FXEmpire",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold climbs more than 2% as dollar rally pauses",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnBFWkZLYUFtZG40ejNhc0xINGhEOGZWSnl2M1RabDhRbUstel9yOEtXTTczcW44cEw3b2lvbEMyaExOeDRLNnRWVFdOMU4xZDQ5bkd2YlJaUklBTWNMSDlFWDVZd2VxUEtpbXBqVUlMY3dDM0dmWXVfOW1CWG9oUVJIZ3BhWWltclFMZVF5ck1oZ2pUVUMwVWZVMVhlU1FrbmZuWGpLSW5jMUU?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 05:49:00 GMT",
+      "source": "Reuters",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Price Returns Above $3,600 as U.S. Debt Ceiling Could Become a $5 Trillion Catalyst",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Concerns about US fiscal health support gold as a hedge.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40TDlHb2dGaFY3cHBKNmJSRG0wWW5fS1hhallSWnF3Z005ekFYWEc1eHZQaWVrUXhkdVlCMV9qbm9vbzQzMEZOblk3d3pSMEJEMGVHZkRzYzlkbzRlT2hfX2xjOFFwYmRGUFVpMTNXVGVaSnl2bmc?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 09:35:00 GMT",
+      "source": "BigGo Finance",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
       "title": "Gold Price Forecast: Selloff Echoes 2022 as Fed Hike Fears Grow",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeldGOUZfc0ZTLUtjTkpuLUN3c2lpYnB1SEIwRS1aVnZ2bGNQQndUblBPdG5yZ0NIZDZLMGNxWFRYSDdEaWNXZGVLUmhMWnRWWVoxYVJJck9qZkFaRVB0VzRMajA4Slk1Z2lsVWdOQTZfWmlFbFRFXzY0NndkVUJfaHIxeERYT0IxaDJGRmI4M20zdWRyQXZxcUxsS0w0MGJzYzE2UzF6U096eUROM1ZJRjl1MA?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 23:18:54 GMT",
+      "pubDate": "Mon, 23 Nov 2026 01:57:42 GMT",
       "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Egypt’s gold prices fall EGP 500 in one week amid global market losses",
-      "sentiment": "bear",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWVZxT3RFNDQ0X0tDckxiVG5RdTNSMlhpMUhPaGRnUDNRaXY1Yi1YLVJsS3RKTm9ERGZpM2VBQ1pXU3dFMWxUeWF3QjZnLUg4OFlzWlNkcXM2VDZkQkxpZmVtYWhBQ1FfTDNwRUtkUEQ5MlNkdWhRNkp1VjF6TlNYNkdobjVEbFk0dmtNb2VZb2ZLNFpMd3pKTU9URlBDdVlkTTdHdF9KYjFGVHl3?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 19:31:24 GMT",
-      "source": "Daily News Egypt",
+      "title": "Gold Prices Rebound From 14-Month Low as Technology Sell-Off Boosts Safe-Haven Demand",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Points to safe-haven demand as investors seek protection from risk.",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS3NaR0Q3MDBhcEc0VWI4S0dGWWdVWkxhTDZCVTU1WVJHSjhMOXljMHVIYldZV0pIWWUxU3l4Vnc2SER0Um9QOUxnZDhmeW80bDNlc0RIaGFnUzRkTmhJM2tQTHNhUUVUbGRheXBoUVhGZHhjME4zYkljQWlGTkJENmR4LS12Y1JDTXJJSkFNTGg4NU91VWVwSHdiSEFfdTg?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 09:47:13 GMT",
+      "source": "Yahoo Finance",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Will Gold Prices Continue to Fall? 2027 Gold Price Trend Analysis and Forecast",
+      "title": "Gold Price Forecast: XAU/USD Rebounds Above $3,600 as Yields Drop Below 5%",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Falling Treasury yields lower the opportunity cost of holding gold versus bonds.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbld0dXkwWFp6VkFSalptZFpuZk4yV1M1SGtTbDZJejFKcFI2RU9faXUyclZGRExjaGFoUkw1cTVReGpTT3hYX0VDM1hpSnNMOTRhODZyZHgxTFNBTjVYa1lyU0xQMmp6bGQ2U3p6NllSdGR2ZVUyUGJ0aHluamtKQ1I1N0NZQkN1OU9oWkk5ekljeTZsOHJYOWhpc3NwY1cyR0lyTzZLTlU0a0dpajVBZTF2Zw?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 05:59:44 GMT",
+      "source": "FXLeaders",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold rebounds over 2% above $3,600 as investors reassess Fed rate hikes",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcklJbHZwWGxoZHQ3aXhaOEpXSENkYmtnVTFLX0FrbEdxVkxjTHI5Rl9CQmdBZGhQTUxhTE15S0UxMXVOMmlTblJTY3czTGJ2RmhfYTRnNGtvRUoyQUxGaUlLX09oQXNMX2NvWE9jOUpObUlUYXVnMmZua2c2c0M3V3dFUks4REpwYVIxWVFXNXBNaW04MGlnVHJjV1cycERtbzVQbWozM1FxanRneFlN?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 06:38:05 GMT",
+      "source": "Anadolu Ajansı",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold jumps over 2% as half-point Fed hike bets fade, US PCE in focus",
+      "sentiment": "bull",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Fading rate-hike expectations lower the odds of tighter policy, easing pressure on non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZldCOTJqSjMzUl9HV3BwaTh1VnNOLUVtV1VQYkc0QjlSTWZpdks3MEl1RHg5SUxoUUVDRk5EbzBMMnVBOTZRRXBzWHdoenNJblRIVzVOeVRMd1R5UFdPNmdTV1J2ekppNUNRODYwY0IyaEdyZ2M4MGdURlN3VEY2eHYtUQ?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 11:37:07 GMT",
+      "source": "Mitrade",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Rebounds After Sharpest Weekly Decline Since March",
       "sentiment": "bear",
       "kind": "price",
       "impact": 1,
       "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdDNCMkxUTElwOUpwaXg5Znd2aWRQQkN4ZHhhdDZ2TVJWVzdyM2YtcXkxaGgtSVd3b3V0dkR1MmgyWDhBYzJCQXUtQ1BaTTJOMkZPanhfZndDdW5IUzV5Z0RvUkR3NU5FdE8wNG53M042bjZabjlXcEVhTFVOR1Q5Ykhvc2dBM2h6VzUxc18wclpMY3dsZWpWY0RvemZUUHJwRWRPaUN1Q1g5dmF0QkR1dDljNWw?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 20:30:10 GMT",
-      "source": "TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1lDUDJKYnppMTFtNDdCYUoyWkVjdTBJYWpOaWY3OHFRUTMxT0VSUTR0UWN4SEFQVVZJUlhqNjU4OFlDeXdHZkh4ZUFFSTNzWXhEcWpRQ0h0eVk3Q1ZmU2I5OURqdnhEc1hlQmRDcGVVLXZ5YW8yTWQ4dWYwRHE4V0dLTGZhd0p2S3A1V0l6MUs4M3RXaFh0TlJDZUdQYkdPRWNoclFEMl9sY2JTQzNZcDJn?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 13:07:00 GMT",
+      "source": "WSJ",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold rebounds after steepest weekly decline in eight months",
+      "sentiment": "bear",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMDBfbjFFamRyOXhQcThCUzZEcGRkQmpTQ2dnQlFCQ0ptYnVoR3VDcUJjUjMzaUNwd0VFUDVJejBRRmMwdndqeTh2ajB3Ums5QXd4aDRwak82U3FnS0hQLV9CeG81NWhabVI0UVpuNW9MZDNlTzdKNDBQME5zQy1NclljSGZ5a3JKWmVsUjBB?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 13:25:54 GMT",
+      "source": "PRESS Insider",
       "isLive": true,
       "coverage": 1
     }
