@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-24T02:48:54.110Z",
+  "generatedAt": "2026-11-24T14:40:24.276Z",
   "bias": {
-    "score": -33,
+    "score": -52,
     "label": "Bearish",
-    "bullWeight": 9,
-    "bearWeight": 18,
-    "driversCounted": 8
+    "bullWeight": 7,
+    "bearWeight": 22,
+    "driversCounted": 9
   },
   "market": {
     "gold": {
-      "price": 3646.75,
-      "asOf": "2026-11-24T02:48:53.651Z"
+      "price": 3620.699951,
+      "asOf": "2026-11-24T14:40:23.780Z"
     },
     "realYield10": {
       "value": 2.77,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-11-23"
+      "asOf": "2026-11-24"
     }
   },
   "evergreen": [
@@ -109,37 +109,49 @@
   ],
   "live": [
     {
-      "title": "Gold and Silver Price Forecast: Strong Dollar Caps Rebound Before PCE",
+      "title": "Gold struggles to extend rebound as Fed rate hike bets pressure silver - Kitco AM Report",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
-      "text": "A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFYwUF85MUc1TlkxNWxTOW1DYjFSc2pJcGZIOTBMY19taHAwMjI3d3NJaEtOVUdTYU8wYkNodUpXeTFOMDFBZGtRZTExdDFvcUljZ05WQ2pTTE91R2hadDBvMmk3TjNDNjZvdDNDUk9GWlRCNXZFZzBnbzgzaEpmWWRFWDBGVk5tdy1jUDJGdDZhVWNVX2JGdGpTQUtJMUFnaTdYLUp2UXhqdUwydno2U2hJODkySExVYjJj?oc=5",
-      "pubDate": "Mon, 23 Nov 2026 10:27:01 GMT",
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXZLTW5tSldXS2RtLTBnUXc0MFZ6QkRwYjNINlNUdThxVXNnMElPTE5ZUjE3T1hQdktPdUx2VTZPTjZFa0Y4NVlvamQxRGFJUWg0UEhVZnF5OTdtYkpYWURzSFpGNktoR2REcjJ5bkkteHEycG52Q0I2b3QtaDVOeFNKU0dFTmFGYnVLTmM3R21KVzlFeFJlejVXV3RfbTZSdHFiZFNGWFhUb01JZW1sU2xJdFpsa3Q4R1Br?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 13:45:25 GMT",
+      "source": "Kitco",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Price Forecast: ETF Outflows Threaten Gold’s Sharp Recovery",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "ETF outflows show investors reducing gold exposure.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOclpvNDNQTXNRLVpXWlB1ZDFXZ0lLNnVEQUJQMXltYzN0UF9UQV9weTJkZDZDYjVlWWZwczlGZ3ZjaHpwa05ES0FhV1BNRDVZVmhZbDNnVjhCcG1qTFdIZTA2VnZ6dXhabGU3dmtZd29zUVdGNi10SWh1R3NmZU9QVVZpQ29CeEs4WEFWRUxLVVlfV2xnbjUzTkcwXzE0cHdfYVhjYnREVDlsTEZlZjczUWNwdw?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 14:36:18 GMT",
       "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
     },
     {
-      "title": "Gold Price Returns Above $3,600 as U.S. Debt Ceiling Could Become a $5 Trillion Catalyst",
-      "sentiment": "bull",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Concerns about US fiscal health support gold as a hedge.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40TDlHb2dGaFY3cHBKNmJSRG0wWW5fS1hhallSWnF3Z005ekFYWEc1eHZQaWVrUXhkdVlCMV9qbm9vbzQzMEZOblk3d3pSMEJEMGVHZkRzYzlkbzRlT2hfX2xjOFFwYmRGUFVpMTNXVGVaSnl2bmc?oc=5",
-      "pubDate": "Mon, 23 Nov 2026 09:35:00 GMT",
-      "source": "BigGo Finance",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Price Forecast: Selloff Echoes 2022 as Fed Hike Fears Grow",
+      "title": "Gold rebound loses steam as Fed interest rate hike bets weigh",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeldGOUZfc0ZTLUtjTkpuLUN3c2lpYnB1SEIwRS1aVnZ2bGNQQndUblBPdG5yZ0NIZDZLMGNxWFRYSDdEaWNXZGVLUmhMWnRWWVoxYVJJck9qZkFaRVB0VzRMajA4Slk1Z2lsVWdOQTZfWmlFbFRFXzY0NndkVUJfaHIxeERYT0IxaDJGRmI4M20zdWRyQXZxcUxsS0w0MGJzYzE2UzF6U096eUROM1ZJRjl1MA?oc=5",
-      "pubDate": "Mon, 23 Nov 2026 01:57:42 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWtSZWRxbG91ZllDcldaMVdtNDRVT3pTbkdZNzM5RkFjUEExb1l1ZTMwaHRIZWF6VkhZSXNodVNWNE1aR2o0NnlmLXFid2ZDMFJ5OURMeXg2dU03d0FYWkVEVWFGOHF0U1F4RXpydEI4bmdjY0ZtYWNFc0R2WjlVTjJwTVFtOHNLYVFncXdGc1Z6TFJPWWNiN29rWVRTQzJmRm90X3Bhdw?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 11:03:55 GMT",
+      "source": "FXStreet",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold News: Rebound Fades as Strong Dollar and Fed Hike Expectations Weigh",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish. A stronger dollar makes gold pricier for foreign buyers and tends to weigh on XAU/USD.",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0Fkc2lDckdYbkRTWENRWnF4aFE3MFdqV3hEcVdzYlBiN25ST1FPemdMUmtmWHBHZmp3M3Utdl9uTmF6MVJBemZZWFd6ckRydmQtRUJqamYzVjExWU52eXVBVXUwclZPOXpqSjk3bUNneUNIa3ZUWlZ0RndUeHBlNDgwSmJZaEtWdWQyTDc4WjY1LUFsRUtabzVlRHBmZ2tOMlZzVXp5SEdTeXhxSE9mOUszVEp2bUNybC1Mc21oRlM?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 10:19:21 GMT",
       "source": "FXEmpire",
       "isLive": true,
       "coverage": 1
@@ -157,14 +169,14 @@
       "coverage": 1
     },
     {
-      "title": "Gold Prices Rebound. What the Charts Say About a Nasdaq Bottom.",
-      "sentiment": "bull",
+      "title": "Gold slips with spotlight on U.S. inflation data",
+      "sentiment": "bear",
       "kind": "price",
       "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSDBFMXd2R3VnQm1rTzJYX2lJaHRQblJiRkV4X2x6QTlNY1A5cENqNjF0WTdGTUM5bndFcVNRVV9zYmp5Ti12ZlJ2WU9XOVcxekpsZ2cwcl9fa2VoT1RyaGRHQlktX3pySV8tMC1ubzRLTXVlSmVmNFg0b05hVUVtVlZiUURNMUh0QTY3T1Jn?oc=5",
-      "pubDate": "Mon, 23 Nov 2026 19:36:00 GMT",
-      "source": "Barron's",
+      "text": "Gold's price is falling. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01bWhmbU4xZ1hKTVZnTGh3R2tubjZ5SlE0OFVjaGJDcGRzUHIzWnI1RmhuZzBDUkE3R2RIQ3ZDNU9xV282X3QxTFdvZVpIUUhWRnJEWXFCbDJ4QTNiLTNkRWtzYy16S3VWdFY2OS1rS1N1LXo4Z2JBcTNKb0FZNWPSAYQBQVVfeXFMTXd0ckxjMUlfaXVYbFFieDlSbWs1OWZWRkljX0VHM1ZJeE1wRWhNbFJFbmIwZXR4WmR5UC13NGpDaTVMNkw3Vk1EdG43S3c1VWx0WERuM0htTVpHRjFieV9VeVhfN3p2ZUgzQndxT0gxaFZDbE9NRW96VFV0eU4xU0owcWhf?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 04:32:00 GMT",
+      "source": "CNBC",
       "isLive": true,
       "coverage": 1
     }
