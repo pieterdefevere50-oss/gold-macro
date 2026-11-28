@@ -1,17 +1,17 @@
 {
   "schema": 2,
-  "generatedAt": "2026-11-28T07:31:30.705Z",
+  "generatedAt": "2026-11-28T16:43:18.865Z",
   "bias": {
-    "score": -42,
+    "score": -36,
     "label": "Bearish",
     "bullWeight": 7,
-    "bearWeight": 17,
-    "driversCounted": 8
+    "bearWeight": 15,
+    "driversCounted": 7
   },
   "market": {
     "gold": {
       "price": 3650,
-      "asOf": "2026-11-28T07:31:30.233Z"
+      "asOf": "2026-11-28T16:43:18.450Z"
     },
     "realYield10": {
       "value": 2.73,
@@ -48,7 +48,7 @@
     "fedTarget": {
       "low": 3.75,
       "high": 4,
-      "asOf": "2026-11-27"
+      "asOf": "2026-11-28"
     }
   },
   "evergreen": [
@@ -109,30 +109,6 @@
   ],
   "live": [
     {
-      "title": "Gold Price Forecast: Fed Rate Hike Bets Threaten the Latest Rebound",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGwwTHhCdV9lNnpVQmhQem10ajFMallFR1lUTTJtNV9ibUZoaG5pZmhHZHZjN3BOOHpJQzItMl8wLUVEREh3YTh3SGE4WWpVYjJ4TWMxUmE2Mi11N0ZMcEQ2LUdFOU5XNU5mckVoNTMtZXJYSHloUlJwME9CR1dfRWRwbDk5eUxLeV82MWx1dldTemlTNUMwSEZ5ZllzVzA1NFMwSU5UamdUYlIyWUt0QnVxSEZXaEo0?oc=5",
-      "pubDate": "Fri, 27 Nov 2026 14:47:34 GMT",
-      "source": "FXEmpire",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold Price Drop Pressures Coeur Mining Stock As Fed Rate Hike Fears Build",
-      "sentiment": "bear",
-      "kind": "driver",
-      "impact": 2,
-      "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTUVXd0k0ODBOZ3ZLdFVTYXpIRmFBQ0d3N0ltRTlndjVJVDgyVkxhQ2hyM3BXcTVEekplQ3UzWlRjanE5bkFxalFxNDNrSEFvVmRnRU96ZXF1aUI1S2hpVXc4aHZUZGdqN1Mza2ktQjV6WDctSGZBS1lKNEdzSEZlZ2prLVNwMnZDQkZfam5OMWFhdjlody1JdUNmbUE5TEdpb1A4cFB5WUloeExzcTB4a2Y1NXR5ZWdjQldOOFF2WUFWcE54X094dNIBzgFBVV95cUxNV0pXMzdqbEN6bjg5MXMyV193Qk5ZZUJBUVhEQXlfanN5QWJKV1pYdHlxaDN3ODRYdDc3b1Q4cGg0ckwzSm1CY2xQd0pWb2NkQ3EwNWFtVUFSbU1lRVNGR0VNUnJkUzZNVDhzQTFWZXJWdWdBV0VVdHQwLTkwYnhqUlVnM2t1SktTZlBCTmt2VlU0SlFvVUNSeE0tNkxTODhZQV9hQUN5OFJuYzUzcEhRVGl2ZzFVR0EyclppaDc1M0VFWjFoa3poNW1JMTJDUQ?oc=5",
-      "pubDate": "Sat, 28 Nov 2026 04:12:06 GMT",
-      "source": "Simply Wall St",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
       "title": "Gold rally puzzles investors: Prices rise despite stronger dollar and higher yields; expert sees ₹1.50 lakh in one year",
       "sentiment": "bear",
       "kind": "driver",
@@ -145,14 +121,38 @@
       "coverage": 1
     },
     {
-      "title": "Gold Jumps 2.1% to $3,639 as Bargain Hunters Step In, but Rate-Hike Risk Caps Rally",
+      "title": "Gold Price Forecast: Fed Rate Hike Bets Threaten the Latest Rebound",
       "sentiment": "bear",
       "kind": "driver",
       "impact": 2,
       "text": "Rising rate-hike expectations raise the opportunity cost of holding non-yielding gold and support the dollar — bearish.",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LRlJaYXpWMWxLcG1YRHFkLVhmLXREUlRBUHpCQzdJVlNtQkhvZ0RGWXMzNmwtX2pXYVZCU3JFdGRNYUpya0lGd0ZjanltYmxNZEdQeEpwc2Z4M0VVTmhzVHZCYzJsbkNVcWZfWFBIc0NOVTZoNmc?oc=5",
-      "pubDate": "Sat, 28 Nov 2026 02:57:58 GMT",
-      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGwwTHhCdV9lNnpVQmhQem10ajFMallFR1lUTTJtNV9ibUZoaG5pZmhHZHZjN3BOOHpJQzItMl8wLUVEREh3YTh3SGE4WWpVYjJ4TWMxUmE2Mi11N0ZMcEQ2LUdFOU5XNU5mckVoNTMtZXJYSHloUlJwME9CR1dfRWRwbDk5eUxLeV82MWx1dldTemlTNUMwSEZ5ZllzVzA1NFMwSU5UamdUYlIyWUt0QnVxSEZXaEo0?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 14:47:34 GMT",
+      "source": "FXEmpire",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold and silver prices recover, but Fed rate-hike risks persist: Where could prices head in six months? Expert views",
+      "sentiment": "bear",
+      "kind": "driver",
+      "impact": 2,
+      "text": "Rate hikes raise the opportunity cost of holding non-yielding gold.",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNTGpCc2lvMzkzcWxEbG1nN21aSkZQLU1IVDU5QjdoNTZrUjN0OUZwN2hkSGlzdUlIZkRya3RDWXVseDNzckRNdkJLbzdIdWU0dDdSTDFSLUZDcXlJV09ERFdZT1BhaEQ1VHJOODVxNWFadzFkTk5HM1BNRE4xMzFGLVl5S19vSkJDMFFqb2pvUGZCNUtCNDlFd0dRSUktV0dRVUEyNGhqc1BnV2NscTQtWFJCM3poZFpzeXppcDkwMDJiWmR4RHVVNlh1SFF2WHR3TjdMZ2ctSXZ4a1ZZVGFFYzVWckhYbVAzbU0zSXN6eXFPUDY2RnlQQkRkYXFvUWNNTW1yd2VMZU42Tmd1TUHSAZMCQVVfeXFMTmxma3NtNUU4Q2VVZmdKOUhyNUpLVFNCaHV6U2dEQmtKc25rT2pvOV96aTlDWlg5dHZPVlZfcENVWGh2YzdjSWpXZVJZcXFaOVJQaW9EMlVYNVpNZFhSWm5IYUlmc0t6QW1OSmJ1aUNkWE9scFpnc24wTG5NZGh6a3B3a2RjcWNpSFBONE5fa3U5bVJLRjVkWVptZ09wbDZacVJUNHBRRmxHOVlnWGZFcEl0SjlGMTNEZEU3UFNaemFSaXM3TGxFZzZrcExQdmR5Yjd0aXhEdG5wd3UxVnlDeU9oYWEwQl9uZWRRWUZYZVdqWlU2bHBra0xpMWs3YVNhVlhwR1ROVTgtOThCNDN3aU45TWc?oc=5",
+      "pubDate": "Sat, 28 Nov 2026 08:24:46 GMT",
+      "source": "Livemint",
+      "isLive": true,
+      "coverage": 1
+    },
+    {
+      "title": "Gold Futures Rebound as Nvidia News Lifts Markets",
+      "sentiment": "bull",
+      "kind": "price",
+      "impact": 1,
+      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1lDUDJKYnppMTFtNDdCYUoyWkVjdTBJYWpOaWY3OHFRUTMxT0VSUTR0UWN4SEFQVVZJUlhqNjU4OFlDeXdHZkh4ZUFFSTNzWXhEcWpRQ0h0eVk3Q1ZmU2I5OURqdnhEc1hlQmRDcGVVLXZ5YW8yTWQ4dWYwRHE4V0dLTGZhd0p2S3A1V0l6MUs4M3RXaFh0TlJDZUdQYkdPRWNoclFEMl9sY2JTQzNZcDJn?oc=5",
+      "pubDate": "Sat, 28 Nov 2026 11:56:31 GMT",
+      "source": "WSJ",
       "isLive": true,
       "coverage": 1
     },
@@ -165,18 +165,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd2lCRFlOSHY2TG43WmpHMmFfTWxhSDVmTGc2ejVOQzhSbWRGeWxQNGU3QjFWMGMyQnJKQWFzdFBQdXU5Q0xKNWYtTFFGZUxwQ2YzVTAzQmNjTmhKRU5yYUwxMnFDTjNyVWdWbHI0Vm9aM18wcWpGOExnR3Z3RktTejJPb1BfWEhaTHlvS3dBRHVlNFl6SDc3eWM4eWdCVHFmQlJN?oc=5",
       "pubDate": "Fri, 27 Nov 2026 21:04:00 GMT",
       "source": "USA Today",
-      "isLive": true,
-      "coverage": 1
-    },
-    {
-      "title": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
-      "sentiment": "bull",
-      "kind": "price",
-      "impact": 1,
-      "text": "Gold's price is rising. This describes the outcome rather than a cause, so it is not counted in the bias score.",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYW55b1BZTkM4emFaZmljMEIzZlBhd2duLWJnRlpMaVA1UnBMaXpEQTdYU0JQUF93QWRkMEV0ZHlaUFhJM3JwTkVLSFNQcDhJSW43VEJ3ME9uQmVvaXpaVkV6eG1CWnBISXFncTVTQjI0NElBcUZDTXlNZEw0S0RCSGxFa25EX29sYzJVZHJmREFnckNW?oc=5",
-      "pubDate": "Fri, 27 Nov 2026 03:28:00 GMT",
-      "source": "Reuters",
       "isLive": true,
       "coverage": 1
     }
